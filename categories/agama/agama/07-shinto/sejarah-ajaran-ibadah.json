@@ -1,0 +1,47 @@
+[
+  {
+    "id": "agama.shinto.sejarah-penyebaran",
+    "judul": "Sejarah dan Penyebaran Shinto",
+    "kategori": "agama",
+    "subkategori": "shinto",
+    "periode": {
+      "label": "Kepercayaan asli Jepang yang berakar sangat kuno, tidak diketahui tanggal pasti kemunculannya, dipraktikkan sampai sekarang"
+    },
+    "ringkasan": "Shinto adalah kepercayaan asli Jepang yang berkembang tanpa satu pendiri tunggal, berpusat pada pemujaan kami (roh atau dewa) dan penghormatan terhadap alam, hidup berdampingan dengan Buddha selama berabad-abad.",
+    "konten": "Shinto adalah kepercayaan asli Jepang yang berkembang secara alami dari tradisi dan kepercayaan masyarakat Jepang kuno, tanpa satu pendiri tunggal atau tanggal kemunculan yang bisa dipastikan secara historis, berbeda dari kebanyakan agama besar dunia lain. Nama Shinto sendiri, yang berarti \"jalan para dewa\" (menggabungkan kata Tiongkok shen untuk dewa/roh dan tao untuk jalan), baru mulai dipakai secara luas setelah masuknya Buddha ke Jepang sekitar abad ke-6 Masehi, sebagai cara membedakan kepercayaan asli Jepang dari ajaran Buddha yang baru datang tersebut.\n\nBerbeda dari agama-agama dengan kitab suci tunggal dan doktrin yang terkodifikasi jelas, Shinto lebih merupakan kumpulan praktik, ritual, dan kepercayaan lokal yang berkembang secara organik di berbagai wilayah Jepang selama ribuan tahun, kemudian secara bertahap disatukan lewat berbagai teks mitologi penting seperti Kojiki dan Nihon Shoki yang ditulis pada abad ke-8 Masehi, mencatat kisah-kisah penciptaan dan asal-usul para kami serta keluarga kekaisaran Jepang.\n\nSepanjang sejarahnya, Shinto hidup berdampingan secara harmonis dengan Buddha yang masuk kemudian, dengan banyak orang Jepang secara tradisional mempraktikkan kedua kepercayaan ini secara bersamaan tanpa merasa ada kontradiksi — Shinto biasanya dipakai untuk ritual kehidupan seperti kelahiran dan pernikahan, sementara Buddha lebih sering dikaitkan dengan upacara kematian. Shinto sendiri secara historis pernah dijadikan agama negara resmi pada era sebelum dan selama Perang Dunia II (disebut State Shinto), sebuah periode yang berakhir setelah Jepang kalah perang, dan sejak itu Shinto kembali ke posisinya sebagai kepercayaan tradisional yang dipraktikkan secara sukarela, tetap sangat berpengaruh dalam budaya dan identitas Jepang sampai sekarang meski mayoritas masyarakat modern Jepang tidak selalu menganggap dirinya religius secara formal.",
+    "tags": ["shinto", "jepang", "kami", "kojiki", "nihon-shoki"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-29"
+  },
+  {
+    "id": "agama.shinto.ajaran-inti",
+    "judul": "Ajaran Inti Shinto: Kami dan Kesucian Alam",
+    "kategori": "agama",
+    "subkategori": "shinto",
+    "periode": {
+      "label": "Ajaran dasar yang berakar sangat kuno, dipegang teguh sampai sekarang"
+    },
+    "ringkasan": "Kepercayaan terhadap kami yang hadir dalam berbagai wujud alam dan leluhur, serta konsep kesucian dan kemurnian, jadi fondasi utama pandangan dunia Shinto.",
+    "konten": "Konsep paling sentral dalam Shinto adalah kami, istilah yang merujuk pada roh atau kekuatan spiritual yang dipercaya hadir dalam berbagai wujud, mulai dari fenomena alam seperti gunung, sungai, pohon besar, dan batu-batu tertentu, hingga leluhur yang dihormati dan bahkan tokoh-tokoh bersejarah tertentu. Berbeda dari konsep dewa dalam banyak agama lain yang biasanya digambarkan dengan jelas dan terbatas jumlahnya, kami dalam Shinto sangat banyak dan beragam, mencerminkan pandangan dunia yang melihat kesucian dan kekuatan spiritual bisa hadir di hampir semua aspek alam dan kehidupan.\n\nShinto tidak punya kitab suci tunggal yang mengatur doktrin ketat atau sistem moral yang terkodifikasi rinci seperti agama-agama lain, melainkan lebih menekankan sikap hormat, syukur, dan harmoni dengan alam serta kami yang menghuninya. Konsep kesucian dan kemurnian (disebut harae atau misogi) sangat penting dalam Shinto, dengan keyakinan bahwa kotoran spiritual (bukan sekadar kotoran fisik) bisa terjadi akibat berbagai hal seperti kematian, sakit, atau perbuatan tertentu, dan perlu dibersihkan lewat berbagai ritual penyucian.\n\nShinto juga sangat menekankan penghormatan terhadap leluhur dan tradisi, serta pentingnya menjaga keharmonisan antara manusia, alam, dan dunia spiritual kami. Berbeda dari banyak tradisi keagamaan lain yang menekankan konsep dosa dan penebusan, Shinto lebih berfokus pada menjaga kemurnian dan keseimbangan dalam kehidupan saat ini, dengan pandangan yang cenderung positif terhadap kehidupan duniawi dan alam semesta, melihatnya sebagai sesuatu yang pada dasarnya baik dan patut disyukuri, bukan sesuatu yang perlu ditinggalkan demi mencapai keselamatan spiritual di alam lain.",
+    "tags": ["kami", "harae", "kesucian", "alam", "leluhur"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-29"
+  },
+  {
+    "id": "agama.shinto.praktik-ibadah",
+    "judul": "Praktik Ibadah dalam Shinto",
+    "kategori": "agama",
+    "subkategori": "shinto",
+    "periode": {
+      "label": "Praktik yang berkembang sejak era kuno, dipraktikkan sampai sekarang"
+    },
+    "ringkasan": "Kunjungan ke kuil (jinja), ritual penyucian diri, serta berbagai festival musiman (matsuri) jadi bentuk-bentuk utama praktik keagamaan Shinto dalam kehidupan masyarakat Jepang.",
+    "konten": "Praktik ibadah utama dalam Shinto berpusat di jinja, kuil tempat kami tertentu dipuja dan dihormati, biasanya ditandai gerbang khas berwarna merah yang disebut torii di pintu masuknya, melambangkan batas antara dunia biasa dan ruang suci di dalam kuil. Saat berkunjung ke kuil, pengunjung biasanya melakukan ritual sederhana: membersihkan tangan dan mulut dengan air di tempat penyucian (temizuya) sebelum masuk, kemudian di depan kuil utama, memberi persembahan uang koin, membunyikan lonceng, membungkuk, bertepuk tangan dua kali, memanjatkan doa singkat, lalu membungkuk sekali lagi sebagai penutup.\n\nRitual penyucian (harae) menjadi bagian penting praktik Shinto, dilakukan pendeta Shinto (disebut kannushi) dalam berbagai kesempatan, termasuk untuk menyucikan bangunan baru, kendaraan baru, atau bahkan sebelum memulai proyek besar, mencerminkan kepercayaan bahwa penyucian spiritual penting dilakukan sebelum memulai sesuatu yang baru. Ritual ini biasanya melibatkan pembacaan doa khusus (norito) dan pengibasan tongkat kertas putih khusus (disebut haraegushi atau onusa) untuk membersihkan area atau objek dari kotoran spiritual.\n\nSalah satu aspek paling meriah dari praktik Shinto adalah berbagai festival musiman yang disebut matsuri, dirayakan sepanjang tahun di berbagai kuil di seluruh Jepang untuk menghormati kami tertentu, merayakan musim, atau memperingati peristiwa penting. Matsuri biasanya melibatkan prosesi mengarak mikoshi (kuil portabel yang dipercaya membawa kami keluar dari kuil utama untuk sementara waktu), diiringi musik tradisional, tarian, dan berbagai kegiatan komunitas yang meriah. Selain kunjungan rutin dan matsuri, banyak masyarakat Jepang juga mengunjungi kuil Shinto pada momen-momen penting kehidupan, seperti kelahiran bayi (untuk memperkenalkan bayi kepada kami setempat) atau perayaan Tahun Baru (hatsumode, kunjungan pertama ke kuil di awal tahun), menunjukkan bagaimana Shinto tetap terjalin erat dengan siklus kehidupan sehari-hari masyarakat Jepang modern.",
+    "tags": ["jinja", "torii", "matsuri", "harae", "hatsumode"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-29"
+  }
+]

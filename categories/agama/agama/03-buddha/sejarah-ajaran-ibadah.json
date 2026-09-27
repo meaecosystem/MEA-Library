@@ -1,0 +1,49 @@
+[
+  {
+    "id": "agama.buddha.sejarah-penyebaran",
+    "judul": "Sejarah dan Penyebaran Buddha",
+    "kategori": "agama",
+    "subkategori": "buddha",
+    "periode": {
+      "mulai": "-563",
+      "selesai": "-483",
+      "label": "sekitar 563 - 483 SM (masa hidup Siddharta Gautama)"
+    },
+    "ringkasan": "Buddha didirikan Siddharta Gautama di India pada abad ke-6 SM, menyebar luas ke Asia lewat dua aliran besar, Theravada dan Mahayana, hingga sekarang dipeluk ratusan juta orang di seluruh dunia.",
+    "konten": "Agama Buddha didirikan oleh Siddharta Gautama, seorang pangeran dari Kerajaan Sakya di wilayah yang sekarang jadi perbatasan India-Nepal, yang lahir sekitar 563 SM. Menurut catatan tradisional, Siddharta hidup dalam kemewahan istana sampai usia dewasa, sebelum akhirnya meninggalkan kehidupan istananya setelah menyaksikan penderitaan manusia (usia tua, sakit, dan kematian) yang mendorongnya mencari jawaban atas penderitaan tersebut. Setelah bertahun-tahun mencari dan bermeditasi, Siddharta mencapai pencerahan di bawah pohon Bodhi di Bodh Gaya, India, dan sejak itu dikenal sebagai Buddha, yang berarti \"yang telah tercerahkan\".\n\nSetelah mencapai pencerahan, Buddha menghabiskan sisa hidupnya (sekitar 45 tahun) mengajarkan jalan menuju pembebasan dari penderitaan kepada para pengikutnya, membentuk komunitas biksu (sangha) yang jadi cikal bakal penyebaran ajaran Buddha selanjutnya. Setelah wafatnya Buddha sekitar 483 SM, ajarannya terus berkembang dan menyebar ke berbagai wilayah Asia lewat berbagai jalur, termasuk dukungan penting dari Kaisar Ashoka dari Kekaisaran Maurya India yang memeluk Buddha dan menyebarkannya secara luas ke berbagai wilayah pada abad ke-3 SM.\n\nSeiring waktu, Buddha berkembang menjadi dua aliran besar: Theravada, yang lebih menekankan ajaran asli dan jalur individual menuju pencerahan, berkembang luas di Asia Tenggara termasuk Thailand, Myanmar, Sri Lanka, dan Kamboja; serta Mahayana, yang menekankan pencapaian pencerahan demi kepentingan semua makhluk (konsep Bodhisattva), berkembang luas di Asia Timur termasuk Tiongkok, Jepang, Korea, dan juga Vietnam. Di Indonesia sendiri, Buddha pernah berkembang pesat pada era kerajaan Sriwijaya dan Mataram Kuno (dengan Candi Borobudur sebagai warisan terbesarnya), dan sekarang tetap dipraktikkan komunitas Buddha di berbagai wilayah, terutama di kalangan etnis Tionghoa Indonesia.",
+    "tags": ["buddha", "siddharta-gautama", "theravada", "mahayana", "pencerahan"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-29"
+  },
+  {
+    "id": "agama.buddha.ajaran-inti",
+    "judul": "Ajaran Inti Buddha: Empat Kebenaran Mulia dan Jalan Mulia Berunsur Delapan",
+    "kategori": "agama",
+    "subkategori": "buddha",
+    "periode": {
+      "label": "Ajaran dasar sejak masa Buddha hidup, abad ke-6-5 SM, dipegang teguh sampai sekarang"
+    },
+    "ringkasan": "Empat Kebenaran Mulia menjelaskan sifat penderitaan dan cara mengatasinya, sementara Jalan Mulia Berunsur Delapan menjadi panduan praktis menuju pembebasan dari penderitaan tersebut.",
+    "konten": "Inti ajaran Buddha terangkum dalam Empat Kebenaran Mulia, yang pertama kali diajarkan Buddha setelah pencerahannya. Kebenaran pertama menyatakan bahwa hidup pada dasarnya mengandung penderitaan (dukkha), baik dalam bentuk fisik seperti sakit dan usia tua, maupun penderitaan mental seperti kecemasan dan ketidakpuasan. Kebenaran kedua menjelaskan bahwa penderitaan tersebut disebabkan oleh keinginan atau kemelekatan (tanha) terhadap hal-hal yang bersifat sementara. Kebenaran ketiga menyatakan bahwa penderitaan bisa diakhiri dengan menghilangkan keinginan dan kemelekatan tersebut, mencapai kondisi yang disebut nirwana. Kebenaran keempat menjelaskan jalan menuju pengakhiran penderitaan tersebut, yaitu Jalan Mulia Berunsur Delapan.\n\nJalan Mulia Berunsur Delapan adalah panduan praktis yang terdiri dari delapan aspek yang saling terkait: pandangan benar, pikiran benar, ucapan benar, perbuatan benar, penghidupan benar, usaha benar, perhatian benar, dan konsentrasi benar. Kedelapan aspek ini biasanya dikelompokkan dalam tiga kategori besar: kebijaksanaan (mencakup pandangan dan pikiran benar), moralitas atau perilaku etis (mencakup ucapan, perbuatan, dan penghidupan benar), serta meditasi atau disiplin mental (mencakup usaha, perhatian, dan konsentrasi benar).\n\nSelain kedua ajaran inti tersebut, Buddha juga mengajarkan konsep hukum sebab-akibat (karma) yang mirip dengan Hindu, serta siklus kelahiran kembali (samsara), meski dengan pemahaman yang berbeda tentang apa yang sebenarnya bereinkarnasi, karena Buddha tidak mengajarkan adanya jiwa yang kekal dan tetap seperti dalam Hindu. Konsep anatta (tanpa-diri) ini menjadi salah satu ajaran filosofis paling khas dan mendalam dalam Buddha, menyatakan bahwa apa yang kita anggap sebagai \"diri\" sebenarnya adalah kumpulan proses yang terus berubah, bukan entitas tetap yang permanen.",
+    "tags": ["empat-kebenaran-mulia", "jalan-mulia-berunsur-delapan", "nirwana", "karma", "dukkha"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-29"
+  },
+  {
+    "id": "agama.buddha.praktik-ibadah",
+    "judul": "Praktik Ibadah dalam Buddha",
+    "kategori": "agama",
+    "subkategori": "buddha",
+    "periode": {
+      "label": "Praktik yang berkembang sejak era Buddha, dipraktikkan sampai sekarang dengan variasi antar aliran dan wilayah"
+    },
+    "ringkasan": "Meditasi sebagai praktik utama, kehidupan monastik para biksu, serta perayaan Waisak jadi bentuk-bentuk sentral praktik keagamaan dalam tradisi Buddha.",
+    "konten": "Praktik ibadah paling sentral dalam Buddha adalah meditasi, yang bertujuan melatih pikiran mencapai ketenangan dan kejernihan batin, sekaligus jadi sarana penting menuju pencerahan. Ada berbagai teknik meditasi dalam tradisi Buddha, termasuk meditasi konsentrasi (fokus pada satu objek seperti napas) dan meditasi pandangan terang atau vipassana (mengamati fenomena pikiran dan tubuh apa adanya untuk memahami sifat sejatinya). Praktik meditasi ini tidak hanya dilakukan para biksu, tapi juga banyak dipraktikkan umat awam sebagai bagian penting kehidupan spiritual mereka.\n\nKehidupan monastik menjadi bagian penting tradisi Buddha, dengan para biksu dan biksuni yang meninggalkan kehidupan duniawi untuk mengabdikan diri sepenuhnya pada praktik spiritual dan penyebaran ajaran Buddha (dharma). Di banyak negara dengan tradisi Buddha Theravada seperti Thailand dan Myanmar, ada tradisi di mana pria muda diharapkan menjalani kehidupan sebagai biksu untuk periode waktu tertentu, meski tidak seumur hidup, sebagai bagian penting pendidikan spiritual dan penghormatan kepada tradisi keagamaan mereka.\n\nPerayaan terbesar dalam kalender Buddha adalah Waisak (juga disebut Vesak di beberapa negara), yang memperingati tiga peristiwa penting sekaligus dalam kehidupan Buddha: kelahirannya, pencapaian pencerahannya, dan wafatnya (parinirwana), yang menurut tradisi semuanya terjadi pada hari yang sama meski di tahun berbeda. Di Indonesia, perayaan Waisak paling meriah dirayakan di kompleks Candi Borobudur, menarik ribuan umat Buddha dan wisatawan setiap tahunnya. Selain Waisak, berbagai tradisi Buddha lokal juga punya perayaan dan ritual khas lain sesuai konteks budaya masing-masing wilayah tempat Buddha berkembang, mencerminkan keragaman dalam praktik meski ajaran intinya tetap sama.",
+    "tags": ["meditasi", "biksu", "waisak", "vipassana", "borobudur"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-29"
+  }
+]
