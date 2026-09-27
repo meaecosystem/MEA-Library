@@ -1,0 +1,4404 @@
+{
+  "generated_at": "2026-08-14T22:55:01.982Z",
+  "total_entries": 257,
+  "entries": [
+    {
+      "id": "agama.bahai.ajaran-inti",
+      "judul": "Ajaran Inti Bahá'í: Persatuan Umat Manusia dan Agama",
+      "kategori": "agama",
+      "subkategori": "bahai",
+      "periode_label": "Ajaran dasar sejak era Bahá'u'lláh abad ke-19, dipegang teguh sampai sekarang",
+      "ringkasan": "Kesatuan Tuhan, kesatuan agama-agama, dan kesatuan umat manusia jadi tiga prinsip fundamental yang membedakan Bahá'í, memandang semua nabi besar dunia sebagai bagian dari satu wahyu progresif yang sama.",
+      "tags": [
+        "kesatuan-tuhan",
+        "wahyu-progresif",
+        "kesetaraan-gender",
+        "persatuan-umat-manusia",
+        "bahaullah"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/agama/10-bahai/sejarah-ajaran-ibadah.json"
+    },
+    {
+      "id": "agama.bahai.praktik-ibadah",
+      "judul": "Praktik Ibadah dalam Bahá'í",
+      "kategori": "agama",
+      "subkategori": "bahai",
+      "periode_label": "Praktik yang berkembang sejak era Bahá'u'lláh, dipraktikkan sampai sekarang",
+      "ringkasan": "Doa wajib harian, puasa tahunan, serta pertemuan komunitas (Fireside) tanpa struktur kependetaan formal jadi bentuk-bentuk khas praktik keagamaan Bahá'í.",
+      "tags": [
+        "doa-wajib",
+        "puasa-bahai",
+        "naw-ruz",
+        "fireside",
+        "majelis"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/agama/10-bahai/sejarah-ajaran-ibadah.json"
+    },
+    {
+      "id": "agama.bahai.sejarah-penyebaran",
+      "judul": "Sejarah dan Penyebaran Bahá'í",
+      "kategori": "agama",
+      "subkategori": "bahai",
+      "periode_label": "1844 - 1892 Masehi (masa Báb dan Bahá'u'lláh)",
+      "ringkasan": "Bahá'í adalah agama termuda di antara agama besar dunia, didirikan Bahá'u'lláh di Persia pada abad ke-19, menekankan persatuan seluruh umat manusia dan agama-agama dunia.",
+      "tags": [
+        "bahai",
+        "bahaullah",
+        "bab",
+        "persia",
+        "haifa"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/agama/10-bahai/sejarah-ajaran-ibadah.json"
+    },
+    {
+      "id": "agama.buddha.ajaran-inti",
+      "judul": "Ajaran Inti Buddha: Empat Kebenaran Mulia dan Jalan Mulia Berunsur Delapan",
+      "kategori": "agama",
+      "subkategori": "buddha",
+      "periode_label": "Ajaran dasar sejak masa Buddha hidup, abad ke-6-5 SM, dipegang teguh sampai sekarang",
+      "ringkasan": "Empat Kebenaran Mulia menjelaskan sifat penderitaan dan cara mengatasinya, sementara Jalan Mulia Berunsur Delapan menjadi panduan praktis menuju pembebasan dari penderitaan tersebut.",
+      "tags": [
+        "empat-kebenaran-mulia",
+        "jalan-mulia-berunsur-delapan",
+        "nirwana",
+        "karma",
+        "dukkha"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/agama/03-buddha/sejarah-ajaran-ibadah.json"
+    },
+    {
+      "id": "agama.buddha.praktik-ibadah",
+      "judul": "Praktik Ibadah dalam Buddha",
+      "kategori": "agama",
+      "subkategori": "buddha",
+      "periode_label": "Praktik yang berkembang sejak era Buddha, dipraktikkan sampai sekarang dengan variasi antar aliran dan wilayah",
+      "ringkasan": "Meditasi sebagai praktik utama, kehidupan monastik para biksu, serta perayaan Waisak jadi bentuk-bentuk sentral praktik keagamaan dalam tradisi Buddha.",
+      "tags": [
+        "meditasi",
+        "biksu",
+        "waisak",
+        "vipassana",
+        "borobudur"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/agama/03-buddha/sejarah-ajaran-ibadah.json"
+    },
+    {
+      "id": "agama.buddha.sejarah-penyebaran",
+      "judul": "Sejarah dan Penyebaran Buddha",
+      "kategori": "agama",
+      "subkategori": "buddha",
+      "periode_label": "sekitar 563 - 483 SM (masa hidup Siddharta Gautama)",
+      "ringkasan": "Buddha didirikan Siddharta Gautama di India pada abad ke-6 SM, menyebar luas ke Asia lewat dua aliran besar, Theravada dan Mahayana, hingga sekarang dipeluk ratusan juta orang di seluruh dunia.",
+      "tags": [
+        "buddha",
+        "siddharta-gautama",
+        "theravada",
+        "mahayana",
+        "pencerahan"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/agama/03-buddha/sejarah-ajaran-ibadah.json"
+    },
+    {
+      "id": "agama.hindu.konsep-inti",
+      "judul": "Konsep Inti Hindu: Karma, Reinkarnasi, dan Trimurti",
+      "kategori": "agama",
+      "subkategori": "hindu",
+      "periode_label": "Konsep yang berkembang sejak era Weda dan Upanishad, dipegang teguh sampai sekarang",
+      "ringkasan": "Karma, reinkarnasi (samsara), dan tujuan akhir moksa jadi kerangka filosofis utama Hindu, bersama konsep Trimurti (Brahma, Wisnu, Siwa) sebagai representasi tiga aspek utama Sang Pencipta.",
+      "tags": [
+        "karma",
+        "reinkarnasi",
+        "moksa",
+        "trimurti",
+        "brahman"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/agama/02-hindu/sejarah-konsep-ibadah.json"
+    },
+    {
+      "id": "agama.hindu.praktik-ibadah",
+      "judul": "Praktik Ibadah dalam Hindu",
+      "kategori": "agama",
+      "subkategori": "hindu",
+      "periode_label": "Praktik yang berkembang sejak era kuno, dipraktikkan sampai sekarang dengan variasi regional",
+      "ringkasan": "Puja (pemujaan) di rumah dan pura, berbagai festival besar seperti Diwali dan Nyepi, serta yoga sebagai praktik spiritual jadi bentuk-bentuk utama ibadah dalam tradisi Hindu.",
+      "tags": [
+        "puja",
+        "diwali",
+        "nyepi",
+        "yoga",
+        "pura"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/agama/02-hindu/sejarah-konsep-ibadah.json"
+    },
+    {
+      "id": "agama.hindu.sejarah-penyebaran",
+      "judul": "Sejarah dan Penyebaran Hindu",
+      "kategori": "agama",
+      "subkategori": "hindu",
+      "periode_label": "sekitar 1500 SM - 500 Masehi (masa pembentukan)",
+      "ringkasan": "Hindu adalah salah satu agama tertua yang masih dipraktikkan sampai sekarang, berkembang di anak benua India selama ribuan tahun tanpa satu pendiri tunggal, menyebar ke Asia Tenggara termasuk Nusantara.",
+      "tags": [
+        "hindu",
+        "weda",
+        "india",
+        "bali",
+        "upanishad"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/agama/02-hindu/sejarah-konsep-ibadah.json"
+    },
+    {
+      "id": "agama.islam.al-quran-nabi",
+      "judul": "Al-Qur'an dan Nabi Muhammad SAW",
+      "kategori": "agama",
+      "subkategori": "islam",
+      "periode_label": "sekitar 570 - 632 Masehi",
+      "ringkasan": "Al-Qur'an adalah kitab suci utama umat Islam yang diyakini sebagai wahyu Allah, diturunkan bertahap kepada Nabi Muhammad selama sekitar 23 tahun.",
+      "tags": [
+        "al-quran",
+        "nabi-muhammad",
+        "wahyu",
+        "hadis",
+        "kitab-suci"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/agama/00-islam/sejarah-rukun-quran.json"
+    },
+    {
+      "id": "agama.islam.rukun-islam-iman",
+      "judul": "Rukun Islam dan Rukun Iman",
+      "kategori": "agama",
+      "subkategori": "islam",
+      "periode_label": "Ajaran dasar sejak awal Islam, abad ke-7 Masehi, dipraktikkan sampai sekarang",
+      "ringkasan": "Kerangka dasar praktik (Rukun Islam) dan kepercayaan (Rukun Iman) yang jadi fondasi utama ajaran Islam bagi seluruh umatnya.",
+      "tags": [
+        "rukun-islam",
+        "rukun-iman",
+        "salat",
+        "puasa",
+        "haji"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/agama/00-islam/sejarah-rukun-quran.json"
+    },
+    {
+      "id": "agama.islam.sejarah-penyebaran",
+      "judul": "Sejarah dan Penyebaran Islam",
+      "kategori": "agama",
+      "subkategori": "islam",
+      "periode_label": "610 - 750 Masehi (masa awal)",
+      "ringkasan": "Islam bermula di Mekah dan Madinah pada abad ke-7 Masehi, menyebar dengan cepat ke Jazirah Arab dan sekitarnya, kini jadi salah satu agama dengan pemeluk terbanyak di dunia.",
+      "tags": [
+        "islam",
+        "nabi-muhammad",
+        "mekah",
+        "madinah",
+        "hijrah"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/agama/00-islam/sejarah-rukun-quran.json"
+    },
+    {
+      "id": "agama.jainisme.ajaran-inti",
+      "judul": "Ajaran Inti Jainisme: Ahimsa dan Tiga Permata",
+      "kategori": "agama",
+      "subkategori": "jainisme",
+      "periode_label": "Ajaran dasar sejak era Mahavira, dipegang teguh sampai sekarang",
+      "ringkasan": "Prinsip ahimsa (tanpa kekerasan) yang sangat ketat terhadap semua makhluk hidup, bersama Tiga Permata (kepercayaan, pengetahuan, perilaku benar) jadi fondasi utama menuju pembebasan jiwa dalam Jainisme.",
+      "tags": [
+        "ahimsa",
+        "tiga-permata",
+        "moksha",
+        "anekantavada",
+        "jiva"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/agama/08-jainisme/sejarah-ajaran-ibadah.json"
+    },
+    {
+      "id": "agama.jainisme.praktik-ibadah",
+      "judul": "Praktik Ibadah dalam Jainisme",
+      "kategori": "agama",
+      "subkategori": "jainisme",
+      "periode_label": "Praktik yang berkembang sejak era Mahavira, dipraktikkan sampai sekarang",
+      "ringkasan": "Kehidupan asketis yang sangat ketat bagi biarawan, puasa dan pantangan makanan yang disiplin, serta pemujaan di kuil jadi bentuk-bentuk utama praktik keagamaan Jainisme.",
+      "tags": [
+        "biarawan-jain",
+        "puasa",
+        "paryushana",
+        "ahimsa",
+        "tirthankara"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/agama/08-jainisme/sejarah-ajaran-ibadah.json"
+    },
+    {
+      "id": "agama.jainisme.sejarah-penyebaran",
+      "judul": "Sejarah dan Penyebaran Jainisme",
+      "kategori": "agama",
+      "subkategori": "jainisme",
+      "periode_label": "sekitar 599 - 527 SM (masa hidup Mahavira)",
+      "ringkasan": "Jainisme adalah salah satu agama tertua di India, disempurnakan oleh Mahavira sekitar abad ke-6 SM, sangat menekankan prinsip tanpa kekerasan (ahimsa) terhadap semua makhluk hidup.",
+      "tags": [
+        "jainisme",
+        "mahavira",
+        "tirthankara",
+        "india",
+        "ahimsa"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/agama/08-jainisme/sejarah-ajaran-ibadah.json"
+    },
+    {
+      "id": "agama.konghucu-taoisme.ajaran-inti",
+      "judul": "Ajaran Inti Konghucu dan Taoisme",
+      "kategori": "agama",
+      "subkategori": "konghucu-taoisme",
+      "periode_label": "Ajaran dasar sejak era Konfusius dan Lao Tzu, dipegang teguh sampai sekarang",
+      "ringkasan": "Konghucu menekankan lima hubungan sosial dan kebajikan (ren), sementara Taoisme menekankan konsep Tao, yin-yang, dan wu wei sebagai prinsip menjalani kehidupan selaras alam.",
+      "tags": [
+        "ren",
+        "tao",
+        "yin-yang",
+        "wu-wei",
+        "li"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/agama/05-konghucu-taoisme/sejarah-ajaran-ibadah.json"
+    },
+    {
+      "id": "agama.konghucu-taoisme.praktik-ibadah",
+      "judul": "Praktik Ibadah dalam Konghucu dan Taoisme",
+      "kategori": "agama",
+      "subkategori": "konghucu-taoisme",
+      "periode_label": "Praktik yang berkembang sejak era kuno, dipraktikkan sampai sekarang dengan variasi regional",
+      "ringkasan": "Penghormatan leluhur dan perayaan Imlek dalam Konghucu, serta meditasi dan praktik kesehatan seperti tai chi dalam Taoisme, jadi bentuk-bentuk utama praktik kedua tradisi ini.",
+      "tags": [
+        "penghormatan-leluhur",
+        "imlek",
+        "tai-chi",
+        "qigong",
+        "kuil-konghucu"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/agama/05-konghucu-taoisme/sejarah-ajaran-ibadah.json"
+    },
+    {
+      "id": "agama.konghucu-taoisme.sejarah-penyebaran",
+      "judul": "Sejarah dan Penyebaran Konghucu dan Taoisme",
+      "kategori": "agama",
+      "subkategori": "konghucu-taoisme",
+      "periode_label": "sekitar 551 - 400 SM (masa hidup Konfusius dan Lao Tzu)",
+      "ringkasan": "Dua tradisi ajaran besar dari Tiongkok kuno, Konghucu yang menekankan etika sosial dan Taoisme yang menekankan keselarasan dengan alam, sama-sama sangat memengaruhi budaya Asia Timur.",
+      "tags": [
+        "konghucu",
+        "taoisme",
+        "konfusius",
+        "lao-tzu",
+        "tiongkok"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/agama/05-konghucu-taoisme/sejarah-ajaran-ibadah.json"
+    },
+    {
+      "id": "agama.kristen-katolik.ajaran-inti-denominasi",
+      "judul": "Ajaran Inti dan Denominasi Kristen",
+      "kategori": "agama",
+      "subkategori": "kristen-katolik",
+      "periode_label": "Ajaran dasar sejak awal Kristen abad pertama Masehi, denominasi besar terbentuk sejak Skisma Besar 1054 dan Reformasi Protestan abad ke-16",
+      "ringkasan": "Konsep Trinitas dan keselamatan lewat iman jadi ajaran inti Kristen, dengan tiga cabang besar (Katolik, Protestan, Ortodoks) yang terbentuk seiring perjalanan sejarah.",
+      "tags": [
+        "trinitas",
+        "alkitab",
+        "katolik",
+        "protestan",
+        "ortodoks"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/agama/01-kristen-katolik/sejarah-ajaran-ibadah.json"
+    },
+    {
+      "id": "agama.kristen-katolik.praktik-ibadah",
+      "judul": "Praktik Ibadah dalam Kristen",
+      "kategori": "agama",
+      "subkategori": "kristen-katolik",
+      "periode_label": "Praktik yang berkembang sejak awal Kristen, dipraktikkan sampai sekarang dengan variasi antar denominasi",
+      "ringkasan": "Ibadah minggu, sakramen seperti baptisan dan komuni, serta perayaan Natal dan Paskah jadi praktik keagamaan utama yang menyatukan sekaligus membedakan berbagai denominasi Kristen.",
+      "tags": [
+        "kebaktian",
+        "sakramen",
+        "baptisan",
+        "natal",
+        "paskah"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/agama/01-kristen-katolik/sejarah-ajaran-ibadah.json"
+    },
+    {
+      "id": "agama.kristen-katolik.sejarah-penyebaran",
+      "judul": "Sejarah dan Penyebaran Kristen",
+      "kategori": "agama",
+      "subkategori": "kristen-katolik",
+      "periode_label": "sekitar 30 - 380 Masehi (masa awal)",
+      "ringkasan": "Kristen bermula dari ajaran Yesus Kristus di Palestina abad pertama Masehi, awalnya dianiaya di Kekaisaran Romawi sebelum akhirnya menjadi agama resmi kekaisaran dan menyebar ke seluruh dunia.",
+      "tags": [
+        "kristen",
+        "yesus-kristus",
+        "kekaisaran-romawi",
+        "konstantin",
+        "penyebaran-agama"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/agama/01-kristen-katolik/sejarah-ajaran-ibadah.json"
+    },
+    {
+      "id": "agama.shinto.ajaran-inti",
+      "judul": "Ajaran Inti Shinto: Kami dan Kesucian Alam",
+      "kategori": "agama",
+      "subkategori": "shinto",
+      "periode_label": "Ajaran dasar yang berakar sangat kuno, dipegang teguh sampai sekarang",
+      "ringkasan": "Kepercayaan terhadap kami yang hadir dalam berbagai wujud alam dan leluhur, serta konsep kesucian dan kemurnian, jadi fondasi utama pandangan dunia Shinto.",
+      "tags": [
+        "kami",
+        "harae",
+        "kesucian",
+        "alam",
+        "leluhur"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/agama/07-shinto/sejarah-ajaran-ibadah.json"
+    },
+    {
+      "id": "agama.shinto.praktik-ibadah",
+      "judul": "Praktik Ibadah dalam Shinto",
+      "kategori": "agama",
+      "subkategori": "shinto",
+      "periode_label": "Praktik yang berkembang sejak era kuno, dipraktikkan sampai sekarang",
+      "ringkasan": "Kunjungan ke kuil (jinja), ritual penyucian diri, serta berbagai festival musiman (matsuri) jadi bentuk-bentuk utama praktik keagamaan Shinto dalam kehidupan masyarakat Jepang.",
+      "tags": [
+        "jinja",
+        "torii",
+        "matsuri",
+        "harae",
+        "hatsumode"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/agama/07-shinto/sejarah-ajaran-ibadah.json"
+    },
+    {
+      "id": "agama.shinto.sejarah-penyebaran",
+      "judul": "Sejarah dan Penyebaran Shinto",
+      "kategori": "agama",
+      "subkategori": "shinto",
+      "periode_label": "Kepercayaan asli Jepang yang berakar sangat kuno, tidak diketahui tanggal pasti kemunculannya, dipraktikkan sampai sekarang",
+      "ringkasan": "Shinto adalah kepercayaan asli Jepang yang berkembang tanpa satu pendiri tunggal, berpusat pada pemujaan kami (roh atau dewa) dan penghormatan terhadap alam, hidup berdampingan dengan Buddha selama berabad-abad.",
+      "tags": [
+        "shinto",
+        "jepang",
+        "kami",
+        "kojiki",
+        "nihon-shoki"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/agama/07-shinto/sejarah-ajaran-ibadah.json"
+    },
+    {
+      "id": "agama.sikh.ajaran-inti",
+      "judul": "Ajaran Inti Sikh: Satu Tuhan dan Kesetaraan",
+      "kategori": "agama",
+      "subkategori": "sikh",
+      "periode_label": "Ajaran dasar sejak era Guru Nanak, dipegang teguh sampai sekarang",
+      "ringkasan": "Kepercayaan pada satu Tuhan tanpa bentuk, penolakan sistem kasta, serta nilai kerja keras dan berbagi jadi fondasi utama ajaran Sikh yang ditekankan seluruh sepuluh guru.",
+      "tags": [
+        "ik-onkar",
+        "kesetaraan",
+        "kasta",
+        "naam-japna",
+        "kirat-karo"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/agama/06-sikh/sejarah-ajaran-ibadah.json"
+    },
+    {
+      "id": "agama.sikh.praktik-ibadah",
+      "judul": "Praktik Ibadah dalam Sikh",
+      "kategori": "agama",
+      "subkategori": "sikh",
+      "periode_label": "Praktik yang berkembang sejak era Guru Nanak dan disempurnakan Guru Gobind Singh, dipraktikkan sampai sekarang",
+      "ringkasan": "Ibadah di gurdwara, lima simbol identitas Khalsa, serta tradisi langar (dapur umum gratis) jadi bentuk-bentuk paling khas praktik keagamaan Sikh.",
+      "tags": [
+        "gurdwara",
+        "langar",
+        "khalsa",
+        "panj-kakar",
+        "guru-granth-sahib"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/agama/06-sikh/sejarah-ajaran-ibadah.json"
+    },
+    {
+      "id": "agama.sikh.sejarah-penyebaran",
+      "judul": "Sejarah dan Penyebaran Sikh",
+      "kategori": "agama",
+      "subkategori": "sikh",
+      "periode_label": "1469 - 1708 Masehi (masa sepuluh guru)",
+      "ringkasan": "Sikh didirikan Guru Nanak di wilayah Punjab, India, pada akhir abad ke-15, berkembang lewat ajaran sepuluh guru berturut-turut, kini jadi agama besar kelima dunia.",
+      "tags": [
+        "sikh",
+        "guru-nanak",
+        "punjab",
+        "guru-gobind-singh",
+        "khalsa"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/agama/06-sikh/sejarah-ajaran-ibadah.json"
+    },
+    {
+      "id": "agama.yahudi.ajaran-inti",
+      "judul": "Ajaran Inti Yahudi: Taurat dan Perjanjian dengan Tuhan",
+      "kategori": "agama",
+      "subkategori": "yahudi",
+      "periode_label": "Ajaran dasar sejak era Abraham dan Musa, dipegang teguh sampai sekarang",
+      "ringkasan": "Taurat sebagai kitab suci utama dan konsep perjanjian khusus antara bangsa Israel dengan Tuhan menjadi fondasi ajaran Yahudi, dengan Sepuluh Perintah Allah sebagai pedoman moral utama.",
+      "tags": [
+        "taurat",
+        "tanakh",
+        "sepuluh-perintah-allah",
+        "perjanjian",
+        "tikkun-olam"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/agama/04-yahudi/sejarah-ajaran-ibadah.json"
+    },
+    {
+      "id": "agama.yahudi.praktik-ibadah",
+      "judul": "Praktik Ibadah dalam Yahudi",
+      "kategori": "agama",
+      "subkategori": "yahudi",
+      "periode_label": "Praktik yang berkembang sejak era kuno, dipraktikkan sampai sekarang",
+      "ringkasan": "Sabat sebagai hari istirahat suci mingguan, ibadah di sinagoga, serta perayaan besar seperti Rosh Hashanah dan Yom Kippur jadi bentuk-bentuk utama praktik keagamaan Yahudi.",
+      "tags": [
+        "sabat",
+        "sinagoga",
+        "yom-kippur",
+        "rosh-hashanah",
+        "taurat"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/agama/04-yahudi/sejarah-ajaran-ibadah.json"
+    },
+    {
+      "id": "agama.yahudi.sejarah-penyebaran",
+      "judul": "Sejarah dan Penyebaran Yahudi",
+      "kategori": "agama",
+      "subkategori": "yahudi",
+      "periode_label": "sekitar 1800 SM - 70 Masehi (masa pembentukan)",
+      "ringkasan": "Yahudi adalah salah satu agama monoteistik tertua di dunia, berakar dari perjanjian Abraham dengan Tuhan, dengan sejarah panjang yang mencakup pembentukan bangsa Israel kuno hingga diaspora setelah kehancuran Bait Suci.",
+      "tags": [
+        "yahudi",
+        "abraham",
+        "musa",
+        "yerusalem",
+        "diaspora"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/agama/04-yahudi/sejarah-ajaran-ibadah.json"
+    },
+    {
+      "id": "agama.zoroastrianisme.ajaran-inti",
+      "judul": "Ajaran Inti Zoroastrianisme: Pertarungan Kebaikan dan Kejahatan",
+      "kategori": "agama",
+      "subkategori": "zoroastrianisme",
+      "periode_label": "Ajaran dasar sejak era Zoroaster, dipegang teguh sampai sekarang",
+      "ringkasan": "Konsep dualisme kosmis antara kekuatan kebaikan (Ahura Mazda) dan kejahatan, serta pentingnya pikiran-perkataan-perbuatan baik, jadi fondasi utama ajaran Zoroastrianisme.",
+      "tags": [
+        "ahura-mazda",
+        "angra-mainyu",
+        "dualisme",
+        "kehendak-bebas",
+        "penghakiman"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/agama/09-zoroastrianisme/sejarah-ajaran-ibadah.json"
+    },
+    {
+      "id": "agama.zoroastrianisme.praktik-ibadah",
+      "judul": "Praktik Ibadah dalam Zoroastrianisme",
+      "kategori": "agama",
+      "subkategori": "zoroastrianisme",
+      "periode_label": "Praktik yang berkembang sejak era kuno, dipraktikkan komunitas kecil sampai sekarang",
+      "ringkasan": "Penghormatan terhadap api sebagai simbol kesucian, ibadah di kuil api, serta perayaan Nowruz (tahun baru) jadi bentuk-bentuk paling khas praktik keagamaan Zoroastrianisme.",
+      "tags": [
+        "kuil-api",
+        "nowruz",
+        "kesucian",
+        "ahura-mazda",
+        "persia"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/agama/09-zoroastrianisme/sejarah-ajaran-ibadah.json"
+    },
+    {
+      "id": "agama.zoroastrianisme.sejarah-penyebaran",
+      "judul": "Sejarah dan Penyebaran Zoroastrianisme",
+      "kategori": "agama",
+      "subkategori": "zoroastrianisme",
+      "periode_label": "sekitar 1200 SM - 651 Masehi (masa kejayaan di Persia)",
+      "ringkasan": "Zoroastrianisme adalah salah satu agama monoteistik tertua di dunia, didirikan Zoroaster di Persia kuno, pernah jadi agama negara Kekaisaran Persia sebelum menyusut jadi komunitas kecil pasca penaklukan Islam.",
+      "tags": [
+        "zoroastrianisme",
+        "zoroaster",
+        "ahura-mazda",
+        "persia",
+        "parsi"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/agama/09-zoroastrianisme/sejarah-ajaran-ibadah.json"
+    },
+    {
+      "id": "budaya.dunia-afrika.djembe",
+      "judul": "Djembe",
+      "kategori": "budaya",
+      "subkategori": "dunia-afrika",
+      "periode_label": "Berakar sejak sekitar abad ke-12 di kawasan Afrika Barat, terkait Kekaisaran Mali",
+      "ringkasan": "Gendang tradisional khas Afrika Barat yang punya peran sosial dan spiritual penting, sekarang jadi salah satu alat musik perkusi Afrika paling dikenal luas di dunia.",
+      "tags": [
+        "djembe",
+        "afrika-barat",
+        "mali",
+        "gendang-tradisional",
+        "musik-afrika"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/dunia/afrika/ubuntu-kente-djembe.json"
+    },
+    {
+      "id": "budaya.dunia-afrika.griot",
+      "judul": "Griot",
+      "kategori": "budaya",
+      "subkategori": "dunia-afrika",
+      "periode_label": "Tradisi yang berakar sejak era Kekaisaran Mali (abad ke-13), masih dipraktikkan sampai sekarang",
+      "ringkasan": "Pencerita, penyanyi, dan penjaga sejarah lisan tradisional di Afrika Barat, berperan sebagai perpustakaan hidup yang mewariskan sejarah dan silsilah keluarga dari generasi ke generasi.",
+      "tags": [
+        "griot",
+        "afrika-barat",
+        "mali",
+        "sejarah-lisan",
+        "kora"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/dunia/afrika/griot-piramida-nubia.json"
+    },
+    {
+      "id": "budaya.dunia-afrika.kente",
+      "judul": "Kain Kente",
+      "kategori": "budaya",
+      "subkategori": "dunia-afrika",
+      "periode_label": "Berakar sejak sekitar abad ke-17 di kalangan suku Ashanti, Ghana",
+      "ringkasan": "Kain tenun tradisional khas suku Ashanti di Ghana dengan pola warna-warni yang penuh makna simbolis, jadi salah satu simbol identitas budaya Afrika paling dikenal luas di dunia.",
+      "tags": [
+        "kente",
+        "ashanti",
+        "ghana",
+        "tenun-tradisional",
+        "afrika-barat"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/dunia/afrika/ubuntu-kente-djembe.json"
+    },
+    {
+      "id": "budaya.dunia-afrika.piramida-nubia",
+      "judul": "Piramida Nubia",
+      "kategori": "budaya",
+      "subkategori": "dunia-afrika",
+      "periode_label": "sekitar 800 SM - 300 Masehi",
+      "ringkasan": "Warisan arsitektur monumental Kerajaan Kush di Sudan (Nubia), dengan jumlah piramida yang bahkan lebih banyak dari Mesir, namun kalah terkenal secara internasional.",
+      "tags": [
+        "piramida-nubia",
+        "kush",
+        "meroe",
+        "sudan",
+        "firaun-hitam"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/dunia/afrika/griot-piramida-nubia.json"
+    },
+    {
+      "id": "budaya.dunia-afrika.ubuntu",
+      "judul": "Ubuntu",
+      "kategori": "budaya",
+      "subkategori": "dunia-afrika",
+      "periode_label": "Filosofi yang berakar sangat kuno dalam budaya Bantu Afrika Selatan, terus relevan sampai sekarang",
+      "ringkasan": "Filosofi hidup khas Afrika yang menekankan kemanusiaan lewat hubungan dengan sesama, sering diringkas lewat ungkapan 'aku ada karena kita ada'.",
+      "tags": [
+        "ubuntu",
+        "afrika-selatan",
+        "filosofi-afrika",
+        "nelson-mandela",
+        "bantu"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/dunia/afrika/ubuntu-kente-djembe.json"
+    },
+    {
+      "id": "budaya.dunia-amerika.dia-de-los-muertos",
+      "judul": "Dia de los Muertos",
+      "kategori": "budaya",
+      "subkategori": "dunia-amerika",
+      "periode_label": "Berakar dari tradisi pra-Kolombia Meksiko, bercampur unsur Katolik sejak era kolonial, diakui UNESCO pada 2008",
+      "ringkasan": "Perayaan Hari Orang Mati khas Meksiko yang penuh warna, merayakan kehidupan dan mengenang leluhur yang sudah meninggal, bukan meratapinya dengan sedih.",
+      "tags": [
+        "dia-de-los-muertos",
+        "meksiko",
+        "calavera",
+        "la-catrina",
+        "unesco"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/dunia/amerika/dia-de-los-muertos-jazz-maya.json"
+    },
+    {
+      "id": "budaya.dunia-amerika.jazz",
+      "judul": "Jazz",
+      "kategori": "budaya",
+      "subkategori": "dunia-amerika",
+      "periode_label": "sekitar awal abad ke-20 - sekarang",
+      "ringkasan": "Genre musik yang lahir di New Orleans, Amerika Serikat, hasil perpaduan tradisi musik Afrika dan Eropa, jadi salah satu kontribusi budaya Amerika paling berpengaruh di dunia.",
+      "tags": [
+        "jazz",
+        "new-orleans",
+        "amerika-serikat",
+        "louis-armstrong",
+        "improvisasi"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/dunia/amerika/dia-de-los-muertos-jazz-maya.json"
+    },
+    {
+      "id": "budaya.dunia-amerika.powwow",
+      "judul": "Powwow",
+      "kategori": "budaya",
+      "subkategori": "dunia-amerika",
+      "periode_label": "Berakar dari tradisi suku asli Amerika Utara, berkembang jadi bentuk modernnya sejak akhir abad ke-19, terus lestari sampai sekarang",
+      "ringkasan": "Perayaan tradisional suku asli Amerika (Native American) yang menggabungkan tarian, musik, dan pertemuan komunitas, jadi sarana penting melestarikan dan merayakan identitas budaya.",
+      "tags": [
+        "powwow",
+        "native-american",
+        "suku-asli-amerika",
+        "tarian-tradisional",
+        "regalia"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/dunia/amerika/inca-powwow.json"
+    },
+    {
+      "id": "budaya.dunia-amerika.suku-inca",
+      "judul": "Peradaban Inca",
+      "kategori": "budaya",
+      "subkategori": "dunia-amerika",
+      "periode_label": "sekitar 1200 - 1572 Masehi",
+      "ringkasan": "Kekaisaran terbesar di Amerika pra-Kolombia, berpusat di pegunungan Andes, terkenal lewat Machu Picchu dan sistem administrasi yang sangat maju tanpa mengenal tulisan.",
+      "tags": [
+        "inca",
+        "machu-picchu",
+        "cusco",
+        "peru",
+        "quipu"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/dunia/amerika/inca-powwow.json"
+    },
+    {
+      "id": "budaya.dunia-amerika.suku-maya",
+      "judul": "Peradaban Maya",
+      "kategori": "budaya",
+      "subkategori": "dunia-amerika",
+      "periode_label": "sekitar 2000 SM - 1500 Masehi",
+      "ringkasan": "Peradaban kuno di Amerika Tengah yang mencapai kemajuan luar biasa dalam astronomi, matematika, dan arsitektur, meninggalkan warisan piramida megah dan sistem kalender yang sangat presisi.",
+      "tags": [
+        "maya",
+        "chichen-itza",
+        "kalender-maya",
+        "meksiko",
+        "guatemala"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/dunia/amerika/dia-de-los-muertos-jazz-maya.json"
+    },
+    {
+      "id": "budaya.dunia-asia-selatan.ayurveda",
+      "judul": "Ayurveda",
+      "kategori": "budaya",
+      "subkategori": "dunia-asia-selatan",
+      "periode_label": "Berakar sangat kuno dalam tradisi India, dipraktikkan sejak lebih dari 3000 tahun lalu",
+      "ringkasan": "Sistem pengobatan tradisional India yang berusia ribuan tahun, menekankan keseimbangan tubuh, pikiran, dan lingkungan lewat pendekatan holistik terhadap kesehatan.",
+      "tags": [
+        "ayurveda",
+        "india",
+        "pengobatan-tradisional",
+        "dosha",
+        "kesehatan-holistik"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/dunia/asia-selatan/bollywood-ayurveda.json"
+    },
+    {
+      "id": "budaya.dunia-asia-selatan.bollywood",
+      "judul": "Bollywood",
+      "kategori": "budaya",
+      "subkategori": "dunia-asia-selatan",
+      "periode_label": "Berkembang sejak awal abad ke-20, mencapai puncak kejayaan global sejak akhir abad ke-20",
+      "ringkasan": "Industri perfilman berbahasa Hindi berpusat di Mumbai, India, terkenal lewat gaya bercerita dramatis dipadukan lagu dan tarian, jadi salah satu industri film terbesar di dunia.",
+      "tags": [
+        "bollywood",
+        "mumbai",
+        "film-india",
+        "industri-perfilman",
+        "india"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/dunia/asia-selatan/bollywood-ayurveda.json"
+    },
+    {
+      "id": "budaya.dunia-asia-selatan.diwali",
+      "judul": "Diwali",
+      "kategori": "budaya",
+      "subkategori": "dunia-asia-selatan",
+      "periode_label": "Berakar sangat kuno dalam tradisi Hindu India, dirayakan luas sampai sekarang di berbagai negara",
+      "ringkasan": "Festival cahaya paling penting dalam kalender Hindu, melambangkan kemenangan cahaya atas kegelapan dan kebaikan atas kejahatan, dirayakan meriah dengan lampu-lampu dan kembang api.",
+      "tags": [
+        "diwali",
+        "festival-cahaya",
+        "hindu",
+        "ramayana",
+        "india"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/dunia/asia-selatan/india.json"
+    },
+    {
+      "id": "budaya.dunia-asia-selatan.sari",
+      "judul": "Sari",
+      "kategori": "budaya",
+      "subkategori": "dunia-asia-selatan",
+      "periode_label": "Berakar sangat kuno dalam budaya India, disebut dalam teks-teks kuno berusia ribuan tahun, masih dipakai luas sampai sekarang",
+      "ringkasan": "Pakaian tradisional wanita India berupa kain panjang tanpa jahitan yang dililitkan dengan berbagai gaya, salah satu bentuk pakaian tertua di dunia yang masih dipakai sampai sekarang.",
+      "tags": [
+        "sari",
+        "india",
+        "pakaian-tradisional",
+        "tenun",
+        "kain-tradisional"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/dunia/asia-selatan/india.json"
+    },
+    {
+      "id": "budaya.dunia-asia-selatan.yoga",
+      "judul": "Yoga",
+      "kategori": "budaya",
+      "subkategori": "dunia-asia-selatan",
+      "periode_label": "Berakar sangat kuno dalam tradisi India, dipraktikkan sejak ribuan tahun lalu, mendunia sejak abad ke-20",
+      "ringkasan": "Praktik spiritual dan fisik kuno dari India yang menggabungkan postur tubuh, pernapasan, dan meditasi, sekarang berkembang jadi fenomena kesehatan dan kebugaran global.",
+      "tags": [
+        "yoga",
+        "india",
+        "meditasi",
+        "patanjali",
+        "hari-yoga-internasional"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/dunia/asia-selatan/india.json"
+    },
+    {
+      "id": "budaya.dunia-asia-timur.hanbok",
+      "judul": "Hanbok",
+      "kategori": "budaya",
+      "subkategori": "dunia-asia-timur",
+      "periode_label": "Berakar sejak era Tiga Kerajaan Korea (sekitar abad ke-1 SM), terus berkembang sampai sekarang",
+      "ringkasan": "Pakaian tradisional Korea dengan siluet khas dan warna-warna cerah, sekarang dipakai terutama saat perayaan dan acara adat, sekaligus jadi simbol identitas budaya Korea.",
+      "tags": [
+        "hanbok",
+        "korea",
+        "pakaian-tradisional",
+        "obangsaek",
+        "hallyu"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/dunia/asia-timur/jepang-korea-tiongkok.json"
+    },
+    {
+      "id": "budaya.dunia-asia-timur.kaligrafi-tiongkok",
+      "judul": "Kaligrafi Tiongkok",
+      "kategori": "budaya",
+      "subkategori": "dunia-asia-timur",
+      "periode_label": "Berakar sangat kuno dalam budaya Tiongkok, dianggap seni tinggi sejak lebih dari 2000 tahun lalu",
+      "ringkasan": "Seni menulis aksara Tiongkok menggunakan kuas dan tinta, dianggap salah satu bentuk seni rupa tertinggi dalam tradisi Tiongkok, mencerminkan karakter dan jiwa sang penulis.",
+      "tags": [
+        "kaligrafi-tiongkok",
+        "hanzi",
+        "konfusianisme",
+        "seni-tradisional",
+        "tiongkok"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/dunia/asia-timur/origami-kaligrafi.json"
+    },
+    {
+      "id": "budaya.dunia-asia-timur.origami",
+      "judul": "Origami",
+      "kategori": "budaya",
+      "subkategori": "dunia-asia-timur",
+      "periode_label": "Berakar sejak abad ke-6 Masehi di Jepang, terus berkembang sampai sekarang",
+      "ringkasan": "Seni melipat kertas tradisional Jepang tanpa gunting atau lem, berkembang dari tradisi ritual keagamaan menjadi bentuk seni populer yang mendunia.",
+      "tags": [
+        "origami",
+        "jepang",
+        "seni-melipat-kertas",
+        "senbazuru",
+        "sadako-sasaki"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/dunia/asia-timur/origami-kaligrafi.json"
+    },
+    {
+      "id": "budaya.dunia-asia-timur.tahun-baru-imlek",
+      "judul": "Tahun Baru Imlek",
+      "kategori": "budaya",
+      "subkategori": "dunia-asia-timur",
+      "periode_label": "Berakar sangat kuno dalam budaya Tiongkok, dirayakan luas sampai sekarang di berbagai negara Asia dan komunitas Tionghoa dunia",
+      "ringkasan": "Perayaan tahun baru berdasarkan kalender lunar Tiongkok, dirayakan meriah dengan berbagai tradisi seperti angpau, tari naga/barongsai, dan reuni keluarga besar.",
+      "tags": [
+        "imlek",
+        "tahun-baru-tionghoa",
+        "angpau",
+        "barongsai",
+        "shio"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/dunia/asia-timur/jepang-korea-tiongkok.json"
+    },
+    {
+      "id": "budaya.dunia-asia-timur.upacara-teh-jepang",
+      "judul": "Upacara Teh Jepang (Chado)",
+      "kategori": "budaya",
+      "subkategori": "dunia-asia-timur",
+      "periode_label": "Berkembang sejak abad ke-16 di Jepang, dikembangkan dari tradisi teh Tiongkok yang lebih tua",
+      "ringkasan": "Ritual penyajian dan minum teh hijau bubuk (matcha) yang sangat terstruktur dalam budaya Jepang, mencerminkan filosofi kesederhanaan, ketenangan, dan penghormatan.",
+      "tags": [
+        "chado",
+        "upacara-teh",
+        "jepang",
+        "zen",
+        "matcha"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/dunia/asia-timur/jepang-korea-tiongkok.json"
+    },
+    {
+      "id": "budaya.dunia-eropa.balet-rusia",
+      "judul": "Balet Rusia",
+      "kategori": "budaya",
+      "subkategori": "dunia-eropa",
+      "periode_label": "Berkembang sejak abad ke-18 setelah diperkenalkan dari Prancis, mencapai puncak kejayaan akhir abad ke-19",
+      "ringkasan": "Tradisi balet klasik yang berkembang pesat di Rusia sejak abad ke-18, melahirkan karya-karya legendaris seperti Swan Lake dan sekolah balet paling berpengaruh di dunia.",
+      "tags": [
+        "balet-rusia",
+        "tchaikovsky",
+        "swan-lake",
+        "bolshoi",
+        "vaganova"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/dunia/eropa/balet-sepakbola.json"
+    },
+    {
+      "id": "budaya.dunia-eropa.flamenco",
+      "judul": "Flamenco",
+      "kategori": "budaya",
+      "subkategori": "dunia-eropa",
+      "periode_label": "Berakar sejak abad ke-18 di Andalusia, Spanyol, diakui UNESCO pada 2010",
+      "ringkasan": "Bentuk seni pertunjukan khas Andalusia, Spanyol, yang menggabungkan tarian, musik gitar, dan nyanyian penuh emosi, mencerminkan perpaduan berbagai budaya yang pernah hidup di wilayah tersebut.",
+      "tags": [
+        "flamenco",
+        "spanyol",
+        "andalusia",
+        "duende",
+        "unesco"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/dunia/eropa/oktoberfest-flamenco-karnaval.json"
+    },
+    {
+      "id": "budaya.dunia-eropa.karnaval-venesia",
+      "judul": "Karnaval Venesia",
+      "kategori": "budaya",
+      "subkategori": "dunia-eropa",
+      "periode_label": "Berakar sejak abad ke-11 di Venesia, Italia, sempat vakum lalu dihidupkan kembali sejak 1979",
+      "ringkasan": "Festival tahunan Venesia, Italia, terkenal lewat topeng-topeng indah dan kostum megah ala abad pertengahan yang dipakai pengunjung menyusuri kota kanal yang ikonik.",
+      "tags": [
+        "karnaval-venesia",
+        "italia",
+        "topeng",
+        "venesia",
+        "renaisans"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/dunia/eropa/oktoberfest-flamenco-karnaval.json"
+    },
+    {
+      "id": "budaya.dunia-eropa.oktoberfest",
+      "judul": "Oktoberfest",
+      "kategori": "budaya",
+      "subkategori": "dunia-eropa",
+      "periode_label": "sejak 1810 - sekarang",
+      "ringkasan": "Festival bir terbesar di dunia yang diadakan setiap tahun di Munich, Jerman, awalnya perayaan pernikahan kerajaan, sekarang jadi perayaan budaya Bavaria yang mendunia.",
+      "tags": [
+        "oktoberfest",
+        "munich",
+        "jerman",
+        "bir",
+        "bavaria"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/dunia/eropa/oktoberfest-flamenco-karnaval.json"
+    },
+    {
+      "id": "budaya.dunia-eropa.sepak-bola-inggris",
+      "judul": "Sepak Bola sebagai Budaya di Inggris",
+      "kategori": "budaya",
+      "subkategori": "dunia-eropa",
+      "periode_label": "sejak 1863 - sekarang",
+      "ringkasan": "Inggris sebagai tempat kelahiran aturan sepak bola modern, di mana olahraga ini berkembang jauh melampaui permainan biasa menjadi bagian mendalam dari identitas komunitas dan budaya lokal.",
+      "tags": [
+        "sepak-bola",
+        "inggris",
+        "premier-league",
+        "football-association",
+        "budaya-suporter"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/dunia/eropa/balet-sepakbola.json"
+    },
+    {
+      "id": "budaya.dunia-oseania.dreamtime",
+      "judul": "Dreamtime (Alcheringa)",
+      "kategori": "budaya",
+      "subkategori": "dunia-oseania",
+      "periode_label": "Kepercayaan Aborigin Australia yang berakar puluhan ribu tahun, masih hidup dan dipraktikkan sampai sekarang",
+      "ringkasan": "Konsep spiritual sentral dalam kepercayaan Aborigin Australia tentang masa penciptaan dunia oleh leluhur spiritual, sekaligus kerangka pemahaman berkelanjutan tentang hubungan manusia dan alam.",
+      "tags": [
+        "dreamtime",
+        "aborigin",
+        "australia",
+        "seni-titik",
+        "kepercayaan-leluhur"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/dunia/oseania/dreamtime-haka-navigasi.json"
+    },
+    {
+      "id": "budaya.dunia-oseania.haka",
+      "judul": "Haka",
+      "kategori": "budaya",
+      "subkategori": "dunia-oseania",
+      "periode_label": "Berakar sangat kuno dalam budaya Maori Selandia Baru, terus dilestarikan dan populer secara internasional sampai sekarang",
+      "ringkasan": "Tarian perang tradisional suku Maori Selandia Baru yang enerjik dan penuh ekspresi, sekarang terkenal luas lewat penampilan tim rugby All Blacks sebelum pertandingan.",
+      "tags": [
+        "haka",
+        "maori",
+        "selandia-baru",
+        "all-blacks",
+        "tarian-perang"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/dunia/oseania/dreamtime-haka-navigasi.json"
+    },
+    {
+      "id": "budaya.dunia-oseania.navigasi-polinesia",
+      "judul": "Navigasi Tradisional Polinesia",
+      "kategori": "budaya",
+      "subkategori": "dunia-oseania",
+      "periode_label": "Berakar sejak lebih dari 3000 tahun lalu, memungkinkan migrasi luas ke seluruh kepulauan Pasifik",
+      "ringkasan": "Teknik navigasi laut kuno yang memungkinkan bangsa Polinesia menjelajahi dan menetap di kepulauan Pasifik yang sangat luas tanpa alat navigasi modern, hanya mengandalkan pengamatan alam.",
+      "tags": [
+        "navigasi-polinesia",
+        "wayfinder",
+        "hokule'a",
+        "segitiga-polinesia",
+        "pelayaran-tradisional"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/dunia/oseania/dreamtime-haka-navigasi.json"
+    },
+    {
+      "id": "budaya.dunia-timur-tengah.bazaar",
+      "judul": "Bazaar",
+      "kategori": "budaya",
+      "subkategori": "dunia-timur-tengah",
+      "periode_label": "Berakar sangat kuno di Timur Tengah dan Persia, sebagian bazaar tertua sudah berusia ratusan tahun",
+      "ringkasan": "Pasar tradisional khas Timur Tengah dan Persia, jadi pusat perdagangan sekaligus kehidupan sosial dan budaya, dengan arsitektur khas lorong-lorong beratap yang rumit.",
+      "tags": [
+        "bazaar",
+        "pasar-tradisional",
+        "timur-tengah",
+        "persia",
+        "grand-bazaar"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/dunia/timur-tengah/bazaar-henna.json"
+    },
+    {
+      "id": "budaya.dunia-timur-tengah.henna",
+      "judul": "Henna (Mehndi)",
+      "kategori": "budaya",
+      "subkategori": "dunia-timur-tengah",
+      "periode_label": "Tradisi yang berakar sangat kuno di Timur Tengah dan Asia Selatan, masih dipraktikkan luas sampai sekarang",
+      "ringkasan": "Seni menghias tubuh menggunakan pasta dari tanaman henna, dipakai dalam berbagai perayaan dan upacara penting, terutama pernikahan, di kawasan Timur Tengah dan Asia Selatan.",
+      "tags": [
+        "henna",
+        "mehndi",
+        "seni-tubuh",
+        "pernikahan",
+        "timur-tengah"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/dunia/timur-tengah/bazaar-henna.json"
+    },
+    {
+      "id": "budaya.dunia-timur-tengah.kaligrafi-arab",
+      "judul": "Kaligrafi Arab",
+      "kategori": "budaya",
+      "subkategori": "dunia-timur-tengah",
+      "periode_label": "Berkembang sejak awal era Islam abad ke-7 Masehi, terus berkembang sebagai seni tinggi sampai sekarang",
+      "ringkasan": "Seni menulis aksara Arab yang berkembang pesat sejak awal era Islam, jadi salah satu bentuk seni visual paling dihormati dalam budaya dan seni Islam, karena larangan menggambar makhluk hidup dalam konteks keagamaan.",
+      "tags": [
+        "kaligrafi-arab",
+        "islam",
+        "khattat",
+        "seni-islam",
+        "al-quran"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/dunia/timur-tengah/kaligrafi-seribu-malam-kopi.json"
+    },
+    {
+      "id": "budaya.dunia-timur-tengah.kopi-arab",
+      "judul": "Tradisi Kopi Arab",
+      "kategori": "budaya",
+      "subkategori": "dunia-timur-tengah",
+      "periode_label": "Berakar sejak sekitar abad ke-15 di Yaman, menyebar luas ke seluruh dunia Arab dan kemudian dunia",
+      "ringkasan": "Tradisi minum kopi yang berakar di Yaman dan berkembang jadi budaya sosial penting di seluruh dunia Arab, dengan tata cara penyajian yang sarat makna keramahtamahan.",
+      "tags": [
+        "kopi-arab",
+        "qahwa",
+        "yaman",
+        "unesco",
+        "keramahtamahan-arab"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/dunia/timur-tengah/kaligrafi-seribu-malam-kopi.json"
+    },
+    {
+      "id": "budaya.dunia-timur-tengah.seribu-satu-malam",
+      "judul": "Seribu Satu Malam",
+      "kategori": "budaya",
+      "subkategori": "dunia-timur-tengah",
+      "periode_label": "Kumpulan cerita rakyat yang berkembang sejak sekitar abad ke-9 Masehi, disusun dari berbagai tradisi Timur Tengah, Persia, dan India",
+      "ringkasan": "Kumpulan cerita rakyat legendaris dari dunia Arab dan Persia, dibingkai dalam kisah Syahrazad yang bercerita untuk menyelamatkan nyawanya, memuat kisah-kisah terkenal seperti Aladdin dan Ali Baba.",
+      "tags": [
+        "seribu-satu-malam",
+        "syahrazad",
+        "aladdin",
+        "ali-baba",
+        "cerita-rakyat-arab"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/dunia/timur-tengah/kaligrafi-seribu-malam-kopi.json"
+    },
+    {
+      "id": "budaya.nusantara-bali-nusatenggara.ngaben",
+      "judul": "Ngaben",
+      "kategori": "budaya",
+      "subkategori": "nusantara-bali-nusatenggara",
+      "periode_label": "Tradisi Hindu Bali yang berakar sangat kuno, masih dipraktikkan luas sampai sekarang",
+      "ringkasan": "Upacara kremasi jenazah dalam tradisi Hindu Bali yang meriah dan penuh warna, dipercaya membebaskan roh menuju reinkarnasi atau kembali ke Sang Pencipta.",
+      "tags": [
+        "ngaben",
+        "hindu-bali",
+        "kremasi",
+        "upacara-kematian",
+        "bali"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/nusantara/bali-nusatenggara/ngaben-subak-tenun.json"
+    },
+    {
+      "id": "budaya.nusantara-bali-nusatenggara.subak",
+      "judul": "Subak",
+      "kategori": "budaya",
+      "subkategori": "nusantara-bali-nusatenggara",
+      "periode_label": "Sistem irigasi tradisional Bali yang berakar sejak abad ke-9, diakui UNESCO pada 2012",
+      "ringkasan": "Sistem irigasi sawah tradisional khas Bali berbasis filosofi Tri Hita Karana, mengatur pembagian air secara kolektif dan adil antar petani, diakui UNESCO sebagai Warisan Dunia.",
+      "tags": [
+        "subak",
+        "bali",
+        "irigasi-tradisional",
+        "tri-hita-karana",
+        "unesco"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/nusantara/bali-nusatenggara/ngaben-subak-tenun.json"
+    },
+    {
+      "id": "budaya.nusantara-bali-nusatenggara.tenun-ikat-sumba",
+      "judul": "Tenun Ikat Sumba",
+      "kategori": "budaya",
+      "subkategori": "nusantara-bali-nusatenggara",
+      "periode_label": "Tradisi tenun Sumba yang berakar sangat kuno, masih dilestarikan dan dikembangkan sampai sekarang",
+      "ringkasan": "Kain tenun tradisional khas Pulau Sumba (Nusa Tenggara Timur) dengan motif khas hewan dan figur simbolis, dibuat lewat teknik ikat yang rumit dan memakan waktu lama.",
+      "tags": [
+        "tenun-ikat",
+        "sumba",
+        "nusa-tenggara-timur",
+        "kain-tradisional",
+        "tekstil"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/nusantara/bali-nusatenggara/ngaben-subak-tenun.json"
+    },
+    {
+      "id": "budaya.nusantara-jawa.batik",
+      "judul": "Batik Jawa",
+      "kategori": "budaya",
+      "subkategori": "nusantara-jawa",
+      "periode_label": "Berkembang sejak abad ke-17, diakui UNESCO sebagai Warisan Budaya Takbenda pada 2009",
+      "ringkasan": "Seni menghias kain dengan teknik pewarnaan rintang menggunakan malam (lilin batik), jadi salah satu warisan budaya paling ikonik Indonesia yang diakui UNESCO.",
+      "tags": [
+        "batik",
+        "jawa",
+        "unesco",
+        "kain-tradisional",
+        "warisan-budaya"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/nusantara/jawa/seni-tradisional-jawa.json"
+    },
+    {
+      "id": "budaya.nusantara-jawa.gamelan",
+      "judul": "Gamelan Jawa",
+      "kategori": "budaya",
+      "subkategori": "nusantara-jawa",
+      "periode_label": "Berakar sangat kuno, berkembang pesat sejak era kerajaan Hindu-Buddha Jawa, diakui UNESCO pada 2021",
+      "ringkasan": "Ansambel musik tradisional Jawa yang terdiri dari berbagai instrumen perkusi metalofon, terkenal dengan karakter suara yang khas dan filosofi harmoni yang mendalam.",
+      "tags": [
+        "gamelan",
+        "musik-tradisional",
+        "jawa",
+        "slendro",
+        "pelog",
+        "unesco"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/nusantara/jawa/seni-tradisional-jawa.json"
+    },
+    {
+      "id": "budaya.nusantara-jawa.keraton-yogyakarta-surakarta",
+      "judul": "Keraton Yogyakarta dan Surakarta",
+      "kategori": "budaya",
+      "subkategori": "nusantara-jawa",
+      "periode_label": "Berdiri sejak 1755 (perpecahan Mataram Islam), masih eksis sampai sekarang",
+      "ringkasan": "Dua istana kerajaan Jawa yang lahir dari perpecahan Kesultanan Mataram Islam, sampai sekarang tetap jadi pusat kebudayaan Jawa yang hidup dan berpengaruh.",
+      "tags": [
+        "keraton-yogyakarta",
+        "keraton-surakarta",
+        "sultan",
+        "mataram-islam",
+        "budaya-jawa"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/nusantara/jawa/keraton-upacara-adat.json"
+    },
+    {
+      "id": "budaya.nusantara-jawa.kuliner-khas",
+      "judul": "Kuliner Khas Jawa",
+      "kategori": "budaya",
+      "subkategori": "nusantara-jawa",
+      "periode_label": "Berkembang turun-temurun, sebagian resep sudah ada sejak era kerajaan Jawa kuno",
+      "ringkasan": "Ragam masakan tradisional Jawa yang punya cita rasa khas manis-gurih, termasuk gudeg, rawon, dan tempe, mencerminkan kekayaan rempah dan filosofi hidup masyarakat Jawa.",
+      "tags": [
+        "gudeg",
+        "rawon",
+        "tempe",
+        "kuliner-jawa",
+        "masakan-tradisional"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/nusantara/jawa/kuliner-tari-jawa.json"
+    },
+    {
+      "id": "budaya.nusantara-jawa.tari-tradisional",
+      "judul": "Tari Tradisional Jawa (Bedhaya dan Reog Ponorogo)",
+      "kategori": "budaya",
+      "subkategori": "nusantara-jawa",
+      "periode_label": "Bedhaya berakar sejak era Mataram Islam abad ke-17; Reog Ponorogo lebih tua, berakar sejak era kerajaan sebelumnya",
+      "ringkasan": "Dua bentuk tari tradisional Jawa yang sangat berbeda karakternya — Bedhaya yang anggun dan sakral dari lingkungan keraton, serta Reog Ponorogo yang energik dan penuh unsur magis dari Jawa Timur.",
+      "tags": [
+        "tari-bedhaya",
+        "reog-ponorogo",
+        "tari-tradisional",
+        "budaya-jawa",
+        "keraton"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/nusantara/jawa/kuliner-tari-jawa.json"
+    },
+    {
+      "id": "budaya.nusantara-jawa.upacara-daur-hidup",
+      "judul": "Upacara Adat Daur Hidup Jawa (Mitoni dan Tedak Siten)",
+      "kategori": "budaya",
+      "subkategori": "nusantara-jawa",
+      "periode_label": "Tradisi yang berakar sangat kuno, masih dipraktikkan sampai sekarang meski sudah bercampur unsur Islam",
+      "ringkasan": "Rangkaian upacara adat Jawa yang menandai tahapan penting kehidupan manusia, termasuk Mitoni (tujuh bulanan kehamilan) dan Tedak Siten (bayi menginjak tanah pertama kali).",
+      "tags": [
+        "mitoni",
+        "tedak-siten",
+        "upacara-adat",
+        "budaya-jawa",
+        "daur-hidup"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/nusantara/jawa/keraton-upacara-adat.json"
+    },
+    {
+      "id": "budaya.nusantara-jawa.wayang-kulit",
+      "judul": "Wayang Kulit",
+      "kategori": "budaya",
+      "subkategori": "nusantara-jawa",
+      "periode_label": "Berkembang sejak sekitar abad ke-10, diakui UNESCO sebagai Warisan Budaya Takbenda pada 2003",
+      "ringkasan": "Seni pertunjukan boneka kulit tradisional Jawa yang memainkan kisah epik Ramayana dan Mahabharata, dimainkan seorang dalang dengan iringan gamelan.",
+      "tags": [
+        "wayang-kulit",
+        "dalang",
+        "gamelan",
+        "ramayana",
+        "mahabharata",
+        "unesco"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/nusantara/jawa/seni-tradisional-jawa.json"
+    },
+    {
+      "id": "budaya.nusantara-kalimantan.budaya-banjar",
+      "judul": "Budaya Banjar",
+      "kategori": "budaya",
+      "subkategori": "nusantara-kalimantan",
+      "periode_label": "Berkembang sejak era Kesultanan Banjar (abad ke-16), terus lestari sampai sekarang",
+      "ringkasan": "Budaya masyarakat Banjar di Kalimantan Selatan, dikenal lewat tradisi Pasar Terapung, rumah adat Bubungan Tinggi, dan kuliner khas seperti soto Banjar.",
+      "tags": [
+        "banjar",
+        "pasar-terapung",
+        "kalimantan-selatan",
+        "soto-banjar",
+        "bubungan-tinggi"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/nusantara/kalimantan/tiwah-banjar.json"
+    },
+    {
+      "id": "budaya.nusantara-kalimantan.mandau",
+      "judul": "Mandau",
+      "kategori": "budaya",
+      "subkategori": "nusantara-kalimantan",
+      "periode_label": "Senjata tradisional Dayak yang berakar sangat kuno, sekarang lebih banyak berfungsi sebagai simbol budaya dan pusaka",
+      "ringkasan": "Senjata tradisional khas suku Dayak berupa golok atau parang panjang berukir, dulu dipakai dalam pertempuran dan ritual, sekarang jadi simbol identitas budaya Dayak.",
+      "tags": [
+        "mandau",
+        "dayak",
+        "kalimantan",
+        "senjata-tradisional",
+        "ngayau"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/nusantara/kalimantan/dayak.json"
+    },
+    {
+      "id": "budaya.nusantara-kalimantan.rumah-betang",
+      "judul": "Rumah Betang",
+      "kategori": "budaya",
+      "subkategori": "nusantara-kalimantan",
+      "periode_label": "Tradisi arsitektur Dayak yang berakar sangat kuno, sebagian masih dihuni sampai sekarang",
+      "ringkasan": "Rumah panjang tradisional suku Dayak di Kalimantan yang dihuni banyak keluarga sekaligus, mencerminkan nilai kebersamaan dan gotong royong masyarakat Dayak.",
+      "tags": [
+        "rumah-betang",
+        "dayak",
+        "kalimantan",
+        "gotong-royong",
+        "arsitektur-tradisional"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/nusantara/kalimantan/dayak.json"
+    },
+    {
+      "id": "budaya.nusantara-kalimantan.tato-dayak",
+      "judul": "Tato Tradisional Dayak",
+      "kategori": "budaya",
+      "subkategori": "nusantara-kalimantan",
+      "periode_label": "Tradisi yang berakar sangat kuno di kalangan suku Dayak, praktiknya kini semakin jarang",
+      "ringkasan": "Tradisi tato tubuh khas suku Dayak yang punya makna mendalam terkait status sosial, pencapaian hidup, dan spiritualitas, dibuat dengan teknik tradisional yang rumit.",
+      "tags": [
+        "tato-dayak",
+        "dayak",
+        "kalimantan",
+        "seni-tubuh",
+        "tradisi"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/nusantara/kalimantan/dayak.json"
+    },
+    {
+      "id": "budaya.nusantara-kalimantan.tiwah",
+      "judul": "Upacara Tiwah",
+      "kategori": "budaya",
+      "subkategori": "nusantara-kalimantan",
+      "periode_label": "Tradisi kepercayaan Kaharingan Dayak yang berakar sangat kuno, masih dipraktikkan sampai sekarang",
+      "ringkasan": "Upacara kematian terbesar dalam kepercayaan Kaharingan suku Dayak Ngaju, dilakukan untuk mengantarkan arwah leluhur menuju kehidupan setelah mati, bisa berlangsung berhari-hari.",
+      "tags": [
+        "tiwah",
+        "kaharingan",
+        "dayak-ngaju",
+        "upacara-kematian",
+        "kalimantan-tengah"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/nusantara/kalimantan/tiwah-banjar.json"
+    },
+    {
+      "id": "budaya.nusantara-papua.honai",
+      "judul": "Honai",
+      "kategori": "budaya",
+      "subkategori": "nusantara-papua",
+      "periode_label": "Tradisi arsitektur suku-suku pegunungan Papua yang berakar sangat kuno, masih dibangun dan dihuni sampai sekarang",
+      "ringkasan": "Rumah adat tradisional suku-suku pegunungan Papua (terutama Dani) berbentuk bulat dengan atap jerami kerucut, dirancang khusus menghadapi udara dingin pegunungan.",
+      "tags": [
+        "honai",
+        "dani",
+        "papua",
+        "lembah-baliem",
+        "arsitektur-tradisional"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/nusantara/papua/honai-koteka-tari.json"
+    },
+    {
+      "id": "budaya.nusantara-papua.koteka",
+      "judul": "Koteka",
+      "kategori": "budaya",
+      "subkategori": "nusantara-papua",
+      "periode_label": "Tradisi pakaian adat pegunungan Papua yang berakar sangat kuno, masih dipakai di beberapa wilayah pedalaman sampai sekarang",
+      "ringkasan": "Penutup tubuh tradisional pria dari suku-suku pegunungan Papua yang terbuat dari labu air kering, jadi salah satu simbol budaya Papua paling dikenal secara nasional.",
+      "tags": [
+        "koteka",
+        "papua",
+        "pegunungan-papua",
+        "pakaian-adat",
+        "labu-air"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/nusantara/papua/honai-koteka-tari.json"
+    },
+    {
+      "id": "budaya.nusantara-papua.noken",
+      "judul": "Noken",
+      "kategori": "budaya",
+      "subkategori": "nusantara-papua",
+      "periode_label": "Tradisi kerajinan Papua yang berakar sangat kuno, diakui UNESCO pada 2012",
+      "ringkasan": "Tas rajut tradisional Papua yang dibuat dari serat kulit kayu atau daun, punya fungsi praktis dan makna sosial mendalam bagi perempuan Papua.",
+      "tags": [
+        "noken",
+        "papua",
+        "unesco",
+        "kerajinan-tradisional",
+        "anyaman"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/nusantara/papua/noken-asmat.json"
+    },
+    {
+      "id": "budaya.nusantara-papua.tari-perang",
+      "judul": "Tari Perang Papua",
+      "kategori": "budaya",
+      "subkategori": "nusantara-papua",
+      "periode_label": "Tradisi tari perang berbagai suku Papua yang berakar sangat kuno, sekarang lebih banyak jadi pertunjukan budaya",
+      "ringkasan": "Tarian tradisional energik yang menggambarkan semangat kepahlawanan dan keberanian suku-suku Papua, awalnya terkait tradisi perang antar suku, sekarang jadi pertunjukan budaya.",
+      "tags": [
+        "tari-perang",
+        "papua",
+        "tifa",
+        "tari-tradisional",
+        "cendrawasih"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/nusantara/papua/honai-koteka-tari.json"
+    },
+    {
+      "id": "budaya.nusantara-papua.ukiran-asmat",
+      "judul": "Ukiran Suku Asmat",
+      "kategori": "budaya",
+      "subkategori": "nusantara-papua",
+      "periode_label": "Tradisi ukiran Suku Asmat yang berakar sangat kuno, terus lestari dan diakui secara internasional sampai sekarang",
+      "ringkasan": "Seni ukir kayu khas Suku Asmat di Papua Selatan, terkenal dengan motif rumit terkait leluhur dan spiritualitas, diakui sebagai salah satu seni ukir terbaik dunia.",
+      "tags": [
+        "asmat",
+        "ukiran",
+        "papua",
+        "mbis",
+        "seni-tradisional"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/nusantara/papua/noken-asmat.json"
+    },
+    {
+      "id": "budaya.nusantara-sulawesi.phinisi",
+      "judul": "Kapal Pinisi",
+      "kategori": "budaya",
+      "subkategori": "nusantara-sulawesi",
+      "periode_label": "Tradisi pembuatan kapal Bugis-Makassar yang berakar sangat kuno, diakui UNESCO pada 2017",
+      "ringkasan": "Kapal layar tradisional khas suku Bugis-Makassar, terkenal sebagai salah satu kapal kayu terbesar dan paling tangguh di dunia, jadi simbol keahlian pelayaran Nusantara.",
+      "tags": [
+        "pinisi",
+        "bugis",
+        "makassar",
+        "kapal-tradisional",
+        "unesco",
+        "sulawesi-selatan"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/nusantara/sulawesi/toraja-bugis-makassar.json"
+    },
+    {
+      "id": "budaya.nusantara-sulawesi.rambu-solo",
+      "judul": "Rambu Solo",
+      "kategori": "budaya",
+      "subkategori": "nusantara-sulawesi",
+      "periode_label": "Tradisi Aluk To Dolo yang berakar sangat kuno, masih dipraktikkan luas sampai sekarang",
+      "ringkasan": "Upacara pemakaman megah dan rumit khas suku Toraja, bisa berlangsung berhari-hari dan menghabiskan biaya besar, mencerminkan penghormatan tertinggi bagi arwah yang meninggal.",
+      "tags": [
+        "rambu-solo",
+        "toraja",
+        "aluk-to-dolo",
+        "upacara-kematian",
+        "tau-tau"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/nusantara/sulawesi/rambu-solo-siri.json"
+    },
+    {
+      "id": "budaya.nusantara-sulawesi.siri-bugis",
+      "judul": "Siri' na Pacce (Falsafah Hidup Bugis-Makassar)",
+      "kategori": "budaya",
+      "subkategori": "nusantara-sulawesi",
+      "periode_label": "Filosofi hidup yang berakar sangat kuno dalam budaya Bugis-Makassar, masih sangat dijunjung sampai sekarang",
+      "ringkasan": "Falsafah hidup mendalam masyarakat Bugis-Makassar tentang harga diri (siri') dan solidaritas sosial (pacce), jadi pedoman moral yang sangat dijunjung tinggi.",
+      "tags": [
+        "siri-na-pacce",
+        "bugis",
+        "makassar",
+        "falsafah-hidup",
+        "sulawesi-selatan"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/nusantara/sulawesi/rambu-solo-siri.json"
+    },
+    {
+      "id": "budaya.nusantara-sulawesi.tongkonan",
+      "judul": "Tongkonan",
+      "kategori": "budaya",
+      "subkategori": "nusantara-sulawesi",
+      "periode_label": "Tradisi arsitektur Toraja yang berakar sangat kuno, masih dibangun dan dijaga sampai sekarang",
+      "ringkasan": "Rumah adat tradisional suku Toraja dengan atap melengkung menyerupai perahu, jadi pusat kehidupan sosial dan spiritual keluarga besar Toraja.",
+      "tags": [
+        "tongkonan",
+        "toraja",
+        "sulawesi-selatan",
+        "arsitektur-tradisional",
+        "rambu-solo"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/nusantara/sulawesi/toraja-bugis-makassar.json"
+    },
+    {
+      "id": "budaya.nusantara-sumatra.danau-toba",
+      "judul": "Danau Toba dan Legenda Asal-Usulnya",
+      "kategori": "budaya",
+      "subkategori": "nusantara-sumatra",
+      "periode_label": "Legenda rakyat Batak, terkait fenomena geologi yang terbentuk puluhan ribu tahun lalu",
+      "ringkasan": "Danau vulkanik terbesar di Indonesia yang jadi pusat budaya Batak, dikelilingi legenda rakyat tentang seorang pemuda yang menikahi ikan mas jelmaan putri.",
+      "tags": [
+        "danau-toba",
+        "batak",
+        "legenda",
+        "samosir",
+        "sumatra-utara"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/nusantara/sumatra/batak.json"
+    },
+    {
+      "id": "budaya.nusantara-sumatra.melayu-riau",
+      "judul": "Budaya Melayu Riau",
+      "kategori": "budaya",
+      "subkategori": "nusantara-sumatra",
+      "periode_label": "Tradisi Melayu yang berakar sejak era Kesultanan Melayu kuno, terus berkembang sampai sekarang",
+      "ringkasan": "Budaya Melayu di Riau yang berpengaruh besar terhadap bahasa Indonesia, mencakup tradisi pantun, seni silat, dan filosofi hidup yang menekankan kesopanan dan kehalusan tutur kata.",
+      "tags": [
+        "melayu-riau",
+        "pantun",
+        "bahasa-melayu",
+        "budaya-melayu",
+        "silat"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/nusantara/sumatra/aceh-melayu.json"
+    },
+    {
+      "id": "budaya.nusantara-sumatra.rendang",
+      "judul": "Rendang",
+      "kategori": "budaya",
+      "subkategori": "nusantara-sumatra",
+      "periode_label": "Tradisi kuliner Minangkabau yang berakar sangat kuno, terus lestari sampai sekarang dan mendunia",
+      "ringkasan": "Masakan daging berbumbu rempah khas Minangkabau yang dimasak lama hingga kering dan kaya rasa, pernah dinobatkan sebagai makanan terlezat di dunia versi CNN.",
+      "tags": [
+        "rendang",
+        "minangkabau",
+        "kuliner",
+        "makanan-terlezat-dunia",
+        "sumatra-barat"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/nusantara/sumatra/minangkabau.json"
+    },
+    {
+      "id": "budaya.nusantara-sumatra.rumah-gadang",
+      "judul": "Rumah Gadang",
+      "kategori": "budaya",
+      "subkategori": "nusantara-sumatra",
+      "periode_label": "Tradisi arsitektur Minangkabau yang berakar sangat kuno, masih dibangun dan dihuni sampai sekarang",
+      "ringkasan": "Rumah adat tradisional Minangkabau (Sumatra Barat) dengan atap melengkung menyerupai tanduk kerbau, mencerminkan filosofi matrilineal masyarakat Minang.",
+      "tags": [
+        "rumah-gadang",
+        "minangkabau",
+        "sumatra-barat",
+        "matrilineal",
+        "arsitektur-tradisional"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/nusantara/sumatra/minangkabau.json"
+    },
+    {
+      "id": "budaya.nusantara-sumatra.tari-piring",
+      "judul": "Tari Piring",
+      "kategori": "budaya",
+      "subkategori": "nusantara-sumatra",
+      "periode_label": "Berakar sejak era pra-Islam Minangkabau, awalnya ritual persembahan sebelum berkembang jadi tarian sekuler",
+      "ringkasan": "Tarian tradisional Minangkabau yang penarinya membawa piring di kedua telapak tangan, menampilkan gerakan cepat dan energik, kadang diakhiri menginjak pecahan piring.",
+      "tags": [
+        "tari-piring",
+        "minangkabau",
+        "sumatra-barat",
+        "tari-tradisional",
+        "talempong"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/nusantara/sumatra/minangkabau.json"
+    },
+    {
+      "id": "budaya.nusantara-sumatra.tari-saman",
+      "judul": "Tari Saman",
+      "kategori": "budaya",
+      "subkategori": "nusantara-sumatra",
+      "periode_label": "Berkembang sejak abad ke-14 di kalangan suku Gayo Aceh, diakui UNESCO pada 2011",
+      "ringkasan": "Tarian tradisional suku Gayo, Aceh, dibawakan puluhan penari duduk berbanjar dengan gerakan tangan dan tubuh yang sangat cepat dan kompak tanpa iringan alat musik.",
+      "tags": [
+        "tari-saman",
+        "gayo",
+        "aceh",
+        "unesco",
+        "tari-tradisional"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/nusantara/sumatra/aceh-melayu.json"
+    },
+    {
+      "id": "budaya.nusantara-sumatra.ulos-batak",
+      "judul": "Ulos Batak",
+      "kategori": "budaya",
+      "subkategori": "nusantara-sumatra",
+      "periode_label": "Tradisi tenun Batak yang berakar sangat kuno, masih dipakai dalam upacara adat sampai sekarang",
+      "ringkasan": "Kain tenun tradisional masyarakat Batak (Sumatra Utara) yang punya makna sakral mendalam, diberikan dalam berbagai upacara adat sebagai simbol restu dan kasih sayang.",
+      "tags": [
+        "ulos",
+        "batak",
+        "sumatra-utara",
+        "tenun-tradisional",
+        "upacara-adat"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/budaya/nusantara/sumatra/batak.json"
+    },
+    {
+      "id": "mitologi.asia-timur.amaterasu",
+      "judul": "Amaterasu",
+      "kategori": "mitologi",
+      "subkategori": "asia-timur",
+      "periode_label": "Mitologi Shinto Jepang kuno, tercatat dalam Kojiki dan Nihon Shoki abad ke-8 Masehi",
+      "ringkasan": "Dewi matahari dalam mitologi Shinto Jepang, dipercaya sebagai leluhur langsung keluarga kekaisaran Jepang, terkenal lewat mitos persembunyiannya di gua yang menyebabkan dunia gelap total.",
+      "tags": [
+        "amaterasu",
+        "shinto",
+        "kuil-ise",
+        "kekaisaran-jepang",
+        "mitologi-jepang"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/asia-timur/mitologi-jepang.json"
+    },
+    {
+      "id": "mitologi.asia-timur.naga-tiongkok",
+      "judul": "Naga dalam Mitologi Tiongkok",
+      "kategori": "mitologi",
+      "subkategori": "asia-timur",
+      "periode_label": "Kepercayaan yang berakar sangat kuno dalam budaya Tiongkok, terus hidup dan berkembang sampai sekarang",
+      "ringkasan": "Makhluk mitologi paling ikonik dalam budaya Tiongkok, melambangkan kekuasaan, keberuntungan, dan kekuatan alam, sangat berbeda maknanya dari naga dalam mitologi Barat yang cenderung jahat.",
+      "tags": [
+        "naga-tiongkok",
+        "long",
+        "kekaisaran-tiongkok",
+        "shio",
+        "mitologi-tiongkok"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/asia-timur/mitologi-tiongkok.json"
+    },
+    {
+      "id": "mitologi.asia-timur.nuwa",
+      "judul": "Nuwa",
+      "kategori": "mitologi",
+      "subkategori": "asia-timur",
+      "periode_label": "Mitologi Tiongkok kuno, tercatat dalam berbagai teks klasik sejak dinasti awal",
+      "ringkasan": "Dewi berwujud setengah manusia setengah ular dalam mitologi Tiongkok, dipercaya sebagai pencipta manusia dan penyelamat dunia dari bencana besar dengan menambal langit yang retak.",
+      "tags": [
+        "nuwa",
+        "penciptaan-manusia",
+        "mitologi-tiongkok",
+        "fuxi",
+        "banjir-besar"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/asia-timur/mitologi-tiongkok.json"
+    },
+    {
+      "id": "mitologi.asia-timur.pangu",
+      "judul": "Pangu",
+      "kategori": "mitologi",
+      "subkategori": "asia-timur",
+      "periode_label": "Mitologi penciptaan Tiongkok kuno, tercatat dalam teks-teks sejak sekitar abad ke-3 Masehi",
+      "ringkasan": "Sosok raksasa dalam mitologi penciptaan Tiongkok yang memisahkan langit dan bumi, dan tubuhnya sendiri berubah jadi berbagai elemen alam semesta setelah kematiannya.",
+      "tags": [
+        "pangu",
+        "penciptaan-alam-semesta",
+        "mitologi-tiongkok",
+        "kosmogoni"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/asia-timur/mitologi-tiongkok.json"
+    },
+    {
+      "id": "mitologi.asia-timur.susanoo",
+      "judul": "Susanoo",
+      "kategori": "mitologi",
+      "subkategori": "asia-timur",
+      "periode_label": "Mitologi Shinto Jepang kuno, tercatat dalam Kojiki dan Nihon Shoki abad ke-8 Masehi",
+      "ringkasan": "Dewa badai dan laut dalam mitologi Shinto Jepang, saudara Amaterasu, dikenal karena sifatnya yang liar namun juga jadi pahlawan setelah mengalahkan naga berkepala delapan Yamata no Orochi.",
+      "tags": [
+        "susanoo",
+        "yamata-no-orochi",
+        "kusanagi",
+        "shinto",
+        "mitologi-jepang"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/asia-timur/mitologi-jepang.json"
+    },
+    {
+      "id": "mitologi.asia-timur.yokai",
+      "judul": "Yokai",
+      "kategori": "mitologi",
+      "subkategori": "asia-timur",
+      "periode_label": "Kepercayaan rakyat Jepang yang berakar sangat kuno, terus berkembang dan populer sampai sekarang",
+      "ringkasan": "Istilah umum untuk berbagai makhluk supranatural dalam cerita rakyat Jepang, mencakup ribuan jenis makhluk dari hantu, monster, hingga benda sehari-hari yang jadi hidup.",
+      "tags": [
+        "yokai",
+        "kitsune",
+        "kappa",
+        "tengu",
+        "cerita-rakyat-jepang",
+        "mitologi-jepang"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/asia-timur/mitologi-jepang.json"
+    },
+    {
+      "id": "mitologi.mesir.anubis",
+      "judul": "Anubis",
+      "kategori": "mitologi",
+      "subkategori": "mesir",
+      "periode_label": "Mitologi Mesir kuno, dipuja sejak sekitar 2600 SM sampai era Romawi",
+      "ringkasan": "Dewa berkepala serigala/jakal dalam mitologi Mesir, pelindung proses mumifikasi dan pembimbing arwah menuju alam baka, salah satu dewa paling ikonik dalam seni Mesir kuno.",
+      "tags": [
+        "anubis",
+        "mumifikasi",
+        "kematian",
+        "penimbangan-jantung",
+        "mitologi-mesir"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/mesir/dewa-utama-mesir.json"
+    },
+    {
+      "id": "mitologi.mesir.bastet",
+      "judul": "Bastet",
+      "kategori": "mitologi",
+      "subkategori": "mesir",
+      "periode_label": "Mitologi Mesir kuno, dipuja sejak sekitar 2600 SM sampai era Romawi",
+      "ringkasan": "Dewi berkepala kucing dalam mitologi Mesir, melambangkan perlindungan rumah tangga, kesuburan, dan kasih sayang, mencerminkan penghormatan besar orang Mesir kuno terhadap kucing.",
+      "tags": [
+        "bastet",
+        "kucing",
+        "bubastis",
+        "perlindungan",
+        "mitologi-mesir"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/mesir/dewa-lanjutan-mesir.json"
+    },
+    {
+      "id": "mitologi.mesir.horus",
+      "judul": "Horus",
+      "kategori": "mitologi",
+      "subkategori": "mesir",
+      "periode_label": "Mitologi Mesir kuno, dipuja sejak sekitar 2600 SM sampai era Romawi",
+      "ringkasan": "Dewa berkepala elang, putra Osiris dan Isis, dipercaya sebagai pelindung firaun dan simbol kekuasaan raja Mesir, terkenal lewat mata Horus (Wadjet) sebagai simbol perlindungan.",
+      "tags": [
+        "horus",
+        "mata-horus",
+        "set",
+        "firaun",
+        "mitologi-mesir"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/mesir/dewa-lanjutan-mesir.json"
+    },
+    {
+      "id": "mitologi.mesir.osiris-isis",
+      "judul": "Osiris dan Isis",
+      "kategori": "mitologi",
+      "subkategori": "mesir",
+      "periode_label": "Mitologi Mesir kuno, dipuja sejak sekitar 2600 SM sampai era Romawi",
+      "ringkasan": "Kisah dewa Osiris yang dibunuh saudaranya sendiri lalu dihidupkan kembali oleh istrinya Isis, jadi mitos sentral tentang kematian, kebangkitan, dan kehidupan setelah mati dalam kepercayaan Mesir kuno.",
+      "tags": [
+        "osiris",
+        "isis",
+        "set",
+        "horus",
+        "mitologi-mesir",
+        "kehidupan-setelah-mati"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/mesir/dewa-utama-mesir.json"
+    },
+    {
+      "id": "mitologi.mesir.ra",
+      "judul": "Ra",
+      "kategori": "mitologi",
+      "subkategori": "mesir",
+      "periode_label": "Mitologi Mesir kuno, dipuja sejak sekitar 2600 SM sampai era Romawi",
+      "ringkasan": "Dewa matahari tertinggi dalam mitologi Mesir kuno, dipercaya berlayar melintasi langit setiap hari dan melewati dunia bawah setiap malam untuk menjaga siklus siang-malam.",
+      "tags": [
+        "ra",
+        "matahari",
+        "apep",
+        "amun-ra",
+        "mitologi-mesir",
+        "firaun"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/mesir/dewa-utama-mesir.json"
+    },
+    {
+      "id": "mitologi.mesir.thoth",
+      "judul": "Thoth",
+      "kategori": "mitologi",
+      "subkategori": "mesir",
+      "periode_label": "Mitologi Mesir kuno, dipuja sejak sekitar 2600 SM sampai era Romawi",
+      "ringkasan": "Dewa berkepala ibis, dipercaya sebagai pencipta tulisan hieroglif, pelindung ilmu pengetahuan dan kebijaksanaan, serta pencatat resmi dalam ritual penimbangan jantung di alam baka.",
+      "tags": [
+        "thoth",
+        "hieroglif",
+        "kebijaksanaan",
+        "penimbangan-jantung",
+        "mitologi-mesir"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/mesir/dewa-lanjutan-mesir.json"
+    },
+    {
+      "id": "mitologi.norse.freya",
+      "judul": "Freya",
+      "kategori": "mitologi",
+      "subkategori": "norse",
+      "periode_label": "Mitologi Norse kuno, berkembang di kalangan bangsa Viking sekitar abad ke-8-11 Masehi",
+      "ringkasan": "Dewi cinta, kesuburan, perang, dan sihir dalam mitologi Norse, dipuja sebagai salah satu dewi paling kuat, memimpin bangsa dewa Vanir yang bergabung dengan Aesir.",
+      "tags": [
+        "freya",
+        "vanir",
+        "seidr",
+        "folkvangr",
+        "mitologi-norse"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/norse/ragnarok-freya-yggdrasil.json"
+    },
+    {
+      "id": "mitologi.norse.loki",
+      "judul": "Loki",
+      "kategori": "mitologi",
+      "subkategori": "norse",
+      "periode_label": "Mitologi Norse kuno, berkembang di kalangan bangsa Viking sekitar abad ke-8-11 Masehi",
+      "ringkasan": "Dewa penipu dan pengacau dalam mitologi Norse, sosok ambigu yang kadang membantu para dewa, kadang mengkhianati mereka, dan dipercaya akan memimpin pasukan kekacauan di Ragnarok.",
+      "tags": [
+        "loki",
+        "trickster",
+        "asgard",
+        "ragnarok",
+        "mitologi-norse",
+        "baldr"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/norse/dewa-utama-norse.json"
+    },
+    {
+      "id": "mitologi.norse.odin",
+      "judul": "Odin",
+      "kategori": "mitologi",
+      "subkategori": "norse",
+      "periode_label": "Mitologi Norse kuno, berkembang di kalangan bangsa Viking sekitar abad ke-8-11 Masehi",
+      "ringkasan": "Raja para dewa dalam mitologi Norse, penguasa Asgard, dikenal karena pengorbanannya mengorbankan satu mata demi kebijaksanaan dan menggantung diri di pohon dunia demi ilmu rune.",
+      "tags": [
+        "odin",
+        "asgard",
+        "valhalla",
+        "yggdrasil",
+        "mitologi-norse",
+        "viking"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/norse/dewa-utama-norse.json"
+    },
+    {
+      "id": "mitologi.norse.ragnarok",
+      "judul": "Ragnarok",
+      "kategori": "mitologi",
+      "subkategori": "norse",
+      "periode_label": "Ramalan akhir zaman dalam mitologi Norse, dipercaya bangsa Viking sekitar abad ke-8-11 Masehi",
+      "ringkasan": "Ramalan hari kiamat dalam mitologi Norse, pertempuran besar terakhir antara para dewa melawan raksasa dan monster, yang berujung kehancuran sekaligus kelahiran kembali dunia.",
+      "tags": [
+        "ragnarok",
+        "kiamat",
+        "fenrir",
+        "jormungandr",
+        "mitologi-norse"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/norse/ragnarok-freya-yggdrasil.json"
+    },
+    {
+      "id": "mitologi.norse.thor",
+      "judul": "Thor",
+      "kategori": "mitologi",
+      "subkategori": "norse",
+      "periode_label": "Mitologi Norse kuno, berkembang di kalangan bangsa Viking sekitar abad ke-8-11 Masehi",
+      "ringkasan": "Dewa guntur dan petir dalam mitologi Norse, putra Odin, pelindung Asgard dan manusia dari raksasa, terkenal dengan palu saktinya Mjolnir.",
+      "tags": [
+        "thor",
+        "mjolnir",
+        "asgard",
+        "raksasa",
+        "mitologi-norse",
+        "ragnarok"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/norse/dewa-utama-norse.json"
+    },
+    {
+      "id": "mitologi.norse.yggdrasil",
+      "judul": "Yggdrasil",
+      "kategori": "mitologi",
+      "subkategori": "norse",
+      "periode_label": "Konsep kosmologi Norse kuno, dipercaya bangsa Viking sekitar abad ke-8-11 Masehi",
+      "ringkasan": "Pohon dunia raksasa dalam kosmologi Norse yang menopang dan menghubungkan sembilan dunia berbeda, jadi pusat semesta dalam kepercayaan Viking.",
+      "tags": [
+        "yggdrasil",
+        "pohon-dunia",
+        "kosmologi-norse",
+        "sembilan-dunia",
+        "mitologi-norse"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/norse/ragnarok-freya-yggdrasil.json"
+    },
+    {
+      "id": "mitologi.nusantara.aluk-todolo-toraja",
+      "judul": "Aluk To Dolo (Kepercayaan Leluhur Toraja)",
+      "kategori": "mitologi",
+      "subkategori": "nusantara",
+      "periode_label": "Kepercayaan leluhur kuno, sebagian masih dipraktikkan sampai sekarang bersamaan dengan agama modern",
+      "ringkasan": "Sistem kepercayaan leluhur masyarakat Toraja di Sulawesi Selatan, mengatur pandangan tentang alam, kehidupan, dan kematian, tercermin lewat ritual pemakaman yang terkenal (Rambu Solo).",
+      "tags": [
+        "aluk-to-dolo",
+        "toraja",
+        "rambu-solo",
+        "sulawesi-selatan",
+        "kepercayaan-leluhur"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/nusantara/mitologi-luar-jawa.json"
+    },
+    {
+      "id": "mitologi.nusantara.barong-rangda",
+      "judul": "Barong dan Rangda",
+      "kategori": "mitologi",
+      "subkategori": "nusantara",
+      "periode_label": "Kepercayaan Hindu Bali kuno, terus hidup lewat pertunjukan tari sampai sekarang",
+      "ringkasan": "Dua sosok mitologi Bali yang melambangkan pertarungan abadi kebaikan (Barong) melawan kejahatan (Rangda), diwujudkan lewat pertunjukan Tari Barong yang terkenal.",
+      "tags": [
+        "barong",
+        "rangda",
+        "bali",
+        "calon-arang",
+        "tari-barong",
+        "hindu-bali"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/nusantara/mitologi-luar-jawa.json"
+    },
+    {
+      "id": "mitologi.nusantara.batara-guru",
+      "judul": "Batara Guru",
+      "kategori": "mitologi",
+      "subkategori": "nusantara",
+      "periode_label": "Berkembang sejak era pengaruh Hindu masuk ke Nusantara, terus hidup dalam tradisi wayang sampai sekarang",
+      "ringkasan": "Dewa tertinggi dalam kosmologi wayang Jawa, adaptasi dari Dewa Siwa dalam Hindu, dipercaya sebagai penguasa Kahyangan dan raja para dewa.",
+      "tags": [
+        "batara-guru",
+        "wayang",
+        "dewa-siwa",
+        "kahyangan",
+        "mitologi-jawa"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/nusantara/dewa-dewi-utama.json"
+    },
+    {
+      "id": "mitologi.nusantara.dewi-sri",
+      "judul": "Dewi Sri",
+      "kategori": "mitologi",
+      "subkategori": "nusantara",
+      "periode_label": "Kepercayaan pra-Hindu yang berakar sangat kuno di Nusantara, terus berlanjut hingga era Hindu-Buddha dan sesudahnya",
+      "ringkasan": "Dewi kesuburan dan padi yang paling dihormati dalam kepercayaan tradisional Jawa, Bali, dan Sunda, melambangkan kemakmuran dan hasil pertanian.",
+      "tags": [
+        "dewi-sri",
+        "padi",
+        "kesuburan",
+        "mitologi-jawa",
+        "mitologi-bali",
+        "pertanian"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/nusantara/dewa-dewi-utama.json"
+    },
+    {
+      "id": "mitologi.nusantara.mitologi-batak",
+      "judul": "Mitologi Penciptaan Batak",
+      "kategori": "mitologi",
+      "subkategori": "nusantara",
+      "periode_label": "Kepercayaan leluhur kuno masyarakat Batak, Sumatra Utara",
+      "ringkasan": "Kisah penciptaan dalam kepercayaan tradisional Batak (Sumatra Utara), berpusat pada Mulajadi Na Bolon sebagai pencipta alam semesta dan asal-usul manusia pertama.",
+      "tags": [
+        "mulajadi-na-bolon",
+        "batak",
+        "sumatra-utara",
+        "mitologi-penciptaan",
+        "kosmologi"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/nusantara/mitologi-luar-jawa.json"
+    },
+    {
+      "id": "mitologi.nusantara.nyi-roro-kidul",
+      "judul": "Nyi Roro Kidul",
+      "kategori": "mitologi",
+      "subkategori": "nusantara",
+      "periode_label": "Tidak diketahui pasti, legenda turun-temurun sejak era kerajaan Jawa",
+      "ringkasan": "Sosok penguasa gaib Laut Selatan (Samudra Hindia) dalam mitologi Jawa, dipercaya sebagai ratu dari kerajaan mistis yang berhubungan erat dengan keraton Mataram dan Yogyakarta.",
+      "tags": [
+        "nyi-roro-kidul",
+        "laut-selatan",
+        "mitologi-jawa",
+        "keraton-mataram",
+        "legenda"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/nusantara/dewa-dewi-utama.json"
+    },
+    {
+      "id": "mitologi.nusantara.roro-jonggrang",
+      "judul": "Legenda Roro Jonggrang",
+      "kategori": "mitologi",
+      "subkategori": "nusantara",
+      "periode_label": "Legenda rakyat Jawa, dikaitkan dengan pembangunan Candi Prambanan",
+      "ringkasan": "Legenda Jawa yang menceritakan asal-usul Candi Prambanan dan Candi Sewu, berpusat pada seorang putri yang menolak lamaran dan berujung dikutuk jadi arca batu.",
+      "tags": [
+        "roro-jonggrang",
+        "prambanan",
+        "bandung-bondowoso",
+        "legenda-jawa",
+        "candi-sewu"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/nusantara/legenda-jawa-sunda.json"
+    },
+    {
+      "id": "mitologi.nusantara.sangkuriang",
+      "judul": "Legenda Sangkuriang",
+      "kategori": "mitologi",
+      "subkategori": "nusantara",
+      "periode_label": "Legenda rakyat Sunda, tidak diketahui asal-usul waktu pastinya",
+      "ringkasan": "Legenda asal-usul Gunung Tangkuban Perahu dari tanah Sunda, mengisahkan cinta terlarang seorang anak pada ibunya sendiri yang berujung tragis.",
+      "tags": [
+        "sangkuriang",
+        "tangkuban-perahu",
+        "dayang-sumbi",
+        "legenda-sunda",
+        "jawa-barat"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/nusantara/legenda-jawa-sunda.json"
+    },
+    {
+      "id": "mitologi.yunani-romawi.aphrodite",
+      "judul": "Aphrodite",
+      "kategori": "mitologi",
+      "subkategori": "yunani-romawi",
+      "periode_label": "Mitologi Yunani kuno, dipuja sejak sekitar milenium ke-2 SM",
+      "ringkasan": "Dewi cinta, kecantikan, dan hasrat dalam mitologi Yunani, lahir dari buih laut, terkenal lewat perannya memicu Perang Troya melalui kisah cinta Paris dan Helen.",
+      "tags": [
+        "aphrodite",
+        "venus",
+        "cinta",
+        "perang-troya",
+        "mitologi-yunani",
+        "helen"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/yunani-romawi/dewa-olympus-lanjutan.json"
+    },
+    {
+      "id": "mitologi.yunani-romawi.apollo",
+      "judul": "Apollo",
+      "kategori": "mitologi",
+      "subkategori": "yunani-romawi",
+      "periode_label": "Mitologi Yunani kuno, dipuja sejak sekitar milenium ke-2 SM",
+      "ringkasan": "Dewa matahari, musik, seni, ramalan, dan penyembuhan dalam mitologi Yunani, salah satu dewa paling dipuja karena kaitannya dengan Oracle of Delphi yang legendaris.",
+      "tags": [
+        "apollo",
+        "oracle-delphi",
+        "musik",
+        "ramalan",
+        "mitologi-yunani"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/yunani-romawi/dewa-olympus-lanjutan.json"
+    },
+    {
+      "id": "mitologi.yunani-romawi.ares",
+      "judul": "Ares",
+      "kategori": "mitologi",
+      "subkategori": "yunani-romawi",
+      "periode_label": "Mitologi Yunani kuno, dipuja sejak sekitar milenium ke-2 SM",
+      "ringkasan": "Dewa perang dalam mitologi Yunani, melambangkan sisi brutal dan kekacauan pertempuran, kurang dihormati dibanding Athena yang mewakili strategi perang yang lebih bijaksana.",
+      "tags": [
+        "ares",
+        "mars",
+        "perang",
+        "mitologi-yunani",
+        "mitologi-romawi"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/yunani-romawi/dewa-olympus-lanjutan.json"
+    },
+    {
+      "id": "mitologi.yunani-romawi.artemis",
+      "judul": "Artemis",
+      "kategori": "mitologi",
+      "subkategori": "yunani-romawi",
+      "periode_label": "Mitologi Yunani kuno, dipuja sejak sekitar milenium ke-2 SM",
+      "ringkasan": "Dewi perburuan, bulan, dan alam liar dalam mitologi Yunani, saudari kembar Apollo, dikenal sebagai pelindung hewan liar dan sumpahnya untuk tetap perawan selamanya.",
+      "tags": [
+        "artemis",
+        "diana",
+        "perburuan",
+        "bulan",
+        "mitologi-yunani",
+        "apollo"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/yunani-romawi/dewa-olympus-lanjutan.json"
+    },
+    {
+      "id": "mitologi.yunani-romawi.athena",
+      "judul": "Athena",
+      "kategori": "mitologi",
+      "subkategori": "yunani-romawi",
+      "periode_label": "Mitologi Yunani kuno, dipuja sejak sekitar milenium ke-2 SM",
+      "ringkasan": "Dewi kebijaksanaan, strategi perang, dan kerajinan dalam mitologi Yunani, lahir langsung dari kepala Zeus dalam keadaan dewasa dan bersenjata lengkap.",
+      "tags": [
+        "athena",
+        "minerva",
+        "kebijaksanaan",
+        "olympus",
+        "mitologi-yunani",
+        "kota-athena"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/yunani-romawi/dewa-olympus-utama.json"
+    },
+    {
+      "id": "mitologi.yunani-romawi.hades",
+      "judul": "Hades",
+      "kategori": "mitologi",
+      "subkategori": "yunani-romawi",
+      "periode_label": "Mitologi Yunani kuno, dipuja sejak sekitar milenium ke-2 SM",
+      "ringkasan": "Dewa penguasa dunia bawah (dunia orang mati) dalam mitologi Yunani, sering disalahpahami sebagai dewa jahat padahal perannya lebih ke penjaga keadilan alam kematian.",
+      "tags": [
+        "hades",
+        "pluto",
+        "dunia-bawah",
+        "persephone",
+        "mitologi-yunani"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/yunani-romawi/dewa-olympus-utama.json"
+    },
+    {
+      "id": "mitologi.yunani-romawi.hercules",
+      "judul": "Hercules (Heracles)",
+      "kategori": "mitologi",
+      "subkategori": "yunani-romawi",
+      "periode_label": "Mitologi Yunani kuno, dipuja sejak sekitar milenium ke-2 SM",
+      "ringkasan": "Pahlawan terkuat dalam mitologi Yunani, putra Zeus dengan manusia, terkenal lewat Dua Belas Tugas Herculesnya yang legendaris sebagai penebusan dosa.",
+      "tags": [
+        "hercules",
+        "heracles",
+        "dua-belas-tugas",
+        "pahlawan",
+        "mitologi-yunani"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/yunani-romawi/pahlawan-monster.json"
+    },
+    {
+      "id": "mitologi.yunani-romawi.medusa-perseus",
+      "judul": "Medusa dan Perseus",
+      "kategori": "mitologi",
+      "subkategori": "yunani-romawi",
+      "periode_label": "Mitologi Yunani kuno, dipuja sejak sekitar milenium ke-2 SM",
+      "ringkasan": "Kisah Perseus, pahlawan yang berhasil memenggal kepala Medusa, monster wanita berambut ular yang bisa mengubah siapa saja yang menatapnya jadi batu.",
+      "tags": [
+        "medusa",
+        "perseus",
+        "athena",
+        "monster",
+        "mitologi-yunani",
+        "pegasus"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/yunani-romawi/pahlawan-monster.json"
+    },
+    {
+      "id": "mitologi.yunani-romawi.minotaur",
+      "judul": "Minotaur dan Labirin",
+      "kategori": "mitologi",
+      "subkategori": "yunani-romawi",
+      "periode_label": "Mitologi Yunani kuno, dipuja sejak sekitar milenium ke-2 SM",
+      "ringkasan": "Monster berkepala banteng bertubuh manusia yang dikurung dalam labirin rumit di Pulau Kreta, akhirnya dikalahkan pahlawan Theseus dengan bantuan benang Ariadne.",
+      "tags": [
+        "minotaur",
+        "labirin",
+        "theseus",
+        "ariadne",
+        "kreta",
+        "mitologi-yunani"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/yunani-romawi/pahlawan-monster.json"
+    },
+    {
+      "id": "mitologi.yunani-romawi.poseidon",
+      "judul": "Poseidon",
+      "kategori": "mitologi",
+      "subkategori": "yunani-romawi",
+      "periode_label": "Mitologi Yunani kuno, dipuja sejak sekitar milenium ke-2 SM",
+      "ringkasan": "Dewa penguasa lautan dalam mitologi Yunani, saudara Zeus, juga dikenal sebagai dewa gempa bumi dan kuda, terkenal dengan trisula sebagai senjata khasnya.",
+      "tags": [
+        "poseidon",
+        "neptunus",
+        "laut",
+        "trisula",
+        "mitologi-yunani",
+        "odyssey"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/yunani-romawi/dewa-olympus-utama.json"
+    },
+    {
+      "id": "mitologi.yunani-romawi.zeus",
+      "judul": "Zeus",
+      "kategori": "mitologi",
+      "subkategori": "yunani-romawi",
+      "periode_label": "Mitologi Yunani kuno, dipuja sejak sekitar milenium ke-2 SM",
+      "ringkasan": "Raja para dewa dalam mitologi Yunani, penguasa langit dan petir, memimpin Olympus setelah menggulingkan ayahnya sendiri, Kronos, dalam pertempuran para Titan.",
+      "tags": [
+        "zeus",
+        "jupiter",
+        "olympus",
+        "raja-dewa",
+        "mitologi-yunani",
+        "titanomachy"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/mitologi/yunani-romawi/dewa-olympus-utama.json"
+    },
+    {
+      "id": "sains.fisika.cahaya-optik",
+      "judul": "Cahaya dan Optik: Dualitas Gelombang-Partikel",
+      "kategori": "sains",
+      "subkategori": "fisika",
+      "periode_label": "1801 - 1905 Masehi",
+      "ringkasan": "Perdebatan panjang tentang hakikat cahaya, apakah gelombang atau partikel, akhirnya terjawab lewat konsep dualitas gelombang-partikel yang menunjukkan cahaya berperilaku sebagai keduanya tergantung konteks pengamatan.",
+      "tags": [
+        "dualitas-gelombang-partikel",
+        "thomas-young",
+        "efek-fotolistrik",
+        "foton",
+        "mekanika-kuantum"
+      ],
+      "tingkat_pembaca": "lanjutan",
+      "file": "categories/sains/00-fisika/listrik-cahaya-relativitas.json"
+    },
+    {
+      "id": "sains.fisika.energi-kekekalan",
+      "judul": "Energi dan Hukum Kekekalan Energi",
+      "kategori": "sains",
+      "subkategori": "fisika",
+      "periode_label": "sekitar 1840 - 1850 Masehi",
+      "ringkasan": "Konsep energi sebagai kemampuan melakukan kerja, dengan hukum kekekalan energi menyatakan bahwa energi tidak bisa diciptakan atau dimusnahkan, hanya berubah bentuk dari satu jenis ke jenis lain.",
+      "tags": [
+        "energi",
+        "hukum-kekekalan-energi",
+        "james-joule",
+        "energi-kinetik",
+        "energi-potensial"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sains/00-fisika/gravitasi-energi-gelombang.json"
+    },
+    {
+      "id": "sains.fisika.fisika-nuklir",
+      "judul": "Fisika Nuklir: Radioaktivitas, Fisi, dan Fusi",
+      "kategori": "sains",
+      "subkategori": "fisika",
+      "periode_label": "1896 - 1938 Masehi",
+      "ringkasan": "Cabang fisika yang mempelajari struktur dan perilaku inti atom, mencakup fenomena radioaktivitas alami serta proses fisi dan fusi nuklir yang melepaskan energi dalam jumlah sangat besar.",
+      "tags": [
+        "fisika-nuklir",
+        "radioaktivitas",
+        "marie-curie",
+        "fisi-nuklir",
+        "fusi-nuklir"
+      ],
+      "tingkat_pembaca": "lanjutan",
+      "file": "categories/sains/00-fisika/nuklir-schrodinger.json"
+    },
+    {
+      "id": "sains.fisika.fisika-partikel",
+      "judul": "Fisika Partikel dan Model Standar",
+      "kategori": "sains",
+      "subkategori": "fisika",
+      "periode_label": "1897 - 2012 Masehi",
+      "ringkasan": "Studi tentang partikel fundamental penyusun materi dan gaya-gaya yang mengaturnya, terangkum dalam Model Standar, dengan penemuan partikel Higgs boson pada 2012 sebagai puncak konfirmasi teori ini.",
+      "tags": [
+        "fisika-partikel",
+        "model-standar",
+        "higgs-boson",
+        "quark",
+        "cern"
+      ],
+      "tingkat_pembaca": "lanjutan",
+      "file": "categories/sains/00-fisika/termodinamika-partikel.json"
+    },
+    {
+      "id": "sains.fisika.fisika-statistik",
+      "judul": "Fisika Statistik",
+      "kategori": "sains",
+      "subkategori": "fisika",
+      "periode_label": "1872 - 1925 Masehi",
+      "ringkasan": "Cabang fisika yang menjembatani perilaku mikroskopik partikel individual dengan sifat makroskopik yang teramati, menjelaskan fenomena termodinamika lewat pendekatan probabilitas dan statistik pada skala sangat besar jumlah partikel.",
+      "tags": [
+        "fisika-statistik",
+        "ludwig-boltzmann",
+        "distribusi-maxwell-boltzmann",
+        "distribusi-fermi-dirac",
+        "distribusi-bose-einstein"
+      ],
+      "tingkat_pembaca": "lanjutan",
+      "file": "categories/sains/00-fisika/lagrangian-fisika-statistik.json"
+    },
+    {
+      "id": "sains.fisika.fisika-zat-padat",
+      "judul": "Fisika Zat Padat dan Semikonduktor",
+      "kategori": "sains",
+      "subkategori": "fisika",
+      "periode_label": "1900 - 1956 Masehi",
+      "ringkasan": "Cabang fisika yang mempelajari sifat materi padat pada skala atomik, menjelaskan mengapa beberapa material menghantarkan listrik sementara yang lain tidak, fondasi bagi seluruh revolusi elektronik modern.",
+      "tags": [
+        "fisika-zat-padat",
+        "semikonduktor",
+        "teori-pita-energi",
+        "transistor",
+        "konduktivitas"
+      ],
+      "tingkat_pembaca": "lanjutan",
+      "file": "categories/sains/00-fisika/hukum-newton-zat-padat.json"
+    },
+    {
+      "id": "sains.fisika.gelombang-bunyi",
+      "judul": "Gelombang dan Bunyi",
+      "kategori": "sains",
+      "subkategori": "fisika",
+      "periode_label": "Fenomena alam yang dipelajari sejak era Yunani Kuno, dipahami secara ilmiah modern sejak abad ke-19",
+      "ringkasan": "Gelombang adalah pola perambatan energi melalui ruang atau medium, dengan bunyi sebagai salah satu jenis gelombang yang merambat lewat getaran partikel udara atau medium lain.",
+      "tags": [
+        "gelombang",
+        "bunyi",
+        "frekuensi",
+        "amplitudo",
+        "efek-doppler"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sains/00-fisika/gravitasi-energi-gelombang.json"
+    },
+    {
+      "id": "sains.fisika.gravitasi",
+      "judul": "Gravitasi",
+      "kategori": "sains",
+      "subkategori": "fisika",
+      "periode_label": "1687 - 1915 Masehi (dari Newton ke Einstein)",
+      "ringkasan": "Gaya tarik-menarik antar benda bermassa yang menjaga planet mengorbit matahari dan membuat benda jatuh ke bumi, dipahami lewat hukum Newton lalu disempurnakan teori relativitas Einstein.",
+      "tags": [
+        "gravitasi",
+        "isaac-newton",
+        "albert-einstein",
+        "relativitas-umum",
+        "fisika-dasar"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sains/00-fisika/gravitasi-energi-gelombang.json"
+    },
+    {
+      "id": "sains.fisika.hukum-gerak-newton",
+      "judul": "Hukum Gerak Newton",
+      "kategori": "sains",
+      "subkategori": "fisika",
+      "periode_label": "1687 Masehi",
+      "ringkasan": "Tiga hukum fundamental yang menjelaskan bagaimana dan mengapa benda bergerak, dirumuskan Isaac Newton dan menjadi fondasi mekanika klasik selama lebih dari dua abad sebelum relativitas dan kuantum melengkapinya.",
+      "tags": [
+        "hukum-newton",
+        "isaac-newton",
+        "mekanika-klasik",
+        "inersia",
+        "gaya"
+      ],
+      "tingkat_pembaca": "lanjutan",
+      "file": "categories/sains/00-fisika/hukum-newton-zat-padat.json"
+    },
+    {
+      "id": "sains.fisika.kosmologi",
+      "judul": "Kosmologi: Big Bang dan Ekspansi Alam Semesta",
+      "kategori": "sains",
+      "subkategori": "fisika",
+      "periode_label": "1927 - 1998 Masehi",
+      "ringkasan": "Cabang fisika yang mempelajari asal-usul, struktur, dan evolusi alam semesta secara keseluruhan, dengan teori Big Bang sebagai model paling didukung bukti ilmiah tentang bagaimana alam semesta bermula dan terus mengembang.",
+      "tags": [
+        "kosmologi",
+        "big-bang",
+        "georges-lemaitre",
+        "edwin-hubble",
+        "energi-gelap"
+      ],
+      "tingkat_pembaca": "lanjutan",
+      "file": "categories/sains/00-fisika/kosmologi-mekanika-fluida.json"
+    },
+    {
+      "id": "sains.fisika.listrik-magnet",
+      "judul": "Listrik dan Magnet (Elektromagnetisme)",
+      "kategori": "sains",
+      "subkategori": "fisika",
+      "periode_label": "1820 - 1865 Masehi",
+      "ringkasan": "Listrik dan magnet ternyata adalah dua wajah dari satu fenomena yang sama, disatukan James Clerk Maxwell dalam kerangka elektromagnetisme yang juga menjelaskan hakikat cahaya.",
+      "tags": [
+        "elektromagnetisme",
+        "james-clerk-maxwell",
+        "hans-christian-oersted",
+        "michael-faraday",
+        "gelombang-elektromagnetik"
+      ],
+      "tingkat_pembaca": "lanjutan",
+      "file": "categories/sains/00-fisika/listrik-cahaya-relativitas.json"
+    },
+    {
+      "id": "sains.fisika.mekanika-fluida",
+      "judul": "Mekanika Fluida",
+      "kategori": "sains",
+      "subkategori": "fisika",
+      "periode_label": "1738 - 1845 Masehi",
+      "ringkasan": "Cabang fisika yang mempelajari perilaku zat cair dan gas dalam keadaan diam maupun bergerak, menjelaskan berbagai fenomena mulai dari cara pesawat bisa terbang hingga aliran darah dalam tubuh manusia.",
+      "tags": [
+        "mekanika-fluida",
+        "prinsip-bernoulli",
+        "persamaan-navier-stokes",
+        "aerodinamika",
+        "viskositas"
+      ],
+      "tingkat_pembaca": "lanjutan",
+      "file": "categories/sains/00-fisika/kosmologi-mekanika-fluida.json"
+    },
+    {
+      "id": "sains.fisika.mekanika-lagrangian-hamiltonian",
+      "judul": "Mekanika Lagrangian dan Hamiltonian",
+      "kategori": "sains",
+      "subkategori": "fisika",
+      "periode_label": "1788 - 1833 Masehi",
+      "ringkasan": "Dua formulasi ulang mekanika klasik yang lebih abstrak dan elegan dibanding pendekatan gaya langsung ala Newton, berpusat pada konsep energi dan prinsip aksi minimum, menjadi jembatan penting menuju mekanika kuantum.",
+      "tags": [
+        "mekanika-lagrangian",
+        "mekanika-hamiltonian",
+        "joseph-louis-lagrange",
+        "william-hamilton",
+        "prinsip-aksi-minimum"
+      ],
+      "tingkat_pembaca": "lanjutan",
+      "file": "categories/sains/00-fisika/lagrangian-fisika-statistik.json"
+    },
+    {
+      "id": "sains.fisika.persamaan-schrodinger",
+      "judul": "Persamaan Schrödinger dan Spin Kuantum",
+      "kategori": "sains",
+      "subkategori": "fisika",
+      "periode_label": "1925 - 1928 Masehi",
+      "ringkasan": "Persamaan matematis fundamental yang mendeskripsikan evolusi keadaan kuantum suatu sistem lewat fungsi gelombang, dilengkapi konsep spin sebagai properti kuantum intrinsik partikel yang tidak punya analog dalam fisika klasik.",
+      "tags": [
+        "persamaan-schrodinger",
+        "fungsi-gelombang",
+        "erwin-schrodinger",
+        "spin-kuantum",
+        "paul-dirac"
+      ],
+      "tingkat_pembaca": "lanjutan",
+      "file": "categories/sains/00-fisika/nuklir-schrodinger.json"
+    },
+    {
+      "id": "sains.fisika.relativitas-mekanika-kuantum",
+      "judul": "Relativitas dan Mekanika Kuantum sebagai Konsep",
+      "kategori": "sains",
+      "subkategori": "fisika",
+      "periode_label": "1905 - 1927 Masehi",
+      "ringkasan": "Dua pilar utama fisika modern: relativitas Einstein yang mengubah pemahaman tentang ruang, waktu, dan gravitasi, serta mekanika kuantum yang mengungkap perilaku aneh materi pada skala sangat kecil.",
+      "tags": [
+        "relativitas",
+        "albert-einstein",
+        "mekanika-kuantum",
+        "werner-heisenberg",
+        "prinsip-ketidakpastian"
+      ],
+      "tingkat_pembaca": "lanjutan",
+      "file": "categories/sains/00-fisika/listrik-cahaya-relativitas.json"
+    },
+    {
+      "id": "sains.fisika.termodinamika",
+      "judul": "Termodinamika dan Entropi",
+      "kategori": "sains",
+      "subkategori": "fisika",
+      "periode_label": "1824 - 1865 Masehi",
+      "ringkasan": "Cabang fisika yang mempelajari panas, kerja, dan energi, dengan konsep entropi yang menjelaskan mengapa proses alam cenderung bergerak ke arah ketidakteraturan yang lebih besar dan tidak bisa berbalik dengan sendirinya.",
+      "tags": [
+        "termodinamika",
+        "entropi",
+        "sadi-carnot",
+        "ludwig-boltzmann",
+        "hukum-kedua-termodinamika"
+      ],
+      "tingkat_pembaca": "lanjutan",
+      "file": "categories/sains/00-fisika/termodinamika-partikel.json"
+    },
+    {
+      "id": "sains.kimia.ikatan-kimia",
+      "judul": "Ikatan Kimia",
+      "kategori": "sains",
+      "subkategori": "kimia",
+      "periode_label": "1916 - 1939 Masehi",
+      "ringkasan": "Cara atom-atom saling terikat membentuk molekul, terjadi lewat berbagai mekanisme berbeda seperti ikatan ionik, kovalen, dan logam, masing-masing menghasilkan sifat material yang sangat berbeda.",
+      "tags": [
+        "ikatan-kimia",
+        "ikatan-ionik",
+        "ikatan-kovalen",
+        "gilbert-lewis",
+        "linus-pauling"
+      ],
+      "tingkat_pembaca": "lanjutan",
+      "file": "categories/sains/01-kimia/tabel-periodik-ikatan-reaksi.json"
+    },
+    {
+      "id": "sains.kimia.reaksi-asam-basa",
+      "judul": "Reaksi Kimia dan Konsep Asam-Basa",
+      "kategori": "sains",
+      "subkategori": "kimia",
+      "periode_label": "1884 - 1923 Masehi",
+      "ringkasan": "Proses transformasi zat menjadi zat baru lewat berbagai jenis reaksi kimia, dengan konsep asam-basa yang berkembang dari definisi sederhana Arrhenius hingga definisi Bronsted-Lowry yang lebih luas.",
+      "tags": [
+        "reaksi-kimia",
+        "asam-basa",
+        "svante-arrhenius",
+        "bronsted-lowry",
+        "ph"
+      ],
+      "tingkat_pembaca": "lanjutan",
+      "file": "categories/sains/01-kimia/tabel-periodik-ikatan-reaksi.json"
+    },
+    {
+      "id": "sains.kimia.tabel-periodik",
+      "judul": "Tabel Periodik Unsur",
+      "kategori": "sains",
+      "subkategori": "kimia",
+      "periode_label": "1869 - 1913 Masehi",
+      "ringkasan": "Sistem klasifikasi seluruh unsur kimia berdasarkan sifat dan struktur atomnya, disusun Dmitri Mendeleev dengan keberanian meninggalkan ruang kosong untuk unsur yang belum ditemukan, terbukti sangat akurat memprediksi penemuan unsur baru.",
+      "tags": [
+        "tabel-periodik",
+        "dmitri-mendeleev",
+        "unsur-kimia",
+        "nomor-atom",
+        "henry-moseley"
+      ],
+      "tingkat_pembaca": "lanjutan",
+      "file": "categories/sains/01-kimia/tabel-periodik-ikatan-reaksi.json"
+    },
+    {
+      "id": "sejarah-dunia.abad-20.perang-dingin",
+      "judul": "Perang Dingin",
+      "kategori": "sejarah-dunia",
+      "subkategori": "abad-20",
+      "periode_label": "1947 - 1991 Masehi",
+      "ringkasan": "Periode ketegangan geopolitik panjang antara Amerika Serikat dan Uni Soviet pasca Perang Dunia II, ditandai perlombaan senjata nuklir dan luar angkasa tanpa terjadi perang langsung antar kedua negara adidaya.",
+      "tags": [
+        "perang-dingin",
+        "amerika-serikat",
+        "uni-soviet",
+        "tembok-berlin",
+        "perlombaan-nuklir"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-dunia/04-abad-20/perang-dingin.json"
+    },
+    {
+      "id": "sejarah-dunia.abad-20.perang-dunia-1",
+      "judul": "Perang Dunia I",
+      "kategori": "sejarah-dunia",
+      "subkategori": "abad-20",
+      "periode_label": "1914 - 1918 Masehi",
+      "ringkasan": "Perang skala besar pertama yang melibatkan banyak negara dunia, dipicu pembunuhan Archduke Austria, menewaskan jutaan orang dan mengubah total peta politik dunia.",
+      "tags": [
+        "perang-dunia-1",
+        "franz-ferdinand",
+        "perang-parit",
+        "perjanjian-versailles",
+        "eropa"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-dunia/04-abad-20/revolusi-industri-pd1.json"
+    },
+    {
+      "id": "sejarah-dunia.abad-20.perang-dunia-2",
+      "judul": "Perang Dunia II",
+      "kategori": "sejarah-dunia",
+      "subkategori": "abad-20",
+      "periode_label": "1939 - 1945 Masehi",
+      "ringkasan": "Konflik paling mematikan dalam sejarah manusia, melibatkan hampir seluruh negara besar dunia, dipicu ekspansi Nazi Jerman, mengubah total tatanan geopolitik global setelahnya.",
+      "tags": [
+        "perang-dunia-2",
+        "nazi-jerman",
+        "hitler",
+        "holocaust",
+        "hiroshima-nagasaki"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-dunia/04-abad-20/perang-dunia-2.json"
+    },
+    {
+      "id": "sejarah-dunia.abad-20.revolusi-industri",
+      "judul": "Revolusi Industri",
+      "kategori": "sejarah-dunia",
+      "subkategori": "abad-20",
+      "periode_label": "sekitar 1760 - 1840 Masehi (gelombang pertama)",
+      "ringkasan": "Transformasi besar dari produksi manual ke produksi mesin, dimulai di Inggris, mengubah total cara manusia bekerja, tinggal, dan menjalani kehidupan ekonomi.",
+      "tags": [
+        "revolusi-industri",
+        "mesin-uap",
+        "james-watt",
+        "inggris",
+        "urbanisasi"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-dunia/04-abad-20/revolusi-industri-pd1.json"
+    },
+    {
+      "id": "sejarah-dunia.abad-pertengahan.bizantium",
+      "judul": "Kekaisaran Bizantium",
+      "kategori": "sejarah-dunia",
+      "subkategori": "abad-pertengahan",
+      "periode_label": "330 - 1453 Masehi",
+      "ringkasan": "Kelanjutan Kekaisaran Romawi Timur yang bertahan lebih dari seribu tahun setelah Romawi Barat runtuh, jadi pelindung penting warisan budaya Yunani-Romawi dan Kristen Ortodoks.",
+      "tags": [
+        "bizantium",
+        "konstantinopel",
+        "justinian",
+        "kristen-ortodoks",
+        "romawi-timur"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-dunia/02-abad-pertengahan/bizantium-feodalisme.json"
+    },
+    {
+      "id": "sejarah-dunia.abad-pertengahan.dinasti-tang",
+      "judul": "Dinasti Tang",
+      "kategori": "sejarah-dunia",
+      "subkategori": "abad-pertengahan",
+      "periode_label": "618 - 907 Masehi",
+      "ringkasan": "Salah satu dinasti paling gemilang dalam sejarah Tiongkok, dianggap sebagai zaman keemasan seni, sastra, dan perdagangan lewat Jalur Sutra yang berkembang pesat.",
+      "tags": [
+        "dinasti-tang",
+        "tiongkok",
+        "jalur-sutra",
+        "chang-an",
+        "wu-zetian"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-dunia/02-abad-pertengahan/perang-salib-dinasti-tang.json"
+    },
+    {
+      "id": "sejarah-dunia.abad-pertengahan.feodalisme-eropa",
+      "judul": "Feodalisme di Eropa",
+      "kategori": "sejarah-dunia",
+      "subkategori": "abad-pertengahan",
+      "periode_label": "sekitar abad ke-9 - abad ke-15 Masehi",
+      "ringkasan": "Sistem sosial-politik yang mendominasi Eropa selama Abad Pertengahan, berdasarkan hubungan timbal balik antara raja, bangsawan, ksatria, dan petani, sebagai respons atas ketidakstabilan pasca runtuhnya Romawi.",
+      "tags": [
+        "feodalisme",
+        "abad-pertengahan",
+        "eropa",
+        "bangsawan",
+        "ksatria"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-dunia/02-abad-pertengahan/bizantium-feodalisme.json"
+    },
+    {
+      "id": "sejarah-dunia.abad-pertengahan.perang-salib",
+      "judul": "Perang Salib",
+      "kategori": "sejarah-dunia",
+      "subkategori": "abad-pertengahan",
+      "periode_label": "1095 - 1291 Masehi",
+      "ringkasan": "Rangkaian kampanye militer religius yang digerakkan Gereja Katolik Eropa untuk merebut Tanah Suci Yerusalem dari kekuasaan Muslim, berlangsung hampir dua abad dengan dampak besar bagi hubungan Timur-Barat.",
+      "tags": [
+        "perang-salib",
+        "yerusalem",
+        "abad-pertengahan",
+        "kristen",
+        "islam"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-dunia/02-abad-pertengahan/perang-salib-dinasti-tang.json"
+    },
+    {
+      "id": "sejarah-dunia.kontemporer.era-internet-globalisasi",
+      "judul": "Era Internet dan Globalisasi",
+      "kategori": "sejarah-dunia",
+      "subkategori": "kontemporer",
+      "periode_label": "sekitar 1990-an - sekarang",
+      "ringkasan": "Periode transformasi besar akibat berkembangnya internet dan teknologi digital, mempercepat globalisasi dan mengubah total cara manusia berkomunikasi, bekerja, dan mengakses informasi.",
+      "tags": [
+        "internet",
+        "globalisasi",
+        "world-wide-web",
+        "media-sosial",
+        "teknologi-digital"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-dunia/05-kontemporer/uni-soviet-internet.json"
+    },
+    {
+      "id": "sejarah-dunia.kontemporer.runtuhnya-uni-soviet",
+      "judul": "Runtuhnya Uni Soviet",
+      "kategori": "sejarah-dunia",
+      "subkategori": "kontemporer",
+      "periode_label": "1989 - 1991 Masehi",
+      "ringkasan": "Rangkaian peristiwa yang mengakhiri era Perang Dingin, ditandai jatuhnya Tembok Berlin dan bubarnya Uni Soviet, mengubah total peta politik dunia.",
+      "tags": [
+        "uni-soviet",
+        "tembok-berlin",
+        "gorbachev",
+        "perang-dingin",
+        "eropa-timur"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-dunia/05-kontemporer/uni-soviet-internet.json"
+    },
+    {
+      "id": "sejarah-dunia.peradaban-kuno.julius-caesar",
+      "judul": "Julius Caesar",
+      "kategori": "sejarah-dunia",
+      "subkategori": "peradaban-kuno",
+      "periode_label": "100 SM - 44 SM",
+      "ringkasan": "Jenderal dan negarawan Romawi paling berpengaruh, penakluk Galia, yang kekuasaannya yang membesar mengakhiri era Republik Romawi dan berujung pembunuhannya oleh para senator.",
+      "tags": [
+        "julius-caesar",
+        "romawi-kuno",
+        "perang-galia",
+        "ides-of-march",
+        "republik-romawi"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-dunia/01-peradaban-kuno/romawi-kuno.json"
+    },
+    {
+      "id": "sejarah-dunia.peradaban-kuno.mesir-kuno",
+      "judul": "Peradaban Mesir Kuno",
+      "kategori": "sejarah-dunia",
+      "subkategori": "peradaban-kuno",
+      "periode_label": "sekitar 3100 SM - 30 SM",
+      "ringkasan": "Salah satu peradaban tertua di dunia yang berkembang di sepanjang Sungai Nil, terkenal lewat piramida, sistem hieroglif, dan kekuasaan para firaun selama ribuan tahun.",
+      "tags": [
+        "mesir-kuno",
+        "firaun",
+        "piramida",
+        "hieroglif",
+        "sungai-nil"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-dunia/01-peradaban-kuno/mesir-mesopotamia-yunani.json"
+    },
+    {
+      "id": "sejarah-dunia.peradaban-kuno.mesopotamia",
+      "judul": "Peradaban Mesopotamia",
+      "kategori": "sejarah-dunia",
+      "subkategori": "peradaban-kuno",
+      "periode_label": "sekitar 3500 SM - 539 SM",
+      "ringkasan": "Peradaban di antara Sungai Tigris dan Eufrat, sering disebut sebagai tempat lahirnya peradaban, jadi rumah bagi kota pertama, tulisan pertama, dan hukum tertulis pertama di dunia.",
+      "tags": [
+        "mesopotamia",
+        "sumeria",
+        "babilonia",
+        "cuneiform",
+        "hammurabi"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-dunia/01-peradaban-kuno/mesir-mesopotamia-yunani.json"
+    },
+    {
+      "id": "sejarah-dunia.peradaban-kuno.romawi-kuno",
+      "judul": "Peradaban Romawi Kuno",
+      "kategori": "sejarah-dunia",
+      "subkategori": "peradaban-kuno",
+      "periode_label": "753 SM - 476 Masehi",
+      "ringkasan": "Salah satu kekaisaran terbesar dalam sejarah dunia, berkembang dari kota kecil di Italia menjadi penguasa sebagian besar Eropa, Afrika Utara, dan Timur Tengah selama berabad-abad.",
+      "tags": [
+        "romawi-kuno",
+        "kekaisaran-romawi",
+        "julius-caesar",
+        "colosseum",
+        "pax-romana"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-dunia/01-peradaban-kuno/romawi-kuno.json"
+    },
+    {
+      "id": "sejarah-dunia.peradaban-kuno.yunani-kuno",
+      "judul": "Peradaban Yunani Kuno",
+      "kategori": "sejarah-dunia",
+      "subkategori": "peradaban-kuno",
+      "periode_label": "sekitar 800 SM - 146 SM",
+      "ringkasan": "Peradaban yang meletakkan fondasi filsafat, demokrasi, dan sains Barat, terdiri dari negara-kota (polis) independen seperti Athena dan Sparta yang saling bersaing sekaligus berkontribusi besar bagi peradaban dunia.",
+      "tags": [
+        "yunani-kuno",
+        "athena",
+        "sparta",
+        "demokrasi",
+        "filsafat-yunani"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-dunia/01-peradaban-kuno/mesir-mesopotamia-yunani.json"
+    },
+    {
+      "id": "sejarah-dunia.prasejarah.homo-sapiens",
+      "judul": "Kemunculan Homo Sapiens",
+      "kategori": "sejarah-dunia",
+      "subkategori": "prasejarah",
+      "periode_label": "sekitar 300.000 - 50.000 tahun lalu",
+      "ringkasan": "Kemunculan manusia modern (Homo sapiens) di Afrika, ditandai fosil tertua dari Jebel Irhoud, Maroko, sebelum akhirnya bermigrasi ke seluruh penjuru dunia.",
+      "tags": [
+        "homo-sapiens",
+        "evolusi-manusia",
+        "jebel-irhoud",
+        "migrasi-manusia",
+        "afrika"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-dunia/00-prasejarah/evolusi-neolitik-zamanbatu.json"
+    },
+    {
+      "id": "sejarah-dunia.prasejarah.revolusi-neolitik",
+      "judul": "Revolusi Neolitik",
+      "kategori": "sejarah-dunia",
+      "subkategori": "prasejarah",
+      "periode_label": "sekitar 10.000 - 4.000 SM",
+      "ringkasan": "Perubahan besar dari gaya hidup berburu-meramu menuju pertanian dan pemukiman menetap, jadi salah satu transformasi paling fundamental dalam sejarah peradaban manusia.",
+      "tags": [
+        "revolusi-neolitik",
+        "pertanian",
+        "bulan-sabit-subur",
+        "domestikasi",
+        "prasejarah"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-dunia/00-prasejarah/evolusi-neolitik-zamanbatu.json"
+    },
+    {
+      "id": "sejarah-dunia.prasejarah.zaman-batu",
+      "judul": "Zaman Batu (Paleolitikum, Mesolitikum, Neolitikum)",
+      "kategori": "sejarah-dunia",
+      "subkategori": "prasejarah",
+      "periode_label": "sekitar 3,3 juta - 3.300 SM",
+      "ringkasan": "Periode panjang sejarah manusia yang ditandai penggunaan alat-alat batu sebagai teknologi utama, terbagi jadi tiga fase besar berdasarkan kompleksitas alat yang dihasilkan.",
+      "tags": [
+        "zaman-batu",
+        "paleolitikum",
+        "mesolitikum",
+        "neolitikum",
+        "prasejarah"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-dunia/00-prasejarah/evolusi-neolitik-zamanbatu.json"
+    },
+    {
+      "id": "sejarah-dunia.zaman-modern-awal.penjelajahan-samudra",
+      "judul": "Zaman Penjelajahan Samudra",
+      "kategori": "sejarah-dunia",
+      "subkategori": "zaman-modern-awal",
+      "periode_label": "sekitar abad ke-15 - abad ke-17 Masehi",
+      "ringkasan": "Periode ekspansi maritim besar-besaran bangsa Eropa mencari rute dagang baru ke Asia, mengubah total peta dunia dan memicu era kolonialisme global.",
+      "tags": [
+        "penjelajahan-samudra",
+        "columbus",
+        "vasco-da-gama",
+        "magellan",
+        "kolonialisme"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-dunia/03-zaman-modern-awal/renaisans-penjelajahan.json"
+    },
+    {
+      "id": "sejarah-dunia.zaman-modern-awal.reformasi-gereja",
+      "judul": "Reformasi Gereja Protestan",
+      "kategori": "sejarah-dunia",
+      "subkategori": "zaman-modern-awal",
+      "periode_label": "1517 - 1648 Masehi",
+      "ringkasan": "Gerakan besar yang memecah kesatuan Gereja Katolik di Eropa, dipicu kritik Martin Luther terhadap praktik korup gereja, melahirkan berbagai denominasi Protestan baru.",
+      "tags": [
+        "reformasi-protestan",
+        "martin-luther",
+        "gereja-katolik",
+        "perang-tiga-puluh-tahun",
+        "eropa"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-dunia/03-zaman-modern-awal/reformasi-revolusi-prancis.json"
+    },
+    {
+      "id": "sejarah-dunia.zaman-modern-awal.renaisans",
+      "judul": "Renaisans",
+      "kategori": "sejarah-dunia",
+      "subkategori": "zaman-modern-awal",
+      "periode_label": "sekitar abad ke-14 - abad ke-17 Masehi",
+      "ringkasan": "Periode kebangkitan besar seni, ilmu pengetahuan, dan pemikiran di Eropa, dimulai dari Italia, menandai transisi dari Abad Pertengahan menuju era modern.",
+      "tags": [
+        "renaisans",
+        "leonardo-da-vinci",
+        "humanisme",
+        "eropa",
+        "seni-klasik"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-dunia/03-zaman-modern-awal/renaisans-penjelajahan.json"
+    },
+    {
+      "id": "sejarah-dunia.zaman-modern-awal.revolusi-prancis",
+      "judul": "Revolusi Prancis",
+      "kategori": "sejarah-dunia",
+      "subkategori": "zaman-modern-awal",
+      "periode_label": "1789 - 1799 Masehi",
+      "ringkasan": "Revolusi besar yang menggulingkan monarki absolut Prancis, melahirkan gagasan kebebasan-kesetaraan-persaudaraan yang sangat memengaruhi gerakan demokrasi di seluruh dunia.",
+      "tags": [
+        "revolusi-prancis",
+        "bastille",
+        "louis-xvi",
+        "robespierre",
+        "napoleon"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-dunia/03-zaman-modern-awal/reformasi-revolusi-prancis.json"
+    },
+    {
+      "id": "sejarah-indonesia.kemerdekaan.budi-utomo",
+      "judul": "Budi Utomo",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "kemerdekaan",
+      "periode_label": "1908 - 1935 Masehi",
+      "ringkasan": "Organisasi modern pertama di Hindia Belanda yang didirikan pribumi, dipelopori dr. Sutomo dan pelajar STOVIA, tanggal berdirinya diperingati sebagai Hari Kebangkitan Nasional.",
+      "tags": [
+        "budi-utomo",
+        "sutomo",
+        "stovia",
+        "hari-kebangkitan-nasional",
+        "pergerakan-nasional"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/02-kolonial/politik-etis-budi-utomo.json"
+    },
+    {
+      "id": "sejarah-indonesia.kemerdekaan.pendudukan-jepang",
+      "judul": "Pendudukan Jepang di Indonesia",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "kemerdekaan",
+      "periode_label": "1942 - 1945 Masehi",
+      "ringkasan": "Masa singkat tapi penuh gejolak ketika Jepang menggantikan Belanda menguasai Indonesia, membawa penderitaan (romusha) sekaligus tanpa sengaja mempersiapkan Indonesia menuju kemerdekaan.",
+      "tags": [
+        "jepang",
+        "romusha",
+        "peta",
+        "bpupki",
+        "ppki",
+        "perang-dunia-ii"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/03-kemerdekaan/jepang-proklamasi.json"
+    },
+    {
+      "id": "sejarah-indonesia.kemerdekaan.proklamasi",
+      "judul": "Proklamasi Kemerdekaan Indonesia",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "kemerdekaan",
+      "periode_label": "17 Agustus 1945",
+      "ringkasan": "Momen paling bersejarah bangsa Indonesia — pembacaan naskah proklamasi oleh Soekarno-Hatta di Jakarta, menandai lahirnya negara Indonesia merdeka.",
+      "tags": [
+        "proklamasi",
+        "soekarno",
+        "hatta",
+        "17-agustus",
+        "kemerdekaan",
+        "rengasdengklok"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/03-kemerdekaan/jepang-proklamasi.json"
+    },
+    {
+      "id": "sejarah-indonesia.kemerdekaan.sarekat-islam",
+      "judul": "Sarekat Islam",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "kemerdekaan",
+      "periode_label": "1905 - sekitar 1930-an Masehi",
+      "ringkasan": "Organisasi pergerakan nasional pertama dengan basis massa besar, awalnya koperasi dagang batik, berkembang jadi kekuatan politik terbesar di Hindia Belanda pada masanya.",
+      "tags": [
+        "sarekat-islam",
+        "tjokroaminoto",
+        "pergerakan-nasional",
+        "haji-samanhoedi"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/03-kemerdekaan/sarekat-islam-sumpah-pemuda.json"
+    },
+    {
+      "id": "sejarah-indonesia.kemerdekaan.sumpah-pemuda",
+      "judul": "Sumpah Pemuda",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "kemerdekaan",
+      "periode_label": "28 Oktober 1928",
+      "ringkasan": "Ikrar bersejarah dari Kongres Pemuda II yang menyatukan pemuda dari berbagai suku dan daerah dalam satu tekad: satu tanah air, satu bangsa, satu bahasa Indonesia.",
+      "tags": [
+        "sumpah-pemuda",
+        "kongres-pemuda",
+        "bahasa-indonesia",
+        "indonesia-raya",
+        "pergerakan-nasional"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/03-kemerdekaan/sarekat-islam-sumpah-pemuda.json"
+    },
+    {
+      "id": "sejarah-indonesia.kerajaan.aceh-darussalam",
+      "judul": "Kesultanan Aceh Darussalam",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "kerajaan",
+      "periode_label": "1496 - 1903 Masehi",
+      "ringkasan": "Kesultanan Islam paling kuat di Sumatra, jadi pusat perdagangan dan pembelajaran Islam penting, mencapai puncak kejayaan di masa Sultan Iskandar Muda.",
+      "tags": [
+        "aceh",
+        "iskandar-muda",
+        "islam",
+        "sumatra",
+        "perang-aceh",
+        "serambi-mekah"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/01-kerajaan/kerajaan-islam.json"
+    },
+    {
+      "id": "sejarah-indonesia.kerajaan.candi-borobudur",
+      "judul": "Candi Borobudur",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "kerajaan",
+      "periode_label": "dibangun sekitar 750-842 Masehi",
+      "ringkasan": "Candi Buddha terbesar di dunia, dibangun dinasti Sailendra, berbentuk stupa raksasa dengan ribuan relief yang menceritakan ajaran Buddha.",
+      "tags": [
+        "borobudur",
+        "candi-buddha",
+        "sailendra",
+        "unesco",
+        "relief",
+        "jawa-tengah"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/01-kerajaan/mataram-kuno.json"
+    },
+    {
+      "id": "sejarah-indonesia.kerajaan.candi-prambanan",
+      "judul": "Candi Prambanan",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "kerajaan",
+      "periode_label": "dibangun sekitar pertengahan abad ke-9 Masehi",
+      "ringkasan": "Kompleks candi Hindu terbesar di Indonesia, dibangun dinasti Sanjaya untuk memuja Trimurti, terkenal dengan candi utamanya yang menjulang tinggi.",
+      "tags": [
+        "prambanan",
+        "candi-hindu",
+        "sanjaya",
+        "trimurti",
+        "ramayana",
+        "unesco"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/01-kerajaan/mataram-kuno.json"
+    },
+    {
+      "id": "sejarah-indonesia.kerajaan.demak",
+      "judul": "Kesultanan Demak",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "kerajaan",
+      "periode_label": "sekitar 1475 - 1554 Masehi",
+      "ringkasan": "Kerajaan Islam pertama di Jawa, muncul dari pesisir utara sebagai penerus pengaruh Majapahit yang melemah, didirikan Raden Patah.",
+      "tags": [
+        "demak",
+        "islam",
+        "raden-patah",
+        "wali-songo",
+        "jawa-tengah"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/01-kerajaan/kerajaan-islam.json"
+    },
+    {
+      "id": "sejarah-indonesia.kerajaan.gowa-tallo",
+      "judul": "Kesultanan Gowa-Tallo",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "kerajaan",
+      "periode_label": "sekitar abad ke-14 - 1669 Masehi (masa Islam sejak awal abad ke-17)",
+      "ringkasan": "Kesultanan Islam terbesar di Sulawesi Selatan, hasil penggabungan dua kerajaan Bugis-Makassar, terkenal lewat perlawanan Sultan Hasanuddin melawan VOC.",
+      "tags": [
+        "gowa-tallo",
+        "hasanuddin",
+        "makassar",
+        "sulawesi",
+        "voc",
+        "perjanjian-bongaya"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/01-kerajaan/kerajaan-islam.json"
+    },
+    {
+      "id": "sejarah-indonesia.kerajaan.kediri",
+      "judul": "Kerajaan Kediri",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "kerajaan",
+      "periode_label": "1042 - 1222 Masehi",
+      "ringkasan": "Kerajaan Hindu di Jawa Timur, pecahan dari Kerajaan Kahuripan, terkenal sebagai pusat sastra Jawa Kuno dengan karya seperti Kakawin Bharatayuddha.",
+      "tags": [
+        "kediri",
+        "airlangga",
+        "bharatayuddha",
+        "jayabaya",
+        "jawa-timur",
+        "sastra-jawa-kuno"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/01-kerajaan/kediri-singasari.json"
+    },
+    {
+      "id": "sejarah-indonesia.kerajaan.kutai",
+      "judul": "Kerajaan Kutai",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "kerajaan",
+      "periode_label": "sekitar abad ke-4 - abad ke-17 Masehi",
+      "ringkasan": "Kerajaan bercorak Hindu tertua yang diketahui di Nusantara, berlokasi di Kalimantan Timur, dikenal lewat 7 prasasti Yupa berbahasa Sanskerta.",
+      "tags": [
+        "kutai",
+        "hindu",
+        "yupa",
+        "mulawarman",
+        "kalimantan",
+        "prasasti"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/01-kerajaan/kerajaan-awal-nusantara.json"
+    },
+    {
+      "id": "sejarah-indonesia.kerajaan.majapahit",
+      "judul": "Kerajaan Majapahit",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "kerajaan",
+      "periode_label": "1293 - sekitar 1527 Masehi",
+      "ringkasan": "Kerajaan Hindu-Buddha terbesar dan paling berpengaruh dalam sejarah Nusantara, didirikan Raden Wijaya, mencapai puncak kejayaan di masa Hayam Wuruk dan Gajah Mada.",
+      "tags": [
+        "majapahit",
+        "hayam-wuruk",
+        "gajah-mada",
+        "sumpah-palapa",
+        "bhinneka-tunggal-ika",
+        "jawa-timur"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/01-kerajaan/majapahit.json"
+    },
+    {
+      "id": "sejarah-indonesia.kerajaan.mataram-kuno",
+      "judul": "Kerajaan Mataram Kuno",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "kerajaan",
+      "periode_label": "sekitar abad ke-8 - awal abad ke-11 Masehi",
+      "ringkasan": "Kerajaan agraris besar di Jawa Tengah yang diperintah bergantian oleh dinasti Sanjaya (Hindu) dan Sailendra (Buddha), pembangun Candi Borobudur dan Prambanan.",
+      "tags": [
+        "mataram-kuno",
+        "sanjaya",
+        "sailendra",
+        "borobudur",
+        "prambanan",
+        "jawa-tengah"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/01-kerajaan/mataram-kuno.json"
+    },
+    {
+      "id": "sejarah-indonesia.kerajaan.singasari",
+      "judul": "Kerajaan Singasari",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "kerajaan",
+      "periode_label": "1222 - 1292 Masehi",
+      "ringkasan": "Kerajaan yang didirikan Ken Arok di Jawa Timur, penuh drama perebutan takhta, dan jadi cikal bakal berdirinya Majapahit lewat raja terakhirnya, Kertanegara.",
+      "tags": [
+        "singasari",
+        "ken-arok",
+        "kertanegara",
+        "jawa-timur",
+        "majapahit",
+        "mongol"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/01-kerajaan/kediri-singasari.json"
+    },
+    {
+      "id": "sejarah-indonesia.kerajaan.sriwijaya",
+      "judul": "Kerajaan Sriwijaya",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "kerajaan",
+      "periode_label": "sekitar abad ke-7 - abad ke-14 Masehi",
+      "ringkasan": "Kerajaan maritim Buddha yang menguasai jalur perdagangan Selat Malaka, berpusat di Sumatra, dan jadi pusat pembelajaran agama Buddha terbesar di Asia Tenggara.",
+      "tags": [
+        "sriwijaya",
+        "maritim",
+        "buddha",
+        "selat-malaka",
+        "palembang",
+        "sumatra"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/01-kerajaan/kerajaan-awal-nusantara.json"
+    },
+    {
+      "id": "sejarah-indonesia.kerajaan.sumpah-palapa",
+      "judul": "Sumpah Palapa",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "kerajaan",
+      "periode_label": "diucapkan sekitar 1336 Masehi",
+      "ringkasan": "Sumpah terkenal Mahapatih Gajah Mada untuk menyatukan Nusantara di bawah Majapahit, dicatat dalam kitab Pararaton, jadi simbol semangat persatuan.",
+      "tags": [
+        "sumpah-palapa",
+        "gajah-mada",
+        "majapahit",
+        "pararaton",
+        "persatuan-nusantara"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/01-kerajaan/majapahit.json"
+    },
+    {
+      "id": "sejarah-indonesia.kerajaan.tarumanegara",
+      "judul": "Kerajaan Tarumanegara",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "kerajaan",
+      "periode_label": "358 - 669 Masehi",
+      "ringkasan": "Kerajaan Hindu di Jawa Barat yang dikenal lewat prasasti-prasasti peninggalan Raja Purnawarman, termasuk yang membahas pembangunan saluran irigasi.",
+      "tags": [
+        "tarumanegara",
+        "purnawarman",
+        "jawa-barat",
+        "prasasti-tugu",
+        "hindu"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/01-kerajaan/kerajaan-awal-nusantara.json"
+    },
+    {
+      "id": "sejarah-indonesia.kolonial.kedatangan-portugis",
+      "judul": "Kedatangan Portugis di Nusantara",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "kolonial",
+      "periode_label": "1511 - 1641 Masehi",
+      "ringkasan": "Bangsa Eropa pertama yang datang ke Nusantara mencari rempah-rempah, menaklukkan Malaka pada 1511 dan membangun jaringan dagang di kepulauan rempah.",
+      "tags": [
+        "portugis",
+        "malaka",
+        "rempah-rempah",
+        "maluku",
+        "afonso-de-albuquerque"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/02-kolonial/portugis-voc.json"
+    },
+    {
+      "id": "sejarah-indonesia.kolonial.perang-diponegoro",
+      "judul": "Perang Diponegoro (Perang Jawa)",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "kolonial",
+      "periode_label": "1825 - 1830 Masehi",
+      "ringkasan": "Perang besar antara Pangeran Diponegoro dan pasukannya melawan Belanda di Jawa, salah satu perang paling mahal dan mematikan dalam sejarah kolonial Hindia Belanda.",
+      "tags": [
+        "diponegoro",
+        "perang-jawa",
+        "yogyakarta",
+        "perlawanan",
+        "kolonial"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/02-kolonial/tanam-paksa-diponegoro.json"
+    },
+    {
+      "id": "sejarah-indonesia.kolonial.politik-etis",
+      "judul": "Politik Etis (Politik Balas Budi)",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "kolonial",
+      "periode_label": "1901 - 1942 Masehi",
+      "ringkasan": "Kebijakan kolonial Belanda yang bertujuan 'membalas budi' rakyat Hindia Belanda lewat program irigasi, edukasi, dan migrasi, namun tanpa sengaja melahirkan generasi terpelajar yang jadi cikal bakal pergerakan nasional.",
+      "tags": [
+        "politik-etis",
+        "van-deventer",
+        "kolonial",
+        "edukasi",
+        "pergerakan-nasional"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/02-kolonial/politik-etis-budi-utomo.json"
+    },
+    {
+      "id": "sejarah-indonesia.kolonial.tanam-paksa",
+      "judul": "Sistem Tanam Paksa (Cultuurstelsel)",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "kolonial",
+      "periode_label": "1830 - 1870 Masehi",
+      "ringkasan": "Kebijakan kolonial Belanda yang memaksa petani menanam tanaman ekspor (kopi, tebu, nila) demi keuntungan Belanda, menyebabkan penderitaan besar rakyat pribumi.",
+      "tags": [
+        "tanam-paksa",
+        "cultuurstelsel",
+        "van-den-bosch",
+        "max-havelaar",
+        "kolonial"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/02-kolonial/tanam-paksa-diponegoro.json"
+    },
+    {
+      "id": "sejarah-indonesia.kolonial.voc",
+      "judul": "VOC (Vereenigde Oostindische Compagnie)",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "kolonial",
+      "periode_label": "1602 - 1799 Masehi",
+      "ringkasan": "Perusahaan dagang Belanda yang punya kekuatan seperti negara (bisa berperang, mencetak uang, menjajah), menguasai perdagangan rempah Nusantara selama hampir 2 abad.",
+      "tags": [
+        "voc",
+        "belanda",
+        "batavia",
+        "monopoli-dagang",
+        "kolonial"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/02-kolonial/portugis-voc.json"
+    },
+    {
+      "id": "sejarah-indonesia.kontemporer.era-jokowi",
+      "judul": "Era Presiden Joko Widodo (Jokowi)",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "kontemporer",
+      "periode_label": "20 Oktober 2014 - 20 Oktober 2024",
+      "ringkasan": "Presiden pertama dari luar kalangan elite politik/militer tradisional, dikenal lewat fokus pembangunan infrastruktur besar-besaran dan pemindahan ibu kota ke IKN Nusantara.",
+      "tags": [
+        "jokowi",
+        "joko-widodo",
+        "ikn-nusantara",
+        "infrastruktur",
+        "covid-19"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/06-kontemporer/era-jokowi.json"
+    },
+    {
+      "id": "sejarah-indonesia.kontemporer.era-prabowo",
+      "judul": "Era Presiden Prabowo Subianto",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "kontemporer",
+      "periode_label": "20 Oktober 2024 - sekarang",
+      "ringkasan": "Prabowo Subianto dilantik sebagai presiden ke-8 Republik Indonesia pada 20 Oktober 2024 bersama Wakil Presiden Gibran Rakabuming Raka, dikenal lewat program unggulan Makan Bergizi Gratis dan pembentukan badan investasi negara Danantara.",
+      "tags": [
+        "prabowo-subianto",
+        "gibran-rakabuming",
+        "makan-bergizi-gratis",
+        "danantara",
+        "era-prabowo"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/06-kontemporer/era-prabowo.json"
+    },
+    {
+      "id": "sejarah-indonesia.orde-baru.g30s",
+      "judul": "Gerakan 30 September (G30S)",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "orde-baru",
+      "periode_label": "30 September - 1 Oktober 1965",
+      "ringkasan": "Peristiwa penculikan dan pembunuhan enam jenderal TNI dalam semalam, jadi titik balik politik paling kontroversial dan berdarah dalam sejarah Indonesia modern.",
+      "tags": [
+        "g30s",
+        "lubang-buaya",
+        "pki",
+        "soeharto",
+        "1965"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/04-orde-baru/g30s-transisi.json"
+    },
+    {
+      "id": "sejarah-indonesia.orde-baru.pembangunan",
+      "judul": "Era Pembangunan Orde Baru",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "orde-baru",
+      "periode_label": "1968 - 1998 Masehi",
+      "ringkasan": "Masa 32 tahun kepemimpinan Soeharto yang fokus pada stabilitas dan pembangunan ekonomi (Repelita, swasembada beras), namun juga diwarnai otoritarianisme dan korupsi.",
+      "tags": [
+        "orde-baru",
+        "soeharto",
+        "repelita",
+        "swasembada-beras",
+        "kkn"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/04-orde-baru/pembangunan-reformasi.json"
+    },
+    {
+      "id": "sejarah-indonesia.orde-baru.transisi-kekuasaan",
+      "judul": "Transisi Kekuasaan ke Orde Baru",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "orde-baru",
+      "periode_label": "1966 - 1968 Masehi",
+      "ringkasan": "Proses peralihan kekuasaan dari Soekarno ke Soeharto lewat Supersemar, menandai berakhirnya era Orde Lama dan dimulainya era Orde Baru yang berlangsung lebih dari tiga dekade.",
+      "tags": [
+        "supersemar",
+        "soeharto",
+        "soekarno",
+        "tritura",
+        "orde-baru",
+        "transisi-kekuasaan"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/04-orde-baru/g30s-transisi.json"
+    },
+    {
+      "id": "sejarah-indonesia.prasejarah.homo-wajakensis",
+      "judul": "Homo Wajakensis (Manusia Wajak)",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "prasejarah",
+      "periode_label": "sekitar 40.000 - 25.000 tahun lalu",
+      "ringkasan": "Fosil manusia purba yang jauh lebih modern dibanding Pithecanthropus, ditemukan di Wajak, Tulungagung, Jawa Timur, dan dianggap sebagai nenek moyang ras Australomelanesid.",
+      "tags": [
+        "manusia-purba",
+        "wajak",
+        "tulungagung",
+        "homo-sapiens",
+        "australomelanesid"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/00-prasejarah/manusia-purba-indonesia.json"
+    },
+    {
+      "id": "sejarah-indonesia.prasejarah.meganthropus-paleojavanicus",
+      "judul": "Meganthropus Paleojavanicus",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "prasejarah",
+      "periode_label": "sekitar 1,5 juta - 900 ribu tahun lalu",
+      "ringkasan": "Fosil manusia purba tertua yang ditemukan di Indonesia, ditemukan oleh Gustav Heinrich Ralph von Koenigswald di Sangiran, Jawa Tengah pada 1941.",
+      "tags": [
+        "manusia-purba",
+        "sangiran",
+        "fosil",
+        "paleoantropologi",
+        "jawa-tengah"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/00-prasejarah/manusia-purba-indonesia.json"
+    },
+    {
+      "id": "sejarah-indonesia.prasejarah.pithecanthropus-erectus",
+      "judul": "Pithecanthropus Erectus (Manusia Jawa)",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "prasejarah",
+      "periode_label": "sekitar 1 juta - 700 ribu tahun lalu",
+      "ringkasan": "Dikenal juga sebagai \"Manusia Jawa\", ditemukan oleh Eugene Dubois di Trinil pada 1891 dan menjadi salah satu penemuan fosil manusia purba paling terkenal di dunia.",
+      "tags": [
+        "manusia-purba",
+        "trinil",
+        "java-man",
+        "homo-erectus",
+        "eugene-dubois"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/00-prasejarah/manusia-purba-indonesia.json"
+    },
+    {
+      "id": "sejarah-indonesia.prasejarah.situs-sangiran",
+      "judul": "Situs Sangiran",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "prasejarah",
+      "periode_label": "Situs aktif ditemukan sejak 1930-an, diakui UNESCO sejak 1996",
+      "ringkasan": "Kawasan situs purbakala di Jawa Tengah yang menyimpan salah satu koleksi fosil manusia purba terlengkap di dunia, diakui sebagai Situs Warisan Dunia UNESCO.",
+      "tags": [
+        "sangiran",
+        "unesco",
+        "situs-purbakala",
+        "fosil",
+        "jawa-tengah"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/00-prasejarah/manusia-purba-indonesia.json"
+    },
+    {
+      "id": "sejarah-indonesia.reformasi.era-gus-dur",
+      "judul": "Era Presiden Abdurrahman Wahid (Gus Dur)",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "reformasi",
+      "periode_label": "20 Oktober 1999 - 23 Juli 2001",
+      "ringkasan": "Presiden pertama hasil pemilu demokratis pasca reformasi, dikenal dengan gagasan pluralisme dan toleransinya, namun masa jabatannya berakhir lewat pemakzulan MPR.",
+      "tags": [
+        "gus-dur",
+        "abdurrahman-wahid",
+        "pluralisme",
+        "nahdlatul-ulama",
+        "pemakzulan"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/05-reformasi/habibie-gusdur.json"
+    },
+    {
+      "id": "sejarah-indonesia.reformasi.era-habibie",
+      "judul": "Era Presiden B.J. Habibie",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "reformasi",
+      "periode_label": "21 Mei 1998 - 20 Oktober 1999",
+      "ringkasan": "Masa transisi singkat namun penuh perubahan besar, meletakkan fondasi kebebasan pers, kebebasan berpolitik, dan lepasnya Timor Timur lewat referendum.",
+      "tags": [
+        "habibie",
+        "reformasi",
+        "kebebasan-pers",
+        "timor-timur",
+        "referendum"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/05-reformasi/habibie-gusdur.json"
+    },
+    {
+      "id": "sejarah-indonesia.reformasi.era-megawati",
+      "judul": "Era Presiden Megawati Soekarnoputri",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "reformasi",
+      "periode_label": "23 Juli 2001 - 20 Oktober 2004",
+      "ringkasan": "Presiden perempuan pertama Indonesia, fokus pada stabilitas ekonomi pasca krisis dan meletakkan dasar amandemen konstitusi yang memungkinkan pemilu presiden langsung.",
+      "tags": [
+        "megawati",
+        "soekarnoputri",
+        "presiden-perempuan",
+        "bom-bali",
+        "amandemen-uud"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/05-reformasi/megawati-sby.json"
+    },
+    {
+      "id": "sejarah-indonesia.reformasi.era-sby",
+      "judul": "Era Presiden Susilo Bambang Yudhoyono (SBY)",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "reformasi",
+      "periode_label": "20 Oktober 2004 - 20 Oktober 2014",
+      "ringkasan": "Presiden pertama hasil pemilu langsung, memimpin dua periode penuh dengan fokus stabilitas politik-ekonomi, penanganan bencana besar, dan pemberantasan korupsi lewat KPK.",
+      "tags": [
+        "sby",
+        "yudhoyono",
+        "tsunami-aceh",
+        "kpk",
+        "perjanjian-helsinki"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/05-reformasi/megawati-sby.json"
+    },
+    {
+      "id": "sejarah-indonesia.reformasi.krisis-1998",
+      "judul": "Krisis Moneter dan Reformasi 1998",
+      "kategori": "sejarah-indonesia",
+      "subkategori": "reformasi",
+      "periode_label": "1997 - Mei 1998 Masehi",
+      "ringkasan": "Krisis ekonomi Asia yang melanda Indonesia dengan parah, memicu gelombang demonstrasi mahasiswa besar-besaran yang berujung mundurnya Soeharto setelah 32 tahun berkuasa.",
+      "tags": [
+        "reformasi-1998",
+        "krisis-moneter",
+        "soeharto-mundur",
+        "trisakti",
+        "demonstrasi-mahasiswa"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/sejarah-indonesia/04-orde-baru/pembangunan-reformasi.json"
+    },
+    {
+      "id": "teknologi.bioteknologi.penemuan-dna",
+      "judul": "Penemuan Struktur DNA",
+      "kategori": "teknologi",
+      "subkategori": "bioteknologi",
+      "periode_label": "1953 Masehi",
+      "ringkasan": "Penemuan struktur heliks ganda DNA oleh James Watson dan Francis Crick, membuka jalan bagi seluruh perkembangan bioteknologi dan genetika modern.",
+      "tags": [
+        "dna",
+        "watson-crick",
+        "rosalind-franklin",
+        "genetika",
+        "heliks-ganda"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/05-bioteknologi/dna-crispr-mrna.json"
+    },
+    {
+      "id": "teknologi.bioteknologi.rekayasa-genetika",
+      "judul": "Rekayasa Genetika dan CRISPR",
+      "kategori": "teknologi",
+      "subkategori": "bioteknologi",
+      "periode_label": "1973 - 2012 Masehi",
+      "ringkasan": "Perkembangan teknik memodifikasi materi genetik organisme, dari DNA rekombinan awal hingga penemuan CRISPR yang membuat penyuntingan gen jauh lebih presisi dan terjangkau.",
+      "tags": [
+        "rekayasa-genetika",
+        "crispr",
+        "dna-rekombinan",
+        "human-genome-project",
+        "bioteknologi"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/05-bioteknologi/dna-crispr-mrna.json"
+    },
+    {
+      "id": "teknologi.bioteknologi.vaksin-mrna",
+      "judul": "Vaksin mRNA",
+      "kategori": "teknologi",
+      "subkategori": "bioteknologi",
+      "periode_label": "1990 - 2020 Masehi",
+      "ringkasan": "Teknologi vaksin generasi baru yang mengajarkan sel tubuh membuat sendiri protein pemicu kekebalan, dikembangkan bertahun-tahun sebelum akhirnya terbukti efektif lewat vaksin COVID-19.",
+      "tags": [
+        "vaksin-mrna",
+        "covid-19",
+        "katalin-kariko",
+        "imunologi",
+        "bioteknologi"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/05-bioteknologi/dna-crispr-mrna.json"
+    },
+    {
+      "id": "teknologi.blockchain.bitcoin",
+      "judul": "Bitcoin dan Mata Uang Kripto",
+      "kategori": "teknologi",
+      "subkategori": "blockchain",
+      "periode_label": "2008 - 2009 Masehi",
+      "ringkasan": "Mata uang digital pertama yang berhasil beroperasi tanpa otoritas pusat, diciptakan sosok misterius Satoshi Nakamoto, memicu lahirnya seluruh industri mata uang kripto.",
+      "tags": [
+        "bitcoin",
+        "satoshi-nakamoto",
+        "cryptocurrency",
+        "mata-uang-digital",
+        "blockchain"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/11-blockchain/bitcoin-blockchain-nft.json"
+    },
+    {
+      "id": "teknologi.blockchain.nft",
+      "judul": "NFT (Non-Fungible Token)",
+      "kategori": "teknologi",
+      "subkategori": "blockchain",
+      "periode_label": "2014 - 2021 Masehi",
+      "ringkasan": "Token digital unik berbasis blockchain yang merepresentasikan kepemilikan aset tertentu, mendadak populer secara global pada 2021 terutama untuk seni digital dan koleksi.",
+      "tags": [
+        "nft",
+        "aset-digital",
+        "seni-digital",
+        "blockchain",
+        "kepemilikan-digital"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/11-blockchain/bitcoin-blockchain-nft.json"
+    },
+    {
+      "id": "teknologi.blockchain.teknologi-blockchain",
+      "judul": "Teknologi Blockchain",
+      "kategori": "teknologi",
+      "subkategori": "blockchain",
+      "periode_label": "2008 - sekarang",
+      "ringkasan": "Sistem pencatatan digital terdesentralisasi yang jadi fondasi Bitcoin, sekarang berkembang jauh melampaui mata uang kripto untuk berbagai aplikasi lain seperti kontrak pintar dan rantai pasokan.",
+      "tags": [
+        "blockchain",
+        "smart-contract",
+        "ethereum",
+        "desentralisasi",
+        "kriptografi"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/11-blockchain/bitcoin-blockchain-nft.json"
+    },
+    {
+      "id": "teknologi.energi-terbarukan.baterai-lithium",
+      "judul": "Baterai Lithium-Ion",
+      "kategori": "teknologi",
+      "subkategori": "energi-terbarukan",
+      "periode_label": "1991 - sekarang",
+      "ringkasan": "Teknologi penyimpanan energi yang jadi kunci revolusi perangkat elektronik portabel dan kendaraan listrik, dengan penemunya meraih Hadiah Nobel Kimia 2019.",
+      "tags": [
+        "baterai-lithium-ion",
+        "kendaraan-listrik",
+        "hadiah-nobel",
+        "penyimpanan-energi",
+        "tesla"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/06-energi-terbarukan/surya-angin-baterai.json"
+    },
+    {
+      "id": "teknologi.energi-terbarukan.panel-surya",
+      "judul": "Panel Surya (Fotovoltaik)",
+      "kategori": "teknologi",
+      "subkategori": "energi-terbarukan",
+      "periode_label": "1954 - sekarang",
+      "ringkasan": "Teknologi yang mengubah cahaya matahari langsung menjadi listrik, dari sel surya pertama yang sangat mahal hingga jadi sumber energi terbarukan paling cepat berkembang di dunia.",
+      "tags": [
+        "panel-surya",
+        "fotovoltaik",
+        "energi-terbarukan",
+        "bell-labs",
+        "energi-bersih"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/06-energi-terbarukan/surya-angin-baterai.json"
+    },
+    {
+      "id": "teknologi.energi-terbarukan.turbin-angin",
+      "judul": "Turbin Angin Modern",
+      "kategori": "teknologi",
+      "subkategori": "energi-terbarukan",
+      "periode_label": "1887 - sekarang",
+      "ringkasan": "Teknologi yang mengonversi energi kinetik angin menjadi listrik, berkembang dari kincir angin tradisional menjadi turbin raksasa modern, terutama efektif di lepas pantai.",
+      "tags": [
+        "turbin-angin",
+        "energi-angin",
+        "offshore-wind",
+        "energi-terbarukan",
+        "james-blyth"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/06-energi-terbarukan/surya-angin-baterai.json"
+    },
+    {
+      "id": "teknologi.era-digital.internet",
+      "judul": "Sejarah Internet",
+      "kategori": "teknologi",
+      "subkategori": "era-digital",
+      "periode_label": "1969 - 1991 Masehi",
+      "ringkasan": "Perjalanan internet dari proyek militer eksperimental ARPANET menjadi World Wide Web yang mengubah total cara manusia mengakses informasi dan berkomunikasi secara global.",
+      "tags": [
+        "internet",
+        "arpanet",
+        "world-wide-web",
+        "tim-berners-lee",
+        "tcp-ip"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/02-era-digital/komputer-internet-smartphone.json"
+    },
+    {
+      "id": "teknologi.era-digital.komputer",
+      "judul": "Sejarah Komputer",
+      "kategori": "teknologi",
+      "subkategori": "era-digital",
+      "periode_label": "sekitar 1940 - 1980 Masehi",
+      "ringkasan": "Perjalanan komputer dari mesin raksasa seukuran ruangan menjadi perangkat pribadi, dipicu kebutuhan Perang Dunia II dan kemudian penemuan transistor serta mikroprosesor.",
+      "tags": [
+        "komputer",
+        "eniac",
+        "transistor",
+        "mikroprosesor",
+        "personal-computer"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/02-era-digital/komputer-internet-smartphone.json"
+    },
+    {
+      "id": "teknologi.era-digital.smartphone",
+      "judul": "Sejarah Smartphone",
+      "kategori": "teknologi",
+      "subkategori": "era-digital",
+      "periode_label": "1992 - 2007 Masehi",
+      "ringkasan": "Evolusi telepon genggam dari alat komunikasi sederhana menjadi komputer saku serbaguna, dengan peluncuran iPhone pada 2007 sebagai titik balik yang mendefinisikan ulang industri ini.",
+      "tags": [
+        "smartphone",
+        "iphone",
+        "android",
+        "telepon-genggam",
+        "apple"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/02-era-digital/komputer-internet-smartphone.json"
+    },
+    {
+      "id": "teknologi.kecerdasan-buatan.ai-generatif",
+      "judul": "Era AI Generatif",
+      "kategori": "teknologi",
+      "subkategori": "kecerdasan-buatan",
+      "periode_label": "2017 - sekarang",
+      "ringkasan": "Gelombang terbaru AI yang bisa menghasilkan teks, gambar, dan berbagai konten baru, dipicu penemuan arsitektur Transformer dan peluncuran model bahasa besar seperti ChatGPT.",
+      "tags": [
+        "ai-generatif",
+        "chatgpt",
+        "transformer",
+        "large-language-model",
+        "openai"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/03-kecerdasan-buatan/sejarah-ai-ml-generatif.json"
+    },
+    {
+      "id": "teknologi.kecerdasan-buatan.machine-learning",
+      "judul": "Machine Learning dan Deep Learning",
+      "kategori": "teknologi",
+      "subkategori": "kecerdasan-buatan",
+      "periode_label": "2006 - 2015 Masehi",
+      "ringkasan": "Pendekatan AI yang memungkinkan komputer belajar dari data, dipercepat lewat deep learning dan jaringan saraf tiruan, membuka era baru kemampuan AI mengenali gambar, suara, dan pola kompleks.",
+      "tags": [
+        "machine-learning",
+        "deep-learning",
+        "neural-network",
+        "alphago",
+        "imagenet"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/03-kecerdasan-buatan/sejarah-ai-ml-generatif.json"
+    },
+    {
+      "id": "teknologi.kecerdasan-buatan.sejarah-ai",
+      "judul": "Sejarah Awal Kecerdasan Buatan",
+      "kategori": "teknologi",
+      "subkategori": "kecerdasan-buatan",
+      "periode_label": "1950 - 1997 Masehi",
+      "ringkasan": "Perjalanan awal kecerdasan buatan dari tes Turing sampai kemenangan Deep Blue melawan juara catur dunia, melalui berbagai periode optimisme dan kemunduran yang disebut 'musim dingin AI'.",
+      "tags": [
+        "kecerdasan-buatan",
+        "alan-turing",
+        "deep-blue",
+        "sejarah-ai",
+        "dartmouth"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/03-kecerdasan-buatan/sejarah-ai-ml-generatif.json"
+    },
+    {
+      "id": "teknologi.komputasi-kuantum.aplikasi-masa-depan",
+      "judul": "Potensi Aplikasi Komputasi Kuantum",
+      "kategori": "teknologi",
+      "subkategori": "komputasi-kuantum",
+      "periode_label": "2020 - sekarang (masih dalam tahap pengembangan aktif)",
+      "ringkasan": "Berbagai bidang yang berpotensi mengalami transformasi besar jika komputer kuantum praktis berhasil dikembangkan, mulai dari penemuan obat, kriptografi, hingga optimasi sistem kompleks.",
+      "tags": [
+        "komputasi-kuantum",
+        "kriptografi-pasca-kuantum",
+        "penemuan-obat",
+        "optimasi",
+        "machine-learning"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/12-komputasi-kuantum/qubit-supremacy-aplikasi.json"
+    },
+    {
+      "id": "teknologi.komputasi-kuantum.dasar-qubit",
+      "judul": "Dasar Komputasi Kuantum (Qubit)",
+      "kategori": "teknologi",
+      "subkategori": "komputasi-kuantum",
+      "periode_label": "1980 - sekarang",
+      "ringkasan": "Konsep fundamental komputer kuantum yang memanfaatkan sifat aneh mekanika kuantum untuk memproses informasi dengan cara yang sangat berbeda dari komputer klasik biasa.",
+      "tags": [
+        "komputasi-kuantum",
+        "qubit",
+        "superposisi",
+        "richard-feynman",
+        "mekanika-kuantum"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/12-komputasi-kuantum/qubit-supremacy-aplikasi.json"
+    },
+    {
+      "id": "teknologi.komputasi-kuantum.quantum-supremacy",
+      "judul": "Quantum Supremacy",
+      "kategori": "teknologi",
+      "subkategori": "komputasi-kuantum",
+      "periode_label": "2019 Masehi",
+      "ringkasan": "Klaim Google bahwa komputer kuantum mereka berhasil menyelesaikan perhitungan spesifik yang secara praktis mustahil dilakukan komputer klasik, momen penting sekaligus kontroversial dalam sejarah komputasi kuantum.",
+      "tags": [
+        "quantum-supremacy",
+        "google",
+        "sycamore",
+        "ibm",
+        "prosesor-kuantum"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/12-komputasi-kuantum/qubit-supremacy-aplikasi.json"
+    },
+    {
+      "id": "teknologi.luar-angkasa.pendaratan-bulan",
+      "judul": "Pendaratan Manusia di Bulan (Apollo 11)",
+      "kategori": "teknologi",
+      "subkategori": "luar-angkasa",
+      "periode_label": "20 Juli 1969",
+      "ringkasan": "Pencapaian teknologi paling ikonik abad ke-20, ketika Neil Armstrong dan Buzz Aldrin jadi manusia pertama menginjakkan kaki di Bulan lewat misi Apollo 11.",
+      "tags": [
+        "apollo-11",
+        "neil-armstrong",
+        "bulan",
+        "nasa",
+        "saturn-v"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/04-luar-angkasa/sputnik-apollo-teleskop.json"
+    },
+    {
+      "id": "teknologi.luar-angkasa.sputnik",
+      "judul": "Sputnik dan Awal Perlombaan Antariksa",
+      "kategori": "teknologi",
+      "subkategori": "luar-angkasa",
+      "periode_label": "4 Oktober 1957",
+      "ringkasan": "Peluncuran satelit buatan pertama oleh Uni Soviet yang mengejutkan dunia, menandai dimulainya perlombaan antariksa dengan Amerika Serikat di era Perang Dingin.",
+      "tags": [
+        "sputnik",
+        "uni-soviet",
+        "nasa",
+        "perlombaan-antariksa",
+        "perang-dingin"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/04-luar-angkasa/sputnik-apollo-teleskop.json"
+    },
+    {
+      "id": "teknologi.luar-angkasa.teleskop-satelit-modern",
+      "judul": "Teleskop Antariksa dan Satelit Modern",
+      "kategori": "teknologi",
+      "subkategori": "luar-angkasa",
+      "periode_label": "1990 - sekarang",
+      "ringkasan": "Perkembangan teleskop antariksa seperti Hubble dan James Webb yang membuka jendela pengamatan alam semesta, serta ledakan satelit komersial modern seperti Starlink yang mengubah akses internet global.",
+      "tags": [
+        "teleskop-hubble",
+        "james-webb",
+        "starlink",
+        "spacex",
+        "satelit"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/04-luar-angkasa/sputnik-apollo-teleskop.json"
+    },
+    {
+      "id": "teknologi.material-modern.grafena",
+      "judul": "Grafena",
+      "kategori": "teknologi",
+      "subkategori": "material-modern",
+      "periode_label": "2004 Masehi",
+      "ringkasan": "Material setipis satu atom karbon yang sangat kuat dan konduktif, berhasil diisolasi menggunakan teknik sederhana selotip, membuka potensi besar untuk elektronik masa depan.",
+      "tags": [
+        "grafena",
+        "andre-geim",
+        "material-2d",
+        "nobel-fisika",
+        "karbon"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/13-material-modern/plastik-grafena-superkonduktor.json"
+    },
+    {
+      "id": "teknologi.material-modern.plastik",
+      "judul": "Penemuan Plastik",
+      "kategori": "teknologi",
+      "subkategori": "material-modern",
+      "periode_label": "1907 - 1950 Masehi",
+      "ringkasan": "Material sintetis yang merevolusi hampir setiap aspek kehidupan modern, dari Bakelite sebagai plastik sintetis pertama hingga produksi massal yang mengubah cara manusia mengonsumsi barang.",
+      "tags": [
+        "plastik",
+        "bakelite",
+        "leo-baekeland",
+        "material-sintetis",
+        "polimer"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/13-material-modern/plastik-grafena-superkonduktor.json"
+    },
+    {
+      "id": "teknologi.material-modern.superkonduktor",
+      "judul": "Material Superkonduktor",
+      "kategori": "teknologi",
+      "subkategori": "material-modern",
+      "periode_label": "1911 - 1986 Masehi",
+      "ringkasan": "Material yang bisa menghantarkan listrik tanpa hambatan sama sekali pada kondisi tertentu, membuka aplikasi penting seperti MRI dan kereta maglev, meski masih terbatas kondisi suhu sangat rendah.",
+      "tags": [
+        "superkonduktor",
+        "kamerlingh-onnes",
+        "mri",
+        "kereta-maglev",
+        "fisika-material"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/13-material-modern/plastik-grafena-superkonduktor.json"
+    },
+    {
+      "id": "teknologi.medis-kedokteran.antibiotik",
+      "judul": "Penemuan Antibiotik (Penisilin)",
+      "kategori": "teknologi",
+      "subkategori": "medis-kedokteran",
+      "periode_label": "1928 - 1945 Masehi",
+      "ringkasan": "Penemuan tidak sengaja Alexander Fleming yang membuka era antibiotik modern, salah satu terobosan paling menyelamatkan nyawa dalam sejarah kedokteran manusia.",
+      "tags": [
+        "antibiotik",
+        "penisilin",
+        "alexander-fleming",
+        "infeksi-bakteri",
+        "resistensi-antibiotik"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/10-medis-kedokteran/sinarx-antibiotik-mri.json"
+    },
+    {
+      "id": "teknologi.medis-kedokteran.mri-ct-scan",
+      "judul": "MRI dan CT Scan",
+      "kategori": "teknologi",
+      "subkategori": "medis-kedokteran",
+      "periode_label": "1971 - 1977 Masehi",
+      "ringkasan": "Dua teknologi pencitraan medis canggih yang memungkinkan dokter melihat detail organ dalam tubuh secara tiga dimensi tanpa pembedahan, masing-masing memanfaatkan sinar-X dan medan magnet.",
+      "tags": [
+        "mri",
+        "ct-scan",
+        "pencitraan-medis",
+        "godfrey-hounsfield",
+        "diagnostik"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/10-medis-kedokteran/sinarx-antibiotik-mri.json"
+    },
+    {
+      "id": "teknologi.medis-kedokteran.sinar-x",
+      "judul": "Penemuan Sinar-X",
+      "kategori": "teknologi",
+      "subkategori": "medis-kedokteran",
+      "periode_label": "1895 Masehi",
+      "ringkasan": "Penemuan tidak sengaja oleh Wilhelm Rontgen yang membuka jalan bagi pencitraan medis modern, memungkinkan dokter melihat ke dalam tubuh manusia tanpa pembedahan.",
+      "tags": [
+        "sinar-x",
+        "wilhelm-rontgen",
+        "pencitraan-medis",
+        "diagnostik",
+        "nobel-fisika"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/10-medis-kedokteran/sinarx-antibiotik-mri.json"
+    },
+    {
+      "id": "teknologi.mesin-uap-listrik.mesin-cetak",
+      "judul": "Mesin Cetak Gutenberg",
+      "kategori": "teknologi",
+      "subkategori": "mesin-uap-listrik",
+      "periode_label": "sekitar 1440 Masehi",
+      "ringkasan": "Penemuan Johannes Gutenberg yang merevolusi penyebaran informasi di Eropa, memungkinkan produksi buku massal dan mempercepat penyebaran pengetahuan secara dramatis.",
+      "tags": [
+        "mesin-cetak",
+        "gutenberg",
+        "renaisans",
+        "penyebaran-informasi",
+        "buku"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/01-mesin-uap-listrik/cetak-uap-telegraf.json"
+    },
+    {
+      "id": "teknologi.mesin-uap-listrik.mesin-uap",
+      "judul": "Mesin Uap",
+      "kategori": "teknologi",
+      "subkategori": "mesin-uap-listrik",
+      "periode_label": "1712 - 1781 Masehi",
+      "ringkasan": "Teknologi yang jadi mesin penggerak utama Revolusi Industri, disempurnakan James Watt, mengubah total cara manusia memproduksi barang dan bertransportasi.",
+      "tags": [
+        "mesin-uap",
+        "james-watt",
+        "revolusi-industri",
+        "kereta-api",
+        "energi"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/01-mesin-uap-listrik/cetak-uap-telegraf.json"
+    },
+    {
+      "id": "teknologi.mesin-uap-listrik.telegraf-listrik",
+      "judul": "Telegraf dan Listrik",
+      "kategori": "teknologi",
+      "subkategori": "mesin-uap-listrik",
+      "periode_label": "1837 - 1879 Masehi",
+      "ringkasan": "Perkembangan telegraf listrik yang merevolusi komunikasi jarak jauh, disusul penemuan bola lampu Edison yang membawa listrik ke kehidupan sehari-hari manusia.",
+      "tags": [
+        "telegraf",
+        "samuel-morse",
+        "listrik",
+        "thomas-edison",
+        "bola-lampu"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/01-mesin-uap-listrik/cetak-uap-telegraf.json"
+    },
+    {
+      "id": "teknologi.otomotif-transportasi.kereta-cepat",
+      "judul": "Kereta Cepat (High-Speed Rail)",
+      "kategori": "teknologi",
+      "subkategori": "otomotif-transportasi",
+      "periode_label": "1964 - sekarang",
+      "ringkasan": "Teknologi kereta yang mampu melaju sangat cepat antar kota, dipelopori Shinkansen Jepang, jadi alternatif transportasi ramah lingkungan yang berkembang pesat di berbagai negara.",
+      "tags": [
+        "kereta-cepat",
+        "shinkansen",
+        "tgv",
+        "high-speed-rail",
+        "transportasi-berkelanjutan"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/09-otomotif-transportasi/mobil-pesawat-kereta.json"
+    },
+    {
+      "id": "teknologi.otomotif-transportasi.mobil-pertama",
+      "judul": "Mobil Pertama dan Produksi Massal",
+      "kategori": "teknologi",
+      "subkategori": "otomotif-transportasi",
+      "periode_label": "1886 - 1913 Masehi",
+      "ringkasan": "Perjalanan mobil dari kendaraan eksperimental Karl Benz menjadi produk massal terjangkau lewat jalur perakitan Henry Ford, mengubah total mobilitas manusia modern.",
+      "tags": [
+        "mobil",
+        "karl-benz",
+        "henry-ford",
+        "model-t",
+        "produksi-massal"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/09-otomotif-transportasi/mobil-pesawat-kereta.json"
+    },
+    {
+      "id": "teknologi.otomotif-transportasi.pesawat-terbang",
+      "judul": "Penerbangan Pertama Wright Bersaudara",
+      "kategori": "teknologi",
+      "subkategori": "otomotif-transportasi",
+      "periode_label": "17 Desember 1903",
+      "ringkasan": "Penerbangan bertenaga mesin pertama yang berhasil dan terkendali oleh Wright bersaudara, membuka era penerbangan yang mengubah total kemampuan manusia menjelajahi dunia.",
+      "tags": [
+        "pesawat-terbang",
+        "wright-bersaudara",
+        "penerbangan",
+        "kitty-hawk",
+        "aerodinamika"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/09-otomotif-transportasi/mobil-pesawat-kereta.json"
+    },
+    {
+      "id": "teknologi.penemuan-kuno.kompas",
+      "judul": "Penemuan Kompas",
+      "kategori": "teknologi",
+      "subkategori": "penemuan-kuno",
+      "periode_label": "sekitar 200 SM - 1100 Masehi",
+      "ringkasan": "Alat navigasi yang memanfaatkan sifat magnetis, pertama dikembangkan di Tiongkok Kuno, kemudian jadi krusial bagi pelayaran dan penjelajahan samudra dunia.",
+      "tags": [
+        "kompas",
+        "tiongkok",
+        "navigasi",
+        "penjelajahan-samudra",
+        "magnet"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/00-penemuan-kuno/roda-tulisan-kompas.json"
+    },
+    {
+      "id": "teknologi.penemuan-kuno.roda",
+      "judul": "Penemuan Roda",
+      "kategori": "teknologi",
+      "subkategori": "penemuan-kuno",
+      "periode_label": "sekitar 3500 SM",
+      "ringkasan": "Salah satu penemuan paling fundamental dalam sejarah manusia, pertama kali dipakai di Mesopotamia, mengubah total cara manusia bepergian dan bekerja.",
+      "tags": [
+        "roda",
+        "mesopotamia",
+        "penemuan-kuno",
+        "transportasi",
+        "mekanika"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/00-penemuan-kuno/roda-tulisan-kompas.json"
+    },
+    {
+      "id": "teknologi.penemuan-kuno.tulisan",
+      "judul": "Penemuan Sistem Tulisan",
+      "kategori": "teknologi",
+      "subkategori": "penemuan-kuno",
+      "periode_label": "sekitar 3400 SM",
+      "ringkasan": "Perkembangan sistem tulisan pertama di Sumeria (cuneiform) dan Mesir (hieroglif), teknologi yang memungkinkan manusia menyimpan dan mewariskan pengetahuan lintas generasi.",
+      "tags": [
+        "tulisan",
+        "cuneiform",
+        "hieroglif",
+        "alfabet",
+        "sumeria"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/00-penemuan-kuno/roda-tulisan-kompas.json"
+    },
+    {
+      "id": "teknologi.robotika-lanjutan.drone-swarm",
+      "judul": "Drone dan Teknologi Swarm",
+      "kategori": "teknologi",
+      "subkategori": "robotika-lanjutan",
+      "periode_label": "2010 - sekarang",
+      "ringkasan": "Pesawat tanpa awak yang berkembang dari alat militer eksklusif menjadi teknologi konsumen luas, dengan teknologi swarm memungkinkan ratusan drone bekerja sama secara terkoordinasi.",
+      "tags": [
+        "drone",
+        "uav",
+        "swarm-technology",
+        "fotografi-udara",
+        "kecerdasan-buatan"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/14-robotika-lanjutan/bedah-exoskeleton-drone.json"
+    },
+    {
+      "id": "teknologi.robotika-lanjutan.exoskeleton",
+      "judul": "Exoskeleton (Rangka Luar Robotik)",
+      "kategori": "teknologi",
+      "subkategori": "robotika-lanjutan",
+      "periode_label": "1960 - sekarang",
+      "ringkasan": "Perangkat robotik yang dikenakan di tubuh manusia untuk menambah kekuatan atau membantu pemulihan mobilitas, dari eksperimen militer awal hingga aplikasi medis dan industri modern.",
+      "tags": [
+        "exoskeleton",
+        "rehabilitasi-medis",
+        "robotika-industri",
+        "mobilitas",
+        "hardiman"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/14-robotika-lanjutan/bedah-exoskeleton-drone.json"
+    },
+    {
+      "id": "teknologi.robotika-lanjutan.robot-bedah",
+      "judul": "Robot Bedah (Surgical Robot)",
+      "kategori": "teknologi",
+      "subkategori": "robotika-lanjutan",
+      "periode_label": "2000 - sekarang",
+      "ringkasan": "Sistem robot yang membantu dokter melakukan operasi dengan presisi lebih tinggi dan sayatan lebih kecil, dipelopori sistem da Vinci yang sekarang dipakai luas di rumah sakit dunia.",
+      "tags": [
+        "robot-bedah",
+        "da-vinci",
+        "operasi-minimal-invasif",
+        "teknologi-medis",
+        "robotika-medis"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/14-robotika-lanjutan/bedah-exoskeleton-drone.json"
+    },
+    {
+      "id": "teknologi.robotika.mobil-otonom",
+      "judul": "Mobil Otonom (Self-Driving Car)",
+      "kategori": "teknologi",
+      "subkategori": "robotika",
+      "periode_label": "2004 - sekarang",
+      "ringkasan": "Kendaraan yang bisa mengemudi sendiri tanpa campur tangan manusia, mengombinasikan sensor canggih dan kecerdasan buatan, sedang diuji dan dikembangkan berbagai perusahaan teknologi besar dunia.",
+      "tags": [
+        "mobil-otonom",
+        "self-driving-car",
+        "waymo",
+        "tesla",
+        "lidar"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/07-robotika/unimate-humanoid-otonom.json"
+    },
+    {
+      "id": "teknologi.robotika.robot-humanoid",
+      "judul": "Robot Humanoid",
+      "kategori": "teknologi",
+      "subkategori": "robotika",
+      "periode_label": "2000 - sekarang",
+      "ringkasan": "Robot yang dirancang menyerupai bentuk dan gerakan manusia, dipelopori robot ASIMO dari Honda, terus berkembang menuju kemampuan interaksi sosial yang semakin canggih.",
+      "tags": [
+        "robot-humanoid",
+        "asimo",
+        "boston-dynamics",
+        "honda",
+        "bipedal"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/07-robotika/unimate-humanoid-otonom.json"
+    },
+    {
+      "id": "teknologi.robotika.robot-industri",
+      "judul": "Robot Industri Pertama (Unimate)",
+      "kategori": "teknologi",
+      "subkategori": "robotika",
+      "periode_label": "1961 Masehi",
+      "ringkasan": "Unimate, robot industri pertama di dunia yang dipakai di pabrik General Motors, membuka era otomasi produksi massal yang mengubah wajah industri manufaktur global.",
+      "tags": [
+        "unimate",
+        "robot-industri",
+        "george-devol",
+        "otomasi",
+        "general-motors"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/07-robotika/unimate-humanoid-otonom.json"
+    },
+    {
+      "id": "teknologi.telekomunikasi.radio",
+      "judul": "Penemuan Radio",
+      "kategori": "teknologi",
+      "subkategori": "telekomunikasi",
+      "periode_label": "1895 - 1920 Masehi",
+      "ringkasan": "Teknologi komunikasi nirkabel pertama yang memungkinkan pengiriman sinyal tanpa kabel, dipelopori Guglielmo Marconi, mengubah total cara manusia menerima berita dan hiburan.",
+      "tags": [
+        "radio",
+        "marconi",
+        "telekomunikasi",
+        "penyiaran",
+        "gelombang-elektromagnetik"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/08-telekomunikasi/radio-televisi-seluler.json"
+    },
+    {
+      "id": "teknologi.telekomunikasi.telepon-seluler",
+      "judul": "Telepon Seluler",
+      "kategori": "teknologi",
+      "subkategori": "telekomunikasi",
+      "periode_label": "1973 - 1992 Masehi",
+      "ringkasan": "Teknologi yang membebaskan komunikasi telepon dari kabel dan lokasi tetap, dari perangkat pertama seukuran batu bata hingga awal era pesan singkat (SMS) yang mengubah cara manusia berkomunikasi.",
+      "tags": [
+        "telepon-seluler",
+        "martin-cooper",
+        "motorola",
+        "sms",
+        "generasi-jaringan"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/08-telekomunikasi/radio-televisi-seluler.json"
+    },
+    {
+      "id": "teknologi.telekomunikasi.televisi",
+      "judul": "Penemuan Televisi",
+      "kategori": "teknologi",
+      "subkategori": "telekomunikasi",
+      "periode_label": "1927 - 1950 Masehi",
+      "ringkasan": "Teknologi yang memungkinkan transmisi gambar bergerak dan suara secara bersamaan, berkembang dari perangkat eksperimental jadi pusat hiburan dan informasi keluarga di seluruh dunia.",
+      "tags": [
+        "televisi",
+        "philo-farnsworth",
+        "penyiaran",
+        "media-massa",
+        "hiburan"
+      ],
+      "tingkat_pembaca": "umum",
+      "file": "categories/teknologi/08-telekomunikasi/radio-televisi-seluler.json"
+    }
+  ]
+}

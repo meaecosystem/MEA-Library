@@ -1,0 +1,83 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://mea-library/schema/entry.schema.json",
+  "title": "MEA Library Entry",
+  "description": "Skema satu unit pengetahuan (entry) di MEA Library. Satu file JSON berisi array dari entry-entry ini.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "id",
+      "judul",
+      "kategori",
+      "subkategori",
+      "periode",
+      "ringkasan",
+      "konten",
+      "tags",
+      "tingkat_pembaca",
+      "terakhir_diupdate"
+    ],
+    "additionalProperties": false,
+    "properties": {
+      "id": {
+        "type": "string",
+        "description": "ID unik, format: kategori.subkategori.slug",
+        "pattern": "^[a-z0-9]+(-[a-z0-9]+)*\\.[a-z0-9]+(-[a-z0-9]+)*\\.[a-z0-9]+(-[a-z0-9]+)*$"
+      },
+      "judul": {
+        "type": "string",
+        "minLength": 1
+      },
+      "kategori": {
+        "type": "string",
+        "enum": ["sejarah-dunia", "sejarah-indonesia", "budaya", "mitologi", "teknologi", "agama", "sains"]
+      },
+      "subkategori": {
+        "type": "string",
+        "minLength": 1
+      },
+      "periode": {
+        "type": "object",
+        "description": "Wajib di semua entry untuk memudahkan pelacakan waktu. Kalau tidak ada rentang tahun presisi (mis. entry budaya/mitologi umum), cukup isi 'label' deskriptif (mis. 'Tidak diketahui pasti' atau 'Berkembang sejak abad ke-9'); 'mulai'/'selesai' boleh kosong. Tahun sebelum masehi ditulis negatif (mis. -3100 untuk 3100 SM).",
+        "additionalProperties": false,
+        "properties": {
+          "mulai": { "type": "string" },
+          "selesai": { "type": "string" },
+          "label": { "type": "string" }
+        },
+        "required": ["label"]
+      },
+      "ringkasan": {
+        "type": "string",
+        "description": "Wajib singkat (2-3 kalimat) — dipakai Siesta/router sebelum load konten penuh",
+        "minLength": 1,
+        "maxLength": 500
+      },
+      "konten": {
+        "type": "string",
+        "description": "Isi lengkap, bisa multi-paragraf",
+        "minLength": 1
+      },
+      "tags": {
+        "type": "array",
+        "items": { "type": "string" },
+        "minItems": 1
+      },
+      "sumber": {
+        "type": "array",
+        "description": "Opsional — isi kalau merujuk sumber spesifik",
+        "items": { "type": "string" }
+      },
+      "tingkat_pembaca": {
+        "type": "string",
+        "enum": ["umum", "anak", "lanjutan"]
+      },
+      "terakhir_diupdate": {
+        "type": "string",
+        "format": "date",
+        "description": "Format YYYY-MM-DD"
+      }
+    }
+  }
+}
