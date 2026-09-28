@@ -1,0 +1,36 @@
+[
+  {
+    "id": "sejarah-dunia.abad-pertengahan.perang-salib",
+    "judul": "Perang Salib",
+    "kategori": "sejarah-dunia",
+    "subkategori": "abad-pertengahan",
+    "periode": {
+      "mulai": "1095",
+      "selesai": "1291",
+      "label": "1095 - 1291 Masehi"
+    },
+    "ringkasan": "Rangkaian kampanye militer religius yang digerakkan Gereja Katolik Eropa untuk merebut Tanah Suci Yerusalem dari kekuasaan Muslim, berlangsung hampir dua abad dengan dampak besar bagi hubungan Timur-Barat.",
+    "konten": "Perang Salib adalah serangkaian kampanye militer yang digerakkan atas nama agama, dimulai ketika Paus Urbanus II menyerukan umat Kristen Eropa pada 1095 untuk merebut kembali Yerusalem dan Tanah Suci dari kekuasaan Muslim. Seruan ini mendapat respons besar dari berbagai kalangan di Eropa, mulai dari raja dan bangsawan yang mencari kekuasaan dan tanah baru, hingga rakyat biasa yang termotivasi keyakinan religius maupun harapan pengampunan dosa.\n\nPerang Salib Pertama (1096-1099) berhasil mencapai tujuannya, merebut Yerusalem dari kekuasaan Muslim dan mendirikan beberapa negara Kristen (Crusader states) di kawasan Levant. Namun keberhasilan ini tidak bertahan lama, karena berbagai kekuatan Muslim di kawasan tersebut secara bertahap merebut kembali wilayah yang hilang, memicu gelombang Perang Salib berikutnya (total ada sekitar delapan hingga sembilan kampanye besar) selama hampir dua abad berikutnya, dengan hasil yang bervariasi dan secara keseluruhan gagal mempertahankan kekuasaan Kristen jangka panjang di Tanah Suci.\n\nMeski secara militer akhirnya gagal — Yerusalem dan seluruh wilayah Crusader states akhirnya jatuh kembali sepenuhnya ke tangan Muslim pada 1291 — Perang Salib meninggalkan dampak yang sangat besar dan kompleks bagi sejarah dunia. Interaksi (baik lewat konflik maupun perdagangan) antara Eropa dan dunia Islam selama periode ini membawa pertukaran pengetahuan, teknologi, dan barang dagangan yang signifikan, turut berkontribusi pada perkembangan Eropa menjelang era Renaisans. Di sisi lain, Perang Salib juga meninggalkan warisan ketegangan dan trauma sejarah yang kompleks antara dunia Kristen dan Islam, yang gaungnya masih terasa dalam berbagai narasi sejarah dan politik sampai era modern.",
+    "tags": ["perang-salib", "yerusalem", "abad-pertengahan", "kristen", "islam"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "sejarah-dunia.abad-pertengahan.dinasti-tang",
+    "judul": "Dinasti Tang",
+    "kategori": "sejarah-dunia",
+    "subkategori": "abad-pertengahan",
+    "periode": {
+      "mulai": "618",
+      "selesai": "907",
+      "label": "618 - 907 Masehi"
+    },
+    "ringkasan": "Salah satu dinasti paling gemilang dalam sejarah Tiongkok, dianggap sebagai zaman keemasan seni, sastra, dan perdagangan lewat Jalur Sutra yang berkembang pesat.",
+    "konten": "Dinasti Tang memerintah Tiongkok dari 618 hingga 907 Masehi, dan secara luas dianggap oleh sejarawan sebagai salah satu periode paling gemilang dan berpengaruh dalam seluruh sejarah panjang peradaban Tiongkok, sering dijuluki sebagai zaman keemasan budaya dan kekuasaan Tiongkok kuno. Di bawah pemerintahan Dinasti Tang, Tiongkok berkembang jadi salah satu kekuatan terbesar dan paling makmur di dunia pada masanya, dengan ibu kota Chang'an (sekarang Xi'an) menjadi salah satu kota terbesar dan paling kosmopolitan di dunia.\n\nSalah satu pencapaian besar era ini adalah berkembangnya Jalur Sutra secara maksimal, jaringan perdagangan yang menghubungkan Tiongkok dengan Asia Tengah, Timur Tengah, hingga Eropa, membawa masuk berbagai budaya, agama, dan barang dagangan dari berbagai penjuru dunia ke Tiongkok, sekaligus menyebarkan pengaruh budaya Tiongkok ke luar negeri. Era Tang juga jadi masa keemasan puisi Tiongkok klasik, dengan penyair-penyair legendaris seperti Li Bai dan Du Fu menghasilkan karya-karya yang masih dipelajari dan dikagumi sampai sekarang.\n\nDinasti Tang juga mencatat sejarah penting lain, termasuk pemerintahan Wu Zetian, satu-satunya perempuan yang pernah memerintah Tiongkok sebagai kaisar penuh (bukan sekadar permaisuri atau wali), yang berkuasa dari akhir abad ke-7 hingga awal abad ke-8. Selain kemajuan budaya, era Tang juga menyaksikan inovasi teknologi penting seperti pengembangan percetakan blok kayu (cikal bakal teknologi cetak) dan kemajuan dalam bidang kedokteran serta astronomi. Dinasti ini akhirnya melemah dan runtuh pada awal abad ke-10 akibat berbagai pemberontakan internal dan melemahnya otoritas pusat, namun warisan budaya dan pengaruhnya tetap membekas kuat dalam identitas dan kebanggaan sejarah Tiongkok sampai sekarang.",
+    "tags": ["dinasti-tang", "tiongkok", "jalur-sutra", "chang-an", "wu-zetian"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  }
+]

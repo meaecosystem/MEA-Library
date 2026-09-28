@@ -1,0 +1,36 @@
+[
+  {
+    "id": "sejarah-dunia.abad-pertengahan.bizantium",
+    "judul": "Kekaisaran Bizantium",
+    "kategori": "sejarah-dunia",
+    "subkategori": "abad-pertengahan",
+    "periode": {
+      "mulai": "330",
+      "selesai": "1453",
+      "label": "330 - 1453 Masehi"
+    },
+    "ringkasan": "Kelanjutan Kekaisaran Romawi Timur yang bertahan lebih dari seribu tahun setelah Romawi Barat runtuh, jadi pelindung penting warisan budaya Yunani-Romawi dan Kristen Ortodoks.",
+    "konten": "Kekaisaran Bizantium adalah kelanjutan dari Kekaisaran Romawi Timur, dengan ibu kota di Konstantinopel (didirikan Kaisar Constantine Agung pada 330 Masehi, sekarang Istanbul, Turki), yang berhasil bertahan lebih dari seribu tahun setelah Romawi Barat runtuh pada 476 Masehi. Meski secara resmi menganggap diri sebagai kelanjutan langsung Kekaisaran Romawi, Bizantium mengembangkan identitas budaya yang khas, dipengaruhi kuat oleh budaya Yunani dan agama Kristen Ortodoks, berbeda dari Romawi Barat yang lebih dipengaruhi budaya Latin dan Katolik.\n\nKonstantinopel, berkat lokasinya yang sangat strategis menghubungkan Eropa dan Asia, berkembang jadi salah satu kota terkaya dan paling maju di dunia pada masanya, dengan benteng pertahanan yang sangat kuat sehingga mampu bertahan dari berbagai serangan dan pengepungan selama berabad-abad. Kekaisaran ini mencapai puncak kejayaannya di bawah pemerintahan Kaisar Justinian I pada abad ke-6, yang berhasil merebut kembali sebagian besar wilayah bekas Kekaisaran Romawi Barat, sekaligus menyusun Corpus Juris Civilis, kodifikasi hukum Romawi yang sangat berpengaruh bagi perkembangan sistem hukum di Eropa selanjutnya.\n\nBizantium berperan sangat penting sebagai pelindung dan pelestari warisan pengetahuan klasik Yunani-Romawi selama Abad Pertengahan, ketika sebagian besar Eropa Barat mengalami kemunduran intelektual. Banyak naskah klasik Yunani yang kita kenal sekarang justru selamat berkat disalin dan dilestarikan para cendekiawan Bizantium. Kekaisaran ini akhirnya runtuh pada 1453 setelah Konstantinopel jatuh ke tangan Kesultanan Utsmaniyah (Ottoman) di bawah Sultan Mehmed II, sebuah peristiwa yang oleh banyak sejarawan dianggap menandai berakhirnya Abad Pertengahan dan dimulainya era modern awal di Eropa.",
+    "tags": ["bizantium", "konstantinopel", "justinian", "kristen-ortodoks", "romawi-timur"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "sejarah-dunia.abad-pertengahan.feodalisme-eropa",
+    "judul": "Feodalisme di Eropa",
+    "kategori": "sejarah-dunia",
+    "subkategori": "abad-pertengahan",
+    "periode": {
+      "mulai": "800",
+      "selesai": "1500",
+      "label": "sekitar abad ke-9 - abad ke-15 Masehi"
+    },
+    "ringkasan": "Sistem sosial-politik yang mendominasi Eropa selama Abad Pertengahan, berdasarkan hubungan timbal balik antara raja, bangsawan, ksatria, dan petani, sebagai respons atas ketidakstabilan pasca runtuhnya Romawi.",
+    "konten": "Feodalisme adalah sistem sosial, politik, dan ekonomi yang mendominasi sebagian besar Eropa selama Abad Pertengahan, berkembang sebagai respons atas kekacauan dan ketidakstabilan yang terjadi setelah runtuhnya Kekaisaran Romawi Barat, ketika tidak ada lagi otoritas pusat yang kuat untuk menjaga keamanan dan ketertiban di seluruh wilayah yang luas. Sistem ini pada dasarnya berbasis pada hubungan timbal balik antara berbagai tingkatan sosial, di mana perlindungan dan penggunaan lahan ditukar dengan kesetiaan dan layanan tertentu.\n\nDalam struktur feodal, raja secara teoritis memiliki seluruh tanah kerajaan, namun membagikan sebagian besar wilayahnya kepada para bangsawan (lord) sebagai imbalan atas kesetiaan dan dukungan militer mereka. Para bangsawan ini kemudian membagi lagi sebagian tanahnya kepada ksatria (knight) yang bertugas sebagai pasukan militer, sementara di lapisan paling bawah terdapat petani atau budak (serf) yang mengerjakan lahan pertanian sebagai imbalan atas perlindungan dan hak menggunakan sebagian kecil hasil panen untuk kebutuhan mereka sendiri.\n\nSistem feodal ini menciptakan struktur masyarakat yang sangat hierarkis dan terikat pada kewajiban timbal balik yang jelas, meski dalam praktiknya sering kali sangat menguntungkan kelas bangsawan dan sangat membebani petani yang berada di lapisan paling bawah. Kehidupan sehari-hari pada era feodal juga sangat berpusat di sekitar kastil atau manor, pusat kekuasaan lokal para bangsawan yang sekaligus berfungsi sebagai benteng pertahanan. Sistem feodalisme secara bertahap mulai melemah dan runtuh menjelang akhir Abad Pertengahan, dipicu berbagai faktor seperti wabah Black Death yang mengubah dinamika tenaga kerja, pertumbuhan kota dan perdagangan, serta menguatnya kekuasaan raja-raja yang mulai memusatkan kembali otoritas politik di berbagai kerajaan Eropa.",
+    "tags": ["feodalisme", "abad-pertengahan", "eropa", "bangsawan", "ksatria"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  }
+]

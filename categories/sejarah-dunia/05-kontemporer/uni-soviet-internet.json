@@ -1,0 +1,36 @@
+[
+  {
+    "id": "sejarah-dunia.kontemporer.runtuhnya-uni-soviet",
+    "judul": "Runtuhnya Uni Soviet",
+    "kategori": "sejarah-dunia",
+    "subkategori": "kontemporer",
+    "periode": {
+      "mulai": "1989",
+      "selesai": "1991",
+      "label": "1989 - 1991 Masehi"
+    },
+    "ringkasan": "Rangkaian peristiwa yang mengakhiri era Perang Dingin, ditandai jatuhnya Tembok Berlin dan bubarnya Uni Soviet, mengubah total peta politik dunia.",
+    "konten": "Runtuhnya Uni Soviet adalah rangkaian peristiwa besar yang menandai berakhirnya era Perang Dingin dan mengubah total tatanan geopolitik dunia. Prosesnya dimulai dengan kebijakan reformasi yang diperkenalkan pemimpin Soviet Mikhail Gorbachev sejak pertengahan 1980-an, yaitu Glasnost (keterbukaan informasi) dan Perestroika (restrukturisasi ekonomi), yang meski dimaksudkan memperbaiki sistem komunis Soviet, justru membuka jalan bagi kritik terbuka dan tuntutan perubahan yang lebih besar dari rakyat maupun negara-negara satelit Soviet di Eropa Timur.\n\nMomen paling simbolis dari runtuhnya blok komunis terjadi pada November 1989, ketika Tembok Berlin yang selama puluhan tahun memisahkan Jerman Barat dan Timur akhirnya diruntuhkan oleh rakyat Jerman sendiri, setelah pemerintah Jerman Timur yang tertekan gelombang protes besar akhirnya membuka perbatasan. Peristiwa ini dengan cepat memicu efek domino di seluruh Eropa Timur, dengan negara-negara satelit Soviet seperti Polandia, Hongaria, Cekoslowakia, dan lainnya satu per satu melepaskan diri dari kekuasaan komunis dan beralih ke sistem demokrasi.\n\nDi dalam Uni Soviet sendiri, berbagai republik konstituen mulai menuntut kemerdekaan penuh, sementara krisis ekonomi yang parah dan gagalnya kudeta konservatif terhadap Gorbachev pada Agustus 1991 semakin mempercepat proses disintegrasi. Uni Soviet akhirnya resmi bubar pada 26 Desember 1991, terpecah menjadi 15 negara merdeka, dengan Rusia sebagai penerus utamanya. Runtuhnya Uni Soviet mengakhiri era Perang Dingin yang berlangsung hampir setengah abad, menandai kemenangan blok Barat dan sistem kapitalis-demokrasi liberal, sekaligus memulai era baru di mana Amerika Serikat menjadi satu-satunya negara adidaya global untuk sementara waktu.",
+    "tags": ["uni-soviet", "tembok-berlin", "gorbachev", "perang-dingin", "eropa-timur"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "sejarah-dunia.kontemporer.era-internet-globalisasi",
+    "judul": "Era Internet dan Globalisasi",
+    "kategori": "sejarah-dunia",
+    "subkategori": "kontemporer",
+    "periode": {
+      "mulai": "1990",
+      "selesai": "sekarang",
+      "label": "sekitar 1990-an - sekarang"
+    },
+    "ringkasan": "Periode transformasi besar akibat berkembangnya internet dan teknologi digital, mempercepat globalisasi dan mengubah total cara manusia berkomunikasi, bekerja, dan mengakses informasi.",
+    "konten": "Era Internet dan Globalisasi merujuk pada periode transformasi besar-besaran dunia sejak sekitar awal 1990-an, ketika teknologi internet mulai berkembang pesat dan diakses publik secara luas, dimulai dengan penemuan World Wide Web oleh Tim Berners-Lee pada 1989-1991 yang membuat internet jauh lebih mudah diakses dibanding sebelumnya. Perkembangan ini dengan cepat mempercepat proses globalisasi, proses saling terhubungnya ekonomi, budaya, dan masyarakat di seluruh dunia yang sebenarnya sudah berlangsung lama namun dipercepat drastis oleh teknologi digital.\n\nInternet secara fundamental mengubah cara manusia mengakses informasi, berkomunikasi, dan berbisnis — kemunculan mesin pencari, email, kemudian media sosial dan platform e-commerce menghilangkan berbagai batasan geografis yang sebelumnya membatasi pertukaran informasi dan perdagangan global. Perusahaan-perusahaan teknologi besar yang lahir dari revolusi digital ini, seperti Google, Amazon, dan kemudian platform media sosial seperti Facebook dan Twitter, tumbuh jadi entitas ekonomi dan sosial yang sangat berpengaruh, mengubah cara masyarakat modern berinteraksi dan mengonsumsi informasi.\n\nGlobalisasi ekonomi juga semakin kuat didorong perkembangan teknologi ini, dengan rantai pasokan global yang semakin terintegrasi, memungkinkan perusahaan memproduksi barang di berbagai negara sekaligus menjualnya ke pasar global. Namun era ini juga membawa berbagai tantangan baru, termasuk kesenjangan digital antara yang memiliki akses teknologi dan yang tidak, masalah privasi data, penyebaran misinformasi yang lebih cepat lewat media sosial, serta kekhawatiran terhadap dampak otomasi dan kecerdasan buatan terhadap lapangan kerja tradisional. Era internet dan globalisasi ini terus berkembang sampai sekarang, dengan teknologi baru seperti kecerdasan buatan generatif yang mulai membawa gelombang transformasi besar berikutnya bagi peradaban manusia.",
+    "tags": ["internet", "globalisasi", "world-wide-web", "media-sosial", "teknologi-digital"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "sejarah-dunia.peradaban-kuno.mesir-kuno",
+    "judul": "Peradaban Mesir Kuno",
+    "kategori": "sejarah-dunia",
+    "subkategori": "peradaban-kuno",
+    "periode": {
+      "mulai": "-3100",
+      "selesai": "-30",
+      "label": "sekitar 3100 SM - 30 SM"
+    },
+    "ringkasan": "Salah satu peradaban tertua di dunia yang berkembang di sepanjang Sungai Nil, terkenal lewat piramida, sistem hieroglif, dan kekuasaan para firaun selama ribuan tahun.",
+    "konten": "Peradaban Mesir Kuno berkembang di sepanjang Sungai Nil, Afrika Utara, dimulai sekitar 3100 SM ketika Mesir Hulu dan Mesir Hilir disatukan di bawah satu penguasa, menandai lahirnya salah satu peradaban paling lama bertahan dalam sejarah manusia, berlangsung lebih dari tiga milenium sampai akhirnya ditaklukkan Romawi pada 30 SM. Keberlangsungan peradaban ini sangat bergantung pada banjir tahunan Sungai Nil yang secara teratur menyuburkan tanah pertanian di sekitarnya, memungkinkan surplus pangan yang mendukung populasi besar dan pembangunan monumental.\n\nMesir Kuno diperintah oleh firaun, penguasa yang dipercaya sebagai perwujudan dewa di bumi, dengan kekuasaan mutlak atas seluruh aspek kehidupan masyarakat. Peradaban ini terkenal lewat pencapaian arsitektur monumentalnya, terutama piramida-piramida megah yang dibangun sebagai makam para firaun, dengan Piramida Agung Giza yang dibangun untuk Firaun Khufu sekitar 2560 SM menjadi salah satu dari Tujuh Keajaiban Dunia Kuno dan satu-satunya yang masih bertahan sampai sekarang.\n\nSelain arsitektur, Mesir Kuno juga mewariskan sistem tulisan hieroglif yang kompleks, praktik mumifikasi yang rumit terkait kepercayaan kehidupan setelah mati, serta kemajuan dalam bidang matematika, astronomi, dan kedokteran yang cukup maju untuk masanya. Peradaban ini mengalami berbagai periode naik-turun kekuasaan sepanjang sejarahnya, termasuk era Kerajaan Lama, Kerajaan Tengah, dan Kerajaan Baru, sebelum akhirnya melemah dan jatuh di bawah kekuasaan berbagai kekuatan asing, memuncak dengan penaklukan Romawi yang mengakhiri era kemerdekaan politik Mesir Kuno.",
+    "tags": ["mesir-kuno", "firaun", "piramida", "hieroglif", "sungai-nil"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "sejarah-dunia.peradaban-kuno.mesopotamia",
+    "judul": "Peradaban Mesopotamia",
+    "kategori": "sejarah-dunia",
+    "subkategori": "peradaban-kuno",
+    "periode": {
+      "mulai": "-3500",
+      "selesai": "-539",
+      "label": "sekitar 3500 SM - 539 SM"
+    },
+    "ringkasan": "Peradaban di antara Sungai Tigris dan Eufrat, sering disebut sebagai tempat lahirnya peradaban, jadi rumah bagi kota pertama, tulisan pertama, dan hukum tertulis pertama di dunia.",
+    "konten": "Mesopotamia, yang secara harfiah berarti \"tanah di antara dua sungai\", merujuk pada wilayah subur di antara Sungai Tigris dan Eufrat (sekarang sebagian besar wilayah Irak), dan sering dijuluki sebagai \"tempat lahir peradaban\" karena berbagai pencapaian pertama umat manusia terjadi di kawasan ini. Bangsa Sumeria, salah satu kelompok masyarakat pertama yang menetap di Mesopotamia sekitar 3500 SM, dipercaya sebagai pencipta kota pertama di dunia, Uruk, sekaligus sistem tulisan pertama yang disebut cuneiform (tulisan paku).\n\nMesopotamia menyaksikan silih bergantinya berbagai kerajaan dan kekaisaran besar sepanjang sejarahnya, termasuk Akkadia, Babilonia, dan Asiria, masing-masing meninggalkan warisan penting bagi peradaban manusia. Salah satu pencapaian paling terkenal adalah Kode Hammurabi dari era Babilonia sekitar 1750 SM, salah satu kumpulan hukum tertulis tertua dan paling lengkap yang pernah ditemukan, mengatur berbagai aspek kehidupan masyarakat dengan prinsip \"mata dibalas mata\" yang jadi rujukan penting dalam sejarah perkembangan sistem hukum manusia.\n\nMesopotamia juga dikenal lewat pencapaian dalam bidang astronomi dan matematika, termasuk sistem bilangan berbasis 60 yang masih kita gunakan sampai sekarang untuk mengukur waktu (60 detik dalam satu menit, 60 menit dalam satu jam). Kota Babilonia sendiri, terutama di masa kejayaan Raja Nebukadnezar II, terkenal lewat Taman Gantung Babilonia yang dipercaya sebagai salah satu dari Tujuh Keajaiban Dunia Kuno, meski keberadaan fisiknya masih diperdebatkan sejarawan modern. Peradaban Mesopotamia akhirnya berakhir ketika ditaklukkan Kekaisaran Persia di bawah Cyrus Agung pada 539 SM.",
+    "tags": ["mesopotamia", "sumeria", "babilonia", "cuneiform", "hammurabi"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "sejarah-dunia.peradaban-kuno.yunani-kuno",
+    "judul": "Peradaban Yunani Kuno",
+    "kategori": "sejarah-dunia",
+    "subkategori": "peradaban-kuno",
+    "periode": {
+      "mulai": "-800",
+      "selesai": "-146",
+      "label": "sekitar 800 SM - 146 SM"
+    },
+    "ringkasan": "Peradaban yang meletakkan fondasi filsafat, demokrasi, dan sains Barat, terdiri dari negara-kota (polis) independen seperti Athena dan Sparta yang saling bersaing sekaligus berkontribusi besar bagi peradaban dunia.",
+    "konten": "Peradaban Yunani Kuno berkembang mulai sekitar abad ke-8 SM, terdiri dari berbagai negara-kota independen (disebut polis) yang masing-masing punya sistem pemerintahan, hukum, dan budaya sendiri, meski berbagi bahasa, agama, dan identitas Yunani yang sama. Dua polis paling berpengaruh dan sering dikontraskan dalam sejarah adalah Athena, yang jadi pelopor sistem pemerintahan demokrasi pertama di dunia, dan Sparta, yang terkenal dengan sistem militer dan disiplinnya yang sangat ketat.\n\nYunani Kuno meletakkan fondasi bagi banyak aspek peradaban Barat modern — dalam bidang filsafat, tokoh-tokoh seperti Socrates, Plato, dan Aristoteles mengembangkan cara berpikir kritis dan sistematis yang masih jadi dasar filsafat Barat sampai sekarang. Dalam bidang sains dan matematika, ilmuwan seperti Pythagoras, Archimedes, dan Euclid membuat berbagai penemuan fundamental yang terus dipelajari dan diterapkan sampai era modern. Yunani juga jadi tempat kelahiran teater sebagai bentuk seni, serta Olimpiade kuno, kompetisi olahraga yang jadi cikal bakal Olimpiade modern.\n\nSalah satu periode paling terkenal dalam sejarah Yunani Kuno adalah Perang Yunani-Persia (492-449 SM), di mana negara-kota Yunani berhasil mempertahankan kemerdekaan mereka dari ancaman Kekaisaran Persia yang jauh lebih besar, termasuk pertempuran legendaris Marathon dan Thermopylae. Namun, perpecahan internal antar polis Yunani, terutama konflik panjang antara Athena dan Sparta dalam Perang Peloponnesos, akhirnya melemahkan kekuatan kolektif Yunani, membuka jalan bagi penaklukan oleh Alexander Agung dari Makedonia dan kemudian oleh Romawi pada 146 SM, yang mengakhiri era kemerdekaan politik Yunani Kuno meski warisan budayanya terus hidup dan sangat memengaruhi peradaban Romawi serta dunia Barat selanjutnya.",
+    "tags": ["yunani-kuno", "athena", "sparta", "demokrasi", "filsafat-yunani"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  }
+]

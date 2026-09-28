@@ -1,0 +1,36 @@
+[
+  {
+    "id": "sejarah-dunia.peradaban-kuno.romawi-kuno",
+    "judul": "Peradaban Romawi Kuno",
+    "kategori": "sejarah-dunia",
+    "subkategori": "peradaban-kuno",
+    "periode": {
+      "mulai": "-753",
+      "selesai": "476",
+      "label": "753 SM - 476 Masehi"
+    },
+    "ringkasan": "Salah satu kekaisaran terbesar dalam sejarah dunia, berkembang dari kota kecil di Italia menjadi penguasa sebagian besar Eropa, Afrika Utara, dan Timur Tengah selama berabad-abad.",
+    "konten": "Peradaban Romawi Kuno bermula dari kota kecil di tepi Sungai Tiber, Italia, yang menurut legenda didirikan pada 753 SM oleh Romulus. Roma awalnya berbentuk kerajaan, kemudian bertransformasi jadi Republik Romawi sekitar 509 SM, dengan sistem pemerintahan yang melibatkan senat dan pejabat terpilih, sebuah model yang kelak sangat memengaruhi perkembangan sistem pemerintahan republik di berbagai negara modern, termasuk Amerika Serikat.\n\nLewat serangkaian penaklukan militer dan ekspansi selama berabad-abad, Roma berkembang dari kota kecil menjadi kekuatan yang menguasai seluruh Semenanjung Italia, lalu meluas mencakup sebagian besar Eropa, Afrika Utara, dan Timur Tengah, menjadikannya salah satu kekaisaran terbesar dalam sejarah manusia. Transisi dari Republik menjadi Kekaisaran Romawi terjadi pada 27 SM ketika Augustus (Octavianus) menjadi kaisar pertama, mengakhiri periode panjang perang saudara dan memulai era yang dikenal sebagai Pax Romana, masa kedamaian dan kemakmuran relatif yang berlangsung sekitar dua abad.\n\nRomawi meninggalkan warisan yang sangat besar bagi peradaban dunia — sistem hukum Romawi jadi dasar bagi banyak sistem hukum modern, bahasa Latin mereka jadi cikal bakal bahasa-bahasa Roman (Italia, Spanyol, Prancis, Portugis, Rumania), sementara pencapaian teknik seperti jalan raya, saluran air (akuaduk), dan bangunan monumental seperti Colosseum menunjukkan kemajuan rekayasa yang luar biasa untuk masanya. Kekaisaran Romawi akhirnya terpecah jadi Romawi Barat dan Romawi Timur, dengan Romawi Barat runtuh pada 476 Masehi akibat berbagai invasi suku-suku Jermanik, sementara Romawi Timur (Kekaisaran Bizantium) bertahan sampai lebih dari seribu tahun kemudian hingga 1453.",
+    "tags": ["romawi-kuno", "kekaisaran-romawi", "julius-caesar", "colosseum", "pax-romana"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "sejarah-dunia.peradaban-kuno.julius-caesar",
+    "judul": "Julius Caesar",
+    "kategori": "sejarah-dunia",
+    "subkategori": "peradaban-kuno",
+    "periode": {
+      "mulai": "-100",
+      "selesai": "-44",
+      "label": "100 SM - 44 SM"
+    },
+    "ringkasan": "Jenderal dan negarawan Romawi paling berpengaruh, penakluk Galia, yang kekuasaannya yang membesar mengakhiri era Republik Romawi dan berujung pembunuhannya oleh para senator.",
+    "konten": "Julius Caesar adalah salah satu tokoh paling berpengaruh dan terkenal dalam sejarah Romawi Kuno, seorang jenderal, negarawan, sekaligus penulis yang kariernya menandai titik balik penting dari era Republik menuju Kekaisaran Romawi. Ia mulai naik daun lewat karier militernya yang gemilang, terutama penaklukan wilayah Galia (sekarang sebagian besar Prancis) dalam serangkaian kampanye militer yang dikenal sebagai Perang Galia, memperluas wilayah kekuasaan Romawi secara signifikan sekaligus membangun basis kekuatan militer dan popularitas pribadinya yang sangat besar.\n\nKesuksesan militer dan popularitas Caesar yang terus membesar membuat Senat Romawi, yang saat itu memegang kekuasaan utama Republik, mulai khawatir akan ambisinya. Ketika diperintahkan membubarkan pasukannya dan kembali ke Roma tanpa otoritas militer, Caesar justru melakukan langkah berani yang mengubah sejarah — menyeberangi Sungai Rubicon bersama pasukannya pada 49 SM, sebuah tindakan yang secara hukum dianggap sebagai deklarasi perang terhadap Senat, memicu perang saudara yang akhirnya dimenangkan Caesar.\n\nSetelah memenangkan perang saudara, Caesar mengambil alih kekuasaan sebagai diktator Romawi, melakukan berbagai reformasi penting termasuk perubahan kalender yang jadi dasar kalender Julian (cikal bakal kalender modern yang kita pakai sekarang). Namun kekuasaannya yang semakin besar dan terpusat memicu kekhawatiran sekelompok senator bahwa ia berambisi menjadi raja, yang bertentangan dengan nilai-nilai Republik Romawi. Ketakutan ini berujung pada pembunuhan Caesar pada Ides of March (15 Maret) 44 SM, ditikam oleh sekelompok senator termasuk Brutus, orang yang dipercayanya. Kematian Caesar justru memicu perang saudara baru yang akhirnya melahirkan Kekaisaran Romawi di bawah keponakan sekaligus ahli warisnya, Augustus.",
+    "tags": ["julius-caesar", "romawi-kuno", "perang-galia", "ides-of-march", "republik-romawi"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "sejarah-dunia.prasejarah.homo-sapiens",
+    "judul": "Kemunculan Homo Sapiens",
+    "kategori": "sejarah-dunia",
+    "subkategori": "prasejarah",
+    "periode": {
+      "mulai": "-300000",
+      "selesai": "-50000",
+      "label": "sekitar 300.000 - 50.000 tahun lalu"
+    },
+    "ringkasan": "Kemunculan manusia modern (Homo sapiens) di Afrika, ditandai fosil tertua dari Jebel Irhoud, Maroko, sebelum akhirnya bermigrasi ke seluruh penjuru dunia.",
+    "konten": "Homo sapiens, spesies manusia modern yang kita kenal sekarang, diperkirakan pertama kali muncul di Afrika sekitar 300.000 tahun lalu, berdasarkan fosil tertua yang ditemukan di situs Jebel Irhoud, Maroko, yang menggeser perkiraan usia spesies kita jauh lebih tua dari dugaan sebelumnya. Sebelum Homo sapiens, berbagai spesies manusia purba lain seperti Homo erectus dan Homo neanderthalensis (Neanderthal) sudah lebih dulu tersebar di berbagai belahan dunia, namun hanya Homo sapiens yang bertahan sampai sekarang.\n\nSalah satu ciri khas yang membedakan Homo sapiens dari spesies manusia purba lain adalah kapasitas kognitif yang jauh lebih maju, memungkinkan kemampuan berpikir abstrak, berbahasa kompleks, dan berkreasi secara simbolis — terlihat dari berbagai bukti arkeologis seperti lukisan gua, perhiasan, dan alat-alat yang menunjukkan perencanaan jangka panjang. Kemampuan inilah yang kemudian memungkinkan manusia modern beradaptasi dengan berbagai kondisi lingkungan ekstrem di seluruh dunia.\n\nSekitar 70.000 hingga 50.000 tahun lalu, gelombang migrasi besar Homo sapiens keluar dari Afrika (dikenal sebagai teori \"Out of Africa\") membawa manusia modern menyebar ke Timur Tengah, Asia, Eropa, hingga akhirnya Australia dan benua Amerika. Dalam perjalanan migrasi ini, Homo sapiens sempat hidup berdampingan dan bahkan kawin campur dengan spesies manusia purba lain seperti Neanderthal, jejak genetiknya masih bisa ditemukan dalam DNA manusia modern non-Afrika sampai sekarang, sebelum akhirnya Homo sapiens menjadi satu-satunya spesies manusia yang bertahan hidup di planet ini.",
+    "tags": ["homo-sapiens", "evolusi-manusia", "jebel-irhoud", "migrasi-manusia", "afrika"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "sejarah-dunia.prasejarah.revolusi-neolitik",
+    "judul": "Revolusi Neolitik",
+    "kategori": "sejarah-dunia",
+    "subkategori": "prasejarah",
+    "periode": {
+      "mulai": "-10000",
+      "selesai": "-4000",
+      "label": "sekitar 10.000 - 4.000 SM"
+    },
+    "ringkasan": "Perubahan besar dari gaya hidup berburu-meramu menuju pertanian dan pemukiman menetap, jadi salah satu transformasi paling fundamental dalam sejarah peradaban manusia.",
+    "konten": "Revolusi Neolitik merujuk pada transformasi besar dalam cara hidup manusia, dari yang sebelumnya bergantung pada berburu dan meramu (mencari makanan liar) secara nomaden, menjadi bercocok tanam dan beternak secara menetap di satu tempat. Perubahan ini diperkirakan dimulai sekitar 10.000 SM di kawasan yang dikenal sebagai \"Bulan Sabit Subur\" (Fertile Crescent) di Timur Tengah, meliputi wilayah yang sekarang jadi bagian Irak, Suriah, dan sekitarnya, tempat manusia pertama kali mendomestikasi tanaman seperti gandum dan barli, serta hewan seperti domba dan kambing.\n\nDampak Revolusi Neolitik sangat besar dan fundamental bagi perkembangan peradaban manusia selanjutnya. Kemampuan menghasilkan surplus makanan lewat pertanian memungkinkan manusia menetap di satu wilayah dalam waktu lama, memicu terbentuknya pemukiman permanen pertama yang lambat laun berkembang jadi desa, lalu kota. Surplus pangan juga memungkinkan sebagian anggota masyarakat tidak perlu lagi fokus mencari makan, sehingga bisa mengembangkan keahlian khusus lain seperti kerajinan, perdagangan, atau kepemimpinan — cikal bakal pembagian kerja dan struktur sosial yang lebih kompleks.\n\nRevolusi Neolitik juga membawa dampak lain yang tidak selalu positif, termasuk peningkatan risiko penyakit menular akibat hidup berdekatan dengan hewan ternak, serta munculnya konsep kepemilikan lahan yang kemudian memicu berbagai konflik dan ketimpangan sosial baru. Meski begitu, transformasi ini tetap dianggap sebagai salah satu titik balik paling penting dalam sejarah manusia, meletakkan fondasi bagi lahirnya peradaban-peradaban besar berikutnya seperti Mesopotamia dan Mesir Kuno.",
+    "tags": ["revolusi-neolitik", "pertanian", "bulan-sabit-subur", "domestikasi", "prasejarah"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "sejarah-dunia.prasejarah.zaman-batu",
+    "judul": "Zaman Batu (Paleolitikum, Mesolitikum, Neolitikum)",
+    "kategori": "sejarah-dunia",
+    "subkategori": "prasejarah",
+    "periode": {
+      "mulai": "-3300000",
+      "selesai": "-3300",
+      "label": "sekitar 3,3 juta - 3.300 SM"
+    },
+    "ringkasan": "Periode panjang sejarah manusia yang ditandai penggunaan alat-alat batu sebagai teknologi utama, terbagi jadi tiga fase besar berdasarkan kompleksitas alat yang dihasilkan.",
+    "konten": "Zaman Batu adalah periode paling panjang dalam sejarah manusia, membentang jutaan tahun, dinamai demikian karena teknologi utama yang dipakai manusia pada masa ini adalah alat-alat yang terbuat dari batu. Zaman ini terbagi menjadi tiga fase besar berdasarkan tingkat kompleksitas dan cara pembuatan alat batunya: Paleolitikum (Zaman Batu Tua), Mesolitikum (Zaman Batu Tengah), dan Neolitikum (Zaman Batu Muda/Baru).\n\nPaleolitikum adalah fase terpanjang, dimulai sejak manusia purba pertama kali membuat alat batu sederhana sekitar 3,3 juta tahun lalu, mencakup periode ketika manusia masih hidup sebagai pemburu-peramu nomaden, membuat alat-alat kasar dengan cara memukul batu untuk menghasilkan sisi tajam. Fase ini juga mencakup era ketika manusia mulai menguasai api, menciptakan lukisan gua, dan mengembangkan kemampuan berburu yang lebih terorganisir dalam kelompok.\n\nMesolitikum menandai periode transisi, biasanya dikaitkan dengan berakhirnya zaman es terakhir sekitar 10.000 SM, ketika manusia mulai mengembangkan alat-alat yang lebih halus dan spesifik, serta mulai beradaptasi dengan perubahan lingkungan pasca zaman es. Fase terakhir, Neolitikum, adalah periode yang bertepatan dengan Revolusi Neolitik, ditandai kemunculan pertanian, peternakan, dan alat-alat batu yang jauh lebih halus dan diasah (bukan sekadar dipukul kasar), termasuk penggunaan tembikar. Zaman Batu ini berakhir seiring manusia mulai menguasai teknologi pengolahan logam, menandai dimulainya Zaman Perunggu dan babak baru peradaban manusia.",
+    "tags": ["zaman-batu", "paleolitikum", "mesolitikum", "neolitikum", "prasejarah"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  }
+]

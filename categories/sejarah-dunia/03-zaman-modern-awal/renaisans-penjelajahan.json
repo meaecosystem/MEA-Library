@@ -1,0 +1,36 @@
+[
+  {
+    "id": "sejarah-dunia.zaman-modern-awal.renaisans",
+    "judul": "Renaisans",
+    "kategori": "sejarah-dunia",
+    "subkategori": "zaman-modern-awal",
+    "periode": {
+      "mulai": "1350",
+      "selesai": "1600",
+      "label": "sekitar abad ke-14 - abad ke-17 Masehi"
+    },
+    "ringkasan": "Periode kebangkitan besar seni, ilmu pengetahuan, dan pemikiran di Eropa, dimulai dari Italia, menandai transisi dari Abad Pertengahan menuju era modern.",
+    "konten": "Renaisans, yang secara harfiah berarti \"kelahiran kembali\", adalah periode kebangkitan besar dalam seni, ilmu pengetahuan, filsafat, dan budaya yang dimulai di Italia sekitar abad ke-14, sebelum akhirnya menyebar ke seluruh Eropa selama beberapa abad berikutnya. Gerakan ini ditandai kebangkitan minat besar terhadap seni dan pemikiran klasik Yunani-Romawi kuno, yang sempat kurang mendapat perhatian selama sebagian besar Abad Pertengahan yang lebih didominasi fokus keagamaan.\n\nRenaisans melahirkan sejumlah seniman dan pemikir paling berpengaruh dalam sejarah peradaban manusia, termasuk Leonardo da Vinci, yang tidak hanya melukis karya-karya legendaris seperti Mona Lisa dan The Last Supper, tapi juga seorang polymath yang menguasai berbagai bidang mulai dari anatomi, teknik, hingga astronomi. Seniman besar lain seperti Michelangelo (pematung dan pelukis kubah Kapel Sistina) dan Raphael turut mendorong standar baru dalam seni rupa yang menekankan realisme, perspektif, dan penggambaran anatomi manusia yang lebih akurat.\n\nSelain seni, Renaisans juga membawa perkembangan penting dalam bidang ilmu pengetahuan dan pemikiran, dengan munculnya paham humanisme yang menempatkan potensi dan martabat manusia sebagai pusat perhatian, berbeda dari fokus keagamaan yang sangat dominan di Abad Pertengahan. Penemuan mesin cetak oleh Johannes Gutenberg sekitar 1440 juga memainkan peran sangat penting, memungkinkan penyebaran pengetahuan dan ide-ide baru secara jauh lebih cepat dan luas dibanding sebelumnya. Renaisans dianggap sebagai jembatan penting yang menghubungkan berakhirnya Abad Pertengahan dengan dimulainya era modern, meletakkan fondasi bagi Revolusi Ilmiah dan berbagai perkembangan besar Eropa selanjutnya.",
+    "tags": ["renaisans", "leonardo-da-vinci", "humanisme", "eropa", "seni-klasik"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "sejarah-dunia.zaman-modern-awal.penjelajahan-samudra",
+    "judul": "Zaman Penjelajahan Samudra",
+    "kategori": "sejarah-dunia",
+    "subkategori": "zaman-modern-awal",
+    "periode": {
+      "mulai": "1400",
+      "selesai": "1600",
+      "label": "sekitar abad ke-15 - abad ke-17 Masehi"
+    },
+    "ringkasan": "Periode ekspansi maritim besar-besaran bangsa Eropa mencari rute dagang baru ke Asia, mengubah total peta dunia dan memicu era kolonialisme global.",
+    "konten": "Zaman Penjelajahan Samudra (Age of Exploration) merujuk pada periode ekspansi maritim besar-besaran yang dilakukan bangsa Eropa mulai sekitar abad ke-15, didorong terutama oleh keinginan menemukan rute perdagangan laut baru menuju Asia untuk memperoleh rempah-rempah dan barang berharga lain, tanpa harus melewati rute darat yang dikuasai pedagang Muslim dan biayanya sangat mahal. Portugis dan Spanyol menjadi dua kekuatan pelopor utama dalam era ini, didorong kemajuan teknologi pelayaran seperti kapal karavel yang lebih tangguh dan penggunaan kompas serta astrolabe untuk navigasi.\n\nSalah satu momen paling menentukan dalam era ini adalah pelayaran Christopher Columbus pada 1492, yang berlayar ke arah barat dengan tujuan mencapai Asia, namun justru \"menemukan\" benua Amerika yang sebelumnya tidak diketahui bangsa Eropa (meski tentu sudah dihuni penduduk asli selama ribuan tahun sebelumnya). Penemuan ini membuka jalan bagi gelombang kolonisasi Eropa besar-besaran di benua Amerika, sekaligus memicu apa yang disebut sejarawan sebagai \"Pertukaran Kolombia\", perpindahan besar-besaran tanaman, hewan, penyakit, dan budaya antara Dunia Lama (Eropa-Afrika-Asia) dan Dunia Baru (Amerika).\n\nPencapaian penting lain dalam era ini termasuk pelayaran Vasco da Gama dari Portugis yang berhasil mencapai India lewat rute mengelilingi Afrika pada 1498, membuka jalur dagang laut langsung ke Asia, serta ekspedisi Ferdinand Magellan yang meski ia sendiri tewas di tengah perjalanan, awak kapalnya berhasil menyelesaikan pelayaran mengelilingi dunia pertama kali pada 1519-1522, membuktikan secara empiris bahwa bumi memang bulat. Zaman Penjelajahan Samudra secara fundamental mengubah pemahaman manusia tentang dunia, sekaligus memicu era kolonialisme global yang berdampak besar (baik positif maupun sangat destruktif) bagi hampir seluruh penjuru dunia selama berabad-abad berikutnya.",
+    "tags": ["penjelajahan-samudra", "columbus", "vasco-da-gama", "magellan", "kolonialisme"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  }
+]

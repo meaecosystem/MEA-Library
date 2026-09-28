@@ -1,0 +1,36 @@
+[
+  {
+    "id": "sejarah-dunia.zaman-modern-awal.reformasi-gereja",
+    "judul": "Reformasi Gereja Protestan",
+    "kategori": "sejarah-dunia",
+    "subkategori": "zaman-modern-awal",
+    "periode": {
+      "mulai": "1517",
+      "selesai": "1648",
+      "label": "1517 - 1648 Masehi"
+    },
+    "ringkasan": "Gerakan besar yang memecah kesatuan Gereja Katolik di Eropa, dipicu kritik Martin Luther terhadap praktik korup gereja, melahirkan berbagai denominasi Protestan baru.",
+    "konten": "Reformasi Gereja Protestan adalah gerakan keagamaan besar yang mengubah total lanskap Kristen di Eropa, dipicu ketika seorang biarawan dan teolog Jerman, Martin Luther, menempelkan 95 dalilnya yang mengkritik keras berbagai praktik Gereja Katolik pada pintu gereja di Wittenberg pada 1517. Salah satu kritik utamanya adalah praktik penjualan indulgensi (surat pengampunan dosa) yang dianggap Luther sebagai bentuk korupsi spiritual, di mana orang bisa \"membeli\" pengampunan dosa dengan uang, sesuatu yang menurutnya bertentangan dengan ajaran Alkitab.\n\nKritik Luther dengan cepat menyebar luas, terutama berkat teknologi mesin cetak yang baru berkembang, memungkinkan ide-idenya menyebar jauh lebih cepat dibanding era sebelumnya. Gerakan ini berkembang jadi perpecahan besar dalam dunia Kristen Eropa, melahirkan berbagai denominasi Protestan baru yang terpisah dari otoritas Paus dan Gereja Katolik Roma, termasuk Lutheranisme yang dipelopori Luther sendiri, serta Calvinisme yang dikembangkan John Calvin di Swiss, masing-masing dengan penekanan teologis dan praktik ibadah yang berbeda.\n\nReformasi Protestan membawa dampak yang sangat luas, tidak hanya dalam ranah keagamaan tapi juga politik dan sosial di Eropa — berbagai negara dan wilayah terpecah berdasarkan afiliasi keagamaan baru ini, memicu serangkaian konflik dan perang berdarah, termasuk Perang Tiga Puluh Tahun (1618-1648) yang jadi salah satu perang paling destruktif dalam sejarah Eropa sebelum era modern. Konflik ini akhirnya berakhir dengan Perjanjian Westphalia 1648, yang tidak hanya mengakhiri perang tapi juga meletakkan dasar penting bagi konsep negara berdaulat modern dalam hubungan internasional. Reformasi Protestan secara permanen mengubah peta keagamaan Eropa dan berpengaruh besar terhadap perkembangan budaya, politik, dan bahkan ekonomi di berbagai negara Eropa selanjutnya.",
+    "tags": ["reformasi-protestan", "martin-luther", "gereja-katolik", "perang-tiga-puluh-tahun", "eropa"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "sejarah-dunia.zaman-modern-awal.revolusi-prancis",
+    "judul": "Revolusi Prancis",
+    "kategori": "sejarah-dunia",
+    "subkategori": "zaman-modern-awal",
+    "periode": {
+      "mulai": "1789",
+      "selesai": "1799",
+      "label": "1789 - 1799 Masehi"
+    },
+    "ringkasan": "Revolusi besar yang menggulingkan monarki absolut Prancis, melahirkan gagasan kebebasan-kesetaraan-persaudaraan yang sangat memengaruhi gerakan demokrasi di seluruh dunia.",
+    "konten": "Revolusi Prancis adalah salah satu peristiwa paling penting dan berpengaruh dalam sejarah dunia modern, dipicu berbagai faktor termasuk krisis ekonomi parah, ketimpangan sosial yang sangat besar antara kalangan bangsawan-gereja dengan rakyat biasa, serta pengaruh ide-ide pencerahan (Enlightenment) tentang hak asasi manusia dan kedaulatan rakyat yang mulai berkembang luas di kalangan intelektual Prancis. Revolusi ini secara resmi dimulai dengan penyerbuan Penjara Bastille pada 14 Juli 1789 oleh massa rakyat Paris, sebuah peristiwa yang sampai sekarang diperingati sebagai Hari Nasional Prancis.\n\nRevolusi ini secara drastis mengubah struktur politik Prancis, menggulingkan sistem monarki absolut yang sudah berkuasa selama berabad-abad, dan pada puncaknya bahkan mengeksekusi Raja Louis XVI dan Ratu Marie Antoinette lewat guillotine pada 1793. Salah satu warisan paling penting dari Revolusi Prancis adalah semboyan \"Liberté, Égalité, Fraternité\" (Kebebasan, Kesetaraan, Persaudaraan), yang jadi fondasi bagi Deklarasi Hak Asasi Manusia dan Warga Negara, dokumen penting yang menegaskan prinsip kebebasan dan kesetaraan sebagai hak dasar semua manusia.\n\nRevolusi ini juga memasuki periode yang sangat berdarah dan penuh kekacauan, terutama fase yang dikenal sebagai \"Reign of Terror\" (Masa Teror) di bawah kepemimpinan Maximilien Robespierre, di mana ribuan orang yang dianggap musuh revolusi dieksekusi tanpa proses pengadilan yang layak. Revolusi Prancis akhirnya berakhir sekitar 1799 ketika Napoleon Bonaparte mengambil alih kekuasaan lewat kudeta, namun dampak jangka panjang revolusi ini jauh melampaui batas Prancis sendiri — ide-ide tentang kedaulatan rakyat, hak asasi manusia, dan penolakan terhadap monarki absolut yang lahir dari revolusi ini sangat memengaruhi gerakan-gerakan demokrasi dan revolusi di berbagai belahan dunia selama abad-abad berikutnya.",
+    "tags": ["revolusi-prancis", "bastille", "louis-xvi", "robespierre", "napoleon"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  }
+]

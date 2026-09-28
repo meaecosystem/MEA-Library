@@ -1,0 +1,36 @@
+[
+  {
+    "id": "sejarah-dunia.abad-20.revolusi-industri",
+    "judul": "Revolusi Industri",
+    "kategori": "sejarah-dunia",
+    "subkategori": "abad-20",
+    "periode": {
+      "mulai": "1760",
+      "selesai": "1840",
+      "label": "sekitar 1760 - 1840 Masehi (gelombang pertama)"
+    },
+    "ringkasan": "Transformasi besar dari produksi manual ke produksi mesin, dimulai di Inggris, mengubah total cara manusia bekerja, tinggal, dan menjalani kehidupan ekonomi.",
+    "konten": "Revolusi Industri adalah periode transformasi besar-besaran dalam cara produksi barang, dari yang sebelumnya mengandalkan tenaga manual dan kerajinan tangan, menjadi produksi berbasis mesin dan pabrik, dimulai di Inggris sekitar pertengahan abad ke-18 sebelum menyebar ke berbagai negara Eropa lain dan Amerika Serikat. Inggris menjadi pelopor karena kombinasi faktor menguntungkan seperti ketersediaan batu bara dan besi, sistem perbankan yang sudah cukup maju, serta stabilitas politik yang mendukung investasi jangka panjang.\n\nSalah satu penemuan paling penting yang memicu revolusi ini adalah mesin uap yang disempurnakan James Watt pada 1769, yang kemudian dipakai secara luas untuk menggerakkan mesin-mesin pabrik, kereta api, dan kapal, secara dramatis meningkatkan efisiensi dan kapasitas produksi dibanding metode manual sebelumnya. Industri tekstil jadi salah satu sektor pertama yang mengalami transformasi besar, dengan penemuan mesin pemintal dan tenun otomatis yang memungkinkan produksi kain dalam skala jauh lebih besar dan cepat.\n\nRevolusi Industri membawa perubahan sosial yang sangat mendalam — terjadi urbanisasi besar-besaran ketika jutaan orang berpindah dari desa ke kota untuk bekerja di pabrik-pabrik baru, melahirkan kelas pekerja industri (proletariat) yang kondisi kerjanya sering kali sangat buruk dan eksploitatif pada masa-masa awal, dengan jam kerja panjang dan upah rendah, bahkan melibatkan pekerja anak. Meski membawa berbagai dampak negatif bagi kesejahteraan pekerja pada awalnya, Revolusi Industri secara fundamental mengubah struktur ekonomi dunia, meletakkan fondasi bagi kapitalisme modern, sekaligus memicu berbagai gerakan sosial dan buruh yang kelak memperjuangkan hak-hak pekerja yang lebih baik di era-era selanjutnya.",
+    "tags": ["revolusi-industri", "mesin-uap", "james-watt", "inggris", "urbanisasi"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "sejarah-dunia.abad-20.perang-dunia-1",
+    "judul": "Perang Dunia I",
+    "kategori": "sejarah-dunia",
+    "subkategori": "abad-20",
+    "periode": {
+      "mulai": "1914",
+      "selesai": "1918",
+      "label": "1914 - 1918 Masehi"
+    },
+    "ringkasan": "Perang skala besar pertama yang melibatkan banyak negara dunia, dipicu pembunuhan Archduke Austria, menewaskan jutaan orang dan mengubah total peta politik dunia.",
+    "konten": "Perang Dunia I meletus pada 1914, dipicu langsung oleh pembunuhan Archduke Franz Ferdinand, pewaris takhta Kekaisaran Austria-Hongaria, oleh seorang nasionalis Serbia di Sarajevo. Meski pemicu langsungnya terlihat seperti insiden regional, ketegangan yang sudah lama membara di Eropa — termasuk persaingan kekuasaan antar negara besar, perlombaan senjata, sistem aliansi militer yang rumit, dan nasionalisme yang menguat — membuat konflik ini dengan cepat meluas jadi perang berskala benua bahkan dunia, melibatkan hampir semua kekuatan besar Eropa yang terbagi dalam dua blok utama: Blok Sentral (Jerman, Austria-Hongaria, Ottoman) melawan Blok Sekutu (Prancis, Inggris, Rusia, dan kemudian Amerika Serikat).\n\nPerang ini terkenal karena kondisi pertempuran yang sangat brutal dan mematikan, terutama di Front Barat di Eropa, di mana kedua pihak terjebak dalam perang parit (trench warfare) yang statis selama bertahun-tahun, dengan korban jiwa yang sangat besar untuk perolehan wilayah yang seringkali sangat minim. Perang Dunia I juga menandai penggunaan pertama berbagai teknologi senjata baru yang sangat mematikan, termasuk senjata kimia (gas beracun), tank, pesawat tempur, dan senapan mesin, yang secara drastis meningkatkan skala kehancuran dibanding perang-perang sebelumnya.\n\nPerang ini akhirnya berakhir pada November 1918 dengan kekalahan Blok Sentral, ditandai Gencatan Senjata dan kemudian Perjanjian Versailles 1919 yang memaksa Jerman menerima tanggung jawab penuh atas perang serta membayar ganti rugi yang sangat besar. Perang Dunia I menewaskan sekitar 15-20 juta jiwa (militer dan sipil), menghancurkan empat kekaisaran besar (Jerman, Austria-Hongaria, Ottoman, dan Rusia), dan secara fundamental mengubah peta politik dunia. Ironisnya, ketentuan Perjanjian Versailles yang dianggap terlalu memberatkan Jerman justru menciptakan kondisi ekonomi dan politik yang kelak memicu kebangkitan Nazi dan Perang Dunia II hanya dua dekade kemudian.",
+    "tags": ["perang-dunia-1", "franz-ferdinand", "perang-parit", "perjanjian-versailles", "eropa"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  }
+]
