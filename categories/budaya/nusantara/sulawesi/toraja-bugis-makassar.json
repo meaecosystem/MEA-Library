@@ -1,0 +1,32 @@
+[
+  {
+    "id": "budaya.nusantara-sulawesi.tongkonan",
+    "judul": "Tongkonan",
+    "kategori": "budaya",
+    "subkategori": "nusantara-sulawesi",
+    "periode": {
+      "label": "Tradisi arsitektur Toraja yang berakar sangat kuno, masih dibangun dan dijaga sampai sekarang"
+    },
+    "ringkasan": "Rumah adat tradisional suku Toraja dengan atap melengkung menyerupai perahu, jadi pusat kehidupan sosial dan spiritual keluarga besar Toraja.",
+    "konten": "Tongkonan adalah rumah adat tradisional suku Toraja di Sulawesi Selatan, dikenal luas karena bentuk atapnya yang khas melengkung tajam seperti perahu terbalik, dipercaya sebagai simbol perahu yang membawa leluhur Toraja pertama kali tiba di wilayah tersebut. Rumah ini dibangun mengarah ke utara, arah yang dalam kepercayaan Toraja melambangkan asal mula kehidupan, dan biasanya dihias ukiran-ukiran rumit berwarna merah, hitam, kuning, dan putih yang masing-masing punya makna simbolis mendalam.\n\nTongkonan bukan sekadar tempat tinggal, melainkan pusat kehidupan sosial, adat, dan spiritual bagi satu keluarga besar (tongkonan juga merujuk pada garis keturunan itu sendiri). Setiap Tongkonan punya status dan tingkatan berbeda dalam struktur sosial Toraja, dari yang berfungsi sebagai pusat pemerintahan adat, sampai tongkonan biasa yang dihuni keluarga tanpa peran adat khusus. Di depan Tongkonan biasanya berjejer tanduk kerbau yang dipasang bertumpuk di tiang utama rumah, jumlah dan ukurannya mencerminkan seberapa banyak kerbau yang pernah dikorbankan keluarga tersebut dalam berbagai upacara adat, terutama Rambu Solo (upacara kematian).\n\nMembangun sebuah Tongkonan membutuhkan biaya dan usaha besar, karena harus melibatkan seluruh anggota keluarga besar dan sering disertai berbagai ritual adat sepanjang prosesnya. Karena itu, keberadaan Tongkonan sangat dihormati dan dijaga kelestariannya oleh masyarakat Toraja, menjadikannya bukan hanya warisan arsitektur, tapi juga simbol identitas dan kebanggaan keluarga besar yang terus dijaga turun-temurun sampai sekarang.",
+    "tags": ["tongkonan", "toraja", "sulawesi-selatan", "arsitektur-tradisional", "rambu-solo"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "budaya.nusantara-sulawesi.phinisi",
+    "judul": "Kapal Pinisi",
+    "kategori": "budaya",
+    "subkategori": "nusantara-sulawesi",
+    "periode": {
+      "label": "Tradisi pembuatan kapal Bugis-Makassar yang berakar sangat kuno, diakui UNESCO pada 2017"
+    },
+    "ringkasan": "Kapal layar tradisional khas suku Bugis-Makassar, terkenal sebagai salah satu kapal kayu terbesar dan paling tangguh di dunia, jadi simbol keahlian pelayaran Nusantara.",
+    "konten": "Pinisi adalah kapal layar tradisional khas suku Bugis dan Makassar dari Sulawesi Selatan, dikenal luas sebagai salah satu jenis kapal kayu tradisional terbesar dan paling tangguh yang pernah dibuat manusia, mampu mengarungi lautan luas termasuk perjalanan antar pulau yang jauh dan bahkan sampai ke berbagai negara di kawasan Asia Tenggara. Kapal ini secara tradisional dibuat oleh para pengrajin ahli di desa Tana Beru dan Bira, Sulawesi Selatan, menggunakan pengetahuan turun-temurun tanpa cetak biru tertulis, melainkan mengandalkan pengalaman dan ingatan para pembuatnya.\n\nProses pembuatan Pinisi diawali dengan berbagai ritual adat, termasuk pemilihan hari baik untuk memulai pembangunan dan upacara peluncuran kapal, mencerminkan kepercayaan spiritual yang mendalam terkait keselamatan pelayaran. Kapal ini dibangun tanpa menggunakan cetakan atau gambar teknis modern, melainkan dengan teknik yang diwariskan lisan dari generasi ke generasi, sebuah keahlian yang sangat langka dan bernilai tinggi di era modern yang mayoritas mengandalkan teknologi digital.\n\nSelama berabad-abad, Pinisi jadi tulang punggung perdagangan maritim antar pulau di Nusantara, membawa berbagai komoditas dari satu wilayah ke wilayah lain, mencerminkan kepiawaian pelaut Bugis-Makassar yang memang terkenal luas sebagai salah satu pelaut ulung Nusantara. Berkat nilai budaya dan keahlian tradisional yang luar biasa ini, UNESCO mengakui seni pembuatan kapal Pinisi sebagai Warisan Budaya Takbenda Manusia pada 2017, mengukuhkan posisinya sebagai salah satu pencapaian maritim paling membanggakan dari kebudayaan Indonesia.",
+    "tags": ["pinisi", "bugis", "makassar", "kapal-tradisional", "unesco", "sulawesi-selatan"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  }
+]

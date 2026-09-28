@@ -1,0 +1,32 @@
+[
+  {
+    "id": "budaya.nusantara-kalimantan.tiwah",
+    "judul": "Upacara Tiwah",
+    "kategori": "budaya",
+    "subkategori": "nusantara-kalimantan",
+    "periode": {
+      "label": "Tradisi kepercayaan Kaharingan Dayak yang berakar sangat kuno, masih dipraktikkan sampai sekarang"
+    },
+    "ringkasan": "Upacara kematian terbesar dalam kepercayaan Kaharingan suku Dayak Ngaju, dilakukan untuk mengantarkan arwah leluhur menuju kehidupan setelah mati, bisa berlangsung berhari-hari.",
+    "konten": "Tiwah adalah upacara kematian terbesar dan paling penting dalam kepercayaan Kaharingan, agama leluhur tradisional suku Dayak Ngaju di Kalimantan Tengah. Upacara ini bertujuan mengantarkan arwah orang yang sudah meninggal menuju Lewu Tatau (\"negeri sejahtera\", surga dalam kepercayaan Kaharingan), sekaligus membebaskan sanak keluarga yang ditinggalkan dari berbagai pantangan yang harus dijalani sejak kematian terjadi sampai upacara ini dilaksanakan.\n\nBerbeda dari kebanyakan upacara kematian yang dilakukan segera setelah seseorang meninggal, Tiwah justru sering dilaksanakan bertahun-tahun kemudian, karena membutuhkan persiapan yang sangat besar baik dari segi biaya, waktu, maupun tenaga — termasuk penyembelihan sejumlah hewan sebagai persembahan (kerbau, babi, ayam) dan berbagai ritual kompleks yang dipimpin pemimpin adat/agama Kaharingan (disebut basir atau pisor). Karena besarnya biaya dan persiapan yang dibutuhkan, seringkali beberapa keluarga menggabungkan upacara Tiwah untuk anggota keluarga mereka yang sudah meninggal sekaligus dalam satu waktu.\n\nSalah satu bagian penting dari rangkaian Tiwah adalah pemindahan tulang belulang jenazah dari kuburan sementara ke tempat penyimpanan tulang permanen yang disebut sandung, sebuah bangunan kecil berukir yang jadi tempat peristirahatan terakhir arwah leluhur. Prosesi Tiwah bisa berlangsung berhari-hari, diiringi berbagai tarian, musik, dan ritual sakral, menjadikannya salah satu perayaan budaya sekaligus keagamaan paling meriah dan bermakna dalam tradisi masyarakat Dayak Ngaju, yang sampai sekarang masih dilestarikan meski banyak masyarakat Dayak modern telah memeluk agama Kristen atau Islam.",
+    "tags": ["tiwah", "kaharingan", "dayak-ngaju", "upacara-kematian", "kalimantan-tengah"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "budaya.nusantara-kalimantan.budaya-banjar",
+    "judul": "Budaya Banjar",
+    "kategori": "budaya",
+    "subkategori": "nusantara-kalimantan",
+    "periode": {
+      "label": "Berkembang sejak era Kesultanan Banjar (abad ke-16), terus lestari sampai sekarang"
+    },
+    "ringkasan": "Budaya masyarakat Banjar di Kalimantan Selatan, dikenal lewat tradisi Pasar Terapung, rumah adat Bubungan Tinggi, dan kuliner khas seperti soto Banjar.",
+    "konten": "Suku Banjar adalah kelompok etnis mayoritas di Kalimantan Selatan, dengan sejarah dan identitas budaya yang berkembang sejak era Kesultanan Banjar yang berdiri sekitar abad ke-16, sebuah kerajaan Islam yang cukup berpengaruh di kawasan tersebut. Salah satu tradisi paling ikonik dan dikenal luas dari budaya Banjar adalah Pasar Terapung, pasar tradisional unik yang berlangsung di atas perahu-perahu (disebut jukung) yang mengapung di sungai, biasanya berlangsung sejak dini hari, tempat para pedagang menjual berbagai hasil bumi dan kebutuhan sehari-hari langsung dari perahu mereka.\n\nRumah adat khas Banjar disebut Rumah Bubungan Tinggi, dinamai demikian karena bentuk atapnya yang menjulang sangat tinggi dan curam, mencerminkan status sosial pemiliknya — semakin tinggi dan rumit ukiran atapnya, semakin tinggi pula kedudukan sosial keluarga yang menghuninya pada masa lampau. Arsitektur ini juga disesuaikan dengan kondisi geografis Kalimantan Selatan yang banyak dialiri sungai dan rawa, sehingga rumah-rumah tradisional Banjar umumnya dibangun dengan struktur panggung untuk menghindari banjir musiman.\n\nDalam bidang kuliner, Banjar dikenal lewat berbagai hidangan khas seperti soto Banjar, sup ayam berkuah bening dengan campuran rempah khas dan biasanya disajikan dengan ketupat serta perkedel, serta kue-kue tradisional seperti bingka dan wadai (kue) yang kerap muncul dalam berbagai perayaan adat dan keagamaan. Kombinasi tradisi perairan, arsitektur unik, dan kekayaan kuliner ini menjadikan budaya Banjar sebagai salah satu identitas paling khas dan dikenal luas dari Kalimantan Selatan.",
+    "tags": ["banjar", "pasar-terapung", "kalimantan-selatan", "soto-banjar", "bubungan-tinggi"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  }
+]

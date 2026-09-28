@@ -1,0 +1,32 @@
+[
+  {
+    "id": "budaya.nusantara-papua.noken",
+    "judul": "Noken",
+    "kategori": "budaya",
+    "subkategori": "nusantara-papua",
+    "periode": {
+      "label": "Tradisi kerajinan Papua yang berakar sangat kuno, diakui UNESCO pada 2012"
+    },
+    "ringkasan": "Tas rajut tradisional Papua yang dibuat dari serat kulit kayu atau daun, punya fungsi praktis dan makna sosial mendalam bagi perempuan Papua.",
+    "konten": "Noken adalah tas tradisional khas Papua yang dibuat dengan teknik merajut atau menganyam menggunakan serat alami, biasanya dari kulit kayu atau serat daun tertentu yang diolah terlebih dahulu sebelum dipintal jadi benang. Proses pembuatan noken cukup panjang dan rumit, dimulai dari mengambil bahan mentah di hutan, mengolahnya jadi serat siap pakai, sampai akhirnya dirajut membentuk tas dengan berbagai motif dan ukuran sesuai kebutuhan dan tradisi masing-masing suku di Papua.\n\nNoken punya fungsi yang sangat serbaguna dalam kehidupan sehari-hari masyarakat Papua — dipakai membawa hasil kebun dan hasil buruan, menggendong bayi dan anak kecil, sampai membawa berbagai keperluan lain saat bepergian jauh. Keunikan noken terletak pada desainnya yang biasanya digantung di kepala dengan tali penyangga di dahi, sementara badan tas menjuntai di punggung, sebuah cara membawa beban yang dianggap efisien untuk perjalanan jauh di medan pegunungan maupun hutan Papua yang menantang.\n\nSelain fungsi praktisnya, noken juga punya makna sosial dan budaya yang mendalam bagi masyarakat Papua, terutama terkait peran perempuan yang secara tradisional bertanggung jawab membuat dan mewariskan keterampilan menganyam noken dari generasi ke generasi. Kemampuan membuat noken bahkan dianggap sebagai salah satu ukuran kedewasaan dan kesiapan seorang perempuan Papua untuk berumah tangga di beberapa suku. Karena nilai budaya yang tinggi ini, UNESCO mengakui noken sebagai Warisan Budaya Takbenda yang Memerlukan Perlindungan Mendesak pada 2012, menegaskan pentingnya melestarikan tradisi kerajinan khas Papua ini bagi generasi mendatang.",
+    "tags": ["noken", "papua", "unesco", "kerajinan-tradisional", "anyaman"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "budaya.nusantara-papua.ukiran-asmat",
+    "judul": "Ukiran Suku Asmat",
+    "kategori": "budaya",
+    "subkategori": "nusantara-papua",
+    "periode": {
+      "label": "Tradisi ukiran Suku Asmat yang berakar sangat kuno, terus lestari dan diakui secara internasional sampai sekarang"
+    },
+    "ringkasan": "Seni ukir kayu khas Suku Asmat di Papua Selatan, terkenal dengan motif rumit terkait leluhur dan spiritualitas, diakui sebagai salah satu seni ukir terbaik dunia.",
+    "konten": "Suku Asmat, yang mendiami wilayah pesisir selatan Papua, dikenal luas secara internasional sebagai salah satu kelompok masyarakat dengan tradisi seni ukir kayu paling menakjubkan dan bernilai tinggi di dunia. Ukiran Asmat biasanya menampilkan motif-motif rumit yang berkaitan erat dengan kepercayaan spiritual mereka, terutama terkait penghormatan terhadap leluhur dan alam sekitar, tempat mereka meyakini roh-roh nenek moyang terus hadir dan berperan dalam kehidupan sehari-hari.\n\nSalah satu bentuk ukiran paling terkenal dari Suku Asmat adalah tiang totem yang disebut mbis, diukir dengan sangat detail menampilkan figur-figur manusia bertumpuk yang melambangkan leluhur keluarga atau klan tertentu, biasanya dibuat sebagai bagian dari upacara adat penting terkait siklus kehidupan dan kematian. Ukiran-ukiran Asmat lain juga sering ditemukan pada perahu, perisai, dan berbagai perlengkapan upacara adat, semuanya dibuat dengan tingkat kerumitan dan detail artistik yang luar biasa tinggi.\n\nKeahlian mengukir dalam budaya Asmat bukan sekadar keterampilan seni biasa, melainkan dianggap sebagai bentuk komunikasi spiritual dengan dunia leluhur, di mana pengukir yang mahir sangat dihormati dalam struktur sosial masyarakat mereka. Karya seni ukir Asmat sekarang sangat dihargai di pasar seni internasional dan banyak dikoleksi museum-museum ternama dunia, menjadikan Suku Asmat sebagai salah satu perwakilan budaya Papua yang paling dikenal dan dihormati di kancah seni rupa dunia, sekaligus jadi kebanggaan besar bagi kekayaan seni tradisional Indonesia secara keseluruhan.",
+    "tags": ["asmat", "ukiran", "papua", "mbis", "seni-tradisional"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  }
+]

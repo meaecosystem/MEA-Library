@@ -1,0 +1,32 @@
+[
+  {
+    "id": "budaya.nusantara-jawa.kuliner-khas",
+    "judul": "Kuliner Khas Jawa",
+    "kategori": "budaya",
+    "subkategori": "nusantara-jawa",
+    "periode": {
+      "label": "Berkembang turun-temurun, sebagian resep sudah ada sejak era kerajaan Jawa kuno"
+    },
+    "ringkasan": "Ragam masakan tradisional Jawa yang punya cita rasa khas manis-gurih, termasuk gudeg, rawon, dan tempe, mencerminkan kekayaan rempah dan filosofi hidup masyarakat Jawa.",
+    "konten": "Kuliner Jawa dikenal luas dengan karakter rasa yang cenderung manis, terutama di wilayah Jawa Tengah dan Yogyakarta, berbeda dari masakan daerah lain di Indonesia yang lebih menonjolkan rasa pedas atau asam. Salah satu hidangan paling ikonik adalah gudeg, olahan nangka muda yang dimasak dengan santan dan gula aren selama berjam-jam hingga berwarna cokelat dan bertekstur lembut, biasanya disajikan bersama ayam kampung, telur, dan sambal krecek (kulit sapi pedas) sebagai penyeimbang rasa manisnya.\n\nDi Jawa Timur, karakter rasa cenderung lebih gurih dan kaya rempah, tercermin dalam hidangan seperti rawon, sup daging berkuah hitam pekat yang warnanya berasal dari kluwek (buah keluak yang difermentasi), memberikan cita rasa khas yang kompleks dan sedikit gurih-pahit yang unik. Rawon biasanya disantap dengan nasi, tauge pendek, dan sambal, menjadikannya salah satu hidangan berkuah paling khas dari wilayah Jawa Timur, terutama identik dengan kota Surabaya.\n\nSelain hidangan berkuah, Jawa juga jadi tempat kelahiran tempe, makanan fermentasi kedelai yang sekarang dikenal luas sebagai sumber protein nabati sehat di seluruh dunia. Tempe dipercaya sudah dibuat masyarakat Jawa sejak berabad-abad lalu, awalnya sebagai cara mengawetkan dan mengolah kedelai, dan sekarang jadi salah satu kontribusi kuliner Indonesia paling berpengaruh secara global, diakui sebagai makanan sehat dan berkelanjutan karena proses produksinya yang ramah lingkungan dibanding sumber protein hewani.",
+    "tags": ["gudeg", "rawon", "tempe", "kuliner-jawa", "masakan-tradisional"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "budaya.nusantara-jawa.tari-tradisional",
+    "judul": "Tari Tradisional Jawa (Bedhaya dan Reog Ponorogo)",
+    "kategori": "budaya",
+    "subkategori": "nusantara-jawa",
+    "periode": {
+      "label": "Bedhaya berakar sejak era Mataram Islam abad ke-17; Reog Ponorogo lebih tua, berakar sejak era kerajaan sebelumnya"
+    },
+    "ringkasan": "Dua bentuk tari tradisional Jawa yang sangat berbeda karakternya — Bedhaya yang anggun dan sakral dari lingkungan keraton, serta Reog Ponorogo yang energik dan penuh unsur magis dari Jawa Timur.",
+    "konten": "Tari Bedhaya adalah tarian sakral klasik dari lingkungan keraton Jawa (terutama Surakarta dan Yogyakarta), dibawakan oleh sembilan penari wanita dengan gerakan yang sangat lembut, anggun, dan penuh kontrol, mencerminkan nilai kehalusan budi dan kesucian dalam filosofi Jawa. Tarian ini awalnya hanya boleh dipentaskan dalam acara-acara sangat khusus di lingkungan keraton, seperti penobatan raja atau perayaan penting kenegaraan, karena dianggap punya nilai magis dan sakral yang tinggi, bukan sekadar hiburan biasa.\n\nGerakan dalam tari Bedhaya sangat terstruktur dan simbolis, setiap posisi dan formasi penari punya makna filosofis mendalam terkait kosmologi Jawa dan hubungan antara raja dengan kekuatan spiritual yang melegitimasi kekuasaannya. Musik gamelan yang mengiringi tarian ini juga khusus digubah dengan tempo lambat dan penuh penghayatan, menciptakan suasana khidmat yang sangat berbeda dari pertunjukan tari rakyat biasa.\n\nBerbanding terbalik dengan keanggunan Bedhaya, Reog Ponorogo dari Jawa Timur adalah pertunjukan tari rakyat yang jauh lebih energik dan spektakuler, paling ikonik lewat topeng raksasa berbentuk kepala singa (disebut Singa Barong) yang dihiasi bulu merak yang menjulang tinggi, dibawakan penari yang mengangkat topeng seberat puluhan kilogram tersebut hanya dengan kekuatan gigitan giginya. Pertunjukan Reog juga melibatkan berbagai karakter lain seperti Warok (sosok gagah perkasa) dan Jathil (penari menunggangi kuda lumping), dipercaya sarat unsur kekuatan spiritual dan latihan fisik-mental yang keras bagi para pemainnya, menjadikan Reog Ponorogo sebagai salah satu seni pertunjukan rakyat Indonesia yang paling dramatis dan dikenal luas, bahkan sampai mancanegara.",
+    "tags": ["tari-bedhaya", "reog-ponorogo", "tari-tradisional", "budaya-jawa", "keraton"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  }
+]

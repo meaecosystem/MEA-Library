@@ -1,0 +1,32 @@
+[
+  {
+    "id": "budaya.nusantara-sumatra.ulos-batak",
+    "judul": "Ulos Batak",
+    "kategori": "budaya",
+    "subkategori": "nusantara-sumatra",
+    "periode": {
+      "label": "Tradisi tenun Batak yang berakar sangat kuno, masih dipakai dalam upacara adat sampai sekarang"
+    },
+    "ringkasan": "Kain tenun tradisional masyarakat Batak (Sumatra Utara) yang punya makna sakral mendalam, diberikan dalam berbagai upacara adat sebagai simbol restu dan kasih sayang.",
+    "konten": "Ulos adalah kain tenun tradisional khas masyarakat Batak di Sumatra Utara, ditenun menggunakan alat tenun tradisional dengan benang yang biasanya didominasi warna merah, hitam, dan putih, meski sekarang berkembang juga variasi warna yang lebih beragam. Berbeda dari kain tradisional lain yang mungkin lebih berfungsi dekoratif, ulos punya makna spiritual dan sosial yang sangat mendalam dalam budaya Batak, sering disebut memiliki kekuatan untuk memberi kehangatan tidak hanya secara fisik tapi juga secara batin dan spiritual.\n\nUlos punya peran sentral dalam berbagai upacara adat Batak sepanjang siklus kehidupan, mulai dari kelahiran, pernikahan, hingga kematian. Dalam upacara pernikahan misalnya, pemberian ulos dari pihak keluarga perempuan (hula-hula) kepada pihak keluarga laki-laki (boru) mengandung makna simbolis pemberian restu dan doa untuk kehidupan rumah tangga yang baru dibina, sementara jenis dan cara pemberian ulos ini diatur sangat detail sesuai aturan adat (Dalihan Na Tolu) yang mengatur hubungan kekerabatan dalam masyarakat Batak.\n\nSetiap jenis ulos punya nama, motif, dan fungsi berbeda sesuai konteks upacaranya — misalnya Ulos Ragi Hotang yang biasa diberikan dalam upacara pernikahan, atau Ulos Sibolang yang punya makna terkait duka cita dan kematian. Filosofi di balik pemberian ulos ini mencerminkan nilai kekerabatan (marga) yang sangat kuat dalam masyarakat Batak, di mana hubungan antar keluarga besar dijaga dan diperkuat lewat berbagai simbol dan ritual adat yang diwariskan turun-temurun, menjadikan ulos bukan sekadar kain, melainkan medium penting yang menjalin hubungan sosial dan spiritual masyarakat Batak.",
+    "tags": ["ulos", "batak", "sumatra-utara", "tenun-tradisional", "upacara-adat"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "budaya.nusantara-sumatra.danau-toba",
+    "judul": "Danau Toba dan Legenda Asal-Usulnya",
+    "kategori": "budaya",
+    "subkategori": "nusantara-sumatra",
+    "periode": {
+      "label": "Legenda rakyat Batak, terkait fenomena geologi yang terbentuk puluhan ribu tahun lalu"
+    },
+    "ringkasan": "Danau vulkanik terbesar di Indonesia yang jadi pusat budaya Batak, dikelilingi legenda rakyat tentang seorang pemuda yang menikahi ikan mas jelmaan putri.",
+    "konten": "Danau Toba adalah danau vulkanik terbesar di Indonesia sekaligus salah satu yang terbesar di dunia, terbentuk dari letusan supervulkan raksasa yang terjadi puluhan ribu tahun lalu, meninggalkan kaldera besar yang kemudian terisi air dan membentuk danau megah yang sekarang dikelilingi budaya Batak yang kaya. Di tengah danau ini terdapat Pulau Samosir, yang jadi salah satu pusat kebudayaan Batak paling penting, dengan berbagai desa adat, rumah tradisional, dan situs bersejarah.\n\nSelain keindahan alam dan pentingnya secara geologi, Danau Toba juga dikelilingi legenda rakyat yang sangat terkenal di kalangan masyarakat Batak, mengisahkan seorang pemuda petani miskin yang suatu hari menangkap seekor ikan mas ajaib yang bisa berubah menjadi wanita cantik. Pemuda ini kemudian menikahinya dengan satu syarat: ia harus merahasiakan asal-usul istrinya sebagai jelmaan ikan, dan pernikahan mereka pun dikaruniai seorang anak laki-laki.\n\nNamun suatu hari, karena kelaparan dan kelelahan setelah bermain, sang anak menghabiskan seluruh makanan yang seharusnya untuk ayahnya, dan ketika ditegur, sang ayah dalam kemarahannya secara tidak sengaja mengungkap rahasia bahwa anaknya adalah \"anak ikan\". Pelanggaran sumpah ini memicu bencana besar — hujan turun sangat deras tiada henti, disertai gempa dan banjir dahsyat yang menenggelamkan seluruh wilayah tempat tinggal mereka, membentuk apa yang menurut legenda ini menjadi Danau Toba, sementara sang istri kembali ke wujud ikannya dan menghilang ke dalam danau tersebut.",
+    "tags": ["danau-toba", "batak", "legenda", "samosir", "sumatra-utara"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  }
+]

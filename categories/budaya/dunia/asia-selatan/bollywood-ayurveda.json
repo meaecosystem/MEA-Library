@@ -1,0 +1,32 @@
+[
+  {
+    "id": "budaya.dunia-asia-selatan.bollywood",
+    "judul": "Bollywood",
+    "kategori": "budaya",
+    "subkategori": "dunia-asia-selatan",
+    "periode": {
+      "label": "Berkembang sejak awal abad ke-20, mencapai puncak kejayaan global sejak akhir abad ke-20"
+    },
+    "ringkasan": "Industri perfilman berbahasa Hindi berpusat di Mumbai, India, terkenal lewat gaya bercerita dramatis dipadukan lagu dan tarian, jadi salah satu industri film terbesar di dunia.",
+    "konten": "Bollywood adalah sebutan populer untuk industri perfilman berbahasa Hindi yang berpusat di Mumbai (dulu bernama Bombay, dari situlah nama \"Bollywood\" berasal, gabungan Bombay dan Hollywood), India. Industri ini berkembang sejak awal abad ke-20, dengan film Hindi pertama yang menggunakan suara (bukan lagi bisu) diproduksi pada 1931, dan sejak itu terus berkembang jadi salah satu industri perfilman terbesar dan paling produktif di dunia, bahkan sering memproduksi lebih banyak film per tahun dibanding Hollywood.\n\nCiri khas paling menonjol dari film-film Bollywood adalah penggabungan berbagai elemen dalam satu film — drama, romansa, komedi, aksi, hingga tragedi — sering kali diselingi adegan musik dan tarian yang megah dan koreografinya rumit, menciptakan pengalaman menonton yang sangat berbeda dari gaya bercerita film Barat yang cenderung lebih fokus pada satu genre. Durasi film Bollywood juga umumnya lebih panjang dibanding film Hollywood, sering mencapai tiga jam, karena harus mengakomodasi berbagai elemen hiburan tersebut sekaligus dalam satu produksi.\n\nBollywood juga melahirkan banyak bintang film yang sangat populer tidak hanya di India tapi juga di berbagai negara lain, terutama di kawasan Asia Selatan, Timur Tengah, dan bahkan sebagian Afrika serta Asia Tenggara, di mana film-film Bollywood punya penggemar setia yang besar. Selain sebagai hiburan, industri Bollywood juga berperan penting dalam menyebarkan budaya dan bahasa India ke seluruh dunia, sekaligus jadi salah satu kontributor ekonomi yang signifikan bagi industri kreatif India secara keseluruhan, menjadikannya salah satu bentuk soft power budaya paling berpengaruh dari anak benua India.",
+    "tags": ["bollywood", "mumbai", "film-india", "industri-perfilman", "india"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "budaya.dunia-asia-selatan.ayurveda",
+    "judul": "Ayurveda",
+    "kategori": "budaya",
+    "subkategori": "dunia-asia-selatan",
+    "periode": {
+      "label": "Berakar sangat kuno dalam tradisi India, dipraktikkan sejak lebih dari 3000 tahun lalu"
+    },
+    "ringkasan": "Sistem pengobatan tradisional India yang berusia ribuan tahun, menekankan keseimbangan tubuh, pikiran, dan lingkungan lewat pendekatan holistik terhadap kesehatan.",
+    "konten": "Ayurveda adalah sistem pengobatan tradisional yang berakar sangat kuno dalam budaya India, dengan sejarah yang diperkirakan sudah dipraktikkan lebih dari 3000 tahun, menjadikannya salah satu sistem pengobatan tertua yang masih dipraktikkan sampai sekarang di dunia. Nama Ayurveda sendiri berasal dari bahasa Sanskerta, gabungan kata \"ayur\" (kehidupan) dan \"veda\" (pengetahuan), secara harfiah berarti \"pengetahuan tentang kehidupan\", mencerminkan pendekatan holistiknya yang tidak hanya fokus mengobati penyakit, tapi juga menjaga keseimbangan kesehatan secara menyeluruh.\n\nSalah satu konsep fundamental dalam Ayurveda adalah teori tiga dosha (Vata, Pitta, Kapha), yang dipercaya sebagai energi vital yang mengatur berbagai fungsi tubuh dan pikiran manusia. Menurut prinsip Ayurveda, setiap individu punya komposisi dosha yang unik, dan kesehatan dijaga dengan menyeimbangkan ketiga dosha ini lewat kombinasi diet, gaya hidup, ramuan herbal, dan berbagai praktik lain yang disesuaikan dengan konstitusi tubuh masing-masing orang, bukan pendekatan seragam untuk semua orang.\n\nPengobatan Ayurveda menggunakan berbagai metode termasuk ramuan herbal, pijat minyak khusus, teknik detoksifikasi (disebut Panchakarma), serta rekomendasi diet dan gaya hidup yang disesuaikan musim dan kondisi individu. Praktik ini juga sangat menekankan pencegahan penyakit lewat gaya hidup seimbang, bukan sekadar mengobati gejala setelah sakit muncul. Meski di masa modern Ayurveda sering dilihat sebagai pengobatan alternatif atau komplementer di luar India, di negara asalnya sistem ini tetap diakui secara resmi dan dipraktikkan berdampingan dengan pengobatan modern, dengan berbagai universitas dan institusi khusus yang mengajarkan Ayurveda secara formal, mencerminkan posisinya yang tetap dihormati dalam sistem kesehatan India sampai sekarang.",
+    "tags": ["ayurveda", "india", "pengobatan-tradisional", "dosha", "kesehatan-holistik"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  }
+]

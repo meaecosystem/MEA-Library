@@ -1,0 +1,32 @@
+[
+  {
+    "id": "budaya.nusantara-sumatra.tari-saman",
+    "judul": "Tari Saman",
+    "kategori": "budaya",
+    "subkategori": "nusantara-sumatra",
+    "periode": {
+      "label": "Berkembang sejak abad ke-14 di kalangan suku Gayo Aceh, diakui UNESCO pada 2011"
+    },
+    "ringkasan": "Tarian tradisional suku Gayo, Aceh, dibawakan puluhan penari duduk berbanjar dengan gerakan tangan dan tubuh yang sangat cepat dan kompak tanpa iringan alat musik.",
+    "konten": "Tari Saman adalah tarian tradisional dari suku Gayo di Aceh, yang keunikannya terletak pada cara penyajiannya — dibawakan puluhan penari (biasanya jumlah ganjil) yang duduk berbanjar rapat dalam posisi berlutut, menampilkan gerakan tangan, badan, dan kepala yang sangat cepat dan sinkron tanpa diiringi alat musik sama sekali. Irama tarian ini justru dihasilkan dari kombinasi tepukan tangan, tepukan dada, paha, dan suara vokal syair yang dinyanyikan bersama-sama oleh para penari sendiri.\n\nMenurut sejarahnya, Tari Saman diciptakan oleh seorang ulama bernama Syekh Saman pada sekitar abad ke-14, awalnya sebagai media dakwah untuk menyebarkan ajaran Islam di kalangan masyarakat Gayo, dengan syair-syair yang dilantunkan berisi pesan-pesan keagamaan, nasihat, dan pesan moral. Seiring waktu, tarian ini berkembang jadi seni pertunjukan yang lebih luas fungsinya, sering ditampilkan dalam berbagai perayaan adat dan acara kebudayaan, meski tetap mempertahankan unsur syair bermakna dalam liriknya.\n\nYang membuat Tari Saman begitu menakjubkan bagi penonton adalah tingkat kekompakan dan kecepatan gerakannya yang luar biasa — setiap penari harus hafal pola gerakan yang sangat rumit dan berubah-ubah tempo, sementara kesalahan sedikit saja bisa mengganggu keselarasan keseluruhan formasi. Karena keunikan dan nilai budaya yang tinggi ini, UNESCO mengakui Tari Saman sebagai Warisan Budaya Takbenda yang Memerlukan Perlindungan Mendesak pada 2011, sebuah pengakuan yang menegaskan pentingnya melestarikan tarian khas Aceh ini bagi generasi mendatang.",
+    "tags": ["tari-saman", "gayo", "aceh", "unesco", "tari-tradisional"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "budaya.nusantara-sumatra.melayu-riau",
+    "judul": "Budaya Melayu Riau",
+    "kategori": "budaya",
+    "subkategori": "nusantara-sumatra",
+    "periode": {
+      "label": "Tradisi Melayu yang berakar sejak era Kesultanan Melayu kuno, terus berkembang sampai sekarang"
+    },
+    "ringkasan": "Budaya Melayu di Riau yang berpengaruh besar terhadap bahasa Indonesia, mencakup tradisi pantun, seni silat, dan filosofi hidup yang menekankan kesopanan dan kehalusan tutur kata.",
+    "konten": "Budaya Melayu Riau adalah salah satu pusat kebudayaan Melayu paling penting di Nusantara, punya pengaruh sangat besar terhadap perkembangan bahasa Indonesia modern — bahasa Melayu Riau termasuk salah satu varian yang jadi rujukan penting dalam standarisasi bahasa Indonesia yang ditetapkan sejak Sumpah Pemuda 1928. Wilayah ini secara historis jadi pusat perdagangan dan kebudayaan penting berkat posisinya yang strategis di jalur pelayaran Selat Malaka.\n\nSalah satu tradisi sastra lisan paling khas dari budaya Melayu adalah pantun, bentuk puisi tradisional dengan pola rima dan struktur yang khas (biasanya terdiri dari sampiran dan isi), yang sampai sekarang masih hidup dan dipakai dalam berbagai acara adat, termasuk pernikahan dan penyambutan tamu penting. Kemahiran berpantun dianggap sebagai cerminan kecerdasan dan kehalusan budi seseorang dalam budaya Melayu, sering dipakai sebagai media menyampaikan nasihat, sindiran halus, atau ungkapan perasaan dengan cara yang santun dan penuh makna tersirat.\n\nFilosofi hidup masyarakat Melayu Riau sangat menekankan nilai kesopanan, kehalusan tutur kata, dan adab dalam berinteraksi sosial, tercermin dalam berbagai ungkapan dan pepatah tradisional yang mengatur tata krama kehidupan sehari-hari. Selain pantun, budaya Melayu Riau juga dikenal lewat seni bela diri tradisional (silat Melayu) dan berbagai upacara adat yang kaya nilai simbolis, menjadikan Riau sebagai salah satu kawasan yang paling identik dengan pelestarian nilai-nilai kebudayaan Melayu klasik di Indonesia.",
+    "tags": ["melayu-riau", "pantun", "bahasa-melayu", "budaya-melayu", "silat"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  }
+]

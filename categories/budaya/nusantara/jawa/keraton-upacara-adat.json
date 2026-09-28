@@ -1,0 +1,32 @@
+[
+  {
+    "id": "budaya.nusantara-jawa.keraton-yogyakarta-surakarta",
+    "judul": "Keraton Yogyakarta dan Surakarta",
+    "kategori": "budaya",
+    "subkategori": "nusantara-jawa",
+    "periode": {
+      "label": "Berdiri sejak 1755 (perpecahan Mataram Islam), masih eksis sampai sekarang"
+    },
+    "ringkasan": "Dua istana kerajaan Jawa yang lahir dari perpecahan Kesultanan Mataram Islam, sampai sekarang tetap jadi pusat kebudayaan Jawa yang hidup dan berpengaruh.",
+    "konten": "Keraton Yogyakarta (Kasultanan Ngayogyakarta Hadiningrat) dan Keraton Surakarta (Kasunanan Surakarta Hadiningrat) lahir dari peristiwa Perjanjian Giyanti pada 1755, yang membagi Kesultanan Mataram Islam menjadi dua akibat perebutan kekuasaan internal yang berkepanjangan, dengan turut campur tangan VOC yang memanfaatkan situasi ini untuk memperkuat pengaruhnya di Jawa. Meski terpecah, kedua keraton ini tetap menjadi pewaris langsung tradisi dan budaya besar Mataram.\n\nKedua keraton ini sampai sekarang masih berfungsi sebagai istana yang dihuni penerus dinasti masing-masing (Sultan di Yogyakarta, Sunan di Surakarta), sekaligus jadi pusat pelestarian budaya Jawa yang hidup — bukan sekadar museum atau situs sejarah, melainkan tempat berbagai tradisi, upacara adat, dan kesenian klasik Jawa terus dipraktikkan dan diwariskan sampai generasi sekarang. Berbagai upacara tahunan penting seperti Grebeg (perayaan yang menyertai hari besar Islam) dan Sekaten masih rutin diselenggarakan di kedua keraton ini.\n\nKeunikan lain dari Keraton Yogyakarta adalah statusnya yang istimewa dalam sistem pemerintahan Indonesia modern — berkat jasa dan dukungan Sultan Hamengkubuwono IX terhadap Republik Indonesia saat perjuangan kemerdekaan, Yogyakarta diberi status Daerah Istimewa, di mana Sultan yang berkuasa otomatis menjabat sebagai Gubernur, sebuah pengaturan unik yang tidak ada di provinsi lain di Indonesia, mencerminkan penghormatan besar negara terhadap peran sejarah dan legitimasi budaya keraton ini.",
+    "tags": ["keraton-yogyakarta", "keraton-surakarta", "sultan", "mataram-islam", "budaya-jawa"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "budaya.nusantara-jawa.upacara-daur-hidup",
+    "judul": "Upacara Adat Daur Hidup Jawa (Mitoni dan Tedak Siten)",
+    "kategori": "budaya",
+    "subkategori": "nusantara-jawa",
+    "periode": {
+      "label": "Tradisi yang berakar sangat kuno, masih dipraktikkan sampai sekarang meski sudah bercampur unsur Islam"
+    },
+    "ringkasan": "Rangkaian upacara adat Jawa yang menandai tahapan penting kehidupan manusia, termasuk Mitoni (tujuh bulanan kehamilan) dan Tedak Siten (bayi menginjak tanah pertama kali).",
+    "konten": "Masyarakat Jawa tradisional punya rangkaian upacara adat yang menandai berbagai tahapan penting dalam siklus kehidupan manusia, mulai dari sebelum lahir sampai kematian, mencerminkan filosofi mendalam tentang perjalanan hidup yang penuh makna spiritual. Salah satu yang paling terkenal adalah Mitoni (atau Tingkeban), upacara yang diadakan saat usia kehamilan memasuki bulan ketujuh, sebagai bentuk doa dan harapan agar proses persalinan berjalan lancar serta bayi yang dikandung lahir sehat dan selamat.\n\nDalam upacara Mitoni, biasanya dilakukan ritual siraman (memandikan calon ibu dengan air kembang tujuh rupa) dan prosesi memasukkan telur ayam kampung serta buah kelapa muda yang sudah digambari wayang ke dalam kain yang dipakai calon ibu, masing-masing dengan makna simbolis tersendiri terkait harapan kelahiran yang lancar dan jenis kelamin bayi. Setelah bayi lahir, tumbuh, dan mulai berusia sekitar tujuh atau delapan bulan (saat mulai bisa berjalan), diadakan upacara Tedak Siten, yang secara harfiah berarti \"turun ke tanah\", menandai momen pertama kali bayi diizinkan menginjakkan kaki ke tanah.\n\nDalam Tedak Siten, bayi dituntun berjalan melewati serangkaian rintangan simbolis seperti tangga dari tebu wulung (melambangkan usaha keras menuju kebahagiaan) dan kurungan ayam berisi berbagai benda (uang, buku, alat tulis, dll) yang dipercaya bisa menunjukkan bakat atau profesi masa depan si anak berdasarkan benda mana yang pertama diambilnya. Meski masyarakat Jawa modern sekarang mayoritas beragama Islam, kedua upacara ini masih banyak dipraktikkan sebagai tradisi budaya, mencerminkan bagaimana kepercayaan leluhur dan ajaran agama bisa hidup berdampingan dalam masyarakat Jawa.",
+    "tags": ["mitoni", "tedak-siten", "upacara-adat", "budaya-jawa", "daur-hidup"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "budaya.nusantara-sulawesi.rambu-solo",
+    "judul": "Rambu Solo",
+    "kategori": "budaya",
+    "subkategori": "nusantara-sulawesi",
+    "periode": {
+      "label": "Tradisi Aluk To Dolo yang berakar sangat kuno, masih dipraktikkan luas sampai sekarang"
+    },
+    "ringkasan": "Upacara pemakaman megah dan rumit khas suku Toraja, bisa berlangsung berhari-hari dan menghabiskan biaya besar, mencerminkan penghormatan tertinggi bagi arwah yang meninggal.",
+    "konten": "Rambu Solo adalah rangkaian upacara pemakaman tradisional suku Toraja yang sangat terkenal karena kompleksitas, skala, dan biayanya yang bisa sangat besar, kadang menghabiskan tabungan keluarga bertahun-tahun. Dalam kepercayaan Aluk To Dolo (kepercayaan leluhur Toraja), upacara ini wajib dilaksanakan secara layak agar arwah yang meninggal bisa mencapai Puya (alam baka) dengan sempurna — sebelum upacara ini dilaksanakan, jenazah dianggap masih \"sakit\" dan diperlakukan seolah masih hidup, dirawat dan disertakan dalam kehidupan sehari-hari keluarga.\n\nKarena besarnya biaya dan persiapan yang dibutuhkan (termasuk penyembelihan puluhan hingga ratusan ekor kerbau dan babi sebagai persembahan), banyak keluarga Toraja menunda pelaksanaan Rambu Solo bertahun-tahun setelah kematian sebenarnya terjadi, sampai mereka benar-benar siap secara finansial dan sosial untuk menggelar upacara sebesar mungkin sesuai status keluarga. Semakin tinggi status sosial keluarga, semakin besar dan mewah upacara yang harus digelar, termasuk jumlah kerbau yang dikorbankan — kerbau belang langka (disebut tedong bonga) bahkan bisa bernilai ratusan juta rupiah karena statusnya yang sangat prestisius.\n\nRangkaian Rambu Solo bisa berlangsung berhari-hari, melibatkan berbagai tahapan ritual, pertunjukan tari dan musik tradisional, adu kerbau (mapasilaga tedong), sampai akhirnya jenazah dimakamkan di liang batu (patane) yang diukir langsung di tebing atau gua-gua batu khas Toraja, kadang disertai penempatan patung kayu (tau-tau) yang menyerupai wajah orang yang meninggal sebagai penjaga simbolis makamnya. Tradisi ini sampai sekarang jadi salah satu daya tarik budaya paling terkenal dari Toraja, menarik wisatawan dari seluruh dunia yang penasaran menyaksikan langsung kompleksitas dan makna mendalam di balik upacara kematian yang unik ini.",
+    "tags": ["rambu-solo", "toraja", "aluk-to-dolo", "upacara-kematian", "tau-tau"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "budaya.nusantara-sulawesi.siri-bugis",
+    "judul": "Siri' na Pacce (Falsafah Hidup Bugis-Makassar)",
+    "kategori": "budaya",
+    "subkategori": "nusantara-sulawesi",
+    "periode": {
+      "label": "Filosofi hidup yang berakar sangat kuno dalam budaya Bugis-Makassar, masih sangat dijunjung sampai sekarang"
+    },
+    "ringkasan": "Falsafah hidup mendalam masyarakat Bugis-Makassar tentang harga diri (siri') dan solidaritas sosial (pacce), jadi pedoman moral yang sangat dijunjung tinggi.",
+    "konten": "Siri' na Pacce adalah falsafah hidup yang sangat sentral dalam budaya masyarakat Bugis dan Makassar di Sulawesi Selatan, terdiri dari dua konsep yang saling melengkapi: siri' yang berarti harga diri, martabat, dan rasa malu, serta pacce yang berarti solidaritas, empati, dan kepedulian sosial terhadap sesama. Kedua nilai ini bersama-sama membentuk pedoman moral yang sangat mendalam dan masih sangat dijunjung tinggi dalam kehidupan sehari-hari masyarakat Bugis-Makassar sampai sekarang.\n\nSiri' mengajarkan bahwa harga diri dan martabat adalah sesuatu yang harus dijaga mati-matian, bahkan dalam sejarahnya konsep ini pernah dikaitkan dengan tradisi mempertahankan kehormatan keluarga dengan cara-cara ekstrem jika terjadi pelanggaran serius terhadap martabat tersebut (meski praktik semacam ini sudah jauh berkurang di era modern). Di sisi lain, pacce mengajarkan pentingnya rasa solidaritas dan kepedulian terhadap sesama, terutama dalam situasi sulit atau penderitaan orang lain — seseorang yang punya pacce akan merasa ikut terluka atau prihatin melihat kesusahan orang lain, bahkan jika bukan keluarga atau kerabat dekatnya.\n\nKombinasi kedua nilai ini menciptakan karakter masyarakat Bugis-Makassar yang dikenal punya harga diri tinggi namun juga solidaritas sosial yang kuat, tercermin dalam berbagai aspek kehidupan mereka, mulai dari etika berbisnis, hubungan sosial, sampai keberanian merantau ke berbagai penjuru dunia yang jadi ciri khas masyarakat Bugis. Filosofi Siri' na Pacce ini sampai sekarang terus diajarkan dan dijunjung sebagai bagian penting identitas budaya Bugis-Makassar, membentuk karakter dan cara pandang hidup yang diwariskan dari generasi ke generasi.",
+    "tags": ["siri-na-pacce", "bugis", "makassar", "falsafah-hidup", "sulawesi-selatan"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  }
+]

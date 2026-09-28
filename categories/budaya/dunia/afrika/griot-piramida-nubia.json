@@ -1,0 +1,34 @@
+[
+  {
+    "id": "budaya.dunia-afrika.griot",
+    "judul": "Griot",
+    "kategori": "budaya",
+    "subkategori": "dunia-afrika",
+    "periode": {
+      "label": "Tradisi yang berakar sejak era Kekaisaran Mali (abad ke-13), masih dipraktikkan sampai sekarang"
+    },
+    "ringkasan": "Pencerita, penyanyi, dan penjaga sejarah lisan tradisional di Afrika Barat, berperan sebagai perpustakaan hidup yang mewariskan sejarah dan silsilah keluarga dari generasi ke generasi.",
+    "konten": "Griot (dalam beberapa bahasa lokal juga disebut jeli atau jali) adalah sosok pencerita, penyanyi, musisi, dan penjaga sejarah lisan tradisional yang berperan sangat penting dalam masyarakat Afrika Barat, terutama di kawasan yang dulu jadi bagian Kekaisaran Mali sejak abad ke-13. Berbeda dari sekadar penghibur biasa, griot punya peran sosial yang jauh lebih mendalam sebagai \"perpustakaan hidup\" yang menyimpan dan mewariskan sejarah, silsilah keluarga, serta nilai-nilai budaya lewat tradisi lisan dari generasi ke generasi, karena banyak masyarakat Afrika Barat secara historis tidak punya tradisi tulisan yang meluas.\n\nProfesi griot secara tradisional diwariskan turun-temurun dalam keluarga tertentu, dengan anak-anak griot dilatih sejak usia sangat muda untuk menghafal ribuan silsilah keluarga, kisah sejarah kerajaan, dan lagu-lagu tradisional yang bisa berlangsung berjam-jam saat dinyanyikan atau diceritakan. Griot biasanya juga mahir memainkan alat musik tradisional tertentu, seperti kora (alat musik petik mirip harpa) atau balafon (alat musik pukul mirip xilofon), yang mengiringi cerita dan nyanyian mereka.\n\nDalam masyarakat tradisional, griot sering dipanggil untuk berbagai acara penting seperti pernikahan, kelahiran, atau perayaan kerajaan, di mana mereka menceritakan sejarah keluarga atau kerajaan yang merayakan acara tersebut, sekaligus memberi nasihat dan bahkan kadang berperan sebagai penengah dalam konflik sosial berkat pengetahuan mendalam mereka tentang sejarah dan hubungan kekerabatan berbagai keluarga. Meski peran griot dalam masyarakat modern sudah banyak berubah seiring perkembangan zaman dan teknologi, tradisi ini tetap dilestarikan sebagai warisan budaya yang sangat berharga, dan beberapa griot modern bahkan berhasil membawa musik dan cerita tradisional mereka ke panggung internasional.",
+    "tags": ["griot", "afrika-barat", "mali", "sejarah-lisan", "kora"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "budaya.dunia-afrika.piramida-nubia",
+    "judul": "Piramida Nubia",
+    "kategori": "budaya",
+    "subkategori": "dunia-afrika",
+    "periode": {
+      "mulai": "-800",
+      "selesai": "300",
+      "label": "sekitar 800 SM - 300 Masehi"
+    },
+    "ringkasan": "Warisan arsitektur monumental Kerajaan Kush di Sudan (Nubia), dengan jumlah piramida yang bahkan lebih banyak dari Mesir, namun kalah terkenal secara internasional.",
+    "konten": "Piramida Nubia adalah warisan arsitektur monumental dari peradaban Kerajaan Kush yang berkembang di wilayah Nubia, sekarang bagian dari Sudan, di sepanjang Sungai Nil bagian selatan Mesir Kuno. Menariknya, meski kalah terkenal secara internasional dibanding piramida Mesir, jumlah piramida yang dibangun di Nubia sebenarnya jauh lebih banyak — diperkirakan lebih dari 200 piramida ditemukan di berbagai situs Nubia, dibanding sekitar 118 piramida yang diketahui di Mesir, mencerminkan betapa berpengaruhnya peradaban Kush ini meski kurang mendapat perhatian dalam narasi sejarah dunia yang lebih populer.\n\nKerajaan Kush punya hubungan yang kompleks dengan Mesir Kuno sepanjang sejarahnya — kadang sebagai wilayah taklukan Mesir, kadang sebagai kekuatan independen, bahkan pada satu periode (sekitar abad ke-8 SM) para penguasa Kush berhasil menaklukkan dan memerintah Mesir sendiri sebagai Dinasti ke-25 Mesir, periode yang dikenal sebagai era \"Firaun Hitam\". Piramida Nubia yang dibangun mencerminkan pengaruh arsitektur Mesir yang kuat, namun dengan gaya khas tersendiri — umumnya berukuran lebih kecil dan lebih curam sudut kemiringannya dibanding piramida Mesir, serta berfungsi sebagai makam para raja dan ratu Kush.\n\nSitus piramida Nubia paling terkenal berada di Meroe, yang jadi ibu kota Kerajaan Kush pada periode akhirnya, dengan lebih dari 40 piramida yang masih berdiri sampai sekarang, meski banyak yang mengalami kerusakan akibat penjarahan oleh penjelajah Eropa pada abad ke-19 yang mencari harta karun di dalamnya. Situs Meroe diakui UNESCO sebagai Situs Warisan Dunia pada 2011, sebuah pengakuan penting yang membantu meningkatkan kesadaran global tentang kekayaan sejarah dan arsitektur peradaban Nubia yang selama ini kurang mendapat perhatian dibanding tetangganya, Mesir Kuno.",
+    "tags": ["piramida-nubia", "kush", "meroe", "sudan", "firaun-hitam"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  }
+]

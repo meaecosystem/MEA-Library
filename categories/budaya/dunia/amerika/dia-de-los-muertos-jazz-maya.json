@@ -1,0 +1,51 @@
+[
+  {
+    "id": "budaya.dunia-amerika.dia-de-los-muertos",
+    "judul": "Dia de los Muertos",
+    "kategori": "budaya",
+    "subkategori": "dunia-amerika",
+    "periode": {
+      "label": "Berakar dari tradisi pra-Kolombia Meksiko, bercampur unsur Katolik sejak era kolonial, diakui UNESCO pada 2008"
+    },
+    "ringkasan": "Perayaan Hari Orang Mati khas Meksiko yang penuh warna, merayakan kehidupan dan mengenang leluhur yang sudah meninggal, bukan meratapinya dengan sedih.",
+    "konten": "Dia de los Muertos, atau \"Hari Orang Mati\", adalah perayaan khas Meksiko yang diadakan setiap tahun pada 1-2 November, berakar dari tradisi masyarakat pra-Kolombia seperti suku Aztec yang sudah lama memiliki ritual menghormati arwah leluhur, kemudian bercampur dengan unsur Katolik yang dibawa penjajah Spanyol, menciptakan perayaan unik yang menggabungkan kepercayaan asli dan pengaruh agama Kristen. Berbeda dari kebanyakan tradisi tentang kematian yang cenderung berduka dan sedih, Dia de los Muertos justru dirayakan dengan suasana meriah, penuh warna, dan perayaan kehidupan.\n\nSalah satu elemen paling ikonik dari perayaan ini adalah altar (disebut ofrenda) yang dibuat keluarga di rumah mereka, dihias dengan foto orang yang sudah meninggal, makanan dan minuman kesukaan mereka semasa hidup, bunga marigold berwarna oranye cerah (dipercaya aromanya membantu arwah menemukan jalan pulang), serta lilin dan dupa. Keluarga juga sering mengunjungi makam kerabat mereka, membersihkannya, dan mendekorasinya dengan bunga serta persembahan lain, sambil berkumpul bersama menikmati makanan dan bercerita tentang kenangan indah bersama orang yang telah tiada.\n\nSimbol lain yang sangat identik dengan Dia de los Muertos adalah calavera, tengkorak yang dihias sangat berwarna-warni dan dekoratif, sering muncul dalam bentuk kue gula, topeng, atau riasan wajah yang dipakai orang selama perayaan. Salah satu figur calavera paling terkenal adalah La Catrina, sosok tengkorak wanita elegan mengenakan topi besar bergaya kelas atas, yang awalnya diciptakan seniman José Guadalupe Posada sebagai sindiran sosial, namun kemudian jadi salah satu simbol paling ikonik dari perayaan Dia de los Muertos. Berkat kekayaan budaya dan maknanya yang mendalam, UNESCO mengakui tradisi ini sebagai Warisan Budaya Takbenda Manusia pada 2008.",
+    "tags": ["dia-de-los-muertos", "meksiko", "calavera", "la-catrina", "unesco"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "budaya.dunia-amerika.jazz",
+    "judul": "Jazz",
+    "kategori": "budaya",
+    "subkategori": "dunia-amerika",
+    "periode": {
+      "mulai": "1900",
+      "selesai": "sekarang",
+      "label": "sekitar awal abad ke-20 - sekarang"
+    },
+    "ringkasan": "Genre musik yang lahir di New Orleans, Amerika Serikat, hasil perpaduan tradisi musik Afrika dan Eropa, jadi salah satu kontribusi budaya Amerika paling berpengaruh di dunia.",
+    "konten": "Jazz adalah genre musik yang lahir di kota New Orleans, Amerika Serikat, sekitar awal abad ke-20, hasil perpaduan unik berbagai tradisi musik, terutama warisan musik Afrika yang dibawa para budak yang diperbudak paksa ke Amerika, digabungkan dengan elemen musik Eropa, blues, ragtime, dan musik gereja Afrika-Amerika (gospel). Perpaduan budaya yang kompleks ini menciptakan bentuk musik baru yang sangat khas, dengan ciri utama berupa improvisasi, sinkopasi ritme yang kompleks, dan penggunaan \"blue notes\" (nada yang sedikit lebih rendah dari standar untuk menciptakan nuansa emosional tertentu).\n\nJazz berkembang pesat sepanjang abad ke-20 lewat berbagai era dan sub-genre, mulai dari era Dixieland/New Orleans jazz awal, era swing yang sangat populer pada 1930-40an dengan big band-nya yang megah, hingga era bebop yang lebih kompleks dan eksperimental pada 1940-50an, dipelopori musisi legendaris seperti Charlie Parker dan Dizzy Gillespie. Tokoh-tokoh besar jazz seperti Louis Armstrong, Duke Ellington, dan Miles Davis tidak hanya membentuk arah perkembangan genre ini, tapi juga jadi ikon budaya Amerika yang sangat berpengaruh secara global.\n\nSalah satu ciri paling khas jazz adalah improvisasi — berbeda dari kebanyakan musik yang mengikuti partitur secara ketat, musisi jazz sering menciptakan melodi dan variasi baru secara spontan saat pertunjukan berlangsung, menjadikan setiap penampilan jazz unik dan tidak pernah persis sama meski memainkan lagu yang sama. Jazz juga punya makna sosial dan sejarah yang mendalam, erat kaitannya dengan sejarah perjuangan dan ekspresi budaya masyarakat Afrika-Amerika, sekaligus jadi salah satu kontribusi budaya Amerika paling berpengaruh dan dihormati di seluruh dunia, menginspirasi hampir semua genre musik populer modern yang berkembang setelahnya.",
+    "tags": ["jazz", "new-orleans", "amerika-serikat", "louis-armstrong", "improvisasi"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "budaya.dunia-amerika.suku-maya",
+    "judul": "Peradaban Maya",
+    "kategori": "budaya",
+    "subkategori": "dunia-amerika",
+    "periode": {
+      "mulai": "-2000",
+      "selesai": "1500",
+      "label": "sekitar 2000 SM - 1500 Masehi"
+    },
+    "ringkasan": "Peradaban kuno di Amerika Tengah yang mencapai kemajuan luar biasa dalam astronomi, matematika, dan arsitektur, meninggalkan warisan piramida megah dan sistem kalender yang sangat presisi.",
+    "konten": "Peradaban Maya berkembang di kawasan Amerika Tengah, mencakup wilayah yang sekarang jadi bagian Meksiko Selatan, Guatemala, Belize, dan sebagian Honduras serta El Salvador, dengan sejarah panjang yang membentang dari sekitar 2000 SM hingga masa penaklukan Spanyol pada abad ke-16. Berbeda dari kesan populer bahwa peradaban Maya \"menghilang\" secara misterius, sebenarnya masyarakat Maya tidak pernah benar-benar punah — jutaan keturunan Maya masih hidup dan melestarikan sebagian tradisi budaya mereka sampai sekarang, meski kejayaan politik dan kota-kota besar mereka memang mengalami kemunduran signifikan sekitar abad ke-9 Masehi akibat berbagai faktor seperti kekeringan berkepanjangan dan konflik internal.\n\nPeradaban Maya mencapai kemajuan luar biasa dalam berbagai bidang ilmu pengetahuan, terutama astronomi dan matematika. Mereka mengembangkan sistem kalender yang sangat rumit dan presisi, termasuk kalender Long Count yang mampu melacak waktu dalam skala ribuan tahun, serta sistem angka yang sudah mengenal konsep nol jauh sebelum banyak peradaban lain di dunia mengembangkannya secara independen. Pengetahuan astronomi mereka juga sangat maju, mampu memprediksi gerhana matahari dan bulan dengan akurasi tinggi berdasarkan pengamatan jangka panjang terhadap pergerakan benda langit.\n\nWarisan arsitektur Maya yang paling terkenal adalah piramida-piramida megah mereka, seperti Piramida Kukulkan di Chichen Itza (Meksiko) yang didesain sedemikian rupa sehingga bayangan matahari saat ekuinoks menciptakan efek visual menyerupai ular naga turun dari puncak piramida, menunjukkan pemahaman astronomi yang sangat canggih diterapkan langsung dalam arsitektur mereka. Situs-situs kota Maya kuno seperti Tikal (Guatemala) dan Palenque (Meksiko) sekarang jadi objek penelitian arkeologi penting sekaligus destinasi wisata terkenal, memberikan gambaran menakjubkan tentang kecanggihan salah satu peradaban paling maju di benua Amerika sebelum kedatangan bangsa Eropa.",
+    "tags": ["maya", "chichen-itza", "kalender-maya", "meksiko", "guatemala"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  }
+]

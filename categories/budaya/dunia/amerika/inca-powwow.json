@@ -1,0 +1,34 @@
+[
+  {
+    "id": "budaya.dunia-amerika.suku-inca",
+    "judul": "Peradaban Inca",
+    "kategori": "budaya",
+    "subkategori": "dunia-amerika",
+    "periode": {
+      "mulai": "1200",
+      "selesai": "1572",
+      "label": "sekitar 1200 - 1572 Masehi"
+    },
+    "ringkasan": "Kekaisaran terbesar di Amerika pra-Kolombia, berpusat di pegunungan Andes, terkenal lewat Machu Picchu dan sistem administrasi yang sangat maju tanpa mengenal tulisan.",
+    "konten": "Peradaban Inca berkembang di kawasan pegunungan Andes, Amerika Selatan, dengan pusat kekuasaan di Cusco (sekarang Peru), dan pada puncak kejayaannya di abad ke-15 dan awal abad ke-16 berhasil membangun kekaisaran terbesar di benua Amerika sebelum kedatangan bangsa Eropa, membentang dari Kolombia bagian selatan hingga Chile bagian tengah. Yang membuat pencapaian Inca sangat mengesankan adalah kemampuan mereka mengelola kekaisaran yang begitu luas dan beragam secara geografis, tanpa mengenal sistem tulisan seperti yang dikenal peradaban lain.\n\nSebagai gantinya, Inca mengembangkan sistem pencatatan unik yang disebut quipu, terdiri dari tali-tali dengan berbagai simpul dan warna yang dipakai mencatat data numerik seperti sensus penduduk, hasil panen, dan persediaan gudang kekaisaran. Inca juga terkenal dengan sistem infrastruktur yang sangat maju, termasuk jaringan jalan raya yang membentang ribuan kilometer melintasi medan pegunungan yang sangat menantang, menghubungkan seluruh wilayah kekaisaran dan memungkinkan sistem komunikasi cepat lewat pelari khusus (disebut chasqui) yang membawa pesan secara estafet.\n\nWarisan arsitektur paling terkenal dari peradaban Inca adalah Machu Picchu, kompleks kota kuno yang dibangun tinggi di pegunungan Andes, yang meski sempat ditinggalkan dan terlupakan selama berabad-abad, kembali ditemukan dunia internasional pada 1911 dan sekarang jadi salah satu situs arkeologi paling terkenal di dunia, diakui UNESCO sebagai Situs Warisan Dunia. Peradaban Inca akhirnya runtuh setelah penaklukan oleh penjajah Spanyol di bawah Francisco Pizarro pada 1532-1572, yang memanfaatkan perang saudara internal Inca serta membawa penyakit-penyakit Eropa yang menghancurkan populasi asli, mengakhiri era kekaisaran besar terakhir di benua Amerika sebelum dominasi kolonial Eropa.",
+    "tags": ["inca", "machu-picchu", "cusco", "peru", "quipu"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "budaya.dunia-amerika.powwow",
+    "judul": "Powwow",
+    "kategori": "budaya",
+    "subkategori": "dunia-amerika",
+    "periode": {
+      "label": "Berakar dari tradisi suku asli Amerika Utara, berkembang jadi bentuk modernnya sejak akhir abad ke-19, terus lestari sampai sekarang"
+    },
+    "ringkasan": "Perayaan tradisional suku asli Amerika (Native American) yang menggabungkan tarian, musik, dan pertemuan komunitas, jadi sarana penting melestarikan dan merayakan identitas budaya.",
+    "konten": "Powwow adalah perayaan tradisional yang berakar dari budaya berbagai suku asli Amerika Utara (Native American), berfungsi sebagai kesempatan penting untuk berkumpul, merayakan, dan melestarikan identitas budaya lewat tarian, musik, dan berbagai tradisi lain. Meski bentuk modern powwow seperti yang dikenal sekarang mulai berkembang sejak akhir abad ke-19, akar tradisi berkumpul dan merayakan bersama ini sudah ada jauh lebih lama dalam berbagai budaya suku asli Amerika, meski praktiknya sempat sangat ditekan pada era kolonial dan kebijakan asimilasi paksa pemerintah Amerika Serikat maupun Kanada terhadap masyarakat adat.\n\nSalah satu elemen sentral dalam powwow adalah tarian tradisional yang dibawakan dalam berbagai kategori berbeda, masing-masing dengan gaya, kostum, dan makna tersendiri — mulai dari tarian yang menampilkan gerakan energik dan kostum bulu berwarna-warni, hingga tarian yang lebih tenang dan anggun. Para penari biasanya mengenakan pakaian tradisional yang disebut regalia, dihias dengan sangat detail menggunakan manik-manik, bulu, dan berbagai ornamen lain yang punya makna budaya dan spiritual mendalam bagi suku atau keluarga tertentu.\n\nMusik dalam powwow biasanya dimainkan kelompok penabuh drum besar yang duduk mengelilingi drum tersebut sambil menyanyi bersama dalam bahasa asli mereka, menciptakan ritme yang jadi jantung dari keseluruhan perayaan, mengiringi setiap tarian yang berlangsung. Selain aspek seni pertunjukannya, powwow juga berfungsi sebagai ruang sosial penting bagi komunitas suku asli Amerika untuk berkumpul kembali, memperkuat ikatan kekerabatan antar suku yang berbeda, sekaligus jadi sarana pendidikan bagi generasi muda untuk belajar dan menghargai warisan budaya leluhur mereka. Sampai sekarang, powwow terus diadakan secara rutin di berbagai wilayah Amerika Utara, baik dalam skala komunitas kecil maupun perayaan besar yang menarik ribuan pengunjung dari berbagai suku dan latar belakang.",
+    "tags": ["powwow", "native-american", "suku-asli-amerika", "tarian-tradisional", "regalia"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  }
+]

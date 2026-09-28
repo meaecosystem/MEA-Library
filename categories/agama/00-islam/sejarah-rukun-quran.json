@@ -1,1 +1,51 @@
-
+[
+  {
+    "id": "agama.islam.sejarah-penyebaran",
+    "judul": "Sejarah dan Penyebaran Islam",
+    "kategori": "agama",
+    "subkategori": "islam",
+    "periode": {
+      "mulai": "610",
+      "selesai": "750",
+      "label": "610 - 750 Masehi (masa awal)"
+    },
+    "ringkasan": "Islam bermula di Mekah dan Madinah pada abad ke-7 Masehi, menyebar dengan cepat ke Jazirah Arab dan sekitarnya, kini jadi salah satu agama dengan pemeluk terbanyak di dunia.",
+    "konten": "Islam adalah agama yang menurut keyakinan umatnya diwahyukan Allah kepada Nabi Muhammad SAW, dimulai sekitar 610 Masehi di kota Mekah, Jazirah Arab, ketika Muhammad menerima wahyu pertama di Gua Hira. Setelah menghadapi penentangan keras dari sebagian masyarakat Mekah, Muhammad bersama pengikutnya berhijrah ke Madinah pada 622 Masehi, peristiwa yang dikenal sebagai Hijrah dan dijadikan titik awal penanggalan kalender Hijriah dalam Islam.\n\nSelama periode di Madinah, komunitas Muslim berkembang pesat, membangun struktur sosial dan politik yang terorganisir, sebelum akhirnya Mekah berhasil dikuasai kembali secara damai pada 630 Masehi. Setelah wafatnya Nabi Muhammad pada 632 Masehi, kepemimpinan umat Islam dilanjutkan para khalifah (pengganti), dan dalam waktu relatif singkat, wilayah kekuasaan dan pengaruh Islam meluas sangat cepat, mencakup sebagian besar Jazirah Arab, Timur Tengah, Afrika Utara, dan meluas hingga Spanyol di barat serta Asia Tengah di timur dalam kurun waktu kurang dari satu abad.\n\nPenyebaran Islam ke berbagai penjuru dunia berlangsung lewat berbagai jalur, termasuk perdagangan, dakwah, dan interaksi budaya, tidak selalu lewat penaklukan militer semata. Di Indonesia misalnya, Islam dipercaya masuk sekitar abad ke-13 lewat jalur perdagangan pedagang Arab, Persia, India, dan kemudian disebarkan lebih luas oleh para ulama dan Wali Songo di Jawa. Sekarang, Islam adalah salah satu agama dengan jumlah pemeluk terbanyak di dunia, dengan Indonesia sendiri menjadi negara dengan populasi Muslim terbesar secara jumlah, dan pemeluknya tersebar di hampir seluruh penjuru dunia dari Timur Tengah, Asia Selatan, Asia Tenggara, Afrika, hingga Eropa dan Amerika.",
+    "tags": ["islam", "nabi-muhammad", "mekah", "madinah", "hijrah"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-29"
+  },
+  {
+    "id": "agama.islam.rukun-islam-iman",
+    "judul": "Rukun Islam dan Rukun Iman",
+    "kategori": "agama",
+    "subkategori": "islam",
+    "periode": {
+      "label": "Ajaran dasar sejak awal Islam, abad ke-7 Masehi, dipraktikkan sampai sekarang"
+    },
+    "ringkasan": "Kerangka dasar praktik (Rukun Islam) dan kepercayaan (Rukun Iman) yang jadi fondasi utama ajaran Islam bagi seluruh umatnya.",
+    "konten": "Rukun Islam adalah lima praktik dasar yang menurut ajaran Islam wajib dijalankan setiap Muslim sebagai fondasi ibadah. Pertama adalah syahadat, ikrar kesaksian bahwa tiada Tuhan selain Allah dan Muhammad adalah utusan-Nya. Kedua adalah salat, ibadah sembahyang yang dilakukan lima waktu setiap hari menghadap kiblat (arah Ka'bah di Mekah). Ketiga adalah zakat, kewajiban menyisihkan sebagian harta bagi yang mampu untuk membantu golongan yang membutuhkan. Keempat adalah puasa Ramadhan, menahan diri dari makan, minum, dan hal-hal yang membatalkan puasa dari fajar hingga matahari terbenam selama bulan Ramadhan. Kelima adalah haji, ibadah ziarah ke Ka'bah di Mekah yang wajib dilakukan sekali seumur hidup bagi yang mampu secara fisik dan finansial.\n\nSelain Rukun Islam yang berupa praktik, terdapat juga Rukun Iman, yaitu enam pokok kepercayaan yang menjadi dasar keyakinan seorang Muslim. Rukun Iman meliputi percaya kepada Allah sebagai satu-satunya Tuhan, percaya kepada malaikat-malaikat-Nya, percaya kepada kitab-kitab yang diturunkan (termasuk Al-Qur'an sebagai kitab terakhir), percaya kepada para nabi dan rasul yang diutus Allah, percaya kepada hari akhir (kiamat) dan kehidupan setelah mati, serta percaya kepada qada dan qadar (takdir baik dan buruk yang ditetapkan Allah).\n\nKedua kerangka ini, Rukun Islam dan Rukun Iman, bersama-sama membentuk struktur dasar ajaran dan praktik yang diikuti umat Islam di seluruh dunia, meski dalam penerapannya bisa ada variasi mazhab atau tradisi lokal yang memengaruhi detail pelaksanaannya sesuai konteks budaya masing-masing komunitas Muslim.",
+    "tags": ["rukun-islam", "rukun-iman", "salat", "puasa", "haji"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-29"
+  },
+  {
+    "id": "agama.islam.al-quran-nabi",
+    "judul": "Al-Qur'an dan Nabi Muhammad SAW",
+    "kategori": "agama",
+    "subkategori": "islam",
+    "periode": {
+      "mulai": "570",
+      "selesai": "632",
+      "label": "sekitar 570 - 632 Masehi"
+    },
+    "ringkasan": "Al-Qur'an adalah kitab suci utama umat Islam yang diyakini sebagai wahyu Allah, diturunkan bertahap kepada Nabi Muhammad selama sekitar 23 tahun.",
+    "konten": "Al-Qur'an adalah kitab suci utama dalam ajaran Islam, diyakini umat Muslim sebagai firman Allah yang diwahyukan kepada Nabi Muhammad SAW lewat perantara Malaikat Jibril, diturunkan secara bertahap selama kurang lebih 23 tahun, dimulai sejak wahyu pertama di Gua Hira pada 610 Masehi hingga menjelang wafatnya Nabi Muhammad pada 632 Masehi. Al-Qur'an terdiri dari 114 surat (bab) dengan panjang yang bervariasi, ditulis dalam bahasa Arab, dan dipercaya umat Islam sebagai kitab yang terjaga keasliannya tanpa perubahan sejak diturunkan.\n\nNabi Muhammad SAW sendiri lahir di Mekah sekitar 570 Masehi, dari suku Quraisy yang terpandang, dan dikenal sebagai sosok yang jujur dan dipercaya sebelum diangkat menjadi nabi, mendapat julukan Al-Amin (yang dapat dipercaya) di kalangan masyarakat Mekah. Setelah menerima wahyu pertama pada usia sekitar 40 tahun, Muhammad mulai menyampaikan ajaran Islam, awalnya secara diam-diam kepada kerabat dan sahabat dekat, sebelum kemudian berdakwah secara terbuka meski menghadapi berbagai tantangan dan penentangan.\n\nDalam ajaran Islam, Nabi Muhammad diyakini sebagai nabi dan rasul terakhir yang diutus Allah, melanjutkan garis kenabian yang mencakup para nabi sebelumnya seperti Ibrahim, Musa, dan Isa yang juga dihormati dalam Islam. Selain Al-Qur'an, ajaran dan perilaku Nabi Muhammad yang tercatat dalam hadis (perkataan, perbuatan, dan ketetapan yang diriwayatkan para sahabatnya) juga menjadi sumber penting rujukan bagi umat Islam dalam menjalankan kehidupan sehari-hari, menjadikan sunnah (teladan) Nabi Muhammad sebagai panduan penting bersama Al-Qur'an dalam praktik keagamaan umat Islam di seluruh dunia.",
+    "tags": ["al-quran", "nabi-muhammad", "wahyu", "hadis", "kitab-suci"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-29"
+  }
+]

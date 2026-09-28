@@ -1,0 +1,32 @@
+[
+  {
+    "id": "budaya.dunia-asia-timur.origami",
+    "judul": "Origami",
+    "kategori": "budaya",
+    "subkategori": "dunia-asia-timur",
+    "periode": {
+      "label": "Berakar sejak abad ke-6 Masehi di Jepang, terus berkembang sampai sekarang"
+    },
+    "ringkasan": "Seni melipat kertas tradisional Jepang tanpa gunting atau lem, berkembang dari tradisi ritual keagamaan menjadi bentuk seni populer yang mendunia.",
+    "konten": "Origami adalah seni melipat kertas tradisional Jepang, namanya berasal dari gabungan kata \"oru\" (melipat) dan \"kami\" (kertas), dengan aturan dasar bahwa satu karya origami klasik hanya menggunakan satu lembar kertas persegi, dilipat menjadi berbagai bentuk tanpa gunting maupun lem. Seni ini diperkirakan mulai berkembang di Jepang sejak sekitar abad ke-6 Masehi, tak lama setelah teknologi pembuatan kertas masuk dari Tiongkok lewat biksu Buddha, awalnya berkembang sebagai bagian dari ritual keagamaan Shinto dan perayaan seremonial.\n\nPada masa awal perkembangannya, origami sangat terkait dengan upacara-upacara resmi kalangan bangsawan dan keagamaan, karena kertas pada masa itu masih sangat mahal dan langka, membuat origami jadi kegiatan eksklusif yang tidak bisa dilakukan sembarang orang. Seiring waktu dan semakin terjangkaunya harga kertas, origami mulai berkembang jadi bentuk hiburan dan seni yang lebih luas diakses masyarakat, dengan berbagai bentuk klasik seperti burung bangau (tsuru) yang jadi salah satu bentuk origami paling ikonik dan penuh makna simbolis.\n\nBurung bangau kertas origami secara khusus punya makna budaya yang sangat mendalam di Jepang, dikaitkan dengan harapan, kesembuhan, dan perdamaian — tradisi melipat seribu burung bangau kertas (disebut senbazuru) dipercaya bisa mengabulkan permohonan atau membawa keberuntungan, kisah ini makin populer secara internasional lewat cerita Sadako Sasaki, seorang anak korban bom atom Hiroshima yang melipat ribuan bangau kertas dengan harapan sembuh dari leukemia yang dideritanya. Origami sekarang berkembang jauh melampaui bentuk-bentuk klasik, bahkan menginspirasi penelitian ilmiah dan teknik dalam bidang teknik dan desain modern, seperti pengembangan struktur lipat untuk panel surya luar angkasa maupun desain kemasan produk.",
+    "tags": ["origami", "jepang", "seni-melipat-kertas", "senbazuru", "sadako-sasaki"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "budaya.dunia-asia-timur.kaligrafi-tiongkok",
+    "judul": "Kaligrafi Tiongkok",
+    "kategori": "budaya",
+    "subkategori": "dunia-asia-timur",
+    "periode": {
+      "label": "Berakar sangat kuno dalam budaya Tiongkok, dianggap seni tinggi sejak lebih dari 2000 tahun lalu"
+    },
+    "ringkasan": "Seni menulis aksara Tiongkok menggunakan kuas dan tinta, dianggap salah satu bentuk seni rupa tertinggi dalam tradisi Tiongkok, mencerminkan karakter dan jiwa sang penulis.",
+    "konten": "Kaligrafi Tiongkok adalah seni menulis aksara Han (hanzi) menggunakan kuas dan tinta, dianggap sebagai salah satu bentuk seni rupa paling tinggi dan dihormati dalam tradisi budaya Tiongkok, bahkan sering ditempatkan setara atau lebih tinggi dari seni lukis dalam hierarki seni klasik Tiongkok. Berbeda dari sekadar menulis biasa, kaligrafi Tiongkok menekankan keindahan bentuk, keseimbangan komposisi, serta ekspresi jiwa dan karakter sang penulis lewat setiap goresan kuas yang dihasilkan.\n\nAda beberapa gaya utama dalam kaligrafi Tiongkok yang berkembang sepanjang sejarah, mulai dari gaya segel (zhuanshu) yang paling kuno dan formal, gaya resmi (lishu) yang lebih jelas dan mudah dibaca, gaya biasa (kaishu) yang jadi standar penulisan formal sampai sekarang, hingga gaya rumput (caoshu) yang sangat mengalir, cepat, dan ekspresif, kadang sulit dibaca bahkan oleh penutur asli Tiongkok karena tingkat abstraksinya yang tinggi. Setiap gaya membutuhkan latihan bertahun-tahun untuk dikuasai dengan baik, dan seorang kaligrafer ulung dihormati setara dengan seniman besar lain dalam masyarakat Tiongkok tradisional.\n\nFilosofi di balik kaligrafi Tiongkok sangat terkait erat dengan ajaran Konfusianisme dan Taoisme, di mana proses menulis kaligrafi dipandang sebagai bentuk meditasi dan disiplin diri, mencerminkan keseimbangan antara kontrol dan spontanitas, kekuatan dan kelembutan. Alat-alat yang dipakai dalam kaligrafi — kuas, tinta, kertas, dan batu tinta — secara kolektif disebut \"Empat Harta Karun Ruang Belajar\" (Wenfang Sibao), dianggap sangat penting dan dihormati dalam tradisi keilmuan Tiongkok klasik. Sampai sekarang, kaligrafi Tiongkok tetap dipelajari dan dilestarikan sebagai bagian penting warisan budaya, baik di Tiongkok maupun di berbagai negara dengan pengaruh budaya Tiongkok seperti Jepang dan Korea.",
+    "tags": ["kaligrafi-tiongkok", "hanzi", "konfusianisme", "seni-tradisional", "tiongkok"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  }
+]

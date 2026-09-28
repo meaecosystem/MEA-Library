@@ -1,0 +1,32 @@
+[
+  {
+    "id": "budaya.dunia-timur-tengah.bazaar",
+    "judul": "Bazaar",
+    "kategori": "budaya",
+    "subkategori": "dunia-timur-tengah",
+    "periode": {
+      "label": "Berakar sangat kuno di Timur Tengah dan Persia, sebagian bazaar tertua sudah berusia ratusan tahun"
+    },
+    "ringkasan": "Pasar tradisional khas Timur Tengah dan Persia, jadi pusat perdagangan sekaligus kehidupan sosial dan budaya, dengan arsitektur khas lorong-lorong beratap yang rumit.",
+    "konten": "Bazaar adalah pasar tradisional yang jadi pusat perdagangan penting di Timur Tengah dan wilayah Persia sejak ribuan tahun lalu, berkembang jauh melampaui sekadar tempat jual beli menjadi pusat kehidupan sosial, budaya, bahkan politik masyarakat setempat. Kata \"bazaar\" sendiri berasal dari bahasa Persia, dan konsep pasar tradisional serupa ini menyebar luas ke berbagai wilayah yang dipengaruhi budaya Persia dan Arab, dari Timur Tengah, Asia Tengah, hingga sebagian Asia Selatan.\n\nSalah satu ciri khas arsitektur bazaar tradisional adalah struktur lorong-lorongnya yang beratap, sering kali membentuk jaringan rumit yang menghubungkan berbagai bagian kota, melindungi pengunjung dan pedagang dari terik matahari maupun cuaca ekstrem gurun. Di dalam bazaar, berbagai jenis pedagang biasanya dikelompokkan berdasarkan jenis barang dagangan mereka — misalnya area khusus penjual rempah-rempah, tekstil, perhiasan emas dan perak, hingga karpet tradisional, menciptakan sistem navigasi alami bagi pengunjung yang mencari barang tertentu.\n\nSelain fungsi ekonominya, bazaar secara historis juga berperan sebagai ruang publik penting tempat masyarakat bertukar informasi, berita, dan gosip, sekaligus tempat berbagai transaksi sosial dan bahkan politik terjadi. Beberapa bazaar bersejarah, seperti Grand Bazaar di Istanbul, Turki (salah satu pasar tertutup tertua dan terbesar di dunia) atau Bazaar Tehran di Iran, sampai sekarang tetap beroperasi aktif dan jadi destinasi penting bagi wisatawan yang ingin merasakan atmosfer perdagangan tradisional yang autentik, sekaligus jadi bukti hidup warisan budaya perdagangan Timur Tengah yang sudah berlangsung selama berabad-abad.",
+    "tags": ["bazaar", "pasar-tradisional", "timur-tengah", "persia", "grand-bazaar"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "budaya.dunia-timur-tengah.henna",
+    "judul": "Henna (Mehndi)",
+    "kategori": "budaya",
+    "subkategori": "dunia-timur-tengah",
+    "periode": {
+      "label": "Tradisi yang berakar sangat kuno di Timur Tengah dan Asia Selatan, masih dipraktikkan luas sampai sekarang"
+    },
+    "ringkasan": "Seni menghias tubuh menggunakan pasta dari tanaman henna, dipakai dalam berbagai perayaan dan upacara penting, terutama pernikahan, di kawasan Timur Tengah dan Asia Selatan.",
+    "konten": "Henna, yang di beberapa wilayah juga disebut Mehndi, adalah seni menghias kulit menggunakan pasta yang terbuat dari daun tanaman henna (Lawsonia inermis) yang dikeringkan dan dihaluskan, menghasilkan warna oranye-cokelat kemerahan pada kulit setelah pasta dikeringkan dan dikelupas. Tradisi menghias tubuh dengan henna ini berakar sangat kuno di kawasan Timur Tengah, Afrika Utara, dan Asia Selatan, dengan bukti penggunaannya ditemukan dalam berbagai catatan sejarah dan bahkan mumi Mesir Kuno.\n\nDalam praktiknya, henna dipakai membentuk berbagai motif rumit dan indah di tangan dan kaki, dengan pola yang bisa sangat detail — mulai dari motif geometris, bunga-bungaan, hingga desain yang sangat personal dan simbolis tergantung tradisi budaya masing-masing wilayah. Proses pembuatan motif henna membutuhkan keahlian khusus, biasanya dilakukan seniman henna berpengalaman yang mengaplikasikan pasta menggunakan kerucut kecil (mirip alat dekorasi kue) untuk menghasilkan garis-garis halus dan presisi.\n\nHenna paling identik dengan perayaan pernikahan di berbagai budaya Timur Tengah dan Asia Selatan, di mana biasanya diadakan malam khusus sebelum pernikahan (disebut Night of Henna atau di India dikenal sebagai Mehndi Night) yang dirayakan khusus untuk menghias tangan dan kaki pengantin wanita dengan motif henna yang sangat rumit dan indah, sering kali disertai perayaan dan musik bersama keluarga serta teman dekat. Selain untuk pernikahan, henna juga dipakai dalam berbagai perayaan lain seperti Idul Fitri di kalangan Muslim, atau festival Diwali di kalangan Hindu India, menjadikan tradisi ini sebagai salah satu bentuk seni tubuh yang paling luas dipraktikkan lintas budaya dan agama di kawasan Timur Tengah hingga Asia Selatan.",
+    "tags": ["henna", "mehndi", "seni-tubuh", "pernikahan", "timur-tengah"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  }
+]
