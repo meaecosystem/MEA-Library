@@ -1,0 +1,36 @@
+[
+  {
+    "id": "sejarah-indonesia.reformasi.era-habibie",
+    "judul": "Era Presiden B.J. Habibie",
+    "kategori": "sejarah-indonesia",
+    "subkategori": "reformasi",
+    "periode": {
+      "mulai": "1998",
+      "selesai": "1999",
+      "label": "21 Mei 1998 - 20 Oktober 1999"
+    },
+    "ringkasan": "Masa transisi singkat namun penuh perubahan besar, meletakkan fondasi kebebasan pers, kebebasan berpolitik, dan lepasnya Timor Timur lewat referendum.",
+    "konten": "B.J. Habibie naik jadi presiden secara mendadak menggantikan Soeharto yang mengundurkan diri pada 21 Mei 1998, di tengah situasi negara yang masih sangat rapuh akibat krisis ekonomi dan tuntutan reformasi yang menggebu. Meski masa jabatannya relatif singkat, hanya sekitar 17 bulan, era Habibie dianggap banyak sejarawan sebagai fondasi penting yang meletakkan dasar-dasar demokratisasi Indonesia pasca Orde Baru.\n\nDi bawah Habibie, kebebasan pers yang selama puluhan tahun dibungkam Orde Baru mulai dibuka lebar — pembatasan penerbitan media dicabut, memungkinkan munculnya banyak media baru yang lebih bebas mengkritik pemerintah. Ia juga membuka kebebasan berpolitik dengan mencabut aturan yang membatasi jumlah partai politik, membuka jalan bagi pemilu multipartai pertama pasca reformasi pada 1999, yang jadi pemilu paling demokratis sejak 1955.\n\nSalah satu keputusan paling kontroversial sekaligus bersejarah di era Habibie adalah kebijakannya mengizinkan referendum kemerdekaan bagi Timor Timur, wilayah yang sejak 1975 diintegrasikan (dengan kontroversi) ke Indonesia. Referendum yang digelar Agustus 1999 ini akhirnya dimenangkan pihak yang menginginkan kemerdekaan, dan Timor Timur resmi lepas dari Indonesia pada 1999, kemudian menjadi negara merdeka bernama Timor Leste pada 2002. Habibie sendiri tidak mencalonkan diri lagi setelah pertanggungjawabannya ditolak MPR pada Oktober 1999.",
+    "tags": ["habibie", "reformasi", "kebebasan-pers", "timor-timur", "referendum"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "sejarah-indonesia.reformasi.era-gus-dur",
+    "judul": "Era Presiden Abdurrahman Wahid (Gus Dur)",
+    "kategori": "sejarah-indonesia",
+    "subkategori": "reformasi",
+    "periode": {
+      "mulai": "1999",
+      "selesai": "2001",
+      "label": "20 Oktober 1999 - 23 Juli 2001"
+    },
+    "ringkasan": "Presiden pertama hasil pemilu demokratis pasca reformasi, dikenal dengan gagasan pluralisme dan toleransinya, namun masa jabatannya berakhir lewat pemakzulan MPR.",
+    "konten": "Abdurrahman Wahid, yang akrab disapa Gus Dur, terpilih jadi presiden keempat Indonesia lewat pemilihan MPR pada Oktober 1999, hasil dari pemilu multipartai pertama pasca reformasi. Sebagai tokoh ulama besar dan mantan ketua umum Nahdlatul Ulama, Gus Dur dikenal luas dengan gagasan-gagasannya tentang pluralisme, toleransi antar umat beragama, dan demokrasi yang inklusif — sikap yang tercermin lewat kebijakannya mencabut larangan perayaan Imlek dan mengakui Khonghucu sebagai agama resmi.\n\nGaya kepemimpinan Gus Dur yang blak-blakan, humoris, namun juga kadang kontroversial dan tidak konvensional membuatnya jadi salah satu presiden Indonesia paling unik dalam sejarah. Ia juga dikenal berani melakukan langkah-langkah reformasi militer, termasuk mendorong supremasi sipil atas militer yang selama Orde Baru sangat dominan dalam politik.\n\nNamun masa pemerintahannya diwarnai berbagai kontroversi dan ketegangan politik, termasuk tuduhan skandal keuangan (kasus Buloggate dan Bruneigate) yang meski tidak pernah terbukti kuat secara hukum, tetap memicu ketidakpercayaan politik yang meluas di parlemen. Ketegangan ini berujung pada pemakzulan Gus Dur oleh MPR pada Juli 2001, hanya sekitar 21 bulan sejak ia dilantik, digantikan oleh Wakil Presiden Megawati Soekarnoputri.",
+    "tags": ["gus-dur", "abdurrahman-wahid", "pluralisme", "nahdlatul-ulama", "pemakzulan"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  }
+]

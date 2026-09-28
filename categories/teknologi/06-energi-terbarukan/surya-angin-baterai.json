@@ -1,0 +1,53 @@
+[
+  {
+    "id": "teknologi.energi-terbarukan.panel-surya",
+    "judul": "Panel Surya (Fotovoltaik)",
+    "kategori": "teknologi",
+    "subkategori": "energi-terbarukan",
+    "periode": {
+      "mulai": "1954",
+      "selesai": "sekarang",
+      "label": "1954 - sekarang"
+    },
+    "ringkasan": "Teknologi yang mengubah cahaya matahari langsung menjadi listrik, dari sel surya pertama yang sangat mahal hingga jadi sumber energi terbarukan paling cepat berkembang di dunia.",
+    "konten": "Panel surya, atau sel fotovoltaik, adalah teknologi yang mengubah energi cahaya matahari secara langsung menjadi energi listrik, memanfaatkan sifat material semikonduktor tertentu (biasanya silikon) yang bisa melepaskan elektron ketika terkena foton cahaya. Sel surya praktis pertama yang cukup efisien untuk aplikasi nyata dikembangkan para ilmuwan Bell Labs pada 1954, meski konsep dasar efek fotovoltaik sebenarnya sudah ditemukan jauh lebih awal pada abad ke-19 oleh fisikawan Prancis Alexandre Edmond Becquerel.\n\nPada masa-masa awalnya, teknologi panel surya sangat mahal dan hanya praktis dipakai untuk aplikasi khusus dengan anggaran besar, seperti memberi daya pada satelit luar angkasa, karena efisiensi konversinya masih rendah dan biaya produksinya sangat tinggi. Selama beberapa dekade berikutnya, penelitian dan pengembangan terus meningkatkan efisiensi sel surya sambil secara bertahap menurunkan biaya produksinya, sebuah tren yang semakin dipercepat sejak awal 2000-an seiring skala produksi massal yang terus tumbuh, terutama didorong pabrik-pabrik besar di Tiongkok.\n\nDalam beberapa tahun terakhir, biaya panel surya sudah turun drastis dibanding beberapa dekade lalu, membuatnya jadi salah satu sumber energi baru yang paling murah di banyak wilayah dunia, bahkan sering kali lebih murah dibanding pembangkit listrik berbahan bakar fosil konvensional. Perkembangan ini mendorong adopsi panel surya secara masif di seluruh dunia, baik dalam skala rumah tangga (panel di atap rumah) maupun pembangkit listrik tenaga surya skala besar yang menghasilkan listrik untuk ribuan rumah sekaligus, menjadikan energi surya salah satu pilar penting transisi global menuju sumber energi yang lebih bersih dan berkelanjutan, membantu mengurangi ketergantungan pada bahan bakar fosil yang berkontribusi terhadap perubahan iklim.",
+    "tags": ["panel-surya", "fotovoltaik", "energi-terbarukan", "bell-labs", "energi-bersih"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-26"
+  },
+  {
+    "id": "teknologi.energi-terbarukan.turbin-angin",
+    "judul": "Turbin Angin Modern",
+    "kategori": "teknologi",
+    "subkategori": "energi-terbarukan",
+    "periode": {
+      "mulai": "1887",
+      "selesai": "sekarang",
+      "label": "1887 - sekarang"
+    },
+    "ringkasan": "Teknologi yang mengonversi energi kinetik angin menjadi listrik, berkembang dari kincir angin tradisional menjadi turbin raksasa modern, terutama efektif di lepas pantai.",
+    "konten": "Turbin angin modern untuk menghasilkan listrik pertama kali dikembangkan pada 1887 oleh ilmuwan Skotlandia James Blyth, membangun turbin kecil untuk memberi daya pada rumahnya sendiri, jauh sebelum konsep listrik jadi kebutuhan rumah tangga yang umum. Teknologi ini berevolusi dari kincir angin tradisional yang sudah dipakai manusia selama ribuan tahun untuk menggiling gandum atau memompa air, namun kali ini fokusnya bergeser sepenuhnya untuk menghasilkan energi listrik lewat generator yang digerakkan putaran bilah turbin.\n\nPerkembangan signifikan turbin angin modern mulai terjadi pesat sejak krisis energi 1970-an, yang mendorong berbagai negara mencari alternatif sumber energi selain minyak bumi, memicu investasi penelitian besar dalam teknologi turbin angin yang lebih efisien dan bertenaga. Sejak saat itu, ukuran dan kapasitas turbin angin terus meningkat drastis — turbin modern sekarang bisa mencapai ketinggian ratusan meter dengan bilah baling-baling yang panjangnya bisa melebihi panjang lapangan sepak bola, mampu menghasilkan listrik jauh lebih besar dibanding turbin-turbin generasi awal.\n\nSalah satu perkembangan paling menjanjikan dalam teknologi ini adalah turbin angin lepas pantai (offshore wind), yang dipasang di laut jauh dari daratan, memanfaatkan angin laut yang cenderung lebih kuat dan konsisten dibanding angin darat, sekaligus menghindari masalah keterbatasan lahan dan keberatan estetika yang kadang muncul dari warga sekitar turbin darat. Meski biaya pemasangan turbin lepas pantai lebih mahal karena tantangan teknis konstruksi di laut, potensi energi yang dihasilkan jauh lebih besar, menjadikannya salah satu teknologi energi terbarukan dengan pertumbuhan tercepat di berbagai negara Eropa dan semakin berkembang di kawasan Asia, sebagai bagian penting strategi global mengurangi emisi karbon dari sektor energi.",
+    "tags": ["turbin-angin", "energi-angin", "offshore-wind", "energi-terbarukan", "james-blyth"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-26"
+  },
+  {
+    "id": "teknologi.energi-terbarukan.baterai-lithium",
+    "judul": "Baterai Lithium-Ion",
+    "kategori": "teknologi",
+    "subkategori": "energi-terbarukan",
+    "periode": {
+      "mulai": "1991",
+      "selesai": "sekarang",
+      "label": "1991 - sekarang"
+    },
+    "ringkasan": "Teknologi penyimpanan energi yang jadi kunci revolusi perangkat elektronik portabel dan kendaraan listrik, dengan penemunya meraih Hadiah Nobel Kimia 2019.",
+    "konten": "Baterai lithium-ion adalah teknologi penyimpanan energi yang jadi fondasi penting bagi hampir seluruh perangkat elektronik portabel modern serta perkembangan pesat kendaraan listrik, pertama kali diperkenalkan secara komersial oleh perusahaan Sony pada 1991 setelah bertahun-tahun penelitian yang melibatkan beberapa ilmuwan kunci, termasuk John Goodenough, Stanley Whittingham, dan Akira Yoshino, yang bersama-sama meraih Hadiah Nobel Kimia pada 2019 atas kontribusi mereka mengembangkan teknologi ini.\n\nKeunggulan utama baterai lithium-ion dibanding teknologi baterai sebelumnya (seperti baterai nikel-kadmium) adalah kepadatan energi yang jauh lebih tinggi, artinya bisa menyimpan lebih banyak energi dalam ukuran dan berat yang lebih kecil, sekaligus lebih tahan lama dan tidak mengalami \"efek memori\" yang mengurangi kapasitas baterai lama seperti pada teknologi baterai sebelumnya. Keunggulan-keunggulan ini menjadikan baterai lithium-ion sangat ideal untuk perangkat portabel yang membutuhkan daya tahan lama namun tetap ringkas, seperti laptop, ponsel pintar, dan berbagai perangkat elektronik konsumen lain yang mendominasi kehidupan modern.\n\nDalam beberapa tahun terakhir, aplikasi paling transformatif dari teknologi baterai lithium-ion adalah dalam kendaraan listrik, di mana peningkatan terus-menerus dalam kapasitas dan penurunan biaya produksi baterai memungkinkan mobil listrik memiliki jangkauan perjalanan yang semakin jauh dengan harga yang semakin terjangkau. Perkembangan ini didorong berbagai perusahaan seperti Tesla yang berinvestasi besar dalam produksi baterai skala masif, sekaligus mendorong penelitian lanjutan untuk teknologi baterai generasi berikutnya yang bahkan lebih efisien, seperti baterai solid-state yang sedang dikembangkan berbagai perusahaan sebagai penerus potensial baterai lithium-ion konvensional, sekaligus menjadi komponen kunci sistem penyimpanan energi skala besar yang membantu mengatasi sifat intermiten sumber energi terbarukan seperti surya dan angin.",
+    "tags": ["baterai-lithium-ion", "kendaraan-listrik", "hadiah-nobel", "penyimpanan-energi", "tesla"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-26"
+  }
+]

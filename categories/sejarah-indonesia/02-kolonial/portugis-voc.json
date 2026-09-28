@@ -1,0 +1,36 @@
+[
+  {
+    "id": "sejarah-indonesia.kolonial.kedatangan-portugis",
+    "judul": "Kedatangan Portugis di Nusantara",
+    "kategori": "sejarah-indonesia",
+    "subkategori": "kolonial",
+    "periode": {
+      "mulai": "1511",
+      "selesai": "1641",
+      "label": "1511 - 1641 Masehi"
+    },
+    "ringkasan": "Bangsa Eropa pertama yang datang ke Nusantara mencari rempah-rempah, menaklukkan Malaka pada 1511 dan membangun jaringan dagang di kepulauan rempah.",
+    "konten": "Portugis adalah bangsa Eropa pertama yang berhasil menancapkan pengaruh signifikan di Nusantara, didorong oleh perburuan rempah-rempah (terutama cengkeh dan pala) yang saat itu harganya setara emas di pasar Eropa. Titik masuk utama mereka adalah penaklukan Malaka pada 1511 di bawah pimpinan Afonso de Albuquerque — kota pelabuhan strategis yang jadi pintu gerbang jalur dagang rempah Asia Tenggara.\n\nDari Malaka, Portugis memperluas jangkauan sampai ke Kepulauan Maluku, sumber utama cengkeh dan pala di dunia saat itu. Mereka membangun benteng dan pos dagang di berbagai tempat seperti Ternate dan Ambon, sering kali terlibat konflik dengan kerajaan-kerajaan lokal maupun bersaing dengan pedagang Muslim yang sudah lebih dulu berdagang di kawasan itu. Pengaruh budaya Portugis juga meninggalkan jejak yang masih terasa sampai sekarang, misalnya dalam beberapa kosakata bahasa Indonesia (seperti \"meja\", \"jendela\", \"bendera\") dan tradisi musik keroncong.\n\nDominasi Portugis di Nusantara akhirnya meredup setelah Malaka jatuh ke tangan VOC (Belanda) pada 1641, menandai pergeseran kekuatan kolonial di kawasan ini. Meski begitu, sisa pengaruh Portugis masih bertahan lebih lama di beberapa wilayah, termasuk yang paling menonjol adalah Timor Timur (kini Timor Leste), yang baru merdeka dari Portugal jauh lebih belakangan pada 1975.",
+    "tags": ["portugis", "malaka", "rempah-rempah", "maluku", "afonso-de-albuquerque"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "sejarah-indonesia.kolonial.voc",
+    "judul": "VOC (Vereenigde Oostindische Compagnie)",
+    "kategori": "sejarah-indonesia",
+    "subkategori": "kolonial",
+    "periode": {
+      "mulai": "1602",
+      "selesai": "1799",
+      "label": "1602 - 1799 Masehi"
+    },
+    "ringkasan": "Perusahaan dagang Belanda yang punya kekuatan seperti negara (bisa berperang, mencetak uang, menjajah), menguasai perdagangan rempah Nusantara selama hampir 2 abad.",
+    "konten": "VOC (Vereenigde Oostindische Compagnie), atau Kongsi Dagang Hindia Timur Belanda, didirikan pada 1602 dan sering disebut sebagai perusahaan multinasional pertama di dunia sekaligus salah satu yang paling berkuasa dalam sejarah. Berbeda dari perusahaan dagang biasa, VOC diberi hak istimewa oleh pemerintah Belanda untuk bertindak seperti negara — punya angkatan bersenjata sendiri, bisa menyatakan perang, membuat perjanjian dengan kerajaan lokal, bahkan mencetak mata uang sendiri.\n\nVOC membangun markas utamanya di Batavia (sekarang Jakarta) pada 1619, setelah merebut kota pelabuhan Jayakarta dari Kesultanan Banten. Dari sana, VOC secara bertahap memperluas kekuasaannya lewat kombinasi diplomasi, monopoli dagang paksa, dan kekuatan militer — termasuk terlibat dalam berbagai perang dengan kerajaan-kerajaan lokal seperti Mataram Islam, Banten, dan Gowa-Tallo, sering kali memanfaatkan perpecahan internal kerajaan-kerajaan tersebut untuk kepentingannya sendiri.\n\nMeski sempat jadi salah satu perusahaan paling kaya di dunia, VOC akhirnya bangkrut pada akhir abad ke-18 akibat korupsi internal, biaya perang yang membengkak, dan persaingan dagang yang makin ketat. VOC resmi dibubarkan pada 1799, dan seluruh aset serta wilayah kekuasaannya di Nusantara diambil alih langsung oleh pemerintah Kerajaan Belanda, menandai dimulainya era penjajahan Hindia Belanda secara resmi sebagai koloni negara, bukan lagi sekadar wilayah kekuasaan perusahaan dagang.",
+    "tags": ["voc", "belanda", "batavia", "monopoli-dagang", "kolonial"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  }
+]

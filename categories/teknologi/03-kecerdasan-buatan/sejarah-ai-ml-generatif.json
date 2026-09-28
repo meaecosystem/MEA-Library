@@ -1,0 +1,53 @@
+[
+  {
+    "id": "teknologi.kecerdasan-buatan.sejarah-ai",
+    "judul": "Sejarah Awal Kecerdasan Buatan",
+    "kategori": "teknologi",
+    "subkategori": "kecerdasan-buatan",
+    "periode": {
+      "mulai": "1950",
+      "selesai": "1997",
+      "label": "1950 - 1997 Masehi"
+    },
+    "ringkasan": "Perjalanan awal kecerdasan buatan dari tes Turing sampai kemenangan Deep Blue melawan juara catur dunia, melalui berbagai periode optimisme dan kemunduran yang disebut 'musim dingin AI'.",
+    "konten": "Kecerdasan buatan (AI) sebagai bidang studi formal dimulai sekitar 1950, ketika matematikawan Inggris Alan Turing mengajukan pertanyaan fundamental \"bisakah mesin berpikir?\" lewat karyanya yang mengusulkan tes Turing, sebuah metode untuk menilai apakah mesin bisa menunjukkan perilaku cerdas yang tidak bisa dibedakan dari manusia. Istilah \"kecerdasan buatan\" sendiri secara resmi diciptakan pada 1956 dalam konferensi Dartmouth, yang dianggap sebagai titik lahir formal bidang penelitian AI.\n\nDekade-dekade awal perkembangan AI diwarnai optimisme besar, dengan banyak peneliti yakin komputer cerdas setara manusia akan tercipta dalam beberapa dekade. Namun ekspektasi ini sering tidak sesuai kenyataan teknis yang jauh lebih rumit dari perkiraan, menyebabkan periode yang disebut \"musim dingin AI\" (AI winter) pada 1970-an dan kembali pada akhir 1980-an, ketika pendanaan penelitian AI menyusut drastis akibat kegagalan memenuhi janji-janji besar yang sudah dibuat sebelumnya.\n\nSalah satu momen paling ikonik dalam sejarah AI terjadi pada 1997, ketika program komputer Deep Blue buatan IBM berhasil mengalahkan Garry Kasparov, juara catur dunia saat itu, dalam pertandingan resmi. Kemenangan ini jadi simbol penting bahwa komputer bisa mengungguli manusia dalam tugas kognitif kompleks tertentu, meski Deep Blue sendiri bekerja lewat kekuatan komputasi brute-force menganalisis jutaan kemungkinan langkah, bukan lewat pemahaman atau kecerdasan seperti yang dipahami manusia, menunjukkan perbedaan penting antara kemampuan spesifik AI dengan kecerdasan umum yang menyerupai manusia.",
+    "tags": ["kecerdasan-buatan", "alan-turing", "deep-blue", "sejarah-ai", "dartmouth"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-26"
+  },
+  {
+    "id": "teknologi.kecerdasan-buatan.machine-learning",
+    "judul": "Machine Learning dan Deep Learning",
+    "kategori": "teknologi",
+    "subkategori": "kecerdasan-buatan",
+    "periode": {
+      "mulai": "2006",
+      "selesai": "2015",
+      "label": "2006 - 2015 Masehi"
+    },
+    "ringkasan": "Pendekatan AI yang memungkinkan komputer belajar dari data, dipercepat lewat deep learning dan jaringan saraf tiruan, membuka era baru kemampuan AI mengenali gambar, suara, dan pola kompleks.",
+    "konten": "Machine learning adalah pendekatan dalam kecerdasan buatan yang memungkinkan komputer belajar dari data dan pengalaman, alih-alih diprogram secara eksplisit dengan aturan kaku untuk setiap kemungkinan situasi. Konsep dasarnya sudah ada sejak lama, namun terobosan besar terjadi lewat pendekatan yang disebut deep learning, memanfaatkan struktur jaringan saraf tiruan (neural network) berlapis-lapis yang terinspirasi dari cara kerja otak manusia, meski cara kerjanya sebenarnya sangat berbeda secara fundamental.\n\nDeep learning mengalami kebangkitan pesat mulai sekitar 2006, didorong kombinasi tiga faktor penting: ketersediaan data digital yang jauh lebih besar berkat internet, peningkatan kekuatan komputasi (terutama pemanfaatan GPU yang awalnya dirancang untuk grafis game, ternyata sangat efisien untuk komputasi jaringan saraf), serta perbaikan algoritma pelatihan yang membuat jaringan saraf dalam bisa dilatih lebih efektif. Salah satu momen penting adalah kompetisi ImageNet 2012, ketika sebuah jaringan saraf deep learning secara dramatis mengungguli metode-metode sebelumnya dalam tugas pengenalan gambar, menandai awal ledakan minat dan investasi besar-besaran dalam bidang ini.\n\nKemajuan deep learning membuka kemampuan AI yang sebelumnya sangat sulit dicapai, termasuk pengenalan gambar dan wajah dengan akurasi tinggi, pengenalan suara yang jadi dasar asisten virtual seperti Siri dan Google Assistant, serta terjemahan bahasa otomatis yang jauh lebih natural dibanding metode sebelumnya. Pada 2015-2016, program AlphaGo buatan DeepMind (anak perusahaan Google) berhasil mengalahkan pemain profesional Go, permainan strategi yang jauh lebih kompleks dibanding catur, sebuah pencapaian yang sebelumnya diperkirakan masih memerlukan waktu bertahun-tahun lagi, menunjukkan betapa cepatnya kemajuan deep learning pada periode ini.",
+    "tags": ["machine-learning", "deep-learning", "neural-network", "alphago", "imagenet"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-26"
+  },
+  {
+    "id": "teknologi.kecerdasan-buatan.ai-generatif",
+    "judul": "Era AI Generatif",
+    "kategori": "teknologi",
+    "subkategori": "kecerdasan-buatan",
+    "periode": {
+      "mulai": "2017",
+      "selesai": "sekarang",
+      "label": "2017 - sekarang"
+    },
+    "ringkasan": "Gelombang terbaru AI yang bisa menghasilkan teks, gambar, dan berbagai konten baru, dipicu penemuan arsitektur Transformer dan peluncuran model bahasa besar seperti ChatGPT.",
+    "konten": "Era AI generatif dipicu oleh penemuan penting arsitektur Transformer pada 2017 lewat makalah berjudul \"Attention Is All You Need\", yang memperkenalkan cara baru memproses data berurutan (seperti teks) jauh lebih efisien dibanding arsitektur sebelumnya, menjadi fondasi teknis bagi hampir semua model bahasa besar (Large Language Model/LLM) yang kita kenal sekarang. Berbeda dari AI sebelumnya yang biasanya dirancang untuk tugas spesifik tunggal (seperti hanya mengenali gambar atau hanya menerjemahkan bahasa), AI generatif dilatih pada jumlah data teks yang sangat besar dari internet, memungkinkannya menghasilkan berbagai jenis konten baru — teks, kode program, bahkan gambar dan audio — berdasarkan instruksi yang diberikan pengguna.\n\nPeluncuran ChatGPT oleh OpenAI pada November 2022 jadi titik balik yang membawa AI generatif ke perhatian publik luas secara masif, mencapai 100 juta pengguna aktif hanya dalam waktu dua bulan, kecepatan adopsi teknologi tercepat yang pernah tercatat pada masanya. Kemampuan model ini untuk memahami dan merespons berbagai pertanyaan serta instruksi dalam bahasa natural, menghasilkan tulisan yang koheren dan relevan, memicu gelombang besar minat, investasi, sekaligus perdebatan tentang dampak teknologi ini terhadap berbagai bidang pekerjaan dan masyarakat.\n\nSelain model bahasa teks, teknologi AI generatif juga berkembang pesat di bidang visual (menghasilkan gambar dari deskripsi teks) dan audio (menghasilkan suara atau musik), dengan berbagai perusahaan teknologi besar seperti Google, Anthropic, Meta, dan lainnya berlomba mengembangkan model mereka sendiri. Perkembangan pesat ini juga memicu diskusi serius tentang berbagai aspek etika dan keamanan AI, termasuk potensi penyalahgunaan, dampak terhadap lapangan kerja, hak cipta konten yang dipakai melatih model, serta pertanyaan jangka panjang tentang bagaimana memastikan teknologi yang berkembang sangat cepat ini tetap aman dan bermanfaat bagi kemanusiaan secara keseluruhan.",
+    "tags": ["ai-generatif", "chatgpt", "transformer", "large-language-model", "openai"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-26"
+  }
+]

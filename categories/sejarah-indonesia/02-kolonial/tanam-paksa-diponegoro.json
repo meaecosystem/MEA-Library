@@ -1,0 +1,36 @@
+[
+  {
+    "id": "sejarah-indonesia.kolonial.tanam-paksa",
+    "judul": "Sistem Tanam Paksa (Cultuurstelsel)",
+    "kategori": "sejarah-indonesia",
+    "subkategori": "kolonial",
+    "periode": {
+      "mulai": "1830",
+      "selesai": "1870",
+      "label": "1830 - 1870 Masehi"
+    },
+    "ringkasan": "Kebijakan kolonial Belanda yang memaksa petani menanam tanaman ekspor (kopi, tebu, nila) demi keuntungan Belanda, menyebabkan penderitaan besar rakyat pribumi.",
+    "konten": "Tanam Paksa, atau Cultuurstelsel, adalah kebijakan yang diberlakukan Gubernur Jenderal Johannes van den Bosch mulai 1830, sebagai respons atas kondisi keuangan Belanda yang nyaris bangkrut akibat biaya Perang Jawa (Perang Diponegoro) dan pemberontakan Belgia. Sistem ini mewajibkan petani di Hindia Belanda menyisihkan sebagian lahan dan tenaganya (idealnya 1/5 lahan) untuk menanam komoditas ekspor yang laku di pasar dunia, seperti kopi, tebu, nila (indigo), dan tembakau, bukan tanaman pangan untuk kebutuhan sendiri.\n\nDalam praktiknya, sistem ini jauh lebih berat dari aturan resminya. Banyak daerah dipaksa menyisihkan lahan jauh lebih dari 1/5, waktu kerja yang seharusnya dibatasi sering diabaikan, dan kegagalan panen tetap dibebankan sepenuhnya pada petani. Dampaknya sangat menyengsarakan rakyat pribumi — banyak wilayah mengalami kelaparan hebat karena lahan pangan dikorbankan demi tanaman ekspor, sementara keuntungan besar mengalir ke kas pemerintah kolonial Belanda dan membantu memulihkan ekonomi negeri Belanda sendiri.\n\nKritik terhadap sistem ini mulai muncul kuat di Belanda sendiri, salah satunya lewat novel terkenal \"Max Havelaar\" karya Multatuli (nama pena Eduard Douwes Dekker) yang terbit 1860, mengekspos penderitaan rakyat akibat Tanam Paksa dan korupsi pejabat kolonial. Tekanan opini publik inilah yang akhirnya mendorong penghapusan bertahap sistem Tanam Paksa mulai 1870, digantikan kebijakan ekonomi liberal yang membuka Hindia Belanda bagi investasi swasta.",
+    "tags": ["tanam-paksa", "cultuurstelsel", "van-den-bosch", "max-havelaar", "kolonial"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "sejarah-indonesia.kolonial.perang-diponegoro",
+    "judul": "Perang Diponegoro (Perang Jawa)",
+    "kategori": "sejarah-indonesia",
+    "subkategori": "kolonial",
+    "periode": {
+      "mulai": "1825",
+      "selesai": "1830",
+      "label": "1825 - 1830 Masehi"
+    },
+    "ringkasan": "Perang besar antara Pangeran Diponegoro dan pasukannya melawan Belanda di Jawa, salah satu perang paling mahal dan mematikan dalam sejarah kolonial Hindia Belanda.",
+    "konten": "Perang Diponegoro, juga dikenal sebagai Perang Jawa, adalah perlawanan besar yang dipimpin Pangeran Diponegoro, bangsawan Keraton Yogyakarta, melawan pemerintah kolonial Belanda dari 1825 hingga 1830. Penyebab langsung perang ini adalah pemasangan patok jalan oleh Belanda yang melintasi tanah leluhur Diponegoro tanpa izin, namun akar masalahnya jauh lebih dalam — ketidakpuasan atas campur tangan Belanda dalam urusan keraton dan beban pajak yang memberatkan rakyat.\n\nDiponegoro berhasil menggalang dukungan luas dari rakyat Jawa maupun kalangan bangsawan dan ulama, menjadikan perang ini sebagai salah satu perlawanan terbesar dan paling terorganisir yang pernah dihadapi Belanda di Nusantara. Ia menerapkan strategi perang gerilya yang efektif, memanfaatkan medan pegunungan dan hutan Jawa, sehingga perang ini berlarut-larut selama 5 tahun dan menguras biaya sangat besar bagi Belanda — diperkirakan menghabiskan sekitar 20 juta gulden, jumlah yang sangat fantastis untuk masa itu.\n\nPerang ini akhirnya berakhir setelah Diponegoro ditangkap lewat siasat licik Belanda dalam perundingan damai di Magelang pada 1830, meski ia sudah diberi jaminan keamanan untuk berunding. Ia kemudian diasingkan ke Manado, lalu Makassar, sampai wafat pada 1855. Meski berakhir dengan kekalahan, Perang Diponegoro meninggalkan dampak besar — memaksa Belanda mencari cara baru menutup kerugian finansial yang parah, yang kemudian jadi salah satu alasan langsung diberlakukannya sistem Tanam Paksa tak lama setelahnya.",
+    "tags": ["diponegoro", "perang-jawa", "yogyakarta", "perlawanan", "kolonial"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  }
+]

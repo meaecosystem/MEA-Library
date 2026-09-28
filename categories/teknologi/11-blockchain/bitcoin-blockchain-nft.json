@@ -1,0 +1,53 @@
+[
+  {
+    "id": "teknologi.blockchain.bitcoin",
+    "judul": "Bitcoin dan Mata Uang Kripto",
+    "kategori": "teknologi",
+    "subkategori": "blockchain",
+    "periode": {
+      "mulai": "2008",
+      "selesai": "2009",
+      "label": "2008 - 2009 Masehi"
+    },
+    "ringkasan": "Mata uang digital pertama yang berhasil beroperasi tanpa otoritas pusat, diciptakan sosok misterius Satoshi Nakamoto, memicu lahirnya seluruh industri mata uang kripto.",
+    "konten": "Bitcoin adalah mata uang digital (cryptocurrency) pertama yang berhasil beroperasi secara terdesentralisasi, tanpa memerlukan bank sentral atau otoritas tunggal yang mengendalikannya. Konsep dan implementasi awal Bitcoin diperkenalkan lewat sebuah dokumen (whitepaper) yang dipublikasikan pada 2008 oleh sosok atau kelompok yang menggunakan nama samaran Satoshi Nakamoto, identitas asli di baliknya sampai sekarang masih jadi misteri yang belum terpecahkan meski berbagai spekulasi bermunculan.\n\nJaringan Bitcoin resmi mulai beroperasi pada Januari 2009, dengan blok pertama (disebut genesis block) yang berisi pesan tersembunyi merujuk pada judul berita surat kabar tentang krisis perbankan yang sedang terjadi saat itu, banyak diinterpretasikan sebagai komentar terhadap sistem keuangan tradisional yang dianggap gagal. Bitcoin bekerja lewat teknologi blockchain, sebuah buku besar digital terdistribusi yang mencatat setiap transaksi secara transparan dan tidak bisa diubah, diverifikasi bersama oleh ribuan komputer (disebut node) yang tersebar di seluruh dunia, bukan bergantung pada satu server pusat.\n\nAwalnya Bitcoin hanya dikenal kalangan sangat terbatas penggemar teknologi dan kriptografi, dengan nilai yang praktis tidak berarti (transaksi terkenal pertama menggunakan Bitcoin untuk membeli barang nyata adalah membeli dua pizza seharga 10.000 Bitcoin pada 2010). Namun seiring waktu, Bitcoin dan berbagai mata uang kripto lain yang bermunculan setelahnya berkembang jadi fenomena finansial global yang sangat besar, dengan nilai yang sangat fluktuatif namun menarik minat investor institusional maupun individu di seluruh dunia, sekaligus memicu perdebatan berkelanjutan tentang regulasi, dampak lingkungan (karena proses \"menambang\" Bitcoin membutuhkan energi listrik sangat besar), serta potensinya sebagai alternatif sistem keuangan tradisional di masa depan.",
+    "tags": ["bitcoin", "satoshi-nakamoto", "cryptocurrency", "mata-uang-digital", "blockchain"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-26"
+  },
+  {
+    "id": "teknologi.blockchain.teknologi-blockchain",
+    "judul": "Teknologi Blockchain",
+    "kategori": "teknologi",
+    "subkategori": "blockchain",
+    "periode": {
+      "mulai": "2008",
+      "selesai": "sekarang",
+      "label": "2008 - sekarang"
+    },
+    "ringkasan": "Sistem pencatatan digital terdesentralisasi yang jadi fondasi Bitcoin, sekarang berkembang jauh melampaui mata uang kripto untuk berbagai aplikasi lain seperti kontrak pintar dan rantai pasokan.",
+    "konten": "Blockchain adalah teknologi sistem pencatatan digital (buku besar/ledger) yang bersifat terdesentralisasi, transparan, dan sangat sulit dimanipulasi, pertama kali diimplementasikan sebagai fondasi teknis Bitcoin pada 2008-2009. Konsep dasarnya adalah mencatat data (biasanya transaksi) dalam \"blok\" yang saling terhubung secara berurutan membentuk \"rantai\" (chain), dengan setiap blok baru berisi informasi kriptografis yang merujuk ke blok sebelumnya, membuat catatan lama menjadi sangat sulit diubah tanpa mengubah seluruh rantai blok setelahnya, yang secara praktis nyaris mustahil dilakukan pada jaringan blockchain besar yang aktif.\n\nKeunggulan utama teknologi blockchain adalah sifatnya yang terdesentralisasi — alih-alih data disimpan dan dikendalikan satu entitas pusat (seperti bank atau perusahaan), salinan seluruh riwayat blockchain disimpan dan diverifikasi bersama oleh ribuan komputer independen yang tersebar di seluruh jaringan. Ini menciptakan sistem yang sangat transparan (semua orang bisa memeriksa riwayat transaksi) sekaligus tahan terhadap sensor atau manipulasi oleh pihak tunggal, karena untuk mengubah data yang sudah tercatat, seseorang harus mengendalikan mayoritas komputer di seluruh jaringan secara bersamaan, sesuatu yang sangat sulit dan mahal dilakukan pada jaringan besar.\n\nSeiring waktu, aplikasi teknologi blockchain berkembang jauh melampaui sekadar mata uang kripto. Salah satu inovasi penting adalah smart contract (kontrak pintar), kode program yang secara otomatis mengeksekusi kesepakatan tertentu ketika kondisi yang ditentukan terpenuhi, tanpa perlu perantara pihak ketiga — dipopulerkan platform blockchain Ethereum yang diluncurkan pada 2015. Blockchain juga mulai dieksplorasi untuk berbagai aplikasi lain, termasuk melacak asal-usul produk dalam rantai pasokan (memastikan keaslian barang), sistem pemungutan suara yang lebih transparan, penyimpanan rekam medis, hingga sertifikasi kepemilikan aset digital, menunjukkan potensi teknologi ini yang jauh lebih luas dari sekadar aplikasi finansial awalnya.",
+    "tags": ["blockchain", "smart-contract", "ethereum", "desentralisasi", "kriptografi"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-26"
+  },
+  {
+    "id": "teknologi.blockchain.nft",
+    "judul": "NFT (Non-Fungible Token)",
+    "kategori": "teknologi",
+    "subkategori": "blockchain",
+    "periode": {
+      "mulai": "2014",
+      "selesai": "2021",
+      "label": "2014 - 2021 Masehi"
+    },
+    "ringkasan": "Token digital unik berbasis blockchain yang merepresentasikan kepemilikan aset tertentu, mendadak populer secara global pada 2021 terutama untuk seni digital dan koleksi.",
+    "konten": "NFT, singkatan dari Non-Fungible Token, adalah jenis token digital yang dibangun di atas teknologi blockchain, dengan karakteristik unik yang membedakannya dari mata uang kripto seperti Bitcoin — setiap NFT bersifat unik dan tidak bisa dipertukarkan secara setara satu sama lain (non-fungible), berbeda dari mata uang biasa yang setiap unitnya identik dan bisa dipertukarkan (fungible). Konsep dasar teknis NFT sudah mulai dikembangkan sejak sekitar 2014, namun istilah dan standarnya baru benar-benar terbentuk dan populer beberapa tahun kemudian.\n\nNFT bekerja dengan mencatat kepemilikan suatu aset digital tertentu (bisa berupa gambar, video, musik, atau bahkan aset virtual dalam game) secara permanen di blockchain, menciptakan bukti kepemilikan yang unik dan bisa diverifikasi publik. Meski file digital yang direpresentasikan NFT sendiri biasanya masih bisa disalin dan dilihat siapa saja (mirip melihat foto sebuah lukisan terkenal), yang dijual dan dimiliki lewat NFT adalah token kepemilikan yang unik dan tercatat di blockchain, mirip sertifikat keaslian digital.\n\nNFT mendadak meledak popularitasnya secara global pada 2021, terutama di kalangan seniman digital dan kolektor, dengan beberapa karya NFT terjual dengan harga sangat fantastis mencapai jutaan dolar, memicu gelombang besar minat dan spekulasi pasar. Fenomena ini juga meluas ke berbagai industri lain, termasuk game (item virtual berbasis NFT), musik, olahraga (kartu koleksi digital), dan berbagai bentuk kepemilikan digital lain. Namun setelah ledakan popularitas awal tersebut, pasar NFT mengalami penurunan nilai signifikan pada tahun-tahun berikutnya, memicu perdebatan tentang apakah NFT benar-benar punya nilai fundamental jangka panjang atau sekadar fenomena spekulasi sesaat, meski teknologi dasarnya tetap dipandang punya potensi aplikasi berguna untuk verifikasi kepemilikan digital di masa depan.",
+    "tags": ["nft", "aset-digital", "seni-digital", "blockchain", "kepemilikan-digital"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-26"
+  }
+]

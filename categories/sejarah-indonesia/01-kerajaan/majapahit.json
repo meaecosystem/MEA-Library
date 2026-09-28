@@ -1,0 +1,36 @@
+[
+  {
+    "id": "sejarah-indonesia.kerajaan.majapahit",
+    "judul": "Kerajaan Majapahit",
+    "kategori": "sejarah-indonesia",
+    "subkategori": "kerajaan",
+    "periode": {
+      "mulai": "1293",
+      "selesai": "1527",
+      "label": "1293 - sekitar 1527 Masehi"
+    },
+    "ringkasan": "Kerajaan Hindu-Buddha terbesar dan paling berpengaruh dalam sejarah Nusantara, didirikan Raden Wijaya, mencapai puncak kejayaan di masa Hayam Wuruk dan Gajah Mada.",
+    "konten": "Majapahit didirikan oleh Raden Wijaya pada 1293 setelah berhasil mengusir pasukan Mongol dan mengalahkan Jayakatwang, menyatukan sisa-sisa kekuatan Singasari. Kerajaan ini berkembang jadi salah satu kerajaan terbesar dan paling luas pengaruhnya dalam sejarah Nusantara, dengan pusat di Jawa Timur, sekitar Mojokerto sekarang.\n\nMasa keemasan Majapahit terjadi pada masa pemerintahan Raja Hayam Wuruk (1350-1389), didampingi Mahapatih Gajah Mada yang terkenal lewat Sumpah Palapa — janji untuk tidak menikmati kesenangan duniawi sampai berhasil menyatukan Nusantara di bawah Majapahit. Meski cakupan wilayah pastinya masih diperdebatkan sejarawan, catatan seperti kitab Nagarakretagama menyebutkan pengaruh Majapahit membentang luas, dari Sumatra sampai sebagian Kepulauan Filipina, menjadikannya kerajaan dengan wilayah pengaruh terluas dalam sejarah Nusantara pra-modern.\n\nMajapahit juga meninggalkan warisan budaya yang besar — istilah \"Bhinneka Tunggal Ika\" yang jadi semboyan nasional Indonesia sekarang berasal dari kitab Sutasoma karya Mpu Tantular pada era Majapahit. Setelah wafatnya Hayam Wuruk dan Gajah Mada, Majapahit perlahan melemah akibat perang saudara (Perang Paregreg) dan tumbuhnya kerajaan-kerajaan Islam di pesisir utara Jawa. Majapahit akhirnya runtuh sekitar awal abad ke-16, menandai berakhirnya era besar kerajaan Hindu-Buddha di Jawa dan dimulainya era kerajaan-kerajaan Islam.",
+    "tags": ["majapahit", "hayam-wuruk", "gajah-mada", "sumpah-palapa", "bhinneka-tunggal-ika", "jawa-timur"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "sejarah-indonesia.kerajaan.sumpah-palapa",
+    "judul": "Sumpah Palapa",
+    "kategori": "sejarah-indonesia",
+    "subkategori": "kerajaan",
+    "periode": {
+      "mulai": "1336",
+      "selesai": "1336",
+      "label": "diucapkan sekitar 1336 Masehi"
+    },
+    "ringkasan": "Sumpah terkenal Mahapatih Gajah Mada untuk menyatukan Nusantara di bawah Majapahit, dicatat dalam kitab Pararaton, jadi simbol semangat persatuan.",
+    "konten": "Sumpah Palapa adalah janji yang diucapkan Gajah Mada saat pengangkatannya sebagai Mahapatih (perdana menteri) Majapahit pada sekitar 1336, dicatat dalam kitab Pararaton. Isi sumpahnya secara garis besar menyatakan bahwa Gajah Mada tidak akan menikmati palapa (ditafsirkan macam-macam oleh sejarawan, ada yang bilang berarti \"rempah-rempah\" atau simbol kesenangan/istirahat duniawi) sebelum berhasil menaklukkan dan menyatukan seluruh Nusantara di bawah kekuasaan Majapahit.\n\nDalam catatan Pararaton, Gajah Mada menyebutkan sejumlah wilayah yang jadi target penyatuannya, termasuk Gurun, Seram, Tanjungpura, Haru, Pahang, Dompo, Bali, Sunda, Palembang, dan Tumasik (sekarang Singapura). Sumpah ini kemudian jadi dorongan besar di balik ekspansi militer dan diplomatik Majapahit di masa pemerintahan Hayam Wuruk, yang membawa pengaruh kerajaan ini sampai ke banyak penjuru Nusantara.\n\nTerlepas dari perdebatan sejarawan soal seberapa akurat dan seberapa luas pengaruh nyata Majapahit dibanding klaim dalam sumpah ini, Sumpah Palapa sampai sekarang jadi simbol penting semangat persatuan dan cita-cita menyatukan wilayah Nusantara — bahkan sering dijadikan rujukan historis untuk menggambarkan akar semangat nasionalisme Indonesia jauh sebelum negara modern Indonesia terbentuk.",
+    "tags": ["sumpah-palapa", "gajah-mada", "majapahit", "pararaton", "persatuan-nusantara"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  }
+]

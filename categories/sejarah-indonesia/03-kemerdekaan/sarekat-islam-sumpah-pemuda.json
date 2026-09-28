@@ -1,0 +1,36 @@
+[
+  {
+    "id": "sejarah-indonesia.kemerdekaan.sarekat-islam",
+    "judul": "Sarekat Islam",
+    "kategori": "sejarah-indonesia",
+    "subkategori": "kemerdekaan",
+    "periode": {
+      "mulai": "1905",
+      "selesai": "1930",
+      "label": "1905 - sekitar 1930-an Masehi"
+    },
+    "ringkasan": "Organisasi pergerakan nasional pertama dengan basis massa besar, awalnya koperasi dagang batik, berkembang jadi kekuatan politik terbesar di Hindia Belanda pada masanya.",
+    "konten": "Sarekat Islam bermula dari Sarekat Dagang Islam yang didirikan pada 1905 oleh Haji Samanhoedi di Solo, awalnya sebagai koperasi untuk melindungi kepentingan pedagang batik pribumi dari persaingan pedagang Tionghoa. Organisasi ini kemudian berganti nama jadi Sarekat Islam pada 1912 di bawah kepemimpinan H.O.S. Tjokroaminoto, dan berkembang pesat jadi organisasi massa terbesar di Hindia Belanda pada masanya, dengan anggota diperkirakan mencapai jutaan orang pada puncak kejayaannya sekitar akhir 1910-an.\n\nBerbeda dari Budi Utomo yang basis anggotanya terbatas kalangan priyayi Jawa, Sarekat Islam berhasil menjangkau lapisan masyarakat yang jauh lebih luas, termasuk rakyat biasa, lewat identitas keislaman yang jadi perekat solidaritas lintas suku dan daerah. Organisasi ini juga mulai lebih vokal menyuarakan kritik terhadap kebijakan kolonial dan kondisi ekonomi rakyat, menjadikannya kekuatan politik yang cukup diperhitungkan Belanda.\n\nSeiring waktu, Sarekat Islam mengalami perpecahan internal akibat perbedaan ideologi, terutama antara kelompok yang condong ke arah komunisme (dipengaruhi tokoh seperti Semaun dan Tan Malaka) dengan kelompok yang tetap berpegang pada garis nasionalis-Islam di bawah Tjokroaminoto. Perpecahan ini melemahkan kekuatan organisasi secara keseluruhan, namun banyak tokoh yang lahir dari Sarekat Islam, termasuk Soekarno yang sempat berguru pada Tjokroaminoto, kelak jadi figur penting dalam perjalanan kemerdekaan Indonesia.",
+    "tags": ["sarekat-islam", "tjokroaminoto", "pergerakan-nasional", "haji-samanhoedi"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "sejarah-indonesia.kemerdekaan.sumpah-pemuda",
+    "judul": "Sumpah Pemuda",
+    "kategori": "sejarah-indonesia",
+    "subkategori": "kemerdekaan",
+    "periode": {
+      "mulai": "1928",
+      "selesai": "1928",
+      "label": "28 Oktober 1928"
+    },
+    "ringkasan": "Ikrar bersejarah dari Kongres Pemuda II yang menyatukan pemuda dari berbagai suku dan daerah dalam satu tekad: satu tanah air, satu bangsa, satu bahasa Indonesia.",
+    "konten": "Sumpah Pemuda lahir dari Kongres Pemuda II yang diselenggarakan pada 27-28 Oktober 1928 di Batavia, mempertemukan perwakilan organisasi pemuda dari berbagai daerah dan latar belakang suku di Hindia Belanda — seperti Jong Java, Jong Sumatranen Bond, Jong Ambon, dan lainnya, yang sebelumnya cenderung bergerak sendiri-sendiri berdasarkan identitas kedaerahan masing-masing.\n\nHasil kongres ini dirumuskan dalam tiga ikrar yang sampai sekarang dihafal generasi demi generasi pelajar Indonesia: mengaku bertumpah darah yang satu, tanah Indonesia; berbangsa yang satu, bangsa Indonesia; dan menjunjung bahasa persatuan, bahasa Indonesia. Ikrar ketiga ini penting karena secara resmi mengangkat bahasa Melayu (yang kemudian disebut bahasa Indonesia) sebagai bahasa pemersatu, meski saat itu bahasa Jawa sebenarnya punya jumlah penutur jauh lebih banyak — sebuah keputusan strategis yang menghindari dominasi satu suku tertentu.\n\nMomen ini juga dikenang lewat lagu \"Indonesia Raya\" karya W.R. Supratman yang untuk pertama kalinya diperdengarkan secara instrumental di kongres tersebut. Sumpah Pemuda dianggap sebagai tonggak penting yang mempertegas identitas \"Indonesia\" sebagai satu bangsa yang bersatu, melampaui sekat-sekat kedaerahan, dan jadi fondasi penting bagi perjuangan kemerdekaan yang lebih terkonsolidasi pada dekade-dekade berikutnya.",
+    "tags": ["sumpah-pemuda", "kongres-pemuda", "bahasa-indonesia", "indonesia-raya", "pergerakan-nasional"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  }
+]

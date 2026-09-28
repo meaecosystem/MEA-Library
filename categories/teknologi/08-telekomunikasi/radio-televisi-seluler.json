@@ -1,0 +1,53 @@
+[
+  {
+    "id": "teknologi.telekomunikasi.radio",
+    "judul": "Penemuan Radio",
+    "kategori": "teknologi",
+    "subkategori": "telekomunikasi",
+    "periode": {
+      "mulai": "1895",
+      "selesai": "1920",
+      "label": "1895 - 1920 Masehi"
+    },
+    "ringkasan": "Teknologi komunikasi nirkabel pertama yang memungkinkan pengiriman sinyal tanpa kabel, dipelopori Guglielmo Marconi, mengubah total cara manusia menerima berita dan hiburan.",
+    "konten": "Radio adalah teknologi komunikasi nirkabel pertama yang memungkinkan pengiriman sinyal informasi lewat gelombang elektromagnetik tanpa memerlukan kabel fisik, sebuah lompatan besar dibanding telegraf yang masih membutuhkan jaringan kabel. Guglielmo Marconi, insinyur Italia, dianggap sebagai pelopor utama pengembangan teknologi radio praktis, berhasil mendemonstrasikan transmisi sinyal radio jarak jauh pada 1895, dan pada 1901 berhasil mengirim sinyal radio pertama melintasi Samudra Atlantik, pencapaian yang mengejutkan banyak ilmuwan yang sebelumnya meragukan gelombang radio bisa menempuh jarak sejauh itu mengingat lengkungan permukaan Bumi.\n\nPerkembangan radio pada awalnya lebih berfokus pada aplikasi praktis seperti komunikasi maritim antar kapal dan dengan daratan, sangat berguna untuk keperluan navigasi dan keamanan pelayaran, termasuk berperan penting dalam mengirim sinyal darurat saat tenggelamnya kapal Titanic pada 1912, yang membantu menyelamatkan banyak penumpang berkat panggilan darurat radio yang diterima kapal-kapal terdekat.\n\nTransformasi radio menjadi media hiburan dan informasi massal terjadi sekitar 1920-an, ketika stasiun-stasiun penyiaran radio komersial mulai bermunculan, memungkinkan siaran berita, musik, dan drama radio bisa didengar jutaan orang secara bersamaan di rumah masing-masing. Radio dengan cepat menjadi media massa paling berpengaruh pada masanya, mengubah cara masyarakat mengakses informasi dan hiburan, sebelum akhirnya sebagian perannya mulai tergeser televisi pada pertengahan abad ke-20. Meski begitu, radio tetap bertahan sebagai media penting sampai sekarang, terutama untuk konten seperti berita cepat, musik, dan siaran langsung olahraga, beradaptasi dengan berbagai perkembangan teknologi seperti radio digital dan platform streaming online.",
+    "tags": ["radio", "marconi", "telekomunikasi", "penyiaran", "gelombang-elektromagnetik"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-26"
+  },
+  {
+    "id": "teknologi.telekomunikasi.televisi",
+    "judul": "Penemuan Televisi",
+    "kategori": "teknologi",
+    "subkategori": "telekomunikasi",
+    "periode": {
+      "mulai": "1927",
+      "selesai": "1950",
+      "label": "1927 - 1950 Masehi"
+    },
+    "ringkasan": "Teknologi yang memungkinkan transmisi gambar bergerak dan suara secara bersamaan, berkembang dari perangkat eksperimental jadi pusat hiburan dan informasi keluarga di seluruh dunia.",
+    "konten": "Televisi adalah teknologi yang memungkinkan transmisi gambar bergerak beserta suara secara bersamaan lewat sinyal elektronik, dengan berbagai penemu di berbagai negara berkontribusi pada pengembangannya sepanjang awal abad ke-20. Salah satu tonggak penting adalah demonstrasi sistem televisi elektronik sepenuhnya oleh Philo Farnsworth, penemu Amerika yang pada 1927 (di usia sangat muda, baru 21 tahun) berhasil mentransmisikan gambar elektronik pertama menggunakan teknologi yang jadi dasar televisi modern, berbeda dari sistem mekanis yang lebih awal dikembangkan penemu lain seperti John Logie Baird di Inggris.\n\nPengembangan televisi mengalami perlambatan signifikan selama Perang Dunia II, ketika sumber daya dan fokus industri elektronik dialihkan sepenuhnya untuk kebutuhan militer. Namun setelah perang berakhir, produksi dan adopsi televisi berkembang sangat pesat, terutama di Amerika Serikat pada akhir 1940-an dan 1950-an, dengan harga pesawat televisi yang terus turun membuatnya semakin terjangkau bagi rumah tangga kelas menengah, mengubah televisi dari barang mewah eksklusif menjadi perabotan rumah tangga standar dalam waktu relatif singkat.\n\nTelevisi secara fundamental mengubah cara masyarakat mengonsumsi berita, hiburan, dan iklan, menciptakan budaya menonton bersama keluarga yang jadi ciri khas kehidupan rumah tangga modern selama beberapa dekade. Perkembangan teknologi televisi terus berlanjut, dari televisi hitam-putih ke televisi berwarna pada 1950-60an, kemudian televisi definisi tinggi (HD) dan smart TV modern yang terhubung internet, memungkinkan akses ke berbagai layanan streaming. Meski pola konsumsi media terus berubah dengan munculnya internet dan platform streaming digital, televisi tetap jadi salah satu teknologi paling berpengaruh dalam membentuk budaya populer dan cara masyarakat modern mengakses informasi selama lebih dari setengah abad terakhir.",
+    "tags": ["televisi", "philo-farnsworth", "penyiaran", "media-massa", "hiburan"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-26"
+  },
+  {
+    "id": "teknologi.telekomunikasi.telepon-seluler",
+    "judul": "Telepon Seluler",
+    "kategori": "teknologi",
+    "subkategori": "telekomunikasi",
+    "periode": {
+      "mulai": "1973",
+      "selesai": "1992",
+      "label": "1973 - 1992 Masehi"
+    },
+    "ringkasan": "Teknologi yang membebaskan komunikasi telepon dari kabel dan lokasi tetap, dari perangkat pertama seukuran batu bata hingga awal era pesan singkat (SMS) yang mengubah cara manusia berkomunikasi.",
+    "konten": "Telepon seluler pertama yang benar-benar portabel dan bisa dibawa bergerak (bukan sekadar telepon mobil yang terpasang permanen di kendaraan) berhasil didemonstrasikan Martin Cooper, insinyur Motorola, pada 1973, ketika ia melakukan panggilan telepon pertama menggunakan perangkat genggam di jalanan New York, momen yang dianggap sebagai kelahiran era telepon seluler modern. Perangkat awal ini berukuran besar dan berat (sering dijuluki mirip \"batu bata\"), dengan daya tahan baterai yang sangat terbatas dan harga yang sangat mahal, membuatnya awalnya hanya bisa diakses kalangan sangat terbatas.\n\nSelama 1980-an, jaringan telepon seluler komersial mulai dikembangkan dan diluncurkan di berbagai negara, meski teknologi generasi pertama ini (disebut 1G) masih menggunakan sinyal analog dengan kualitas suara terbatas dan kerentanan terhadap penyadapan. Perkembangan signifikan terjadi dengan diperkenalkannya teknologi 2G (generasi kedua) pada awal 1990-an, yang beralih ke sinyal digital, memberikan kualitas suara lebih baik, keamanan lebih tinggi, serta membuka kemungkinan baru berupa layanan pesan singkat teks (SMS), dengan pesan SMS pertama di dunia berhasil dikirim pada 1992.\n\nTeknologi telepon seluler terus berkembang pesat melalui berbagai generasi berikutnya (3G, 4G, dan sekarang 5G), setiap generasi membawa peningkatan signifikan dalam kecepatan transfer data, membuka kemungkinan fitur yang jauh lebih canggih dari sekadar panggilan suara dan SMS. Evolusi ini akhirnya berujung pada era smartphone modern, di mana telepon seluler berkembang jadi komputer serbaguna dalam genggaman, jauh melampaui fungsi komunikasi dasarnya yang pertama kali didemonstrasikan Martin Cooper lebih dari lima dekade lalu, mengubah total cara manusia berkomunikasi, bekerja, dan mengakses informasi di mana pun mereka berada.",
+    "tags": ["telepon-seluler", "martin-cooper", "motorola", "sms", "generasi-jaringan"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-26"
+  }
+]

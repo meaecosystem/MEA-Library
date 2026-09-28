@@ -1,0 +1,36 @@
+[
+  {
+    "id": "sejarah-indonesia.kolonial.politik-etis",
+    "judul": "Politik Etis (Politik Balas Budi)",
+    "kategori": "sejarah-indonesia",
+    "subkategori": "kolonial",
+    "periode": {
+      "mulai": "1901",
+      "selesai": "1942",
+      "label": "1901 - 1942 Masehi"
+    },
+    "ringkasan": "Kebijakan kolonial Belanda yang bertujuan 'membalas budi' rakyat Hindia Belanda lewat program irigasi, edukasi, dan migrasi, namun tanpa sengaja melahirkan generasi terpelajar yang jadi cikal bakal pergerakan nasional.",
+    "konten": "Politik Etis diumumkan secara resmi oleh Ratu Wilhelmina pada 1901, sebagai respons atas kritik keras yang berkembang di Belanda sendiri terhadap eksploitasi kolonial, terutama setelah kegagalan Tanam Paksa dan kemiskinan parah yang dialami rakyat Hindia Belanda. Nama \"Etis\" merujuk pada gagasan bahwa Belanda punya \"utang budi\" untuk memberi kesejahteraan kepada rakyat jajahannya, sebagai balasan atas kekayaan besar yang sudah diambil dari Nusantara selama berabad-abad.\n\nKebijakan ini punya tiga program utama, sering disebut Trias Politica van Deventer (dari nama tokoh yang mempopulerkannya, Conrad Theodoor van Deventer): irigasi (pembangunan sistem pengairan untuk pertanian), edukasi (pendidikan bagi pribumi, meski awalnya terbatas untuk kalangan elite), dan migrasi (transmigrasi penduduk dari Jawa yang padat ke pulau-pulau lain). Dalam praktiknya, implementasi program ini jauh dari sempurna dan tetap lebih menguntungkan kepentingan Belanda, namun program edukasi punya dampak yang tidak terduga.\n\nPendidikan yang mulai dibuka untuk kalangan pribumi, meski terbatas, melahirkan generasi baru kaum terpelajar yang mulai berpikir kritis tentang nasib bangsanya sendiri. Tokoh-tokoh seperti dokter, guru, dan mahasiswa yang mengenyam pendidikan model Barat inilah yang kelak jadi motor penggerak organisasi-organisasi pergerakan nasional Indonesia, ironisnya justru berkat kebijakan kolonial yang awalnya dimaksudkan untuk memperkuat legitimasi penjajahan Belanda itu sendiri.",
+    "tags": ["politik-etis", "van-deventer", "kolonial", "edukasi", "pergerakan-nasional"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "sejarah-indonesia.kemerdekaan.budi-utomo",
+    "judul": "Budi Utomo",
+    "kategori": "sejarah-indonesia",
+    "subkategori": "kemerdekaan",
+    "periode": {
+      "mulai": "1908",
+      "selesai": "1935",
+      "label": "1908 - 1935 Masehi"
+    },
+    "ringkasan": "Organisasi modern pertama di Hindia Belanda yang didirikan pribumi, dipelopori dr. Sutomo dan pelajar STOVIA, tanggal berdirinya diperingati sebagai Hari Kebangkitan Nasional.",
+    "konten": "Budi Utomo didirikan pada 20 Mei 1908 oleh sekelompok pelajar STOVIA (sekolah kedokteran untuk pribumi di Batavia), dipelopori dr. Sutomo bersama rekan-rekannya, dengan dorongan awal dari dr. Wahidin Soedirohoesodo yang berkeliling Jawa mengampanyekan gagasan pentingnya pendidikan bagi kemajuan bangsa. Organisasi ini sering disebut sebagai organisasi modern pertama yang didirikan pribumi di Hindia Belanda, membedakannya dari bentuk-bentuk perlawanan sebelumnya yang biasanya berupa perang fisik atau perlawanan kedaerahan.\n\nTujuan awal Budi Utomo lebih berfokus pada bidang pendidikan dan kebudayaan Jawa, belum secara eksplisit menyuarakan kemerdekaan politik seperti organisasi-organisasi yang muncul belakangan. Keanggotaannya pun awalnya terbatas pada kalangan priyayi (bangsawan) dan terpelajar Jawa, mencerminkan latar belakang para pendirinya yang notabene produk dari Politik Etis di bidang edukasi.\n\nMeski cakupan dan dampak politiknya terbatas dibanding organisasi pergerakan yang lahir setelahnya (seperti Sarekat Islam atau Indische Partij), kelahiran Budi Utomo dianggap jadi titik penting yang menandai lahirnya kesadaran berorganisasi secara modern di kalangan pribumi. Karena itu, tanggal berdirinya, 20 Mei, ditetapkan sebagai Hari Kebangkitan Nasional Indonesia, memperingati awal mula bangkitnya semangat pergerakan nasional yang terorganisir menuju kemerdekaan.",
+    "tags": ["budi-utomo", "sutomo", "stovia", "hari-kebangkitan-nasional", "pergerakan-nasional"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  }
+]

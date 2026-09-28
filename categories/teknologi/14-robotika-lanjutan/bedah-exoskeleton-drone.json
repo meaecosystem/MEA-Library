@@ -1,0 +1,53 @@
+[
+  {
+    "id": "teknologi.robotika-lanjutan.robot-bedah",
+    "judul": "Robot Bedah (Surgical Robot)",
+    "kategori": "teknologi",
+    "subkategori": "robotika-lanjutan",
+    "periode": {
+      "mulai": "2000",
+      "selesai": "sekarang",
+      "label": "2000 - sekarang"
+    },
+    "ringkasan": "Sistem robot yang membantu dokter melakukan operasi dengan presisi lebih tinggi dan sayatan lebih kecil, dipelopori sistem da Vinci yang sekarang dipakai luas di rumah sakit dunia.",
+    "konten": "Robot bedah adalah sistem robotika canggih yang dirancang membantu dokter bedah melakukan prosedur operasi dengan tingkat presisi jauh lebih tinggi dibanding kemampuan tangan manusia semata, sekaligus memungkinkan operasi dilakukan lewat sayatan yang jauh lebih kecil (minimal invasif). Salah satu sistem robot bedah paling terkenal dan banyak dipakai di dunia adalah da Vinci Surgical System, yang mendapat persetujuan untuk penggunaan komersial dari regulator kesehatan Amerika Serikat pada 2000, menandai awal adopsi luas teknologi robotika dalam ruang operasi rumah sakit modern.\n\nSistem seperti da Vinci bekerja dengan cara dokter bedah duduk di konsol kendali khusus, mengoperasikan lengan-lengan robotik yang dilengkapi instrumen bedah sangat kecil dan presisi lewat kontrol tangan yang diterjemahkan secara real-time menjadi gerakan robot, sementara kamera khusus memberikan pandangan tiga dimensi yang sangat detail ke area operasi. Keunggulan sistem ini termasuk kemampuan menyaring getaran alami tangan manusia, memungkinkan gerakan jauh lebih halus dan presisi, serta kemampuan robot mengakses sudut-sudut sempit dalam tubuh pasien yang sulit dijangkau tangan manusia secara langsung.\n\nManfaat robot bedah bagi pasien termasuk sayatan operasi yang jauh lebih kecil dibanding operasi konvensional, mengurangi rasa sakit pasca operasi, mempercepat waktu pemulihan, serta mengurangi risiko infeksi karena luka operasi lebih kecil. Teknologi ini sekarang dipakai luas untuk berbagai jenis operasi, termasuk operasi prostat, ginekologi, dan berbagai prosedur bedah lain di rumah sakit-rumah sakit besar di seluruh dunia. Meski robot bedah sangat canggih, penting dipahami bahwa robot ini sepenuhnya dikendalikan dokter bedah manusia secara langsung dan real-time, bukan beroperasi secara otonom, menjadikannya alat bantu yang memperluas kemampuan dokter, bukan menggantikan keahlian dan penilaian medis manusia.",
+    "tags": ["robot-bedah", "da-vinci", "operasi-minimal-invasif", "teknologi-medis", "robotika-medis"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-26"
+  },
+  {
+    "id": "teknologi.robotika-lanjutan.exoskeleton",
+    "judul": "Exoskeleton (Rangka Luar Robotik)",
+    "kategori": "teknologi",
+    "subkategori": "robotika-lanjutan",
+    "periode": {
+      "mulai": "1960",
+      "selesai": "sekarang",
+      "label": "1960 - sekarang"
+    },
+    "ringkasan": "Perangkat robotik yang dikenakan di tubuh manusia untuk menambah kekuatan atau membantu pemulihan mobilitas, dari eksperimen militer awal hingga aplikasi medis dan industri modern.",
+    "konten": "Exoskeleton, atau rangka luar robotik, adalah perangkat mekanis yang dikenakan langsung di tubuh manusia, dirancang untuk menambah kekuatan fisik, daya tahan, atau membantu memulihkan kemampuan bergerak bagi orang dengan keterbatasan mobilitas. Konsep dan eksperimen awal exoskeleton sudah dimulai sejak 1960-an, salah satunya oleh perusahaan General Electric yang mengembangkan prototipe bernama Hardiman, dirancang untuk memungkinkan pemakainya mengangkat beban jauh lebih berat dibanding kemampuan normal manusia, meski proyek awal ini menghadapi berbagai tantangan teknis dan tidak pernah benar-benar sukses secara praktis pada masanya.\n\nPengembangan teknologi exoskeleton terus berlanjut selama beberapa dekade berikutnya, dengan aplikasi yang berkembang ke berbagai bidang berbeda. Di bidang medis, exoskeleton berkembang jadi alat bantu penting bagi pasien dengan cedera tulang belakang atau kondisi lain yang memengaruhi kemampuan berjalan, membantu mereka berdiri dan bergerak kembali, sekaligus berperan dalam terapi rehabilitasi untuk memperkuat otot dan meningkatkan sirkulasi darah pasien yang sebelumnya sulit bergerak secara mandiri.\n\nDi bidang industri, exoskeleton dipakai membantu pekerja yang harus melakukan tugas fisik berat atau berulang, seperti mengangkat beban berat di pabrik atau gudang, mengurangi risiko cedera otot dan tulang belakang yang sering terjadi akibat pekerjaan fisik intensif jangka panjang. Sementara di bidang militer, penelitian terus dilakukan untuk mengembangkan exoskeleton yang bisa membantu prajurit membawa beban lebih berat dengan kelelahan lebih sedikit selama operasi lapangan. Meski teknologi exoskeleton terus berkembang pesat dengan berbagai kemajuan dalam bidang material ringan, baterai yang lebih efisien, dan sistem kendali yang lebih canggih, tantangan seperti biaya produksi yang masih relatif tinggi dan kenyamanan penggunaan jangka panjang tetap jadi area penelitian aktif untuk memperluas adopsi teknologi ini secara lebih luas.",
+    "tags": ["exoskeleton", "rehabilitasi-medis", "robotika-industri", "mobilitas", "hardiman"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-26"
+  },
+  {
+    "id": "teknologi.robotika-lanjutan.drone-swarm",
+    "judul": "Drone dan Teknologi Swarm",
+    "kategori": "teknologi",
+    "subkategori": "robotika-lanjutan",
+    "periode": {
+      "mulai": "2010",
+      "selesai": "sekarang",
+      "label": "2010 - sekarang"
+    },
+    "ringkasan": "Pesawat tanpa awak yang berkembang dari alat militer eksklusif menjadi teknologi konsumen luas, dengan teknologi swarm memungkinkan ratusan drone bekerja sama secara terkoordinasi.",
+    "konten": "Drone, atau pesawat tanpa awak (UAV/Unmanned Aerial Vehicle), pada awalnya dikembangkan terutama untuk keperluan militer, dipakai untuk pengintaian dan berbagai misi berisiko tinggi tanpa membahayakan nyawa pilot manusia. Namun sejak sekitar 2010-an, teknologi drone berkembang pesat menjadi produk konsumen yang jauh lebih terjangkau dan mudah diakses masyarakat umum, didorong kemajuan teknologi baterai, sensor GPS, kamera mini berkualitas tinggi, serta sistem kendali yang semakin mudah dioperasikan bahkan oleh pengguna awam.\n\nDrone konsumen modern menemukan berbagai aplikasi luas di luar konteks militer awalnya, termasuk fotografi dan videografi udara yang secara dramatis mengubah industri perfilman dan fotografi dengan kemampuan mengambil gambar dari sudut yang sebelumnya sangat mahal atau tidak mungkin dicapai, pemetaan dan survei lahan untuk pertanian presisi, inspeksi infrastruktur seperti menara listrik atau jembatan tanpa perlu manusia memanjat langsung, hingga pengiriman barang eksperimental oleh berbagai perusahaan logistik.\n\nSalah satu perkembangan paling menarik dalam teknologi drone adalah konsep swarm (kawanan), di mana puluhan hingga ratusan drone kecil bisa bekerja sama secara terkoordinasi menggunakan algoritma kecerdasan buatan, mirip perilaku kawanan burung atau serangga di alam, tanpa memerlukan kendali manual untuk setiap unit secara individual. Teknologi swarm ini menemukan berbagai aplikasi menakjubkan, termasuk pertunjukan cahaya drone yang menggantikan kembang api tradisional di berbagai acara besar, menciptakan formasi gambar kompleks di langit malam menggunakan ratusan drone dengan lampu LED terkoordinasi. Di bidang lain, penelitian swarm drone juga dieksplorasi untuk aplikasi seperti pencarian dan penyelamatan bencana, pemantauan lingkungan skala besar, hingga aplikasi pertanian presisi, menunjukkan potensi besar teknologi ini untuk berbagai bidang di masa depan, meski juga memunculkan pertanyaan penting tentang regulasi, privasi, dan keamanan seiring semakin luasnya penggunaan drone di ruang udara publik.",
+    "tags": ["drone", "uav", "swarm-technology", "fotografi-udara", "kecerdasan-buatan"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-26"
+  }
+]

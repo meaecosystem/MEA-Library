@@ -1,0 +1,36 @@
+[
+  {
+    "id": "sejarah-indonesia.kemerdekaan.pendudukan-jepang",
+    "judul": "Pendudukan Jepang di Indonesia",
+    "kategori": "sejarah-indonesia",
+    "subkategori": "kemerdekaan",
+    "periode": {
+      "mulai": "1942",
+      "selesai": "1945",
+      "label": "1942 - 1945 Masehi"
+    },
+    "ringkasan": "Masa singkat tapi penuh gejolak ketika Jepang menggantikan Belanda menguasai Indonesia, membawa penderitaan (romusha) sekaligus tanpa sengaja mempersiapkan Indonesia menuju kemerdekaan.",
+    "konten": "Jepang berhasil merebut Hindia Belanda dari tangan Belanda pada awal 1942, dalam waktu relatif singkat, sebagai bagian dari ekspansi mereka di Perang Dunia II di kawasan Asia Pasifik. Awalnya, banyak rakyat Indonesia menyambut kedatangan Jepang dengan harapan, terutama karena propaganda Jepang menjanjikan pembebasan dari penjajahan Barat lewat semboyan \"Jepang Cahaya Asia, Jepang Pelindung Asia, Jepang Pemimpin Asia\".\n\nNamun harapan itu segera berbalik jadi kekecewaan pahit. Jepang menerapkan sistem kerja paksa yang disebut Romusha, memaksa jutaan rakyat Indonesia bekerja membangun infrastruktur militer (rel kereta, benteng, lapangan terbang) dalam kondisi yang sangat buruk, menyebabkan banyak korban jiwa akibat kelaparan dan penyakit. Ekonomi juga dikuras habis-habisan untuk kepentingan perang Jepang, menyebabkan kelangkaan pangan parah di berbagai daerah.\n\nDi sisi lain, secara tidak sengaja, pendudukan Jepang justru mempercepat proses menuju kemerdekaan Indonesia. Jepang melatih dan mempersenjatai pemuda Indonesia lewat organisasi militer seperti PETA (Pembela Tanah Air), yang kelak jadi cikal bakal TNI. Jepang juga membentuk badan-badan seperti BPUPKI dan PPKI menjelang akhir masa pendudukannya untuk mempersiapkan kemerdekaan Indonesia (sebagai strategi mengambil hati rakyat saat posisi Jepang mulai terdesak dalam perang), yang justru dimanfaatkan para tokoh pergerakan untuk mematangkan rencana dan dasar negara menjelang proklamasi.",
+    "tags": ["jepang", "romusha", "peta", "bpupki", "ppki", "perang-dunia-ii"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "sejarah-indonesia.kemerdekaan.proklamasi",
+    "judul": "Proklamasi Kemerdekaan Indonesia",
+    "kategori": "sejarah-indonesia",
+    "subkategori": "kemerdekaan",
+    "periode": {
+      "mulai": "1945",
+      "selesai": "1945",
+      "label": "17 Agustus 1945"
+    },
+    "ringkasan": "Momen paling bersejarah bangsa Indonesia — pembacaan naskah proklamasi oleh Soekarno-Hatta di Jakarta, menandai lahirnya negara Indonesia merdeka.",
+    "konten": "Proklamasi Kemerdekaan Indonesia dibacakan oleh Soekarno, didampingi Mohammad Hatta, pada pagi hari 17 Agustus 1945 di kediaman Soekarno, Jalan Pegangsaan Timur No. 56, Jakarta. Momen ini terjadi tak lama setelah Jepang menyerah kepada Sekutu pasca pengeboman atom Hiroshima dan Nagasaki, menciptakan kekosongan kekuasaan (vacuum of power) yang dimanfaatkan para tokoh pergerakan untuk segera memproklamasikan kemerdekaan sebelum kekuatan asing lain kembali masuk.\n\nProses menjelang proklamasi sendiri penuh ketegangan, termasuk peristiwa \"penculikan\" Soekarno-Hatta ke Rengasdengklok oleh sekelompok pemuda yang mendesak keduanya segera memproklamasikan kemerdekaan tanpa menunggu persetujuan Jepang. Naskah proklamasi kemudian dirumuskan di rumah Laksamana Maeda (perwira Jepang yang bersimpati pada perjuangan Indonesia), melibatkan Soekarno, Hatta, dan Ahmad Soebardjo, dengan Sayuti Melik yang mengetiknya.\n\nTeks proklamasi sendiri sangat singkat, hanya dua kalimat, namun maknanya sangat besar: menyatakan kemerdekaan bangsa Indonesia dan pemindahan kekuasaan dilakukan dengan cara seksama. Bendera Merah Putih yang dijahit Fatmawati (istri Soekarno) turut dikibarkan sesaat setelah pembacaan naskah. Meski proklamasi ini menandai lahirnya negara Indonesia, perjuangan sesungguhnya belum selesai — Belanda masih berusaha kembali menguasai Indonesia, memicu periode revolusi fisik yang berlangsung beberapa tahun setelahnya.",
+    "tags": ["proklamasi", "soekarno", "hatta", "17-agustus", "kemerdekaan", "rengasdengklok"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  }
+]

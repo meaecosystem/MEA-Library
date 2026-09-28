@@ -1,0 +1,36 @@
+[
+  {
+    "id": "sejarah-indonesia.kemerdekaan.pertempuran-surabaya",
+    "judul": "Pertempuran Surabaya",
+    "kategori": "sejarah-indonesia",
+    "subkategori": "kemerdekaan",
+    "periode": {
+      "mulai": "1945",
+      "selesai": "1945",
+      "label": "10 November 1945"
+    },
+    "ringkasan": "Pertempuran besar rakyat Surabaya melawan tentara Inggris/Sekutu tak lama setelah proklamasi, jadi simbol perlawanan rakyat yang diperingati sebagai Hari Pahlawan.",
+    "konten": "Pertempuran Surabaya meletus setelah tewasnya Brigadir Jenderal A.W.S. Mallaby, komandan pasukan Inggris (yang saat itu bertugas melucuti tentara Jepang pasca perang) dalam sebuah insiden pada akhir Oktober 1945. Kematian Mallaby memicu kemarahan pihak Inggris, yang kemudian mengeluarkan ultimatum keras: rakyat Surabaya harus menyerahkan senjata dan menyerah tanpa syarat, atau kota akan digempur habis-habisan pada 10 November 1945.\n\nAlih-alih menyerah, rakyat Surabaya dari berbagai kalangan justru bangkit melawan dengan semangat luar biasa, dipicu juga oleh pidato berapi-api Bung Tomo lewat siaran radio yang membakar semangat juang rakyat, dengan seruan khasnya \"Allahu Akbar\" dan tekad mempertahankan kemerdekaan sampai titik darah penghabisan. Meski persenjataan jauh kalah modern dibanding pasukan Inggris yang didukung tank, pesawat, dan kapal perang, rakyat Surabaya, termasuk banyak pemuda dan santri, melawan dengan senjata seadanya dan keberanian yang luar biasa.\n\nPertempuran ini berlangsung sengit selama berminggu-minggu dan menyebabkan korban jiwa yang sangat besar di pihak Indonesia, namun perlawanan gigih rakyat Surabaya berhasil menunjukkan pada dunia bahwa kemerdekaan Indonesia bukan sekadar proklamasi di atas kertas, melainkan sesuatu yang siap dipertahankan rakyatnya dengan nyawa. Karena besarnya pengorbanan dan semangat perlawanan ini, tanggal 10 November diperingati setiap tahun sebagai Hari Pahlawan Nasional Indonesia.",
+    "tags": ["surabaya", "bung-tomo", "hari-pahlawan", "revolusi-fisik", "10-november"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "sejarah-indonesia.kemerdekaan.agresi-militer-belanda",
+    "judul": "Agresi Militer Belanda I dan II",
+    "kategori": "sejarah-indonesia",
+    "subkategori": "kemerdekaan",
+    "periode": {
+      "mulai": "1947",
+      "selesai": "1949",
+      "label": "1947 - 1949 Masehi"
+    },
+    "ringkasan": "Dua kali serangan militer besar Belanda untuk merebut kembali Indonesia pasca proklamasi, akhirnya berujung pengakuan kedaulatan Indonesia lewat tekanan internasional.",
+    "konten": "Setelah proklamasi 1945, Belanda tidak begitu saja mengakui kemerdekaan Indonesia dan berusaha merebut kembali bekas jajahannya lewat dua serangan militer besar yang mereka sebut \"aksi polisionil\" (padahal sejatinya adalah invasi militer skala penuh). Agresi Militer Belanda I terjadi pada Juli 1947, menyerang berbagai wilayah strategis di Jawa dan Sumatra, berhasil merebut banyak daerah penghasil sumber daya penting, namun mendapat kecaman keras dari dunia internasional, termasuk PBB yang mendesak gencatan senjata.\n\nSetelah serangkaian perundingan yang tidak sepenuhnya berhasil meredakan ketegangan (termasuk Perjanjian Renville yang justru merugikan wilayah kekuasaan Indonesia), Belanda kembali melancarkan Agresi Militer Belanda II pada Desember 1948, kali ini bahkan berhasil menduduki ibu kota sementara Republik Indonesia di Yogyakarta dan menangkap para pemimpin seperti Soekarno dan Hatta. Namun, alih-alih melumpuhkan perjuangan Indonesia, langkah ini justru memicu perlawanan gerilya yang meluas, termasuk Serangan Umum 1 Maret 1949 yang berhasil merebut kembali Yogyakarta selama beberapa jam, membuktikan pada dunia bahwa Republik Indonesia masih hidup dan mampu melawan.\n\nTekanan internasional yang makin besar, termasuk dari Amerika Serikat yang mengancam menghentikan bantuan Marshall Plan kepada Belanda kalau agresi terus berlanjut, akhirnya memaksa Belanda kembali ke meja perundingan. Proses ini berujung pada Konferensi Meja Bundar di Den Haag akhir 1949, yang hasilnya adalah pengakuan kedaulatan penuh Belanda atas Republik Indonesia Serikat pada 27 Desember 1949, menandai berakhirnya secara resmi era revolusi fisik kemerdekaan Indonesia.",
+    "tags": ["agresi-militer-belanda", "serangan-umum-1-maret", "konferensi-meja-bundar", "revolusi-fisik", "kedaulatan"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  }
+]

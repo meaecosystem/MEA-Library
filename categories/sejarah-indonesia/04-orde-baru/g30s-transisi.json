@@ -1,0 +1,36 @@
+[
+  {
+    "id": "sejarah-indonesia.orde-baru.g30s",
+    "judul": "Gerakan 30 September (G30S)",
+    "kategori": "sejarah-indonesia",
+    "subkategori": "orde-baru",
+    "periode": {
+      "mulai": "1965",
+      "selesai": "1965",
+      "label": "30 September - 1 Oktober 1965"
+    },
+    "ringkasan": "Peristiwa penculikan dan pembunuhan enam jenderal TNI dalam semalam, jadi titik balik politik paling kontroversial dan berdarah dalam sejarah Indonesia modern.",
+    "konten": "Gerakan 30 September (G30S) adalah peristiwa penculikan dan pembunuhan enam perwira tinggi TNI Angkatan Darat pada malam 30 September hingga dini hari 1 Oktober 1965, yang dilakukan oleh sekelompok militer yang mengaku bertujuan mengamankan Presiden Soekarno dari rencana kudeta oleh Dewan Jenderal. Para korban, termasuk Letnan Jenderal Ahmad Yani, dibunuh dan jenazahnya dibuang ke sebuah sumur tua di kawasan Lubang Buaya, Jakarta Timur.\n\nPeristiwa ini sampai sekarang masih jadi salah satu topik paling kontroversial dan diperdebatkan dalam sejarah Indonesia, dengan berbagai versi dan interpretasi mengenai siapa dalang sesungguhnya di balik gerakan ini — apakah murni konflik internal Angkatan Darat, keterlibatan Partai Komunis Indonesia (PKI), atau kombinasi faktor politik yang lebih kompleks melibatkan berbagai kepentingan, termasuk kemungkinan pengaruh asing di tengah situasi Perang Dingin saat itu.\n\nApa pun penyebab pastinya, dampak G30S sangat besar dan mengubah total arah politik Indonesia. Mayor Jenderal Soeharto, yang saat itu menjabat Panglima Komando Cadangan Strategis Angkatan Darat (Kostrad), bergerak cepat mengendalikan situasi dan menumpas gerakan tersebut, sekaligus menuding PKI sebagai dalang utama peristiwa ini. Tudingan ini memicu gelombang kekerasan massal terhadap orang-orang yang dituduh anggota atau simpatisan PKI di berbagai daerah, dengan jumlah korban jiwa yang diperkirakan mencapai ratusan ribu hingga lebih dari satu juta orang, salah satu tragedi kemanusiaan terbesar dalam sejarah Indonesia.",
+    "tags": ["g30s", "lubang-buaya", "pki", "soeharto", "1965"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "sejarah-indonesia.orde-baru.transisi-kekuasaan",
+    "judul": "Transisi Kekuasaan ke Orde Baru",
+    "kategori": "sejarah-indonesia",
+    "subkategori": "orde-baru",
+    "periode": {
+      "mulai": "1966",
+      "selesai": "1968",
+      "label": "1966 - 1968 Masehi"
+    },
+    "ringkasan": "Proses peralihan kekuasaan dari Soekarno ke Soeharto lewat Supersemar, menandai berakhirnya era Orde Lama dan dimulainya era Orde Baru yang berlangsung lebih dari tiga dekade.",
+    "konten": "Pasca G30S dan gelombang kekerasan yang menyertainya, situasi politik dan ekonomi Indonesia berada dalam kondisi sangat tidak stabil. Kepercayaan publik terhadap kepemimpinan Presiden Soekarno terus menurun, terutama karena krisis ekonomi parah (inflasi yang sangat tinggi) dan tekanan dari kalangan militer serta mahasiswa yang menuntut pembubaran PKI dan perbaikan ekonomi drastis lewat aksi-aksi demonstrasi besar yang dikenal dengan Tritura (Tiga Tuntutan Rakyat).\n\nTitik krusial transisi kekuasaan terjadi pada 11 Maret 1966, ketika Soekarno menandatangani surat perintah yang dikenal sebagai Supersemar (Surat Perintah Sebelas Maret), yang secara resmi memberi wewenang kepada Letnan Jenderal Soeharto untuk mengambil segala tindakan yang dianggap perlu demi menjaga keamanan dan stabilitas negara. Isi dan konteks sesungguhnya di balik surat ini masih jadi perdebatan sejarawan sampai sekarang — apakah benar-benar murni inisiatif Soekarno, atau merupakan hasil tekanan (bahkan ada yang menyebutnya di bawah todongan senjata).\n\nMemanfaatkan mandat Supersemar, Soeharto secara bertahap mengambil alih kendali pemerintahan, membubarkan PKI, dan menyingkirkan pendukung-pendukung Soekarno dari posisi-posisi penting. Proses ini berpuncak pada Maret 1967, ketika MPRS mencabut mandat kekuasaan dari Soekarno dan mengangkat Soeharto sebagai pejabat presiden, yang kemudian dikukuhkan penuh sebagai Presiden RI kedua pada Maret 1968. Periode kepemimpinan Soeharto inilah yang kemudian dikenal sebagai era Orde Baru, berlangsung selama 32 tahun sampai 1998.",
+    "tags": ["supersemar", "soeharto", "soekarno", "tritura", "orde-baru", "transisi-kekuasaan"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  }
+]

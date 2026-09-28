@@ -1,0 +1,53 @@
+[
+  {
+    "id": "teknologi.material-modern.plastik",
+    "judul": "Penemuan Plastik",
+    "kategori": "teknologi",
+    "subkategori": "material-modern",
+    "periode": {
+      "mulai": "1907",
+      "selesai": "1950",
+      "label": "1907 - 1950 Masehi"
+    },
+    "ringkasan": "Material sintetis yang merevolusi hampir setiap aspek kehidupan modern, dari Bakelite sebagai plastik sintetis pertama hingga produksi massal yang mengubah cara manusia mengonsumsi barang.",
+    "konten": "Plastik sintetis pertama yang benar-benar berhasil dikembangkan, Bakelite, diciptakan ilmuwan Belgia-Amerika Leo Baekeland pada 1907, membuka era material sintetis yang secara fundamental mengubah hampir setiap aspek kehidupan manusia modern. Sebelum penemuan ini, berbagai jenis \"plastik alami\" seperti seluloid (dibuat dari selulosa tanaman) sudah ada, namun Bakelite adalah material sintetis pertama yang seluruhnya dibuat dari molekul-molekul sintetis, tidak bergantung pada bahan alami sama sekali.\n\nKeunggulan plastik yang membuatnya begitu revolusioner adalah kombinasi sifat-sifatnya yang sangat serbaguna — ringan, tahan lama, murah diproduksi dalam skala besar, dan bisa dibentuk jadi hampir semua bentuk yang diinginkan lewat proses pemanasan dan pencetakan. Sifat-sifat ini menjadikan plastik material ideal untuk berbagai aplikasi, dari komponen elektronik, peralatan rumah tangga, kemasan makanan, hingga komponen otomotif dan pesawat terbang, secara bertahap menggantikan berbagai material tradisional seperti kayu, logam, atau kaca dalam banyak aplikasi karena biaya produksinya yang jauh lebih murah.\n\nProduksi dan penggunaan plastik meledak pesat pasca Perang Dunia II, seiring berbagai jenis plastik baru terus dikembangkan dengan sifat-sifat berbeda sesuai kebutuhan spesifik, dari plastik kaku untuk komponen struktural hingga plastik fleksibel untuk kemasan. Meski revolusi plastik membawa kemudahan besar bagi kehidupan modern dan mendorong pertumbuhan ekonomi berbagai industri, dampak lingkungan jangka panjangnya baru mendapat perhatian serius dalam beberapa dekade terakhir — sifat plastik yang sangat tahan lama dan sulit terurai secara alami menyebabkan akumulasi sampah plastik yang mengkhawatirkan di lingkungan, terutama di lautan, memicu berbagai upaya global mengembangkan alternatif material yang lebih ramah lingkungan serta sistem daur ulang plastik yang lebih efektif.",
+    "tags": ["plastik", "bakelite", "leo-baekeland", "material-sintetis", "polimer"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-26"
+  },
+  {
+    "id": "teknologi.material-modern.grafena",
+    "judul": "Grafena",
+    "kategori": "teknologi",
+    "subkategori": "material-modern",
+    "periode": {
+      "mulai": "2004",
+      "selesai": "2004",
+      "label": "2004 Masehi"
+    },
+    "ringkasan": "Material setipis satu atom karbon yang sangat kuat dan konduktif, berhasil diisolasi menggunakan teknik sederhana selotip, membuka potensi besar untuk elektronik masa depan.",
+    "konten": "Grafena adalah material yang terdiri dari satu lapisan atom karbon tersusun dalam struktur heksagonal (menyerupai sarang lebah), sehingga ketebalannya hanya setipis satu atom, membuatnya secara teknis merupakan material dua dimensi. Meski secara teoretis keberadaan grafena sudah diprediksi sejak beberapa dekade sebelumnya, keberhasilan mengisolasi dan mempelajari material ini secara nyata baru dicapai pada 2004 oleh dua ilmuwan Universitas Manchester, Andre Geim dan Konstantin Novoselov, menggunakan metode yang mengejutkan sederhana — memakai selotip biasa untuk mengelupas lapisan tipis grafit (bahan yang sama dengan isi pensil) sampai berhasil mendapatkan lapisan setipis satu atom.\n\nGrafena memiliki kombinasi sifat luar biasa yang jarang ditemukan bersamaan dalam satu material — sangat kuat (diperkirakan sekitar 200 kali lebih kuat dari baja per satuan beratnya), sangat ringan, fleksibel, transparan, sekaligus konduktor listrik dan panas yang sangat baik, bahkan lebih baik dibanding tembaga. Kombinasi sifat-sifat unik ini membuat grafena dianggap sebagai salah satu material paling menjanjikan untuk berbagai aplikasi teknologi masa depan, dari elektronik generasi berikutnya yang lebih cepat dan efisien, baterai dengan kapasitas lebih besar, hingga material komposit yang jauh lebih kuat dan ringan untuk industri otomotif dan penerbangan.\n\nBerkat penemuan revolusioner ini, Geim dan Novoselov dianugerahi Hadiah Nobel Fisika pada 2010, hanya enam tahun setelah penemuan awal mereka, sebuah pengakuan yang sangat cepat untuk standar Hadiah Nobel yang biasanya diberikan puluhan tahun setelah penemuan awal. Meski potensi aplikasi grafena sangat besar dan menjanjikan, tantangan produksi grafena berkualitas tinggi dalam skala besar dan biaya terjangkau masih jadi hambatan utama yang harus diatasi sebelum material ini bisa diaplikasikan secara luas dalam produk komersial sehari-hari, menjadikan grafena sebagai salah satu bidang penelitian material paling aktif dan menjanjikan dalam dunia sains dan teknologi modern.",
+    "tags": ["grafena", "andre-geim", "material-2d", "nobel-fisika", "karbon"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-26"
+  },
+  {
+    "id": "teknologi.material-modern.superkonduktor",
+    "judul": "Material Superkonduktor",
+    "kategori": "teknologi",
+    "subkategori": "material-modern",
+    "periode": {
+      "mulai": "1911",
+      "selesai": "1986",
+      "label": "1911 - 1986 Masehi"
+    },
+    "ringkasan": "Material yang bisa menghantarkan listrik tanpa hambatan sama sekali pada kondisi tertentu, membuka aplikasi penting seperti MRI dan kereta maglev, meski masih terbatas kondisi suhu sangat rendah.",
+    "konten": "Superkonduktor adalah material yang bisa menghantarkan arus listrik tanpa hambatan (resistansi) sama sekali ketika didinginkan hingga suhu tertentu, sebuah fenomena yang pertama kali ditemukan fisikawan Belanda Heike Kamerlingh Onnes pada 1911, ketika ia mengamati bahwa merkuri yang didinginkan hingga mendekati suhu nol mutlak (sekitar -269 derajat Celsius) tiba-tiba kehilangan seluruh resistansi listriknya. Penemuan mengejutkan ini membuka bidang penelitian baru dalam fisika material, dan Onnes sendiri dianugerahi Hadiah Nobel Fisika pada 1913 atas berbagai kontribusinya di bidang suhu rendah, termasuk penemuan superkonduktivitas ini.\n\nSelama beberapa dekade berikutnya, superkonduktor tradisional yang ditemukan hanya bisa mencapai keadaan tanpa resistansi pada suhu sangat rendah mendekati nol mutlak, membutuhkan pendinginan menggunakan helium cair yang sangat mahal dan rumit secara praktis, membatasi aplikasi teknologi ini pada penggunaan yang sangat khusus dan bernilai tinggi. Terobosan besar terjadi pada 1986, ketika ilmuwan Georg Bednorz dan Karl Müller menemukan kelas material baru yang disebut superkonduktor suhu tinggi, yang bisa mencapai keadaan superkonduktivitas pada suhu jauh lebih tinggi (meski masih sangat dingin menurut standar sehari-hari) dibanding superkonduktor konvensional, membuka kemungkinan pendinginan menggunakan nitrogen cair yang jauh lebih murah dan praktis dibanding helium cair.\n\nMeski masih membutuhkan pendinginan ekstrem, teknologi superkonduktor sudah menemukan berbagai aplikasi praktis penting, termasuk magnet super kuat yang jadi komponen kunci mesin MRI dalam dunia kedokteran, serta kereta maglev (magnetic levitation) yang melayang di atas rel menggunakan gaya magnet superkonduktor, memungkinkan kecepatan sangat tinggi dengan gesekan minimal. Penelitian terus berlanjut untuk mencari material superkonduktor yang bisa bekerja pada suhu ruangan normal tanpa perlu pendinginan sama sekali, sebuah pencapaian yang jika berhasil dicapai akan membawa revolusi besar dalam efisiensi transmisi listrik dan berbagai teknologi lain, meski sampai sekarang masih jadi tantangan besar yang belum terpecahkan sepenuhnya dalam fisika material.",
+    "tags": ["superkonduktor", "kamerlingh-onnes", "mri", "kereta-maglev", "fisika-material"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-26"
+  }
+]

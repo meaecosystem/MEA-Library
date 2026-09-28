@@ -1,0 +1,53 @@
+[
+  {
+    "id": "teknologi.robotika.robot-industri",
+    "judul": "Robot Industri Pertama (Unimate)",
+    "kategori": "teknologi",
+    "subkategori": "robotika",
+    "periode": {
+      "mulai": "1961",
+      "selesai": "1961",
+      "label": "1961 Masehi"
+    },
+    "ringkasan": "Unimate, robot industri pertama di dunia yang dipakai di pabrik General Motors, membuka era otomasi produksi massal yang mengubah wajah industri manufaktur global.",
+    "konten": "Unimate adalah robot industri pertama di dunia yang benar-benar dipakai dalam lini produksi nyata, diciptakan penemu George Devol dan mulai dioperasikan di pabrik General Motors di New Jersey, Amerika Serikat, pada 1961. Robot ini dirancang untuk melakukan tugas yang cukup berbahaya dan berulang bagi pekerja manusia — mengangkat dan menyusun komponen logam panas hasil cetakan die-casting, tugas yang sebelumnya berisiko tinggi menyebabkan luka bakar atau cedera bagi pekerja pabrik.\n\nUnimate bekerja lewat lengan hidraulik yang bisa diprogram untuk mengulangi serangkaian gerakan tertentu secara presisi dan konsisten, jauh lebih tahan lama dibanding tenaga manusia untuk tugas berulang dalam skala besar. Meski terlihat sederhana dibanding robot modern, keberhasilan Unimate membuktikan konsep bahwa mesin otomatis bisa diintegrasikan langsung ke dalam lini produksi pabrik, membuka jalan bagi revolusi otomasi industri yang berkembang pesat selama dekade-dekade berikutnya.\n\nSetelah kesuksesan Unimate, penggunaan robot industri menyebar cepat ke berbagai pabrik manufaktur di seluruh dunia, terutama industri otomotif yang jadi salah satu pengadopsi paling agresif teknologi ini. Jepang khususnya menjadi pemimpin global dalam adopsi robotika industri sejak 1970-an, dengan perusahaan seperti Toyota memelopori penggunaan robot secara masif dalam lini produksi mereka. Perkembangan robot industri terus berlanjut sampai sekarang, dengan robot modern yang jauh lebih canggih, presisi tinggi, dan bahkan mampu bekerja berdampingan langsung dengan pekerja manusia (disebut cobot atau collaborative robot), namun semuanya berakar dari terobosan awal yang dimulai Unimate lebih dari enam dekade lalu.",
+    "tags": ["unimate", "robot-industri", "george-devol", "otomasi", "general-motors"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-26"
+  },
+  {
+    "id": "teknologi.robotika.robot-humanoid",
+    "judul": "Robot Humanoid",
+    "kategori": "teknologi",
+    "subkategori": "robotika",
+    "periode": {
+      "mulai": "2000",
+      "selesai": "sekarang",
+      "label": "2000 - sekarang"
+    },
+    "ringkasan": "Robot yang dirancang menyerupai bentuk dan gerakan manusia, dipelopori robot ASIMO dari Honda, terus berkembang menuju kemampuan interaksi sosial yang semakin canggih.",
+    "konten": "Robot humanoid adalah robot yang dirancang khusus menyerupai bentuk dan gerakan manusia, dengan tujuan memungkinkan robot beroperasi dan berinteraksi lebih natural di lingkungan yang memang dirancang untuk manusia, seperti menaiki tangga, membuka pintu, atau menggunakan peralatan yang didesain untuk tangan manusia. Salah satu robot humanoid paling terkenal dan berpengaruh adalah ASIMO, dikembangkan perusahaan Honda dan diperkenalkan pada 2000 setelah bertahun-tahun penelitian, mampu berjalan, berlari, naik-turun tangga, bahkan menari, menunjukkan kemajuan signifikan dalam teknologi keseimbangan dan pergerakan robot.\n\nTantangan teknis terbesar dalam pengembangan robot humanoid adalah mencapai keseimbangan dan koordinasi gerakan yang stabil, karena berjalan dengan dua kaki (bipedal) jauh lebih kompleks secara mekanis dibanding robot beroda yang lebih umum dipakai untuk tugas industri. Setiap langkah yang diambil robot humanoid membutuhkan kalkulasi cepat dan penyesuaian keseimbangan secara real-time, sesuatu yang manusia lakukan secara alami tanpa berpikir sadar, namun sangat rumit direplikasi secara mekanis dan komputasi.\n\nPerkembangan robot humanoid terus berlanjut pesat dalam beberapa tahun terakhir, dengan berbagai perusahaan seperti Boston Dynamics mengembangkan robot dengan kemampuan gerakan yang semakin mengesankan, termasuk kemampuan melompat, berputar, bahkan melakukan gerakan akrobatik yang kompleks. Selain kemampuan fisik, fokus pengembangan robot humanoid modern juga semakin mengarah pada kemampuan interaksi sosial dan kognitif yang lebih canggih, memanfaatkan kemajuan teknologi kecerdasan buatan untuk memungkinkan robot memahami dan merespons perintah bahasa natural, mengenali ekspresi wajah manusia, dan berinteraksi dengan cara yang terasa lebih alami, membuka potensi aplikasi di bidang perawatan lansia, layanan pelanggan, hingga bantuan rumah tangga di masa mendatang.",
+    "tags": ["robot-humanoid", "asimo", "boston-dynamics", "honda", "bipedal"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-26"
+  },
+  {
+    "id": "teknologi.robotika.mobil-otonom",
+    "judul": "Mobil Otonom (Self-Driving Car)",
+    "kategori": "teknologi",
+    "subkategori": "robotika",
+    "periode": {
+      "mulai": "2004",
+      "selesai": "sekarang",
+      "label": "2004 - sekarang"
+    },
+    "ringkasan": "Kendaraan yang bisa mengemudi sendiri tanpa campur tangan manusia, mengombinasikan sensor canggih dan kecerdasan buatan, sedang diuji dan dikembangkan berbagai perusahaan teknologi besar dunia.",
+    "konten": "Mobil otonom, atau kendaraan yang bisa mengemudi sendiri tanpa perlu campur tangan pengemudi manusia, mengombinasikan berbagai teknologi canggih termasuk sensor lidar (mendeteksi jarak dan objek di sekitar kendaraan menggunakan laser), kamera, radar, serta algoritma kecerdasan buatan yang memproses seluruh informasi tersebut secara real-time untuk membuat keputusan mengemudi yang aman dan tepat. Momen penting dalam sejarah pengembangan teknologi ini adalah DARPA Grand Challenge, kompetisi yang diadakan Departemen Pertahanan Amerika Serikat mulai 2004, mendorong berbagai tim peneliti mengembangkan kendaraan otonom yang bisa menyelesaikan rute off-road tanpa pengemudi.\n\nSejak kompetisi tersebut, berbagai perusahaan teknologi besar mulai serius berinvestasi mengembangkan teknologi mobil otonom, dengan Google (lewat divisi yang kemudian menjadi Waymo) menjadi salah satu pelopor utama sejak sekitar 2009, diikuti berbagai perusahaan lain termasuk Tesla yang mengembangkan sistem bantuan pengemudi canggih (meski masih membutuhkan pengawasan manusia) yang dipasarkan luas ke konsumen. Tingkat otonomi kendaraan sendiri diklasifikasikan dalam beberapa level, dari level 0 (tanpa otomasi sama sekali) sampai level 5 (otonomi penuh tanpa perlu kemudi atau pedal sama sekali), dengan sebagian besar teknologi yang tersedia sekarang masih berada di level menengah yang membutuhkan pengawasan manusia sebagai cadangan.\n\nMeski kemajuan teknologi ini sangat pesat, tantangan besar masih tersisa sebelum mobil otonom sepenuhnya bisa diandalkan tanpa pengawasan di segala kondisi jalan dan cuaca, termasuk situasi tak terduga yang sulit diprediksi algoritma, pertimbangan etika dalam skenario kecelakaan yang tak terhindarkan, serta kerangka regulasi yang masih terus berkembang di berbagai negara. Beberapa kota di dunia sudah mulai mengoperasikan layanan taksi otonom terbatas sebagai uji coba, menandai langkah nyata menuju masa depan transportasi yang berpotensi mengubah total cara manusia bepergian, meski perjalanan menuju adopsi massal dan kepercayaan publik penuh masih membutuhkan waktu.",
+    "tags": ["mobil-otonom", "self-driving-car", "waymo", "tesla", "lidar"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-26"
+  }
+]

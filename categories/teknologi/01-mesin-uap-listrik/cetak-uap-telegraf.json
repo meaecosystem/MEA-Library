@@ -1,0 +1,53 @@
+[
+  {
+    "id": "teknologi.mesin-uap-listrik.mesin-cetak",
+    "judul": "Mesin Cetak Gutenberg",
+    "kategori": "teknologi",
+    "subkategori": "mesin-uap-listrik",
+    "periode": {
+      "mulai": "1440",
+      "selesai": "1440",
+      "label": "sekitar 1440 Masehi"
+    },
+    "ringkasan": "Penemuan Johannes Gutenberg yang merevolusi penyebaran informasi di Eropa, memungkinkan produksi buku massal dan mempercepat penyebaran pengetahuan secara dramatis.",
+    "konten": "Mesin cetak dengan huruf lepas (movable type) yang dikembangkan Johannes Gutenberg di Jerman sekitar 1440 adalah salah satu penemuan paling revolusioner dalam sejarah teknologi informasi manusia. Sebelum penemuan ini, buku-buku di Eropa harus disalin tangan satu per satu oleh para juru tulis, proses yang sangat lambat dan mahal, membuat buku jadi barang sangat langka dan eksklusif yang hanya bisa diakses kalangan sangat terbatas seperti gereja, bangsawan, dan universitas.\n\nInovasi kunci Gutenberg adalah kombinasi beberapa elemen sekaligus — huruf logam lepas yang bisa disusun ulang dan dipakai berkali-kali, tinta berbasis minyak yang lebih tahan lama, serta mesin press yang diadaptasi dari teknologi pengepresan anggur, menciptakan sistem produksi cetak yang jauh lebih cepat dan efisien dibanding metode penyalinan tangan atau bahkan teknik cetak blok kayu yang sudah ada sebelumnya di Asia. Buku pertama yang dicetak Gutenberg dengan teknologi ini, Alkitab Gutenberg, jadi bukti nyata kemampuan revolusioner teknologi ini.\n\nDampak mesin cetak Gutenberg sangat besar dan luas — harga buku turun drastis, memungkinkan penyebaran pengetahuan jauh lebih luas dan cepat ke berbagai lapisan masyarakat, secara langsung mendorong percepatan gerakan Renaisans dan kemudian Reformasi Protestan (ide-ide Martin Luther bisa menyebar cepat berkat mesin cetak). Literasi masyarakat meningkat drastis karena buku jadi lebih terjangkau, sementara standarisasi bahasa tertulis juga terdorong karena teks cetak lebih konsisten dibanding salinan tangan yang rentan kesalahan. Penemuan ini dianggap sebagai salah satu titik balik paling penting yang mempercepat transisi Eropa dari Abad Pertengahan menuju era modern.",
+    "tags": ["mesin-cetak", "gutenberg", "renaisans", "penyebaran-informasi", "buku"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-26"
+  },
+  {
+    "id": "teknologi.mesin-uap-listrik.mesin-uap",
+    "judul": "Mesin Uap",
+    "kategori": "teknologi",
+    "subkategori": "mesin-uap-listrik",
+    "periode": {
+      "mulai": "1712",
+      "selesai": "1781",
+      "label": "1712 - 1781 Masehi"
+    },
+    "ringkasan": "Teknologi yang jadi mesin penggerak utama Revolusi Industri, disempurnakan James Watt, mengubah total cara manusia memproduksi barang dan bertransportasi.",
+    "konten": "Mesin uap adalah teknologi kunci yang memicu dan menggerakkan Revolusi Industri, mengubah energi panas dari uap air menjadi tenaga gerak mekanis. Meski konsep dasar mesin uap sudah dieksperimenkan sejak lebih awal (termasuk mesin uap Thomas Newcomen pada 1712 yang dipakai memompa air dari tambang batu bara), terobosan besar terjadi ketika insinyur Skotlandia James Watt menyempurnakan desainnya pada 1781, membuat mesin uap jauh lebih efisien dan bertenaga dibanding versi-versi sebelumnya.\n\nPerbaikan kunci yang dilakukan Watt termasuk penambahan kondensor terpisah yang secara signifikan meningkatkan efisiensi bahan bakar, serta pengembangan mekanisme yang memungkinkan mesin uap menghasilkan gerakan rotasi (bukan hanya gerakan naik-turun), membuka kemungkinan aplikasi yang jauh lebih luas di berbagai jenis mesin dan pabrik, tidak terbatas hanya untuk memompa air dari tambang seperti penggunaan awalnya.\n\nDampak mesin uap terhadap peradaban manusia sangat besar dan menyeluruh — menggerakkan mesin-mesin pabrik tekstil dan industri lain dengan kapasitas jauh melebihi tenaga manusia atau hewan, memungkinkan pengembangan kereta api yang secara dramatis mempercepat transportasi darat, serta kapal uap yang mempercepat dan membuat pelayaran laut lebih dapat diandalkan tanpa bergantung sepenuhnya pada angin. Teknologi ini secara fundamental mengubah struktur ekonomi dan sosial dunia, mendorong urbanisasi besar-besaran dan pertumbuhan kota-kota industri, sekaligus meletakkan fondasi bagi berbagai teknologi mesin pembakaran dan penggerak lain yang berkembang di era-era berikutnya.",
+    "tags": ["mesin-uap", "james-watt", "revolusi-industri", "kereta-api", "energi"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-26"
+  },
+  {
+    "id": "teknologi.mesin-uap-listrik.telegraf-listrik",
+    "judul": "Telegraf dan Listrik",
+    "kategori": "teknologi",
+    "subkategori": "mesin-uap-listrik",
+    "periode": {
+      "mulai": "1837",
+      "selesai": "1879",
+      "label": "1837 - 1879 Masehi"
+    },
+    "ringkasan": "Perkembangan telegraf listrik yang merevolusi komunikasi jarak jauh, disusul penemuan bola lampu Edison yang membawa listrik ke kehidupan sehari-hari manusia.",
+    "konten": "Telegraf listrik, dikembangkan Samuel Morse bersama rekan-rekannya pada 1837, adalah teknologi komunikasi jarak jauh pertama yang memanfaatkan sinyal listrik, memungkinkan pesan dikirim dalam hitungan menit ke jarak yang sangat jauh, sesuatu yang sebelumnya membutuhkan waktu berhari-hari atau bahkan berminggu-minggu lewat metode pengiriman surat konvensional. Sistem ini bekerja dengan mengirim sinyal listrik lewat kabel, diterjemahkan menggunakan kode Morse (kombinasi titik dan garis yang mewakili huruf dan angka) yang juga dikembangkan Morse sendiri.\n\nJaringan telegraf berkembang sangat cepat di seluruh Amerika Serikat dan Eropa pada pertengahan abad ke-19, bahkan kabel telegraf bawah laut trans-Atlantik pertama berhasil dipasang pada 1866, menghubungkan Amerika dan Eropa secara langsung untuk pertama kalinya, sebuah pencapaian teknik yang sangat mengesankan untuk masanya. Telegraf secara fundamental mengubah cara bisnis, pemerintahan, dan berita bekerja, memungkinkan informasi penting menyebar dengan kecepatan yang sebelumnya tidak terbayangkan.\n\nTak lama setelah era telegraf, penemuan lain yang tak kalah revolusioner muncul: bola lampu pijar praktis yang dikembangkan Thomas Edison pada 1879 (meski beberapa penemu lain juga bereksperimen dengan konsep serupa sebelumnya). Penemuan ini membuka jalan bagi elektrifikasi rumah tangga dan kota secara luas, mengubah total pola kehidupan manusia yang sebelumnya sangat bergantung pada siklus siang-malam alami. Edison juga mengembangkan sistem distribusi listrik pertama, meletakkan fondasi infrastruktur kelistrikan yang jadi tulang punggung hampir semua teknologi modern yang kita nikmati sekarang, dari penerangan hingga seluruh perangkat elektronik.",
+    "tags": ["telegraf", "samuel-morse", "listrik", "thomas-edison", "bola-lampu"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-26"
+  }
+]

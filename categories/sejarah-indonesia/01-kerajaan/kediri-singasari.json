@@ -1,0 +1,36 @@
+[
+  {
+    "id": "sejarah-indonesia.kerajaan.kediri",
+    "judul": "Kerajaan Kediri",
+    "kategori": "sejarah-indonesia",
+    "subkategori": "kerajaan",
+    "periode": {
+      "mulai": "1042",
+      "selesai": "1222",
+      "label": "1042 - 1222 Masehi"
+    },
+    "ringkasan": "Kerajaan Hindu di Jawa Timur, pecahan dari Kerajaan Kahuripan, terkenal sebagai pusat sastra Jawa Kuno dengan karya seperti Kakawin Bharatayuddha.",
+    "konten": "Kediri lahir dari pembagian Kerajaan Kahuripan oleh Raja Airlangga pada 1042, yang membagi kerajaannya jadi dua untuk kedua putranya agar tidak berebut takhta — satu jadi Kediri (Panjalu), satu lagi jadi Jenggala. Dalam perjalanannya, Kediri berhasil menaklukkan Jenggala dan berkembang jadi kerajaan besar yang menguasai sebagian besar Jawa Timur.\n\nKediri paling dikenal sebagai masa keemasan sastra Jawa Kuno. Banyak kakawin (puisi epik) besar lahir di era ini, salah satu yang paling terkenal adalah Kakawin Bharatayuddha karya Mpu Sedah dan Mpu Panuluh, yang menceritakan ulang kisah perang besar Bharatayuddha dari epik Mahabharata dengan gaya bahasa Jawa Kuno yang indah. Karya-karya sastra era Kediri ini jadi rujukan penting untuk memahami budaya dan pandangan dunia masyarakat Jawa saat itu.\n\nRaja paling terkenal dari Kediri adalah Jayabaya, yang sampai sekarang namanya masih sering dikaitkan dengan ramalan-ramalan (Jangka Jayabaya) dalam budaya Jawa, meski banyak dari ramalan itu sebenarnya ditulis jauh setelah masa hidupnya. Kediri akhirnya runtuh pada 1222 setelah dikalahkan oleh Ken Arok, yang kemudian mendirikan kerajaan baru bernama Singasari.",
+    "tags": ["kediri", "airlangga", "bharatayuddha", "jayabaya", "jawa-timur", "sastra-jawa-kuno"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "sejarah-indonesia.kerajaan.singasari",
+    "judul": "Kerajaan Singasari",
+    "kategori": "sejarah-indonesia",
+    "subkategori": "kerajaan",
+    "periode": {
+      "mulai": "1222",
+      "selesai": "1292",
+      "label": "1222 - 1292 Masehi"
+    },
+    "ringkasan": "Kerajaan yang didirikan Ken Arok di Jawa Timur, penuh drama perebutan takhta, dan jadi cikal bakal berdirinya Majapahit lewat raja terakhirnya, Kertanegara.",
+    "konten": "Singasari berdiri pada 1222 setelah Ken Arok mengalahkan Kediri, dan sejarah awal kerajaan ini terkenal penuh drama — kisah Ken Arok sendiri diwarnai legenda perebutan kekuasaan, termasuk cerita tentang Keris Mpu Gandring yang dipercaya membawa kutukan, menyebabkan kematian berantai di kalangan penguasa Singasari selama beberapa generasi.\n\nRaja paling berpengaruh Singasari adalah Kertanegara, yang naik takhta pada 1268. Di bawahnya, Singasari berkembang jadi kekuatan besar dengan ambisi memperluas pengaruh sampai ke luar Jawa, termasuk lewat ekspedisi militer yang disebut Pamalayu ke Sumatra untuk memperkuat pengaruh terhadap kerajaan-kerajaan Melayu. Kertanegara juga dikenal berani secara diplomatik — ia menolak tunduk pada permintaan upeti dari Kubilai Khan, penguasa Dinasti Yuan di Cina, sebuah keputusan yang berujung fatal.\n\nPada 1292, Kertanegara dibunuh dalam pemberontakan oleh Jayakatwang, bupati Kediri yang ingin membalas dendam atas kekalahan leluhurnya dulu. Peristiwa ini kemudian jadi latar penting berdirinya Majapahit — menantu Kertanegara, Raden Wijaya, berhasil selamat, dan dengan memanfaatkan pasukan Mongol yang datang untuk 'menghukum' Jawa (akibat penolakan Kertanegara sebelumnya), ia balik menyerang Jayakatwang dan kemudian mengusir pasukan Mongol tersebut, lalu mendirikan Kerajaan Majapahit.",
+    "tags": ["singasari", "ken-arok", "kertanegara", "jawa-timur", "majapahit", "mongol"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  }
+]

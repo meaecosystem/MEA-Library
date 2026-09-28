@@ -1,0 +1,53 @@
+[
+  {
+    "id": "teknologi.bioteknologi.penemuan-dna",
+    "judul": "Penemuan Struktur DNA",
+    "kategori": "teknologi",
+    "subkategori": "bioteknologi",
+    "periode": {
+      "mulai": "1953",
+      "selesai": "1953",
+      "label": "1953 Masehi"
+    },
+    "ringkasan": "Penemuan struktur heliks ganda DNA oleh James Watson dan Francis Crick, membuka jalan bagi seluruh perkembangan bioteknologi dan genetika modern.",
+    "konten": "Penemuan struktur DNA sebagai heliks ganda (double helix) oleh James Watson dan Francis Crick pada 1953 adalah salah satu terobosan paling fundamental dalam sejarah biologi modern, membuka pemahaman tentang bagaimana informasi genetik disimpan dan diwariskan dalam setiap makhluk hidup. Penemuan ini sangat bergantung pada data kristalografi sinar-X yang dihasilkan Rosalind Franklin dan Maurice Wilkins, terutama gambar terkenal yang disebut \"Photo 51\", yang memberikan petunjuk visual krusial tentang bentuk heliks molekul DNA — kontribusi Franklin ini baru mendapat pengakuan lebih luas belakangan, karena awalnya kurang dihargai setara dengan Watson dan Crick yang menerima Hadiah Nobel untuk penemuan ini pada 1962.\n\nStruktur heliks ganda DNA menjelaskan secara elegan bagaimana informasi genetik bisa disalin dan diwariskan — dua untai DNA yang saling melilit dan berpasangan lewat basa nitrogen tertentu (adenin selalu berpasangan dengan timin, sitosin dengan guanin) menyediakan mekanisme alami untuk replikasi, di mana masing-masing untai bisa jadi cetakan untuk membentuk untai pasangan baru, memastikan informasi genetik tersalin secara akurat setiap kali sel membelah.\n\nPemahaman tentang struktur DNA ini membuka jalan bagi seluruh perkembangan bidang genetika dan bioteknologi modern selama beberapa dekade berikutnya, termasuk kemampuan membaca dan memanipulasi kode genetik, mengidentifikasi penyebab genetik berbagai penyakit, mengembangkan tes DNA untuk keperluan forensik dan identifikasi kekerabatan, hingga akhirnya memungkinkan berbagai teknik rekayasa genetika yang mengubah total pendekatan manusia terhadap kedokteran, pertanian, dan biologi secara keseluruhan.",
+    "tags": ["dna", "watson-crick", "rosalind-franklin", "genetika", "heliks-ganda"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-26"
+  },
+  {
+    "id": "teknologi.bioteknologi.rekayasa-genetika",
+    "judul": "Rekayasa Genetika dan CRISPR",
+    "kategori": "teknologi",
+    "subkategori": "bioteknologi",
+    "periode": {
+      "mulai": "1973",
+      "selesai": "2012",
+      "label": "1973 - 2012 Masehi"
+    },
+    "ringkasan": "Perkembangan teknik memodifikasi materi genetik organisme, dari DNA rekombinan awal hingga penemuan CRISPR yang membuat penyuntingan gen jauh lebih presisi dan terjangkau.",
+    "konten": "Rekayasa genetika, teknik memodifikasi materi genetik suatu organisme secara langsung, dimulai secara formal pada 1973 ketika ilmuwan Herbert Boyer dan Stanley Cohen berhasil menciptakan DNA rekombinan pertama, menggabungkan materi genetik dari organisme berbeda menjadi satu untai DNA baru. Terobosan ini membuka jalan bagi berbagai aplikasi penting, termasuk produksi insulin sintetis lewat bakteri yang dimodifikasi secara genetik pada akhir 1970-an, memberikan sumber insulin yang jauh lebih aman dan konsisten dibanding metode ekstraksi dari hewan yang dipakai sebelumnya untuk mengobati diabetes.\n\nSelama beberapa dekade berikutnya, berbagai teknik rekayasa genetika terus berkembang, memungkinkan modifikasi tanaman pertanian agar lebih tahan hama atau kekeringan, produksi berbagai protein terapeutik lewat organisme yang dimodifikasi, hingga proyek ambisius Human Genome Project yang berhasil memetakan seluruh urutan genetik manusia pada awal 2000-an, memberikan pemahaman mendalam tentang cetak biru genetik manusia.\n\nTerobosan paling revolusioner dalam rekayasa genetika modern adalah penemuan dan pengembangan teknologi CRISPR-Cas9 sekitar 2012, dipelopori ilmuwan Jennifer Doudna dan Emmanuelle Charpentier (yang kemudian meraih Hadiah Nobel Kimia 2020 atas penemuan ini). CRISPR adalah sistem penyuntingan gen yang jauh lebih presisi, cepat, dan terjangkau dibanding teknik-teknik sebelumnya, memungkinkan ilmuwan \"memotong dan menempel\" bagian spesifik kode genetik dengan tingkat akurasi yang belum pernah ada sebelumnya. Teknologi ini membuka potensi besar dalam pengobatan penyakit genetik, penelitian kanker, pengembangan tanaman pangan yang lebih tangguh, sekaligus memicu perdebatan etika serius tentang batas-batas yang layak dalam memodifikasi kode genetik makhluk hidup, termasuk manusia.",
+    "tags": ["rekayasa-genetika", "crispr", "dna-rekombinan", "human-genome-project", "bioteknologi"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-26"
+  },
+  {
+    "id": "teknologi.bioteknologi.vaksin-mrna",
+    "judul": "Vaksin mRNA",
+    "kategori": "teknologi",
+    "subkategori": "bioteknologi",
+    "periode": {
+      "mulai": "1990",
+      "selesai": "2020",
+      "label": "1990 - 2020 Masehi"
+    },
+    "ringkasan": "Teknologi vaksin generasi baru yang mengajarkan sel tubuh membuat sendiri protein pemicu kekebalan, dikembangkan bertahun-tahun sebelum akhirnya terbukti efektif lewat vaksin COVID-19.",
+    "konten": "Vaksin mRNA adalah teknologi vaksin generasi baru yang bekerja dengan prinsip berbeda dari vaksin tradisional — alih-alih memasukkan versi lemah atau tidak aktif dari virus/bakteri penyebab penyakit ke dalam tubuh, vaksin mRNA justru memberikan instruksi genetik (dalam bentuk messenger RNA) kepada sel tubuh untuk memproduksi sendiri sepotong kecil protein yang menyerupai bagian dari virus target, memicu sistem kekebalan tubuh mengenali dan membentuk pertahanan terhadap protein tersebut tanpa perlu memasukkan virus sesungguhnya ke dalam tubuh.\n\nKonsep dasar teknologi mRNA sebenarnya sudah diteliti sejak sekitar 1990-an, namun perkembangannya menghadapi berbagai tantangan teknis signifikan selama bertahun-tahun, terutama terkait bagaimana menstabilkan molekul mRNA yang secara alami sangat rapuh dan mudah terurai, serta bagaimana mengantarkannya ke dalam sel tubuh secara efektif tanpa memicu reaksi kekebalan yang tidak diinginkan. Ilmuwan seperti Katalin Karikó berperan sangat penting dalam mengatasi berbagai tantangan teknis ini lewat penelitian bertahun-tahun yang awalnya kurang mendapat perhatian luas, sebelum akhirnya terobosan-terobosan risetnya terbukti sangat krusial.\n\nMomen pembuktian besar teknologi vaksin mRNA terjadi pada 2020, ketika pandemi COVID-19 melanda dunia dan kebutuhan mendesak akan vaksin yang efektif memungkinkan teknologi ini dikembangkan dan diuji dengan kecepatan belum pernah terjadi sebelumnya, menghasilkan vaksin mRNA dari Pfizer-BioNTech dan Moderna yang terbukti sangat efektif mencegah penyakit parah akibat COVID-19. Keberhasilan ini tidak hanya membantu mengatasi krisis kesehatan global mendesak, tapi juga membuka jalan bagi pengembangan lebih lanjut teknologi mRNA untuk berbagai aplikasi kesehatan lain, termasuk penelitian vaksin kanker personal dan pengobatan berbagai penyakit genetik lainnya di masa mendatang.",
+    "tags": ["vaksin-mrna", "covid-19", "katalin-kariko", "imunologi", "bioteknologi"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-26"
+  }
+]

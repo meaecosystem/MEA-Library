@@ -1,0 +1,53 @@
+[
+  {
+    "id": "teknologi.era-digital.komputer",
+    "judul": "Sejarah Komputer",
+    "kategori": "teknologi",
+    "subkategori": "era-digital",
+    "periode": {
+      "mulai": "1940",
+      "selesai": "1980",
+      "label": "sekitar 1940 - 1980 Masehi"
+    },
+    "ringkasan": "Perjalanan komputer dari mesin raksasa seukuran ruangan menjadi perangkat pribadi, dipicu kebutuhan Perang Dunia II dan kemudian penemuan transistor serta mikroprosesor.",
+    "konten": "Komputer modern lahir dari kebutuhan mendesak selama Perang Dunia II, ketika mesin-mesin seperti Colossus di Inggris dipakai untuk memecahkan kode rahasia Jerman, dan ENIAC di Amerika Serikat yang selesai dibangun pada 1945 dianggap sebagai salah satu komputer elektronik serbaguna pertama, meski ukurannya sangat masif — memenuhi seluruh ruangan besar dan membutuhkan ribuan tabung vakum yang mudah rusak dan menghasilkan panas luar biasa.\n\nTerobosan besar berikutnya terjadi dengan penemuan transistor pada 1947 oleh tim ilmuwan Bell Labs, teknologi yang jauh lebih kecil, lebih andal, dan lebih hemat energi dibanding tabung vakum, memungkinkan komputer dibuat jauh lebih kecil dan terjangkau. Perkembangan selanjutnya adalah penemuan sirkuit terpadu (integrated circuit) pada akhir 1950-an, yang memungkinkan banyak transistor dipadatkan dalam satu chip kecil, membuka jalan bagi miniaturisasi komputer yang terus berlanjut sampai sekarang.\n\nPenemuan mikroprosesor oleh Intel pada 1971 jadi titik balik penting lain, memadatkan seluruh unit pemrosesan pusat (CPU) komputer dalam satu chip tunggal, membuka jalan bagi era komputer pribadi (personal computer) yang dimulai pada akhir 1970-an dan awal 1980-an lewat perusahaan-perusahaan seperti Apple dan IBM. Perjalanan dari mesin raksasa seukuran ruangan yang hanya bisa dioperasikan institusi besar, menjadi perangkat yang bisa dimiliki dan dipakai individu di rumah mereka sendiri, terjadi dalam rentang waktu hanya sekitar tiga dekade, salah satu percepatan teknologi paling dramatis dalam sejarah manusia.",
+    "tags": ["komputer", "eniac", "transistor", "mikroprosesor", "personal-computer"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-26"
+  },
+  {
+    "id": "teknologi.era-digital.internet",
+    "judul": "Sejarah Internet",
+    "kategori": "teknologi",
+    "subkategori": "era-digital",
+    "periode": {
+      "mulai": "1969",
+      "selesai": "1991",
+      "label": "1969 - 1991 Masehi"
+    },
+    "ringkasan": "Perjalanan internet dari proyek militer eksperimental ARPANET menjadi World Wide Web yang mengubah total cara manusia mengakses informasi dan berkomunikasi secara global.",
+    "konten": "Internet berawal dari proyek penelitian militer Amerika Serikat bernama ARPANET pada 1969, dikembangkan Departemen Pertahanan AS (lewat badan bernama ARPA) dengan tujuan menciptakan jaringan komunikasi yang bisa tetap berfungsi meski sebagian jaringannya rusak, awalnya menghubungkan hanya empat universitas di Amerika Serikat. Teknologi kunci di balik ARPANET adalah packet switching, metode mengirim data dalam paket-paket kecil yang bisa mengambil jalur berbeda-beda menuju tujuan, membuat jaringan jadi jauh lebih tangguh dibanding sistem komunikasi tradisional.\n\nSelama tahun 1970-an dan 1980-an, jaringan ini terus berkembang dan semakin banyak institusi yang terhubung, dengan protokol standar TCP/IP yang diadopsi pada 1983 menjadi fondasi teknis yang memungkinkan berbagai jaringan komputer berbeda bisa saling terhubung dan \"berbicara\" satu sama lain, konsep dasar yang masih dipakai internet sampai sekarang. Namun internet pada masa ini masih sangat sulit diakses dan dipakai orang awam, terbatas pada kalangan akademisi, militer, dan peneliti yang paham cara mengoperasikannya lewat perintah teks yang rumit.\n\nTitik balik yang benar-benar membuka internet untuk masyarakat luas terjadi ketika ilmuwan Inggris Tim Berners-Lee menciptakan World Wide Web pada 1989-1991 saat bekerja di CERN, Swiss, mengembangkan sistem hypertext yang memungkinkan dokumen saling terhubung lewat tautan (link) dan diakses lewat antarmuka visual yang jauh lebih ramah pengguna lewat browser web. Penemuan ini secara dramatis menurunkan hambatan teknis untuk mengakses internet, memicu ledakan pertumbuhan pengguna internet di seluruh dunia sepanjang 1990-an, dan akhirnya mengubah internet dari alat khusus kalangan teknis menjadi infrastruktur fundamental yang menopang hampir seluruh aspek kehidupan modern.",
+    "tags": ["internet", "arpanet", "world-wide-web", "tim-berners-lee", "tcp-ip"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-26"
+  },
+  {
+    "id": "teknologi.era-digital.smartphone",
+    "judul": "Sejarah Smartphone",
+    "kategori": "teknologi",
+    "subkategori": "era-digital",
+    "periode": {
+      "mulai": "1992",
+      "selesai": "2007",
+      "label": "1992 - 2007 Masehi"
+    },
+    "ringkasan": "Evolusi telepon genggam dari alat komunikasi sederhana menjadi komputer saku serbaguna, dengan peluncuran iPhone pada 2007 sebagai titik balik yang mendefinisikan ulang industri ini.",
+    "konten": "Smartphone, atau telepon pintar, berkembang dari konsep telepon genggam sederhana yang awalnya hanya bisa dipakai untuk menelepon dan mengirim pesan singkat. Perangkat yang sering dianggap sebagai smartphone pertama adalah IBM Simon, diluncurkan pada 1992, yang sudah menggabungkan fungsi telepon dengan fitur seperti kalender, buku alamat, dan bahkan kemampuan mengirim faks, meski istilah \"smartphone\" sendiri belum populer dipakai saat itu dan perangkatnya masih cukup besar dan mahal.\n\nSepanjang 1990-an dan awal 2000-an, berbagai perusahaan seperti Nokia, BlackBerry, dan Palm mengembangkan perangkat dengan fitur semakin canggih, termasuk email, browsing internet dasar, dan keyboard fisik untuk mengetik pesan lebih efisien, terutama populer di kalangan profesional bisnis. Namun perangkat-perangkat ini masih cenderung rumit dioperasikan dan belum benar-benar ramah bagi pengguna umum yang tidak terlalu paham teknologi.\n\nTitik balik yang benar-benar merevolusi industri smartphone terjadi ketika Apple meluncurkan iPhone pertama pada 2007, memperkenalkan konsep layar sentuh penuh tanpa keyboard fisik, antarmuka yang sangat intuitif, serta ekosistem aplikasi (App Store, diluncurkan setahun kemudian) yang memungkinkan pengembang pihak ketiga menciptakan berbagai aplikasi tambahan. Desain revolusioner ini mengubah total ekspektasi masyarakat terhadap apa yang bisa dilakukan telepon genggam, memicu persaingan ketat industri termasuk kemunculan sistem operasi Android dari Google yang segera menyusul. Smartphone modern sekarang jadi jauh lebih dari sekadar telepon — berfungsi sebagai komputer serbaguna dalam genggaman yang menggabungkan kamera, GPS, akses internet, dan berbagai sensor canggih, secara fundamental mengubah cara manusia bekerja, berkomunikasi, dan menjalani kehidupan sehari-hari di seluruh dunia.",
+    "tags": ["smartphone", "iphone", "android", "telepon-genggam", "apple"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-26"
+  }
+]

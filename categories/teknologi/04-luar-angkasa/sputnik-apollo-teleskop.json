@@ -1,0 +1,53 @@
+[
+  {
+    "id": "teknologi.luar-angkasa.sputnik",
+    "judul": "Sputnik dan Awal Perlombaan Antariksa",
+    "kategori": "teknologi",
+    "subkategori": "luar-angkasa",
+    "periode": {
+      "mulai": "1957",
+      "selesai": "1957",
+      "label": "4 Oktober 1957"
+    },
+    "ringkasan": "Peluncuran satelit buatan pertama oleh Uni Soviet yang mengejutkan dunia, menandai dimulainya perlombaan antariksa dengan Amerika Serikat di era Perang Dingin.",
+    "konten": "Sputnik 1 adalah satelit buatan manusia pertama yang berhasil diluncurkan ke orbit Bumi, diluncurkan Uni Soviet pada 4 Oktober 1957. Meski bentuknya relatif sederhana — bola logam berukuran sekitar 58 sentimeter yang hanya memancarkan sinyal radio berupa bunyi \"beep\" berulang — keberhasilan peluncuran ini mengejutkan dunia, terutama Amerika Serikat, yang tidak menyangka Uni Soviet bisa mencapai pencapaian teknologi antariksa lebih dulu di tengah persaingan ideologi Perang Dingin yang sedang memanas.\n\nKeberhasilan Sputnik memicu apa yang disebut \"Sputnik Crisis\" di Amerika Serikat, kekhawatiran mendalam bahwa negara tersebut tertinggal dalam kemajuan teknologi dan sains dibanding Uni Soviet, yang berdampak besar terhadap kebijakan pendidikan dan penelitian sains-teknologi Amerika. Respons langsung dari kejutan ini adalah pembentukan NASA (National Aeronautics and Space Administration) pada 1958, badan antariksa Amerika Serikat yang kemudian jadi pemain utama dalam perlombaan antariksa melawan program antariksa Soviet.\n\nPerlombaan antariksa yang dipicu Sputnik ini berlangsung intens selama dekade-dekade berikutnya, dengan kedua negara adidaya saling berlomba mencapai berbagai pencapaian pertama dalam eksplorasi antariksa — dari mengirim makhluk hidup pertama ke orbit (anjing Laika oleh Soviet pada 1957), manusia pertama di antariksa (Yuri Gagarin dari Soviet pada 1961), hingga akhirnya manusia pertama mendarat di Bulan yang berhasil dicapai Amerika Serikat lewat misi Apollo 11 pada 1969. Perlombaan antariksa era Perang Dingin ini, meski didorong motivasi politik dan militer, pada akhirnya menghasilkan kemajuan teknologi luar angkasa yang sangat pesat dalam waktu relatif singkat.",
+    "tags": ["sputnik", "uni-soviet", "nasa", "perlombaan-antariksa", "perang-dingin"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-26"
+  },
+  {
+    "id": "teknologi.luar-angkasa.pendaratan-bulan",
+    "judul": "Pendaratan Manusia di Bulan (Apollo 11)",
+    "kategori": "teknologi",
+    "subkategori": "luar-angkasa",
+    "periode": {
+      "mulai": "1969",
+      "selesai": "1969",
+      "label": "20 Juli 1969"
+    },
+    "ringkasan": "Pencapaian teknologi paling ikonik abad ke-20, ketika Neil Armstrong dan Buzz Aldrin jadi manusia pertama menginjakkan kaki di Bulan lewat misi Apollo 11.",
+    "konten": "Misi Apollo 11 berhasil mendaratkan manusia pertama kali di Bulan pada 20 Juli 1969, sebuah pencapaian yang jadi simbol paling ikonik kemajuan teknologi antariksa abad ke-20 sekaligus kemenangan besar Amerika Serikat dalam perlombaan antariksa melawan Uni Soviet. Astronot Neil Armstrong menjadi manusia pertama yang menginjakkan kaki di permukaan Bulan, mengucapkan kalimat terkenal \"Itu satu langkah kecil bagi manusia, satu lompatan besar bagi umat manusia\", diikuti Buzz Aldrin yang menyusul turun ke permukaan Bulan beberapa saat kemudian.\n\nPencapaian ini merupakan hasil dari Program Apollo, upaya besar NASA yang dimulai sejak awal 1960-an setelah Presiden John F. Kennedy secara terkenal berjanji akan mendaratkan manusia di Bulan sebelum akhir dekade tersebut. Program ini melibatkan investasi finansial dan sumber daya manusia yang sangat besar, termasuk pengembangan roket Saturn V yang sampai sekarang masih jadi salah satu roket paling kuat yang pernah dibangun manusia, mampu mengangkut modul pendarat dan tiga astronot dalam perjalanan sekitar tiga hari menuju Bulan.\n\nMisi Apollo 11 dan misi-misi Apollo berikutnya (total enam misi berhasil mendaratkan manusia di Bulan hingga 1972) memberikan pengetahuan ilmiah yang sangat berharga tentang Bulan, termasuk sampel batuan yang dibawa pulang untuk dianalisis para ilmuwan, membantu memahami lebih dalam asal-usul dan sejarah Bulan serta tata surya secara keseluruhan. Pencapaian ini juga membuktikan kemampuan teknologi dan rekayasa manusia yang luar biasa, menginspirasi generasi ilmuwan dan insinyur, serta tetap jadi salah satu momen paling dikenang dalam sejarah eksplorasi manusia sampai sekarang, meski setelah program Apollo berakhir pada 1972, tidak ada lagi misi berawak manusia ke Bulan selama beberapa dekade berikutnya.",
+    "tags": ["apollo-11", "neil-armstrong", "bulan", "nasa", "saturn-v"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-26"
+  },
+  {
+    "id": "teknologi.luar-angkasa.teleskop-satelit-modern",
+    "judul": "Teleskop Antariksa dan Satelit Modern",
+    "kategori": "teknologi",
+    "subkategori": "luar-angkasa",
+    "periode": {
+      "mulai": "1990",
+      "selesai": "sekarang",
+      "label": "1990 - sekarang"
+    },
+    "ringkasan": "Perkembangan teleskop antariksa seperti Hubble dan James Webb yang membuka jendela pengamatan alam semesta, serta ledakan satelit komersial modern seperti Starlink yang mengubah akses internet global.",
+    "konten": "Teleskop Antariksa Hubble, diluncurkan pada 1990, adalah salah satu instrumen ilmiah paling berpengaruh dalam sejarah astronomi modern, ditempatkan di orbit Bumi agar bisa mengamati alam semesta tanpa gangguan atmosfer Bumi yang membatasi ketajaman pengamatan teleskop di permukaan tanah. Meski sempat mengalami masalah teknis awal (cacat pada cermin utamanya yang harus diperbaiki lewat misi khusus pesawat ulang-alik pada 1993), Hubble kemudian menghasilkan ribuan gambar dan data ilmiah yang sangat berharga, membantu para astronom memahami lebih dalam tentang galaksi jauh, lubang hitam, dan bahkan membantu memperkirakan usia alam semesta dengan lebih akurat.\n\nPenerus Hubble, Teleskop Antariksa James Webb, diluncurkan pada akhir 2021 setelah persiapan bertahun-tahun, membawa kemampuan pengamatan yang jauh lebih canggih, terutama dalam spektrum cahaya inframerah yang memungkinkannya melihat objek-objek yang sangat jauh dan sangat tua di alam semesta, termasuk galaksi-galaksi awal yang terbentuk tidak lama setelah Big Bang. James Webb ditempatkan jauh lebih jauh dari Bumi dibanding Hubble, di titik yang disebut Lagrange Point 2, sekitar 1,5 juta kilometer dari Bumi, memberikan kondisi pengamatan yang jauh lebih stabil.\n\nSelain teleskop ilmiah, era modern juga menyaksikan ledakan besar satelit komersial, terutama lewat proyek seperti Starlink dari perusahaan SpaceX, yang meluncurkan ribuan satelit kecil ke orbit rendah Bumi untuk menyediakan akses internet berkecepatan tinggi ke berbagai wilayah di dunia, termasuk daerah terpencil yang sebelumnya sulit dijangkau infrastruktur internet konvensional. Perkembangan roket yang bisa dipakai berulang kali (reusable rocket), juga dipelopori SpaceX, secara dramatis menurunkan biaya peluncuran satelit ke orbit, membuka era baru akses antariksa yang jauh lebih terjangkau dibanding sebelumnya, mendorong pertumbuhan pesat industri antariksa komersial di seluruh dunia.",
+    "tags": ["teleskop-hubble", "james-webb", "starlink", "spacex", "satelit"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-26"
+  }
+]

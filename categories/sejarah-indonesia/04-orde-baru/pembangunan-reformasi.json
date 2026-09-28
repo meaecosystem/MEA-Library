@@ -1,0 +1,36 @@
+[
+  {
+    "id": "sejarah-indonesia.orde-baru.pembangunan",
+    "judul": "Era Pembangunan Orde Baru",
+    "kategori": "sejarah-indonesia",
+    "subkategori": "orde-baru",
+    "periode": {
+      "mulai": "1968",
+      "selesai": "1998",
+      "label": "1968 - 1998 Masehi"
+    },
+    "ringkasan": "Masa 32 tahun kepemimpinan Soeharto yang fokus pada stabilitas dan pembangunan ekonomi (Repelita, swasembada beras), namun juga diwarnai otoritarianisme dan korupsi.",
+    "konten": "Era Orde Baru di bawah Presiden Soeharto berlangsung selama 32 tahun, dengan fokus utama pada apa yang disebut \"Trilogi Pembangunan\": stabilitas nasional, pertumbuhan ekonomi, dan pemerataan. Pemerintah menyusun program pembangunan bertahap lima tahunan yang disebut Repelita (Rencana Pembangunan Lima Tahun), yang cukup berhasil mendongkrak pertumbuhan ekonomi Indonesia secara signifikan dibanding masa Orde Lama yang sempat dilanda hiperinflasi.\n\nSalah satu pencapaian yang paling dibanggakan era ini adalah swasembada beras yang dicapai Indonesia pada 1984, hasil dari program Revolusi Hijau yang memperkenalkan bibit unggul, pupuk, dan teknik pertanian modern secara masif. Indonesia bahkan sempat mendapat penghargaan dari FAO (badan pangan PBB) atas pencapaian ini. Pembangunan infrastruktur seperti jalan, sekolah (program Inpres SD), dan puskesmas juga berkembang pesat di berbagai daerah pada masa ini.\n\nNamun di balik capaian ekonominya, Orde Baru juga dikenal dengan sifat pemerintahannya yang sangat otoriter — kebebasan pers dibatasi ketat, oposisi politik ditekan, dan kekuasaan sangat terpusat pada Soeharto serta lingkaran dekatnya selama puluhan tahun tanpa pergantian kepemimpinan yang berarti. Praktik korupsi, kolusi, dan nepotisme (yang kemudian populer disingkat KKN) juga berkembang subur di kalangan pejabat dan kroni-kroni dekat kekuasaan, jadi salah satu akar masalah yang kelak memicu tuntutan reformasi besar-besaran menjelang akhir era ini.",
+    "tags": ["orde-baru", "soeharto", "repelita", "swasembada-beras", "kkn"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "sejarah-indonesia.reformasi.krisis-1998",
+    "judul": "Krisis Moneter dan Reformasi 1998",
+    "kategori": "sejarah-indonesia",
+    "subkategori": "reformasi",
+    "periode": {
+      "mulai": "1997",
+      "selesai": "1998",
+      "label": "1997 - Mei 1998 Masehi"
+    },
+    "ringkasan": "Krisis ekonomi Asia yang melanda Indonesia dengan parah, memicu gelombang demonstrasi mahasiswa besar-besaran yang berujung mundurnya Soeharto setelah 32 tahun berkuasa.",
+    "konten": "Krisis moneter yang melanda kawasan Asia sejak pertengahan 1997 memukul ekonomi Indonesia dengan sangat parah — nilai tukar rupiah anjlok drastis terhadap dolar Amerika, banyak perusahaan bangkrut, harga kebutuhan pokok melambung tinggi, dan angka pengangguran melonjak tajam. Krisis ekonomi ini membuka lebar ketimpangan dan masalah struktural yang selama ini tertutup oleh citra stabilitas dan pertumbuhan era Orde Baru, sekaligus memperjelas dampak buruk praktik KKN yang sudah mengakar di kalangan elite kekuasaan.\n\nKemarahan publik yang memuncak memicu gelombang demonstrasi mahasiswa besar-besaran di berbagai kota, menuntut Soeharto mundur dari jabatannya yang sudah dipegang selama 32 tahun. Puncak ketegangan terjadi pada Mei 1998, ditandai dengan tragedi penembakan empat mahasiswa Universitas Trisakti pada 12 Mei, yang memicu kerusuhan besar di Jakarta dan berbagai kota lain pada 13-14 Mei, disertai penjarahan dan kekerasan yang menewaskan banyak korban jiwa.\n\nDi tengah tekanan yang semakin tidak terbendung, termasuk desakan dari kalangan militer dan tokoh-tokoh masyarakat, Soeharto akhirnya mengumumkan pengunduran dirinya sebagai Presiden RI pada 21 Mei 1998, digantikan Wakil Presiden B.J. Habibie. Momen ini menandai berakhirnya era Orde Baru dan dimulainya era Reformasi, membuka jalan bagi kebebasan pers, kebebasan berpolitik, dan agenda-agenda demokratisasi yang sebelumnya sangat dibatasi selama puluhan tahun.",
+    "tags": ["reformasi-1998", "krisis-moneter", "soeharto-mundur", "trisakti", "demonstrasi-mahasiswa"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  }
+]
