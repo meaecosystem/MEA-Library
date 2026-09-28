@@ -1,0 +1,36 @@
+[
+  {
+    "id": "sains.fisika.kosmologi",
+    "judul": "Kosmologi: Big Bang dan Ekspansi Alam Semesta",
+    "kategori": "sains",
+    "subkategori": "fisika",
+    "periode": {
+      "mulai": "1927",
+      "selesai": "1998",
+      "label": "1927 - 1998 Masehi"
+    },
+    "ringkasan": "Cabang fisika yang mempelajari asal-usul, struktur, dan evolusi alam semesta secara keseluruhan, dengan teori Big Bang sebagai model paling didukung bukti ilmiah tentang bagaimana alam semesta bermula dan terus mengembang.",
+    "konten": "Kosmologi adalah cabang fisika dan astronomi yang mempelajari alam semesta secara keseluruhan, termasuk asal-usulnya, strukturnya, serta bagaimana ia berevolusi sepanjang waktu. Gagasan bahwa alam semesta punya awal mula tertentu, bukan sudah ada selamanya dalam keadaan statis, pertama kali diusulkan secara ilmiah oleh fisikawan Belgia Georges Lemaître pada 1927, yang mengusulkan bahwa alam semesta bermula dari satu titik yang sangat padat dan panas, kemudian mengembang secara dramatis — gagasan yang kelak dikenal luas sebagai teori Big Bang.\n\nBukti observasional penting yang mendukung teori ini datang dari astronom Edwin Hubble, yang pada akhir 1920-an mengamati bahwa galaksi-galaksi jauh tampak bergerak menjauh dari kita, dan semakin jauh suatu galaksi, semakin cepat pula ia menjauh — pengamatan ini secara kuat mendukung gagasan bahwa alam semesta memang sedang mengembang, konsisten dengan prediksi teori Big Bang. Bukti lain yang sangat kuat mendukung teori ini adalah penemuan radiasi latar belakang kosmik (cosmic microwave background) pada 1965, sisa radiasi panas dari masa awal alam semesta yang masih bisa dideteksi menyebar merata ke seluruh penjuru langit, dianggap sebagai \"jejak\" langsung dari peristiwa Big Bang itu sendiri.\n\nMenurut pemahaman kosmologi modern, alam semesta bermula sekitar 13,8 miliar tahun lalu dari kondisi yang sangat panas dan padat, kemudian mengembang dan mendingin secara bertahap, memungkinkan terbentuknya partikel dasar, kemudian atom-atom sederhana, dan pada akhirnya bintang dan galaksi seiring miliaran tahun berikutnya. Salah satu penemuan paling mengejutkan dalam kosmologi modern terjadi pada 1998, ketika dua tim astronom independen menemukan bahwa ekspansi alam semesta ternyata tidak melambat seperti yang diperkirakan sebelumnya, melainkan justru semakin cepat, sebuah fenomena yang dikaitkan dengan keberadaan energi gelap, komponen misterius yang diperkirakan mendominasi sekitar 68% dari total kandungan energi alam semesta namun sifat dasarnya masih jadi salah satu misteri terbesar yang belum terpecahkan dalam fisika modern.",
+    "tags": ["kosmologi", "big-bang", "georges-lemaitre", "edwin-hubble", "energi-gelap"],
+    "sumber": [],
+    "tingkat_pembaca": "lanjutan",
+    "terakhir_diupdate": "2026-07-29"
+  },
+  {
+    "id": "sains.fisika.mekanika-fluida",
+    "judul": "Mekanika Fluida",
+    "kategori": "sains",
+    "subkategori": "fisika",
+    "periode": {
+      "mulai": "1738",
+      "selesai": "1845",
+      "label": "1738 - 1845 Masehi"
+    },
+    "ringkasan": "Cabang fisika yang mempelajari perilaku zat cair dan gas dalam keadaan diam maupun bergerak, menjelaskan berbagai fenomena mulai dari cara pesawat bisa terbang hingga aliran darah dalam tubuh manusia.",
+    "konten": "Mekanika fluida adalah cabang fisika yang mempelajari perilaku fluida, istilah yang mencakup zat cair dan gas, baik dalam keadaan diam (statika fluida) maupun bergerak (dinamika fluida). Salah satu prinsip fundamental dalam bidang ini dirumuskan matematikawan Swiss Daniel Bernoulli pada 1738, dikenal sebagai Prinsip Bernoulli, yang menjelaskan hubungan antara kecepatan aliran fluida dengan tekanan yang dihasilkannya — secara konsep, prinsip ini menyatakan bahwa ketika fluida mengalir lebih cepat, tekanannya cenderung menurun, dan sebaliknya ketika alirannya melambat, tekanannya meningkat.\n\nPrinsip Bernoulli ini punya aplikasi sangat luas dalam menjelaskan berbagai fenomena alam dan teknologi, termasuk salah satu yang paling terkenal adalah menjelaskan sebagian dari cara kerja sayap pesawat terbang — bentuk sayap yang dirancang khusus membuat udara mengalir lebih cepat di atas sayap dibanding di bawahnya, menciptakan perbedaan tekanan yang menghasilkan gaya angkat mendorong pesawat ke atas. Prinsip serupa juga menjelaskan berbagai fenomena lain, mulai dari cara kerja karburator mesin, semprotan parfum, hingga mengapa tirai kamar mandi kadang tertarik ke dalam saat air pancuran mengalir deras.\n\nSelain Prinsip Bernoulli, konsep penting lain dalam mekanika fluida adalah persamaan Navier-Stokes, dirumuskan secara bertahap oleh Claude-Louis Navier dan George Gabriel Stokes hingga selesai sekitar 1845, yang menggambarkan secara matematis bagaimana fluida bergerak dengan memperhitungkan berbagai faktor termasuk viskositas (tingkat kekentalan fluida yang menciptakan gesekan internal saat mengalir). Persamaan ini sangat kompleks dan penting dalam berbagai aplikasi praktis, mulai dari prediksi cuaca dan pola arus laut, desain aerodinamis kendaraan dan pesawat, hingga simulasi aliran darah dalam pembuluh darah manusia untuk keperluan medis, menjadikan mekanika fluida sebagai salah satu cabang fisika dengan aplikasi paling luas dan beragam dalam kehidupan sehari-hari maupun teknologi modern.",
+    "tags": ["mekanika-fluida", "prinsip-bernoulli", "persamaan-navier-stokes", "aerodinamika", "viskositas"],
+    "sumber": [],
+    "tingkat_pembaca": "lanjutan",
+    "terakhir_diupdate": "2026-07-29"
+  }
+]

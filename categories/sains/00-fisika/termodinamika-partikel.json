@@ -1,0 +1,36 @@
+[
+  {
+    "id": "sains.fisika.termodinamika",
+    "judul": "Termodinamika dan Entropi",
+    "kategori": "sains",
+    "subkategori": "fisika",
+    "periode": {
+      "mulai": "1824",
+      "selesai": "1865",
+      "label": "1824 - 1865 Masehi"
+    },
+    "ringkasan": "Cabang fisika yang mempelajari panas, kerja, dan energi, dengan konsep entropi yang menjelaskan mengapa proses alam cenderung bergerak ke arah ketidakteraturan yang lebih besar dan tidak bisa berbalik dengan sendirinya.",
+    "konten": "Termodinamika adalah cabang fisika yang mempelajari hubungan antara panas, kerja, dan energi, awalnya berkembang dari kebutuhan praktis memahami dan meningkatkan efisiensi mesin uap pada era Revolusi Industri. Fisikawan Prancis Sadi Carnot meletakkan fondasi penting bidang ini pada 1824 lewat analisisnya tentang efisiensi maksimum yang bisa dicapai mesin kalor (mesin yang mengubah energi panas jadi kerja mekanis), menunjukkan bahwa ada batas fundamental efisiensi yang tidak bisa dilampaui berapa pun canggihnya desain mesin tersebut.\n\nTermodinamika dirumuskan dalam beberapa hukum fundamental. Hukum pertama termodinamika pada dasarnya adalah hukum kekekalan energi yang diterapkan dalam konteks panas dan kerja, menyatakan bahwa energi total sistem tetap konstan, hanya berpindah bentuk antara energi internal, panas yang diserap atau dilepas, dan kerja yang dilakukan. Hukum kedua termodinamika, yang jauh lebih mendalam secara filosofis, memperkenalkan konsep entropi — ukuran tingkat ketidakteraturan atau ketersebaran energi dalam suatu sistem — dan menyatakan bahwa entropi total sistem tertutup akan selalu cenderung meningkat seiring waktu, tidak pernah berkurang dengan sendirinya.\n\nKonsep entropi ini menjelaskan mengapa banyak proses alam bersifat ireversibel atau tidak bisa berbalik dengan sendirinya — misalnya, panas selalu mengalir dari benda panas ke benda dingin, bukan sebaliknya, dan gas yang tersebar dalam ruangan tidak akan pernah secara spontan berkumpul kembali ke satu sudut ruangan. Ludwig Boltzmann pada akhir abad ke-19 memberikan pemahaman statistik mendalam tentang entropi, menghubungkannya dengan jumlah kemungkinan susunan mikroskopik partikel yang menghasilkan keadaan makroskopik tertentu — keadaan dengan entropi tinggi memiliki jauh lebih banyak kemungkinan susunan partikel dibanding keadaan dengan entropi rendah, menjelaskan secara statistik mengapa alam cenderung bergerak menuju keadaan entropi yang lebih tinggi. Konsep entropi ini bahkan punya implikasi kosmologis besar, terkait dengan pertanyaan tentang arah waktu dan nasib akhir alam semesta dalam jangka sangat panjang.",
+    "tags": ["termodinamika", "entropi", "sadi-carnot", "ludwig-boltzmann", "hukum-kedua-termodinamika"],
+    "sumber": [],
+    "tingkat_pembaca": "lanjutan",
+    "terakhir_diupdate": "2026-07-29"
+  },
+  {
+    "id": "sains.fisika.fisika-partikel",
+    "judul": "Fisika Partikel dan Model Standar",
+    "kategori": "sains",
+    "subkategori": "fisika",
+    "periode": {
+      "mulai": "1897",
+      "selesai": "2012",
+      "label": "1897 - 2012 Masehi"
+    },
+    "ringkasan": "Studi tentang partikel fundamental penyusun materi dan gaya-gaya yang mengaturnya, terangkum dalam Model Standar, dengan penemuan partikel Higgs boson pada 2012 sebagai puncak konfirmasi teori ini.",
+    "konten": "Fisika partikel adalah cabang fisika yang mempelajari komponen paling fundamental penyusun materi alam semesta serta gaya-gaya yang mengatur interaksi di antaranya. Perjalanan memahami struktur dasar materi dimulai dengan penemuan elektron oleh J.J. Thomson pada 1897, membuktikan bahwa atom (yang sebelumnya dianggap sebagai unit terkecil materi yang tidak bisa dibagi lagi) sebenarnya punya struktur internal, terdiri dari partikel-partikel yang lebih kecil. Penemuan berikutnya mengungkap bahwa atom tersusun dari proton dan neutron di inti, dikelilingi elektron, dan lebih jauh lagi, proton dan neutron sendiri ternyata tersusun dari partikel yang lebih fundamental lagi yang disebut quark.\n\nSepanjang abad ke-20, fisikawan secara bertahap mengembangkan kerangka teoretis komprehensif yang disebut Model Standar fisika partikel, yang mengklasifikasikan seluruh partikel fundamental yang diketahui menjadi dua kelompok besar: fermion (partikel penyusun materi, termasuk quark dan lepton seperti elektron) dan boson (partikel pembawa gaya, yang menjadi perantara interaksi antar partikel materi). Model Standar berhasil menjelaskan tiga dari empat gaya fundamental alam semesta — elektromagnetik, gaya nuklir kuat (yang mengikat quark bersama membentuk proton dan neutron), dan gaya nuklir lemah (yang berperan dalam peluruhan radioaktif) — meski gravitasi masih belum berhasil disatukan sepenuhnya ke dalam kerangka ini.\n\nSalah satu komponen paling penting sekaligus paling lama dicari dalam Model Standar adalah partikel Higgs boson, yang secara teoretis diprediksi keberadaannya pada 1964 oleh beberapa fisikawan termasuk Peter Higgs, sebagai partikel yang bertanggung jawab memberikan massa kepada partikel-partikel fundamental lain lewat interaksinya dengan medan Higgs yang menyelimuti seluruh alam semesta. Setelah pencarian intensif selama hampir lima dekade menggunakan akselerator partikel raksasa, keberadaan Higgs boson akhirnya berhasil dikonfirmasi lewat eksperimen di Large Hadron Collider, fasilitas akselerator partikel terbesar di dunia yang dikelola CERN di Swiss, pada 2012, sebuah pencapaian yang dianggap sebagai konfirmasi final dan sangat penting bagi validitas keseluruhan Model Standar, sekaligus mengantarkan Peter Higgs dan François Englert meraih Hadiah Nobel Fisika pada tahun berikutnya.",
+    "tags": ["fisika-partikel", "model-standar", "higgs-boson", "quark", "cern"],
+    "sumber": [],
+    "tingkat_pembaca": "lanjutan",
+    "terakhir_diupdate": "2026-07-29"
+  }
+]

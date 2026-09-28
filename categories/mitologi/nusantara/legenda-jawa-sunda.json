@@ -1,0 +1,32 @@
+[
+  {
+    "id": "mitologi.nusantara.sangkuriang",
+    "judul": "Legenda Sangkuriang",
+    "kategori": "mitologi",
+    "subkategori": "nusantara",
+    "periode": {
+      "label": "Legenda rakyat Sunda, tidak diketahui asal-usul waktu pastinya"
+    },
+    "ringkasan": "Legenda asal-usul Gunung Tangkuban Perahu dari tanah Sunda, mengisahkan cinta terlarang seorang anak pada ibunya sendiri yang berujung tragis.",
+    "konten": "Sangkuriang adalah salah satu legenda rakyat paling terkenal dari tanah Sunda, Jawa Barat, yang mengisahkan asal-usul terbentuknya Gunung Tangkuban Perahu. Cerita ini berpusat pada Sangkuriang, seorang pemuda yang tanpa sadar jatuh cinta dan ingin menikahi Dayang Sumbi, yang ternyata adalah ibu kandungnya sendiri yang sudah lama terpisah dan kini awet muda berkat kesaktian tertentu.\n\nMenyadari kebenaran itu, Dayang Sumbi berusaha menggagalkan pernikahan tanpa harus mengungkap identitas aslinya secara langsung, dengan cara mengajukan syarat mustahil: Sangkuriang harus membuat sebuah perahu besar dan telaga (danau) dalam waktu semalam sebelum fajar tiba. Sangkuriang yang sakti, dibantu makhluk-makhluk gaib, hampir berhasil menyelesaikan tugas mustahil itu, membuat Dayang Sumbi panik dan mengambil tindakan licik dengan membuat langit tampak seolah fajar sudah tiba lebih cepat (versi cerita menyebutkan ia menyalakan obor besar atau menaburkan bahan yang membuat ayam berkokok lebih awal).\n\nTertipu oleh tanda fajar palsu itu, Sangkuriang yang marah dan kecewa besar karena gagal menyelesaikan tugasnya, menendang perahu besar yang hampir selesai dibuatnya hingga terbalik, yang menurut legenda kemudian berubah jadi Gunung Tangkuban Perahu (yang namanya secara harfiah berarti \"perahu terbalik\"), sesuai bentuk gunung itu yang memang menyerupai perahu terbalik jika dilihat dari kejauhan. Legenda ini sampai sekarang jadi bagian penting cerita rakyat Sunda, sering diceritakan turun-temurun sebagai kisah yang sarat pesan moral tentang pentingnya mengenal jati diri dan menahan amarah.",
+    "tags": ["sangkuriang", "tangkuban-perahu", "dayang-sumbi", "legenda-sunda", "jawa-barat"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  },
+  {
+    "id": "mitologi.nusantara.roro-jonggrang",
+    "judul": "Legenda Roro Jonggrang",
+    "kategori": "mitologi",
+    "subkategori": "nusantara",
+    "periode": {
+      "label": "Legenda rakyat Jawa, dikaitkan dengan pembangunan Candi Prambanan"
+    },
+    "ringkasan": "Legenda Jawa yang menceritakan asal-usul Candi Prambanan dan Candi Sewu, berpusat pada seorang putri yang menolak lamaran dan berujung dikutuk jadi arca batu.",
+    "konten": "Roro Jonggrang adalah legenda rakyat Jawa yang erat kaitannya dengan asal-usul Candi Prambanan (khususnya arca Durga di dalam candi utama Siwa) serta candi tetangganya, Candi Sewu. Cerita ini berkisah tentang seorang putri cantik bernama Roro Jonggrang, putri dari Prabu Baka, yang dilamar oleh Bandung Bondowoso, seorang pangeran sakti yang berhasil mengalahkan dan membunuh ayahnya dalam sebuah peperangan.\n\nKarena tidak ingin menikahi pembunuh ayahnya sendiri namun juga takut menolak secara langsung mengingat kesaktian Bandung Bondowoso, Roro Jonggrang mengajukan syarat yang ia kira mustahil dipenuhi: Bandung Bondowoso harus membangun seribu candi dalam waktu satu malam saja. Dengan bantuan kekuatan gaib dan pasukan jin, Bandung Bondowoso ternyata hampir berhasil menyelesaikan tugas mustahil itu, hanya kurang satu candi lagi menjelang fajar tiba.\n\nMenyadari rencananya akan gagal, Roro Jonggrang kembali melakukan tipu daya, membangunkan para wanita di desa untuk mulai menumbuk padi dan membakar jerami agar suasana tampak seperti pagi sudah tiba, sehingga para jin yang membantu Bandung Bondowoso ketakutan dan kabur sebelum candi terakhir selesai dibangun. Mengetahui dirinya ditipu, Bandung Bondowoso murka dan mengutuk Roro Jonggrang menjadi sebuah arca batu untuk melengkapi candi yang kurang satu itu — arca inilah yang menurut legenda sampai sekarang dipercaya sebagai arca Durga yang berdiri di dalam Candi Prambanan.",
+    "tags": ["roro-jonggrang", "prambanan", "bandung-bondowoso", "legenda-jawa", "candi-sewu"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-22"
+  }
+]

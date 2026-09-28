@@ -1,0 +1,53 @@
+[
+  {
+    "id": "sains.fisika.listrik-magnet",
+    "judul": "Listrik dan Magnet (Elektromagnetisme)",
+    "kategori": "sains",
+    "subkategori": "fisika",
+    "periode": {
+      "mulai": "1820",
+      "selesai": "1865",
+      "label": "1820 - 1865 Masehi"
+    },
+    "ringkasan": "Listrik dan magnet ternyata adalah dua wajah dari satu fenomena yang sama, disatukan James Clerk Maxwell dalam kerangka elektromagnetisme yang juga menjelaskan hakikat cahaya.",
+    "konten": "Selama berabad-abad, listrik dan magnet dipelajari sebagai dua fenomena terpisah — listrik terkait muatan dan arus, sementara magnet terkait daya tarik benda tertentu seperti besi. Titik balik penting terjadi pada 1820, ketika fisikawan Denmark Hans Christian Oersted secara tidak sengaja menemukan bahwa arus listrik yang mengalir dalam kawat bisa menggerakkan jarum kompas di dekatnya, membuktikan untuk pertama kalinya bahwa listrik dan magnet sebenarnya saling terkait erat, bukan dua fenomena yang benar-benar independen.\n\nBerangkat dari penemuan ini, berbagai ilmuwan mengembangkan pemahaman lebih dalam tentang hubungan listrik-magnet, termasuk Michael Faraday yang menemukan bahwa perubahan medan magnet bisa menghasilkan arus listrik (disebut induksi elektromagnetik), prinsip yang jadi dasar generator listrik modern. Puncak penyatuan pemahaman ini dicapai fisikawan Skotlandia James Clerk Maxwell pada 1860-an, yang merumuskan seperangkat persamaan (dikenal sebagai persamaan Maxwell) yang secara elegan menyatukan listrik dan magnet ke dalam satu kerangka tunggal yang disebut elektromagnetisme, menjelaskan bagaimana medan listrik dan medan magnet saling terkait dan bahkan bisa saling menghasilkan satu sama lain.\n\nSalah satu implikasi paling mengejutkan dari karya Maxwell adalah prediksinya bahwa cahaya sendiri sebenarnya adalah gelombang elektromagnetik — osilasi medan listrik dan magnet yang merambat bersamaan lewat ruang, dengan kecepatan yang menurut perhitungannya sangat cocok dengan kecepatan cahaya yang sudah diukur sebelumnya. Penemuan ini menyatukan optik (ilmu tentang cahaya) dengan elektromagnetisme dalam satu kerangka fisika yang koheren, sekaligus membuka jalan bagi pemahaman spektrum elektromagnetik yang jauh lebih luas dari cahaya tampak, mencakup gelombang radio, sinar-X, gelombang mikro, dan berbagai jenis radiasi elektromagnetik lain yang jadi dasar teknologi komunikasi dan pencitraan modern.",
+    "tags": ["elektromagnetisme", "james-clerk-maxwell", "hans-christian-oersted", "michael-faraday", "gelombang-elektromagnetik"],
+    "sumber": [],
+    "tingkat_pembaca": "lanjutan",
+    "terakhir_diupdate": "2026-07-29"
+  },
+  {
+    "id": "sains.fisika.cahaya-optik",
+    "judul": "Cahaya dan Optik: Dualitas Gelombang-Partikel",
+    "kategori": "sains",
+    "subkategori": "fisika",
+    "periode": {
+      "mulai": "1801",
+      "selesai": "1905",
+      "label": "1801 - 1905 Masehi"
+    },
+    "ringkasan": "Perdebatan panjang tentang hakikat cahaya, apakah gelombang atau partikel, akhirnya terjawab lewat konsep dualitas gelombang-partikel yang menunjukkan cahaya berperilaku sebagai keduanya tergantung konteks pengamatan.",
+    "konten": "Hakikat sejati cahaya menjadi salah satu pertanyaan paling diperdebatkan dalam sejarah fisika, dengan dua kubu utama yang bersaing selama berabad-abad — satu kubu meyakini cahaya adalah aliran partikel kecil (didukung Isaac Newton), sementara kubu lain meyakini cahaya adalah gelombang (didukung ilmuwan seperti Christiaan Huygens). Perdebatan ini mendapat bukti kuat mendukung teori gelombang ketika fisikawan Inggris Thomas Young melakukan eksperimen celah ganda pada 1801, menunjukkan bahwa cahaya yang melewati dua celah sempit menghasilkan pola interferensi (pola gelap-terang berselang-seling) yang hanya bisa dijelaskan jika cahaya berperilaku sebagai gelombang, bukan partikel.\n\nNamun pada awal abad ke-20, bukti baru muncul yang justru mendukung sifat partikel cahaya. Albert Einstein pada 1905 menjelaskan fenomena efek fotolistrik (di mana cahaya yang mengenai permukaan logam tertentu bisa melepaskan elektron) dengan mengusulkan bahwa cahaya sebenarnya terdiri dari paket-paket energi diskrit yang disebut foton, bukan gelombang kontinu semata — penjelasan ini justru mengantarkannya meraih Hadiah Nobel Fisika, bukan karena teori relativitasnya yang lebih terkenal. Penemuan ini menciptakan situasi yang membingungkan: cahaya tampak berperilaku sebagai gelombang dalam beberapa eksperimen, namun sebagai partikel dalam eksperimen lain.\n\nParadoks ini akhirnya terselesaikan lewat konsep dualitas gelombang-partikel, prinsip fundamental mekanika kuantum yang menyatakan bahwa cahaya (dan sebenarnya semua materi pada skala kuantum) memiliki sifat gelombang sekaligus partikel secara bersamaan, dengan manifestasi mana yang teramati bergantung pada jenis pengukuran atau eksperimen yang dilakukan. Konsep dualitas ini bukan sekadar keterbatasan pengetahuan manusia, melainkan mencerminkan sifat fundamental alam semesta pada skala kuantum yang memang berbeda secara radikal dari intuisi kita sehari-hari tentang bagaimana benda seharusnya berperilaku, menjadi salah satu fondasi konseptual terpenting mekanika kuantum modern.",
+    "tags": ["dualitas-gelombang-partikel", "thomas-young", "efek-fotolistrik", "foton", "mekanika-kuantum"],
+    "sumber": [],
+    "tingkat_pembaca": "lanjutan",
+    "terakhir_diupdate": "2026-07-29"
+  },
+  {
+    "id": "sains.fisika.relativitas-mekanika-kuantum",
+    "judul": "Relativitas dan Mekanika Kuantum sebagai Konsep",
+    "kategori": "sains",
+    "subkategori": "fisika",
+    "periode": {
+      "mulai": "1905",
+      "selesai": "1927",
+      "label": "1905 - 1927 Masehi"
+    },
+    "ringkasan": "Dua pilar utama fisika modern: relativitas Einstein yang mengubah pemahaman tentang ruang, waktu, dan gravitasi, serta mekanika kuantum yang mengungkap perilaku aneh materi pada skala sangat kecil.",
+    "konten": "Relativitas, dikembangkan Albert Einstein dalam dua tahap, secara fundamental mengubah pemahaman manusia tentang ruang dan waktu. Relativitas khusus (1905) mengusulkan bahwa ruang dan waktu bukanlah entitas absolut dan terpisah seperti dipahami fisika klasik, melainkan saling terjalin membentuk satu kesatuan ruang-waktu, dengan pengukuran waktu dan jarak yang bisa berbeda tergantung kecepatan relatif pengamat — konsep yang menghasilkan implikasi mengejutkan seperti dilatasi waktu (waktu berjalan lebih lambat bagi objek yang bergerak sangat cepat) dan kesetaraan massa-energi yang terkenal lewat persamaan E=mc². Relativitas umum (1915) memperluas pemahaman ini lebih jauh, menjelaskan gravitasi bukan sebagai gaya tarik langsung, melainkan sebagai lengkungan ruang-waktu akibat keberadaan massa dan energi.\n\nSementara itu, mekanika kuantum berkembang untuk menjelaskan perilaku materi dan energi pada skala sangat kecil, level atom dan partikel subatomik, di mana hukum-hukum fisika klasik yang berlaku baik untuk benda berskala normal ternyata tidak lagi berlaku secara langsung. Salah satu prinsip paling mendasar dan mengejutkan dalam mekanika kuantum adalah prinsip ketidakpastian yang dirumuskan Werner Heisenberg pada 1927, menyatakan bahwa ada batas fundamental terhadap seberapa presisi kita bisa mengetahui secara bersamaan posisi dan momentum suatu partikel — semakin presisi kita mengukur posisinya, semakin tidak pasti momentumnya, dan sebaliknya, bukan karena keterbatasan alat ukur, melainkan sifat fundamental alam semesta itu sendiri pada skala kuantum.\n\nMekanika kuantum juga memperkenalkan konsep superposisi (partikel bisa berada dalam beberapa keadaan sekaligus sampai diamati atau diukur) dan entanglement atau keterjeratan kuantum (dua partikel bisa saling terhubung sedemikian rupa sehingga keadaan satu partikel langsung memengaruhi partikel lain, meski terpisah jarak sangat jauh). Kedua teori besar ini, relativitas dan mekanika kuantum, masing-masing sangat sukses menjelaskan fenomena di ranah masing-masing (relativitas untuk skala sangat besar dan gravitasi kuat, mekanika kuantum untuk skala sangat kecil), namun sampai sekarang fisikawan masih berupaya menyatukan keduanya dalam satu kerangka teori tunggal yang koheren, salah satu tantangan terbesar yang belum terpecahkan dalam fisika teoretis modern.",
+    "tags": ["relativitas", "albert-einstein", "mekanika-kuantum", "werner-heisenberg", "prinsip-ketidakpastian"],
+    "sumber": [],
+    "tingkat_pembaca": "lanjutan",
+    "terakhir_diupdate": "2026-07-29"
+  }
+]

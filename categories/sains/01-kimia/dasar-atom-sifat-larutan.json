@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sains.kimia.atom-partikel-penyusun",
+    "judul": "Atom dan Partikel Penyusunnya",
+    "kategori": "sains",
+    "subkategori": "kimia",
+    "periode": {
+      "label": "Konsep dasar ilmu kimia, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Atom adalah partikel penyusun paling dasar dari suatu unsur, tersusun dari tiga jenis partikel lebih kecil: proton dan neutron di inti atom, serta elektron yang mengelilinginya.",
+    "konten": "Atom adalah bagian terkecil dari suatu unsur yang masih memiliki sifat-sifat unsur tersebut. Ukurannya sangat kecil, jauh lebih kecil dari yang bisa dilihat mata telanjang atau bahkan mikroskop biasa — kalau digambarkan, ratusan ribu atom yang disusun berjejer baru bisa menyamai lebar sehelai rambut manusia. Meski sangat kecil, setiap atom ternyata masih tersusun dari partikel-partikel yang lebih kecil lagi.\n\nDi bagian tengah atom terdapat inti atom, yang berisi dua jenis partikel: proton, yang bermuatan listrik positif, dan neutron, yang tidak bermuatan listrik (netral). Proton dan neutron ini ukurannya hampir sama dan sama-sama menyumbang hampir seluruh massa atom, karena keduanya jauh lebih berat dibanding partikel ketiga. Partikel ketiga ini disebut elektron, bermuatan listrik negatif, dan bergerak sangat cepat mengelilingi inti atom pada jarak yang relatif jauh, mirip seperti planet-planet yang mengelilingi matahari meski gambaran ini sebenarnya sudah disederhanakan dari kenyataan yang lebih rumit.\n\nDalam keadaan normal, jumlah proton dan elektron dalam satu atom selalu sama, membuat muatan positif dan negatifnya saling menyeimbangkan sehingga atom secara keseluruhan bersifat netral (tidak bermuatan). Jumlah proton dalam inti atom inilah yang menentukan jenis unsur suatu atom — misalnya, atom dengan satu proton selalu berupa unsur hidrogen, sementara atom dengan delapan proton selalu berupa unsur oksigen, tidak peduli berapa pun jumlah neutronnya. Pemahaman tentang atom dan partikel penyusunnya ini jadi dasar penting untuk memahami bagaimana unsur-unsur berbeda satu sama lain serta bagaimana mereka bisa saling berikatan membentuk berbagai senyawa.",
+    "tags": ["atom", "proton", "neutron", "elektron", "inti-atom", "partikel-penyusun-materi"],
+    "sumber": [],
+    "tingkat_pembaca": "anak",
+    "terakhir_diupdate": "2026-08-15"
+  },
+  {
+    "id": "sains.kimia.sifat-fisika-kimia-zat",
+    "judul": "Sifat Fisika dan Sifat Kimia Suatu Zat",
+    "kategori": "sains",
+    "subkategori": "kimia",
+    "periode": {
+      "label": "Konsep dasar ilmu kimia, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Sifat fisika adalah ciri suatu zat yang bisa diamati atau diukur tanpa mengubah jenis zatnya, sementara sifat kimia adalah kecenderungan suatu zat bereaksi dan berubah menjadi zat baru.",
+    "konten": "Setiap zat punya karakteristik atau ciri khas tersendiri yang membedakannya dari zat lain, dan ciri-ciri ini secara umum dibagi jadi dua kelompok besar: sifat fisika dan sifat kimia. Sifat fisika adalah ciri suatu zat yang bisa diamati atau diukur langsung tanpa perlu mengubah zat tersebut menjadi zat lain — contohnya warna, bau, wujud (padat/cair/gas), kekerasan, kerapatan (massa jenis), titik leleh (suhu saat zat berubah dari padat ke cair), dan titik didih (suhu saat zat berubah dari cair ke gas).\n\nSebagai contoh, air punya sifat fisika berupa warna bening, tidak berbau, berwujud cair pada suhu ruangan, titik beku 0 derajat Celsius, dan titik didih 100 derajat Celsius pada tekanan udara normal. Semua sifat ini bisa diamati atau diukur tanpa mengubah air menjadi zat lain — air yang diukur suhu didihnya tetap berupa air (hanya berubah wujud jadi uap air, yang merupakan perubahan fisika, bukan perubahan kimia).\n\nBerbeda dari sifat fisika, sifat kimia adalah kecenderungan atau kemampuan suatu zat untuk bereaksi dengan zat lain dan berubah menjadi zat yang sama sekali baru. Sifat kimia baru bisa diketahui atau dibuktikan lewat suatu reaksi kimia, karena sifat ini menggambarkan bagaimana zat tersebut berperilaku ketika berubah menjadi zat lain, bukan sekadar keadaannya saat ini. Contoh sifat kimia antara lain mudah terbakar (seperti bensin atau kayu), mudah berkarat (seperti besi yang bereaksi dengan oksigen dan air), serta reaktivitas terhadap asam atau zat lain (seperti logam magnesium yang bereaksi cepat dan menghasilkan gas ketika dicelupkan ke larutan asam). Memahami perbedaan sifat fisika dan sifat kimia suatu zat membantu memprediksi bagaimana zat tersebut akan berperilaku dalam berbagai kondisi, serta jadi dasar penting sebelum mempelajari perubahan fisika dan perubahan kimia secara lebih mendalam.",
+    "tags": ["sifat-fisika", "sifat-kimia", "titik-didih", "titik-leleh", "mudah-terbakar", "reaktivitas"],
+    "sumber": [],
+    "tingkat_pembaca": "anak",
+    "terakhir_diupdate": "2026-08-15"
+  },
+  {
+    "id": "sains.kimia.larutan-sederhana",
+    "judul": "Larutan: Pelarut, Zat Terlarut, dan Kelarutan",
+    "kategori": "sains",
+    "subkategori": "kimia",
+    "periode": {
+      "label": "Konsep dasar ilmu kimia, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Larutan terbentuk ketika suatu zat (zat terlarut) tercampur merata ke dalam zat lain (pelarut) hingga membentuk campuran homogen, dengan tingkat kepekatan yang bisa encer atau pekat sesuai jumlah zat terlarutnya.",
+    "konten": "Larutan adalah salah satu jenis campuran homogen, terbentuk ketika suatu zat bercampur merata dengan zat lain sehingga tidak bisa lagi dibedakan secara kasat mata antara kedua zat penyusunnya. Dalam sebuah larutan, ada dua komponen utama: pelarut, yaitu zat yang jumlahnya lebih banyak dan berperan melarutkan zat lain (paling umum adalah air, sehingga sering disebut pelarut universal), dan zat terlarut, yaitu zat yang jumlahnya lebih sedikit dan tersebar merata di dalam pelarut. Contoh larutan yang sering ditemui sehari-hari adalah air gula (gula sebagai zat terlarut, air sebagai pelarut), air garam, dan teh manis.\n\nTingkat kepekatan suatu larutan menggambarkan seberapa banyak zat terlarut dibanding jumlah pelarutnya. Larutan yang mengandung sedikit zat terlarut dibanding pelarutnya disebut larutan encer, sementara larutan yang mengandung banyak zat terlarut disebut larutan pekat. Sebagai contoh, segelas air yang dicampur satu sendok gula akan terasa lebih encer (kurang manis) dibanding segelas air yang dicampur lima sendok gula, yang akan terasa jauh lebih pekat (lebih manis), meski keduanya sama-sama tergolong larutan gula.\n\nSetiap zat punya batas kemampuan untuk larut dalam jumlah pelarut tertentu pada suhu tertentu, yang disebut kelarutan. Ketika suatu larutan sudah mengandung zat terlarut sebanyak batas maksimalnya sehingga tidak bisa melarutkan zat tambahan lagi (zat tambahan tersebut akan mengendap di dasar, tidak ikut larut), larutan tersebut disebut larutan jenuh. Sebagai contoh, air pada suhu ruangan hanya bisa melarutkan garam sampai jumlah tertentu — jika terus ditambahkan garam melebihi batas ini, garam tambahan tersebut tidak akan larut lagi dan akan terlihat mengendap di dasar wadah. Umumnya, kelarutan suatu zat padat dalam air akan meningkat seiring naiknya suhu air, itulah sebabnya air panas biasanya bisa melarutkan gula atau garam dalam jumlah yang jauh lebih banyak dibanding air dingin.",
+    "tags": ["larutan", "pelarut", "zat-terlarut", "kelarutan", "larutan-jenuh", "encer", "pekat"],
+    "sumber": [],
+    "tingkat_pembaca": "anak",
+    "terakhir_diupdate": "2026-08-15"
+  }
+]

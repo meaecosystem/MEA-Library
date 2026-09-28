@@ -1,0 +1,36 @@
+[
+  {
+    "id": "sains.fisika.mekanika-lagrangian-hamiltonian",
+    "judul": "Mekanika Lagrangian dan Hamiltonian",
+    "kategori": "sains",
+    "subkategori": "fisika",
+    "periode": {
+      "mulai": "1788",
+      "selesai": "1833",
+      "label": "1788 - 1833 Masehi"
+    },
+    "ringkasan": "Dua formulasi ulang mekanika klasik yang lebih abstrak dan elegan dibanding pendekatan gaya langsung ala Newton, berpusat pada konsep energi dan prinsip aksi minimum, menjadi jembatan penting menuju mekanika kuantum.",
+    "konten": "Mekanika Lagrangian, dirumuskan matematikawan Prancis-Italia Joseph-Louis Lagrange dalam karyanya Mécanique Analytique pada 1788, adalah cara mendeskripsikan gerak suatu sistem fisis yang sama sekali berbeda pendekatannya dari mekanika Newton, meski pada akhirnya menghasilkan prediksi yang sama persis untuk sistem yang sama. Alih-alih menganalisis gaya-gaya yang bekerja langsung pada suatu benda seperti pendekatan Newton, mekanika Lagrangian berpusat pada satu besaran tunggal yang disebut Lagrangian (selisih antara energi kinetik dan energi potensial sistem), dan menggunakan prinsip aksi minimum atau prinsip aksi stasioner, yang menyatakan bahwa lintasan sesungguhnya yang ditempuh suatu sistem adalah lintasan yang membuat besaran \"aksi\" (integral Lagrangian sepanjang waktu) bernilai minimum atau stasioner dibanding semua kemungkinan lintasan lain yang bisa ditempuh.\n\nPendekatan ini terbukti sangat elegan dan powerful, terutama untuk sistem dengan kendala gerak yang kompleks (misalnya benda yang bergerak sepanjang jalur melengkung tertentu), karena mekanika Lagrangian bisa dirumuskan menggunakan koordinat apa pun yang paling sesuai dengan kendala sistem, tidak harus koordinat Cartesian biasa seperti pendekatan Newton, membuat berbagai masalah mekanika yang rumit menjadi jauh lebih mudah diselesaikan secara matematis.\n\nBeberapa dekade kemudian, matematikawan Irlandia William Rowan Hamilton mengembangkan reformulasi lebih lanjut pada 1833, dikenal sebagai mekanika Hamiltonian, yang mendeskripsikan sistem fisis menggunakan besaran yang disebut Hamiltonian (pada banyak kasus sederhana, setara dengan energi total sistem), dinyatakan sebagai fungsi posisi dan momentum, bukan posisi dan kecepatan seperti pendekatan Lagrangian. Formulasi Hamiltonian ini bukan sekadar variasi matematis semata — kerangka konseptualnya, terutama penekanan pada posisi dan momentum sebagai pasangan variabel fundamental, ternyata menjadi jembatan yang sangat penting dan langsung menuju pengembangan mekanika kuantum di awal abad ke-20, dengan banyak konsep dan notasi mekanika kuantum modern yang secara langsung diadaptasi dari kerangka Hamiltonian ini, menjadikan kedua formulasi ini sebagai fondasi matematis penting yang menjembatani fisika klasik dan fisika modern.",
+    "tags": ["mekanika-lagrangian", "mekanika-hamiltonian", "joseph-louis-lagrange", "william-hamilton", "prinsip-aksi-minimum"],
+    "sumber": [],
+    "tingkat_pembaca": "lanjutan",
+    "terakhir_diupdate": "2026-07-29"
+  },
+  {
+    "id": "sains.fisika.fisika-statistik",
+    "judul": "Fisika Statistik",
+    "kategori": "sains",
+    "subkategori": "fisika",
+    "periode": {
+      "mulai": "1872",
+      "selesai": "1925",
+      "label": "1872 - 1925 Masehi"
+    },
+    "ringkasan": "Cabang fisika yang menjembatani perilaku mikroskopik partikel individual dengan sifat makroskopik yang teramati, menjelaskan fenomena termodinamika lewat pendekatan probabilitas dan statistik pada skala sangat besar jumlah partikel.",
+    "konten": "Fisika statistik adalah cabang fisika yang menjembatani dunia mikroskopik (perilaku partikel individual seperti atom dan molekul) dengan dunia makroskopik (sifat-sifat yang bisa kita amati dan ukur langsung, seperti suhu dan tekanan), menggunakan pendekatan probabilitas dan statistik untuk menangani jumlah partikel yang sangat besar (biasanya dalam orde triliunan triliun) yang mustahil dilacak secara individual satu per satu. Fisikawan Austria Ludwig Boltzmann meletakkan fondasi penting bidang ini pada 1872, mengembangkan kerangka statistik yang menjelaskan bagaimana sifat makroskopik seperti suhu sebenarnya merupakan manifestasi statistik dari energi kinetik rata-rata jutaan partikel yang bergerak dan bertumbukan secara acak.\n\nSalah satu konsep sentral dalam fisika statistik adalah distribusi statistik, yang menggambarkan bagaimana energi atau kecepatan partikel-partikel dalam suatu sistem tersebar dalam berbagai kondisi. Distribusi Maxwell-Boltzmann, dikembangkan James Clerk Maxwell dan disempurnakan Boltzmann, menjelaskan distribusi kecepatan partikel gas pada suhu tertentu, menunjukkan bahwa meski suhu keseluruhan gas konstan, kecepatan partikel individual sangat bervariasi mengikuti pola distribusi tertentu, dengan sebagian besar partikel memiliki kecepatan mendekati rata-rata namun sebagian kecil bergerak jauh lebih cepat atau lambat.\n\nSeiring perkembangan mekanika kuantum di awal abad ke-20, muncul dua jenis distribusi statistik tambahan yang berlaku khusus untuk partikel kuantum. Distribusi Bose-Einstein, dirumuskan Satyendra Nath Bose dan disempurnakan Albert Einstein sekitar 1924-1925, berlaku untuk partikel yang disebut boson (seperti foton), yang secara mengejutkan bisa menempati keadaan kuantum yang sama secara bersamaan tanpa batasan. Sebaliknya, distribusi Fermi-Dirac, dikembangkan Enrico Fermi dan Paul Dirac, berlaku untuk partikel yang disebut fermion (seperti elektron), yang mematuhi prinsip eksklusi Pauli — tidak ada dua fermion yang bisa menempati keadaan kuantum identik secara bersamaan. Perbedaan mendasar antara kedua jenis statistik kuantum ini punya konsekuensi sangat luas, menjelaskan berbagai fenomena mulai dari perilaku elektron dalam material padat (mendasari fisika zat padat dan semikonduktor) hingga fenomena eksotis seperti kondensat Bose-Einstein, keadaan materi unik yang hanya terbentuk pada suhu sangat mendekati nol mutlak.",
+    "tags": ["fisika-statistik", "ludwig-boltzmann", "distribusi-maxwell-boltzmann", "distribusi-fermi-dirac", "distribusi-bose-einstein"],
+    "sumber": [],
+    "tingkat_pembaca": "lanjutan",
+    "terakhir_diupdate": "2026-07-29"
+  }
+]

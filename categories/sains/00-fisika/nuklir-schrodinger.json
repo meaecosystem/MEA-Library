@@ -1,0 +1,36 @@
+[
+  {
+    "id": "sains.fisika.fisika-nuklir",
+    "judul": "Fisika Nuklir: Radioaktivitas, Fisi, dan Fusi",
+    "kategori": "sains",
+    "subkategori": "fisika",
+    "periode": {
+      "mulai": "1896",
+      "selesai": "1938",
+      "label": "1896 - 1938 Masehi"
+    },
+    "ringkasan": "Cabang fisika yang mempelajari struktur dan perilaku inti atom, mencakup fenomena radioaktivitas alami serta proses fisi dan fusi nuklir yang melepaskan energi dalam jumlah sangat besar.",
+    "konten": "Fisika nuklir adalah cabang fisika yang mempelajari struktur, sifat, dan perilaku inti atom, termasuk gaya-gaya yang menahan proton dan neutron tetap terikat bersama di dalam inti meski proton-proton yang bermuatan sama seharusnya saling tolak-menolak menurut gaya elektromagnetik biasa. Bidang ini bermula dari penemuan radioaktivitas oleh fisikawan Prancis Henri Becquerel pada 1896, ketika ia secara tidak sengaja menemukan bahwa senyawa uranium memancarkan radiasi tanpa perlu diaktifkan cahaya matahari atau sumber energi eksternal apa pun, sebuah fenomena yang kemudian dipelajari lebih mendalam oleh Marie dan Pierre Curie, yang berhasil mengidentifikasi unsur-unsur radioaktif lain seperti polonium dan radium.\n\nRadioaktivitas terjadi ketika inti atom tertentu bersifat tidak stabil dan secara spontan meluruh, memancarkan partikel atau radiasi untuk mencapai konfigurasi yang lebih stabil, dengan tiga jenis peluruhan utama: peluruhan alfa (memancarkan partikel yang terdiri dari dua proton dan dua neutron), peluruhan beta (melibatkan transformasi neutron menjadi proton atau sebaliknya, disertai pemancaran elektron atau positron), dan peluruhan gamma (pemancaran radiasi elektromagnetik berenergi sangat tinggi tanpa mengubah komposisi inti). Fenomena ini menjadi dasar penting bagi metode penanggalan radiokarbon yang dipakai arkeolog dan geolog untuk menentukan usia fosil dan artefak kuno.\n\nDua proses nuklir lain yang sangat penting adalah fisi dan fusi, keduanya melepaskan energi dalam jumlah sangat besar meski lewat mekanisme berlawanan. Fisi nuklir, ditemukan Otto Hahn dan Lise Meitner pada 1938, terjadi ketika inti atom berat (seperti uranium) terpecah menjadi inti-inti yang lebih ringan setelah dibombardir neutron, melepaskan energi besar sekaligus neutron tambahan yang bisa memicu reaksi berantai — prinsip inilah yang mendasari reaktor pembangkit listrik tenaga nuklir maupun senjata nuklir. Fusi nuklir, sebaliknya, terjadi ketika dua inti atom ringan (seperti isotop hidrogen) bergabung membentuk inti yang lebih berat, proses yang menjadi sumber energi bintang termasuk matahari kita, dan sampai sekarang manusia masih terus berupaya mengembangkan teknologi fusi nuklir terkendali sebagai sumber energi bersih masa depan, meski tantangan teknisnya masih sangat besar karena membutuhkan suhu dan tekanan ekstrem untuk memicu reaksi fusi secara berkelanjutan.",
+    "tags": ["fisika-nuklir", "radioaktivitas", "marie-curie", "fisi-nuklir", "fusi-nuklir"],
+    "sumber": [],
+    "tingkat_pembaca": "lanjutan",
+    "terakhir_diupdate": "2026-07-29"
+  },
+  {
+    "id": "sains.fisika.persamaan-schrodinger",
+    "judul": "Persamaan Schrödinger dan Spin Kuantum",
+    "kategori": "sains",
+    "subkategori": "fisika",
+    "periode": {
+      "mulai": "1925",
+      "selesai": "1928",
+      "label": "1925 - 1928 Masehi"
+    },
+    "ringkasan": "Persamaan matematis fundamental yang mendeskripsikan evolusi keadaan kuantum suatu sistem lewat fungsi gelombang, dilengkapi konsep spin sebagai properti kuantum intrinsik partikel yang tidak punya analog dalam fisika klasik.",
+    "konten": "Persamaan Schrödinger, dirumuskan fisikawan Austria Erwin Schrödinger pada 1925-1926, adalah persamaan matematis fundamental dalam mekanika kuantum yang mendeskripsikan bagaimana keadaan kuantum suatu sistem fisis berevolusi seiring waktu. Inti dari persamaan ini adalah konsep fungsi gelombang, sebuah representasi matematis yang mengandung seluruh informasi yang bisa diketahui tentang suatu sistem kuantum, seperti elektron dalam atom — alih-alih memberikan lokasi pasti suatu partikel seperti dalam fisika klasik, fungsi gelombang memberikan distribusi probabilitas tentang kemungkinan lokasi dan sifat-sifat partikel tersebut jika diukur.\n\nInterpretasi paling umum diterima terhadap fungsi gelombang, dikembangkan fisikawan Jerman Max Born, menyatakan bahwa kuadrat dari fungsi gelombang di suatu titik memberikan probabilitas menemukan partikel tersebut di titik itu jika dilakukan pengukuran — sebuah gagasan yang cukup radikal karena menyiratkan bahwa alam semesta pada level fundamental bersifat probabilistik, bukan deterministik seperti diyakini fisika klasik sebelumnya. Persamaan Schrödinger berhasil menjelaskan berbagai fenomena atomik dengan sangat akurat, termasuk struktur tingkat energi elektron dalam atom yang menjelaskan pola garis spektrum cahaya yang dipancarkan atau diserap berbagai unsur.\n\nSelain fungsi gelombang, konsep penting lain yang berkembang tak lama setelahnya adalah spin kuantum, properti intrinsik partikel subatomik yang secara konseptual mirip (namun tidak identik) dengan rotasi suatu benda pada porosnya, ditemukan lewat berbagai eksperimen dan dirumuskan secara matematis lengkap oleh fisikawan Inggris Paul Dirac pada 1928 lewat persamaannya yang menggabungkan mekanika kuantum dengan relativitas khusus. Berbeda dari rotasi benda dalam fisika klasik, spin partikel kuantum bersifat terkuantisasi (hanya bisa bernilai kelipatan tertentu, tidak kontinu) dan menjadi properti fundamental yang menentukan berbagai perilaku partikel, termasuk apakah suatu partikel tergolong fermion atau boson dalam statistik kuantum, serta mendasari berbagai fenomena penting lain seperti magnetisme material dan teknologi pencitraan MRI yang memanfaatkan sifat spin inti atom hidrogen dalam tubuh manusia.",
+    "tags": ["persamaan-schrodinger", "fungsi-gelombang", "erwin-schrodinger", "spin-kuantum", "paul-dirac"],
+    "sumber": [],
+    "tingkat_pembaca": "lanjutan",
+    "terakhir_diupdate": "2026-07-29"
+  }
+]

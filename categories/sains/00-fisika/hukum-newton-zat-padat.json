@@ -1,0 +1,36 @@
+[
+  {
+    "id": "sains.fisika.hukum-gerak-newton",
+    "judul": "Hukum Gerak Newton",
+    "kategori": "sains",
+    "subkategori": "fisika",
+    "periode": {
+      "mulai": "1687",
+      "selesai": "1687",
+      "label": "1687 Masehi"
+    },
+    "ringkasan": "Tiga hukum fundamental yang menjelaskan bagaimana dan mengapa benda bergerak, dirumuskan Isaac Newton dan menjadi fondasi mekanika klasik selama lebih dari dua abad sebelum relativitas dan kuantum melengkapinya.",
+    "konten": "Hukum Gerak Newton adalah tiga prinsip fundamental yang dirumuskan Isaac Newton dalam karya monumentalnya, Philosophiæ Naturalis Principia Mathematica, yang diterbitkan pada 1687, menjelaskan hubungan antara gaya yang bekerja pada suatu benda dengan gerakan yang dihasilkannya. Ketiga hukum ini menjadi fondasi mekanika klasik, cabang fisika yang mempelajari gerak benda pada skala normal sehari-hari, dan tetap sangat akurat serta relevan digunakan sampai sekarang untuk hampir semua aplikasi praktis, kecuali pada kondisi ekstrem seperti kecepatan sangat tinggi mendekati kecepatan cahaya atau skala sangat kecil di dunia kuantum.\n\nHukum pertama Newton, sering disebut hukum inersia, menyatakan bahwa suatu benda akan tetap diam atau bergerak dengan kecepatan konstan dalam garis lurus kecuali ada gaya luar yang bekerja padanya untuk mengubah keadaan tersebut. Konsep ini menjelaskan mengapa penumpang di dalam mobil yang tiba-tiba direm akan terdorong ke depan — tubuh penumpang cenderung mempertahankan kecepatan geraknya sebelumnya (inersia) meski mobil sudah berhenti. Hukum kedua Newton menjelaskan hubungan antara gaya, massa, dan percepatan, menyatakan bahwa percepatan suatu benda berbanding lurus dengan gaya total yang bekerja padanya dan berbanding terbalik dengan massanya — secara konsep, ini berarti semakin besar gaya yang diberikan, semakin besar pula percepatan yang dihasilkan, namun semakin besar massa benda tersebut, semakin sulit pula benda itu dipercepat dengan gaya yang sama.\n\nHukum ketiga Newton, yang mungkin paling terkenal secara populer, menyatakan bahwa untuk setiap aksi selalu ada reaksi yang sama besar namun berlawanan arah — ketika suatu benda memberikan gaya pada benda lain, benda kedua tersebut secara bersamaan memberikan gaya yang sama besar namun berlawanan arah kepada benda pertama. Prinsip ini menjelaskan berbagai fenomena, mulai dari cara roket terdorong ke atas (dengan mendorong gas ke bawah dengan kekuatan besar, gas tersebut mendorong balik roket ke atas) hingga mengapa kita bisa berjalan (kaki kita mendorong tanah ke belakang, dan tanah mendorong balik kaki kita ke depan). Ketiga hukum ini bersama-sama menciptakan kerangka pemahaman yang sangat kuat dan intuitif tentang gerak, yang mendominasi fisika selama lebih dari dua abad sebelum akhirnya dilengkapi (bukan digantikan) oleh teori relativitas dan mekanika kuantum pada abad ke-20 untuk menjelaskan fenomena di luar jangkauan mekanika klasik.",
+    "tags": ["hukum-newton", "isaac-newton", "mekanika-klasik", "inersia", "gaya"],
+    "sumber": [],
+    "tingkat_pembaca": "lanjutan",
+    "terakhir_diupdate": "2026-07-29"
+  },
+  {
+    "id": "sains.fisika.fisika-zat-padat",
+    "judul": "Fisika Zat Padat dan Semikonduktor",
+    "kategori": "sains",
+    "subkategori": "fisika",
+    "periode": {
+      "mulai": "1900",
+      "selesai": "1956",
+      "label": "1900 - 1956 Masehi"
+    },
+    "ringkasan": "Cabang fisika yang mempelajari sifat materi padat pada skala atomik, menjelaskan mengapa beberapa material menghantarkan listrik sementara yang lain tidak, fondasi bagi seluruh revolusi elektronik modern.",
+    "konten": "Fisika zat padat adalah cabang fisika yang mempelajari sifat-sifat fisik materi dalam bentuk padat pada skala atomik dan subatomik, khususnya bagaimana susunan atom dan perilaku elektron di dalamnya menentukan berbagai sifat material seperti kekuatan mekanik, konduktivitas listrik, dan sifat magnetik. Bidang ini berkembang pesat sepanjang paruh pertama abad ke-20, seiring pemahaman mekanika kuantum yang semakin matang memungkinkan fisikawan menjelaskan perilaku elektron dalam struktur kristal material padat dengan lebih akurat.\n\nSalah satu konsep paling penting dalam fisika zat padat adalah teori pita energi (band theory), yang menjelaskan mengapa beberapa material bersifat konduktor listrik yang baik (seperti logam), sementara yang lain bersifat isolator (seperti karet atau kaca) yang hampir tidak menghantarkan listrik sama sekali. Menurut teori ini, elektron dalam material padat menempati berbagai tingkat energi yang membentuk \"pita\" energi tertentu, dengan pita valensi (tempat elektron biasanya berada) dan pita konduksi (tempat elektron bisa bergerak bebas menghantarkan listrik) yang dipisahkan celah energi tertentu — pada konduktor, celah ini sangat kecil atau bahkan tumpang tindih, memungkinkan elektron mudah berpindah dan menghantarkan listrik, sementara pada isolator, celah energinya sangat besar sehingga elektron sulit berpindah ke pita konduksi.\n\nDi antara kedua ekstrem konduktor dan isolator, terdapat kelas material yang disebut semikonduktor, dengan celah energi yang cukup kecil sehingga konduktivitasnya bisa dikontrol dan dimanipulasi dengan berbagai cara, termasuk menambahkan sedikit atom pengotor tertentu (proses yang disebut doping) atau memberikan energi tambahan seperti panas atau cahaya. Sifat unik dan bisa dikendalikan inilah yang menjadikan semikonduktor, terutama silikon, sebagai material fundamental bagi revolusi elektronik modern, memungkinkan penciptaan transistor pertama pada 1947 di Bell Labs, komponen kunci yang mendasari hampir seluruh perangkat elektronik dan komputer yang kita gunakan sekarang, menjadikan fisika zat padat sebagai salah satu cabang fisika dengan dampak paling langsung dan besar terhadap teknologi kehidupan sehari-hari manusia modern.",
+    "tags": ["fisika-zat-padat", "semikonduktor", "teori-pita-energi", "transistor", "konduktivitas"],
+    "sumber": [],
+    "tingkat_pembaca": "lanjutan",
+    "terakhir_diupdate": "2026-07-29"
+  }
+]

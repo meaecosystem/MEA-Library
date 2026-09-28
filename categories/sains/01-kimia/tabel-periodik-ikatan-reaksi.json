@@ -1,0 +1,53 @@
+[
+  {
+    "id": "sains.kimia.tabel-periodik",
+    "judul": "Tabel Periodik Unsur",
+    "kategori": "sains",
+    "subkategori": "kimia",
+    "periode": {
+      "mulai": "1869",
+      "selesai": "1913",
+      "label": "1869 - 1913 Masehi"
+    },
+    "ringkasan": "Sistem klasifikasi seluruh unsur kimia berdasarkan sifat dan struktur atomnya, disusun Dmitri Mendeleev dengan keberanian meninggalkan ruang kosong untuk unsur yang belum ditemukan, terbukti sangat akurat memprediksi penemuan unsur baru.",
+    "konten": "Tabel periodik adalah sistem klasifikasi yang mengatur seluruh unsur kimia yang diketahui berdasarkan sifat-sifat kimia dan struktur atomnya, disusun sedemikian rupa sehingga unsur-unsur dengan sifat serupa dikelompokkan bersama. Kimiawan Rusia Dmitri Mendeleev dianggap sebagai penyusun utama tabel periodik modern pada 1869, mengurutkan unsur-unsur yang diketahui saat itu berdasarkan massa atomnya, dan yang paling mengesankan, ia dengan berani meninggalkan beberapa ruang kosong dalam tabelnya untuk unsur-unsur yang menurutnya pasti ada namun belum ditemukan saat itu, bahkan memprediksi sifat-sifat unsur yang belum ditemukan tersebut berdasarkan pola dalam tabel.\n\nKeberanian dan ketepatan prediksi Mendeleev terbukti luar biasa akurat — dalam beberapa dekade berikutnya, berbagai unsur baru yang ditemukan (seperti galium dan germanium) ternyata memiliki sifat yang sangat sesuai dengan prediksi Mendeleev, memberikan validasi kuat terhadap sistem klasifikasinya. Tabel periodik modern kemudian disempurnakan lebih lanjut oleh fisikawan Inggris Henry Moseley pada 1913, yang menemukan bahwa unsur-unsur sebenarnya lebih tepat diurutkan berdasarkan nomor atom (jumlah proton dalam inti atom) dibanding massa atom, memperbaiki beberapa anomali kecil dalam susunan asli Mendeleev.\n\nDalam tabel periodik modern, unsur-unsur disusun dalam baris (disebut periode) dan kolom (disebut golongan), dengan unsur dalam golongan yang sama cenderung memiliki sifat kimia serupa karena struktur elektron terluar mereka yang mirip. Pola ini mencerminkan sifat periodik unsur-unsur, di mana karakteristik kimia dan fisika tertentu berulang secara teratur seiring bertambahnya nomor atom. Tabel periodik sekarang mencakup 118 unsur yang diketahui, mulai dari hidrogen yang paling ringan dan sederhana, hingga unsur-unsur superberat yang hanya bisa diciptakan secara artifisial di laboratorium dan bersifat sangat tidak stabil, menjadikan tabel periodik sebagai salah satu alat konseptual paling penting dan fundamental dalam seluruh ilmu kimia modern.",
+    "tags": ["tabel-periodik", "dmitri-mendeleev", "unsur-kimia", "nomor-atom", "henry-moseley"],
+    "sumber": [],
+    "tingkat_pembaca": "lanjutan",
+    "terakhir_diupdate": "2026-07-29"
+  },
+  {
+    "id": "sains.kimia.ikatan-kimia",
+    "judul": "Ikatan Kimia",
+    "kategori": "sains",
+    "subkategori": "kimia",
+    "periode": {
+      "mulai": "1916",
+      "selesai": "1939",
+      "label": "1916 - 1939 Masehi"
+    },
+    "ringkasan": "Cara atom-atom saling terikat membentuk molekul, terjadi lewat berbagai mekanisme berbeda seperti ikatan ionik, kovalen, dan logam, masing-masing menghasilkan sifat material yang sangat berbeda.",
+    "konten": "Ikatan kimia adalah gaya yang menahan atom-atom bersama membentuk molekul atau senyawa, dan pemahaman modern tentang mekanisme ikatan ini mulai berkembang pesat pada awal abad ke-20 seiring semakin dipahaminya struktur atom dan perilaku elektron. Kimiawan Amerika Gilbert N. Lewis pada 1916 mengusulkan gagasan penting bahwa ikatan kimia pada dasarnya melibatkan elektron-elektron di kulit terluar atom (disebut elektron valensi), yang bisa dipakai bersama atau dipindahkan antar atom untuk mencapai konfigurasi elektron yang lebih stabil.\n\nAda beberapa jenis utama ikatan kimia, masing-masing dengan mekanisme dan konsekuensi sifat material yang berbeda. Ikatan ionik terjadi ketika satu atom melepaskan elektron sepenuhnya kepada atom lain, menciptakan ion bermuatan positif dan negatif yang kemudian saling tarik-menarik akibat gaya elektrostatik — contoh klasiknya adalah garam dapur (natrium klorida), di mana atom natrium melepaskan elektron kepada atom klorin. Ikatan kovalen, sebaliknya, terjadi ketika dua atom berbagi pasangan elektron secara bersama-sama, menciptakan ikatan yang umumnya lebih kuat dan lebih terarah, ditemukan dalam berbagai molekul termasuk air dan hampir semua senyawa organik yang menjadi dasar kehidupan.\n\nJenis ikatan lain, ikatan logam, terjadi khusus dalam material logam, di mana elektron valensi tidak terikat pada atom tertentu melainkan bergerak relatif bebas di seluruh struktur logam, menciptakan \"lautan elektron\" yang menjelaskan berbagai sifat khas logam seperti konduktivitas listrik dan panas yang baik, serta kemampuan dibentuk (malleable) tanpa mudah pecah. Pemahaman mendalam tentang ikatan kimia ini kemudian disempurnakan lebih jauh dengan teori mekanika kuantum, terutama lewat kontribusi kimiawan Linus Pauling pada 1930-an yang menjelaskan ikatan kimia secara lebih matematis dan presisi menggunakan prinsip-prinsip kuantum, meraih Hadiah Nobel Kimia pada 1954 atas kontribusinya memahami sifat ikatan kimia secara mendalam.",
+    "tags": ["ikatan-kimia", "ikatan-ionik", "ikatan-kovalen", "gilbert-lewis", "linus-pauling"],
+    "sumber": [],
+    "tingkat_pembaca": "lanjutan",
+    "terakhir_diupdate": "2026-07-29"
+  },
+  {
+    "id": "sains.kimia.reaksi-asam-basa",
+    "judul": "Reaksi Kimia dan Konsep Asam-Basa",
+    "kategori": "sains",
+    "subkategori": "kimia",
+    "periode": {
+      "mulai": "1884",
+      "selesai": "1923",
+      "label": "1884 - 1923 Masehi"
+    },
+    "ringkasan": "Proses transformasi zat menjadi zat baru lewat berbagai jenis reaksi kimia, dengan konsep asam-basa yang berkembang dari definisi sederhana Arrhenius hingga definisi Bronsted-Lowry yang lebih luas.",
+    "konten": "Reaksi kimia adalah proses di mana satu atau lebih zat (disebut reaktan) berubah menjadi zat baru (disebut produk) lewat pemutusan dan pembentukan ikatan kimia antar atom. Ada berbagai jenis reaksi kimia yang dikategorikan berdasarkan pola perubahannya, termasuk reaksi sintesis (dua atau lebih zat sederhana bergabung membentuk zat yang lebih kompleks), reaksi dekomposisi (satu zat kompleks terurai menjadi zat-zat yang lebih sederhana), serta reaksi pertukaran di mana komponen dari dua senyawa saling bertukar membentuk senyawa baru.\n\nSalah satu kategori reaksi kimia paling penting dan luas aplikasinya adalah reaksi asam-basa. Konsep modern tentang asam dan basa mulai dirumuskan secara sistematis oleh kimiawan Swedia Svante Arrhenius pada 1884, yang mendefinisikan asam sebagai zat yang melepaskan ion hidrogen (H+) ketika dilarutkan dalam air, sementara basa adalah zat yang melepaskan ion hidroksida (OH-). Definisi Arrhenius ini cukup berguna untuk banyak kasus umum, namun terbatas karena hanya berlaku dalam konteks larutan air dan tidak mencakup berbagai reaksi asam-basa yang terjadi tanpa air.\n\nPada 1923, secara terpisah, kimiawan Denmark Johannes Bronsted dan kimiawan Inggris Thomas Lowry mengembangkan definisi yang lebih luas dan fleksibel, dikenal sebagai teori Bronsted-Lowry, yang mendefinisikan asam sebagai zat yang bisa menyumbangkan (donor) proton (ion hidrogen), sementara basa adalah zat yang bisa menerima (akseptor) proton tersebut, definisi yang tidak lagi terbatas pada larutan air saja dan mencakup jangkauan reaksi kimia yang jauh lebih luas. Konsep pH, skala yang mengukur tingkat keasaman atau kebasaan suatu larutan, juga berkembang dari pemahaman tentang konsentrasi ion hidrogen ini, menjadi salah satu konsep paling praktis dan sering digunakan dalam kimia, mulai dari industri makanan, pengolahan air, hingga berbagai proses biologis dalam tubuh manusia yang sangat sensitif terhadap tingkat keasaman lingkungannya.",
+    "tags": ["reaksi-kimia", "asam-basa", "svante-arrhenius", "bronsted-lowry", "ph"],
+    "sumber": [],
+    "tingkat_pembaca": "lanjutan",
+    "terakhir_diupdate": "2026-07-29"
+  }
+]

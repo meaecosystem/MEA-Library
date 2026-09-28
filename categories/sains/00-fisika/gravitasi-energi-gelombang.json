@@ -1,0 +1,51 @@
+[
+  {
+    "id": "sains.fisika.gravitasi",
+    "judul": "Gravitasi",
+    "kategori": "sains",
+    "subkategori": "fisika",
+    "periode": {
+      "mulai": "1687",
+      "selesai": "1915",
+      "label": "1687 - 1915 Masehi (dari Newton ke Einstein)"
+    },
+    "ringkasan": "Gaya tarik-menarik antar benda bermassa yang menjaga planet mengorbit matahari dan membuat benda jatuh ke bumi, dipahami lewat hukum Newton lalu disempurnakan teori relativitas Einstein.",
+    "konten": "Gravitasi adalah gaya fundamental alam semesta yang membuat setiap benda bermassa saling tarik-menarik satu sama lain, semakin besar massa suatu benda dan semakin dekat jaraknya, semakin kuat pula gaya tarik yang dihasilkan. Gravitasi inilah yang menjelaskan berbagai fenomena sehari-hari yang kita alami, seperti benda yang jatuh ke tanah ketika dilepaskan, sekaligus fenomena skala besar seperti bulan yang mengorbit bumi dan planet-planet yang mengorbit matahari.\n\nPemahaman ilmiah modern tentang gravitasi pertama kali dirumuskan secara sistematis oleh Isaac Newton pada 1687 lewat hukum gravitasi universal, yang menjelaskan bahwa kekuatan gravitasi antara dua benda bergantung pada massa kedua benda tersebut serta jarak di antara keduanya — rumus ini secara konsep menyatakan bahwa gaya gravitasi berbanding lurus dengan perkalian kedua massa, dan berbanding terbalik dengan kuadrat jaraknya. Pemahaman Newton ini sangat revolusioner karena berhasil menjelaskan baik gerakan benda di bumi maupun pergerakan benda-benda langit dengan satu hukum fisika yang sama, menyatukan fenomena yang sebelumnya dianggap sepenuhnya berbeda.\n\nLebih dari dua abad kemudian, Albert Einstein menyempurnakan pemahaman tentang gravitasi lewat teori relativitas umum yang dipublikasikan pada 1915, mengusulkan gagasan yang sangat berbeda dari Newton — bahwa gravitasi sebenarnya bukan gaya tarik langsung antar benda, melainkan akibat dari benda bermassa yang melengkungkan struktur ruang dan waktu di sekitarnya, sehingga benda lain yang bergerak di dekatnya mengikuti lengkungan tersebut, menciptakan efek yang kita amati sebagai gravitasi. Teori Einstein ini terbukti lebih akurat menjelaskan berbagai fenomena ekstrem seperti perilaku cahaya di dekat benda sangat masif, dan sampai sekarang tetap jadi kerangka pemahaman gravitasi paling komprehensif yang dimiliki sains modern.",
+    "tags": ["gravitasi", "isaac-newton", "albert-einstein", "relativitas-umum", "fisika-dasar"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-29"
+  },
+  {
+    "id": "sains.fisika.energi-kekekalan",
+    "judul": "Energi dan Hukum Kekekalan Energi",
+    "kategori": "sains",
+    "subkategori": "fisika",
+    "periode": {
+      "mulai": "1840",
+      "selesai": "1850",
+      "label": "sekitar 1840 - 1850 Masehi"
+    },
+    "ringkasan": "Konsep energi sebagai kemampuan melakukan kerja, dengan hukum kekekalan energi menyatakan bahwa energi tidak bisa diciptakan atau dimusnahkan, hanya berubah bentuk dari satu jenis ke jenis lain.",
+    "konten": "Energi adalah konsep fundamental dalam fisika yang menggambarkan kemampuan suatu sistem untuk melakukan kerja atau menghasilkan perubahan, hadir dalam berbagai bentuk seperti energi kinetik (energi gerak), energi potensial (energi tersimpan akibat posisi atau kondisi tertentu), energi panas, energi listrik, energi kimia, dan berbagai bentuk lainnya. Meski konsep energi sudah lama diperhatikan dalam berbagai konteks, pemahaman ilmiah modern yang sistematis tentang energi dan hubungan antar berbagai bentuknya baru berkembang pesat sekitar pertengahan abad ke-19.\n\nSalah satu prinsip paling fundamental terkait energi adalah hukum kekekalan energi, yang menyatakan bahwa energi total dalam suatu sistem tertutup selalu tetap konstan — energi tidak bisa diciptakan dari ketiadaan, juga tidak bisa dimusnahkan begitu saja, melainkan hanya bisa berubah bentuk dari satu jenis energi ke jenis lain. Sebagai contoh, ketika bola dilempar ke atas, energi kinetik gerakannya secara bertahap berubah jadi energi potensial seiring bola naik dan melambat, sebelum kembali berubah jadi energi kinetik saat bola jatuh kembali ke bawah, dengan total energi keseluruhan sistem tetap sama sepanjang proses tersebut, tidak menghitung kehilangan kecil akibat gesekan udara.\n\nBerbagai ilmuwan pada pertengahan abad ke-19, termasuk James Prescott Joule dan Hermann von Helmholtz, berperan penting merumuskan dan membuktikan secara eksperimental hukum kekekalan energi ini, menyatukan berbagai bentuk energi yang sebelumnya dipelajari secara terpisah (seperti panas, gerakan mekanis, dan listrik) ke dalam satu kerangka pemahaman yang koheren. Pemahaman tentang energi dan kekekalannya ini menjadi salah satu fondasi paling penting dalam fisika modern, mendasari hampir seluruh pemahaman kita tentang bagaimana alam semesta bekerja, dari skala partikel subatomik terkecil hingga skala kosmis bintang dan galaksi.",
+    "tags": ["energi", "hukum-kekekalan-energi", "james-joule", "energi-kinetik", "energi-potensial"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-29"
+  },
+  {
+    "id": "sains.fisika.gelombang-bunyi",
+    "judul": "Gelombang dan Bunyi",
+    "kategori": "sains",
+    "subkategori": "fisika",
+    "periode": {
+      "label": "Fenomena alam yang dipelajari sejak era Yunani Kuno, dipahami secara ilmiah modern sejak abad ke-19"
+    },
+    "ringkasan": "Gelombang adalah pola perambatan energi melalui ruang atau medium, dengan bunyi sebagai salah satu jenis gelombang yang merambat lewat getaran partikel udara atau medium lain.",
+    "konten": "Gelombang adalah pola perambatan energi dari satu tempat ke tempat lain, bisa terjadi lewat berbagai medium seperti air, udara, atau bahkan tanpa medium sama sekali (seperti gelombang cahaya yang bisa merambat lewat ruang hampa). Ada dua jenis gelombang utama berdasarkan cara getarannya: gelombang transversal, di mana arah getaran tegak lurus dengan arah rambatan gelombang (seperti gelombang pada tali yang digoyangkan), dan gelombang longitudinal, di mana arah getaran sejajar dengan arah rambatan (seperti gelombang bunyi).\n\nBunyi adalah salah satu jenis gelombang longitudinal yang merambat lewat getaran partikel-partikel medium, biasanya udara, meski bunyi juga bisa merambat lewat medium lain seperti air atau benda padat, bahkan dengan kecepatan yang berbeda tergantung kepadatan medium tersebut. Ketika suatu benda bergetar (misalnya senar gitar yang dipetik atau pita suara manusia saat berbicara), getaran tersebut menyebabkan partikel udara di sekitarnya ikut bergetar, menciptakan gelombang tekanan yang merambat menjauh dari sumber bunyi, hingga akhirnya mencapai telinga kita dan diterjemahkan otak sebagai suara yang kita dengar.\n\nSetiap gelombang, termasuk bunyi, punya karakteristik penting seperti frekuensi (jumlah getaran per detik, menentukan tinggi-rendahnya nada bunyi) dan amplitudo (besarnya getaran, menentukan kekerasan atau volume bunyi). Fenomena bunyi juga dipelajari lewat konsep seperti gema (pantulan bunyi dari permukaan keras) dan efek Doppler (perubahan frekuensi bunyi yang terdengar akibat pergerakan relatif sumber bunyi dan pendengar, seperti perubahan nada sirene ambulans yang terdengar berbeda saat mendekat dan menjauh). Pemahaman tentang gelombang dan bunyi ini punya aplikasi luas, mulai dari desain alat musik, teknologi audio, hingga aplikasi medis seperti USG yang memanfaatkan gelombang bunyi frekuensi tinggi untuk menghasilkan gambar organ dalam tubuh.",
+    "tags": ["gelombang", "bunyi", "frekuensi", "amplitudo", "efek-doppler"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-07-29"
+  }
+]

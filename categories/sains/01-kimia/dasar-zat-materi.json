@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sains.kimia.zat-dan-wujudnya",
+    "judul": "Zat dan Wujudnya",
+    "kategori": "sains",
+    "subkategori": "kimia",
+    "periode": {
+      "label": "Konsep dasar ilmu kimia, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Zat adalah segala sesuatu yang punya massa dan menempati ruang, bisa berwujud padat, cair, atau gas, dan bisa berubah wujud lewat proses seperti mencair, membeku, menguap, dan mengembun.",
+    "konten": "Zat adalah istilah dalam ilmu kimia untuk segala sesuatu yang punya massa (bisa ditimbang) dan menempati ruang (punya volume) — mulai dari air yang kita minum, udara yang kita hirup, sampai meja dan kursi di sekitar kita, semuanya termasuk zat. Zat di alam umumnya ditemukan dalam tiga wujud utama: padat, cair, dan gas, yang dibedakan berdasarkan bagaimana partikel-partikel penyusunnya tersusun dan bergerak.\n\nPada zat padat, partikel-partikelnya tersusun sangat rapat dan hampir tidak bisa bergerak bebas, hanya bergetar di tempatnya, sehingga zat padat punya bentuk dan volume yang tetap — contohnya batu, kayu, atau es batu. Pada zat cair, partikel-partikelnya masih berdekatan namun bisa bergerak dan meluncur satu sama lain, sehingga zat cair punya volume tetap namun bentuknya mengikuti wadah yang ditempatinya, seperti air yang bentuknya berubah sesuai gelas yang menampungnya. Pada zat gas, partikel-partikelnya bergerak sangat bebas dan berjauhan satu sama lain, sehingga gas tidak punya bentuk maupun volume tetap, selalu mengisi seluruh ruang wadahnya, seperti udara yang mengisi balon.\n\nZat bisa berubah wujud lewat penyerapan atau pelepasan panas. Es (padat) yang dipanaskan akan mencair jadi air (cair), proses ini disebut mencair atau melebur. Air yang terus dipanaskan hingga mendidih akan menguap jadi uap air (gas). Sebaliknya, uap air yang didinginkan akan mengembun kembali jadi air, dan air yang didinginkan lebih lanjut akan membeku jadi es. Ada juga zat yang bisa berubah langsung dari padat ke gas tanpa melalui wujud cair, disebut menyublim, contohnya kapur barus yang lama-lama mengecil dan habis meski tidak pernah mencair.",
+    "tags": ["zat", "wujud-zat", "padat", "cair", "gas", "mencair", "menguap", "membeku", "menyublim"],
+    "sumber": [],
+    "tingkat_pembaca": "anak",
+    "terakhir_diupdate": "2026-08-15"
+  },
+  {
+    "id": "sains.kimia.unsur-senyawa-campuran",
+    "judul": "Unsur, Senyawa, dan Campuran",
+    "kategori": "sains",
+    "subkategori": "kimia",
+    "periode": {
+      "label": "Konsep dasar ilmu kimia, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Materi di alam bisa digolongkan jadi unsur (zat tunggal paling sederhana), senyawa (gabungan dua unsur atau lebih yang terikat secara kimia), dan campuran (gabungan dua zat atau lebih yang tidak terikat secara kimia dan masih bisa dipisahkan).",
+    "konten": "Unsur adalah zat paling sederhana yang tidak bisa diuraikan lagi jadi zat yang lebih sederhana lewat reaksi kimia biasa — setiap unsur tersusun dari satu jenis atom saja. Contoh unsur yang sering ditemui sehari-hari adalah oksigen (gas yang kita hirup), besi (logam untuk membuat peralatan), dan karbon (penyusun utama arang dan intan). Sampai sekarang, manusia sudah mengenal 118 unsur, yang tersusun rapi dalam tabel periodik.\n\nSenyawa terbentuk ketika dua unsur atau lebih bergabung lewat reaksi kimia dengan perbandingan tertentu yang tetap, membentuk zat baru dengan sifat yang sama sekali berbeda dari unsur-unsur pembentuknya. Contohnya air (H2O), terbentuk dari unsur hidrogen dan oksigen — padahal hidrogen sendiri adalah gas yang mudah terbakar dan oksigen adalah gas yang mendukung pembakaran, tapi begitu bergabung jadi air, sifatnya justru bisa memadamkan api. Contoh senyawa lain adalah garam dapur (natrium klorida) dan gula (sukrosa). Untuk memisahkan kembali unsur-unsur penyusun senyawa, dibutuhkan reaksi kimia, bukan sekadar proses fisik biasa.\n\nBerbeda dari senyawa, campuran terbentuk ketika dua zat atau lebih bergabung tanpa melalui reaksi kimia, sehingga masing-masing zat penyusunnya tetap mempertahankan sifat aslinya dan bisa dipisahkan kembali dengan cara fisik seperti disaring, diuapkan, atau disaring. Campuran terbagi jadi dua jenis: campuran homogen, di mana zat-zat penyusunnya bercampur merata sehingga tidak bisa dibedakan lagi secara kasat mata (contohnya air garam atau udara), dan campuran heterogen, di mana zat-zat penyusunnya masih bisa dibedakan secara kasat mata karena tidak tercampur merata (contohnya campuran pasir dengan air, atau air dengan minyak).",
+    "tags": ["unsur", "senyawa", "campuran", "campuran-homogen", "campuran-heterogen", "materi"],
+    "sumber": [],
+    "tingkat_pembaca": "anak",
+    "terakhir_diupdate": "2026-08-15"
+  },
+  {
+    "id": "sains.kimia.perubahan-fisika-kimia",
+    "judul": "Perubahan Fisika dan Perubahan Kimia",
+    "kategori": "sains",
+    "subkategori": "kimia",
+    "periode": {
+      "label": "Konsep dasar ilmu kimia, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Perubahan fisika adalah perubahan bentuk atau wujud zat tanpa menghasilkan zat baru dan bersifat dapat dibalik, sementara perubahan kimia menghasilkan zat baru dengan sifat berbeda dan umumnya tidak dapat dibalik ke zat semula.",
+    "konten": "Perubahan fisika adalah perubahan yang terjadi pada suatu zat tanpa mengubah susunan kimianya — zat tersebut hanya berubah bentuk, ukuran, atau wujud, namun jenis zatnya tetap sama seperti semula. Contoh perubahan fisika antara lain es yang mencair jadi air (tetap zat yang sama, H2O, hanya berubah wujud), kertas yang disobek jadi potongan kecil (tetap kertas, hanya berubah bentuk), atau gula yang dilarutkan dalam air (gula tetap gula, hanya tersebar dalam air dan bisa diperoleh kembali dengan menguapkan airnya). Ciri khas perubahan fisika adalah umumnya bisa dibalik kembali ke keadaan semula (reversibel) — air yang membeku bisa dicairkan lagi, kertas yang dilipat bisa diluruskan lagi.\n\nPerubahan kimia, sebaliknya, adalah perubahan yang menghasilkan zat baru dengan sifat yang berbeda sama sekali dari zat asalnya, karena terjadi penyusunan ulang atom-atom lewat reaksi kimia. Contoh perubahan kimia adalah kertas yang dibakar menjadi abu dan asap (kertas berubah jadi zat baru yang sifatnya sangat berbeda, tidak bisa diubah kembali jadi kertas), besi yang berkarat karena bereaksi dengan oksigen dan air (besi berubah jadi karat, senyawa baru dengan sifat berbeda), atau nasi yang basi karena proses pembusukan oleh mikroorganisme. Berbeda dari perubahan fisika, perubahan kimia umumnya bersifat tidak dapat dibalik (ireversibel) — abu hasil pembakaran kertas tidak bisa diubah kembali jadi kertas.\n\nBeberapa tanda yang biasanya menunjukkan telah terjadi perubahan kimia antara lain terbentuknya gas atau gelembung (seperti soda kue yang direaksikan dengan cuka), perubahan warna (seperti buah apel yang dipotong lalu berubah warna jadi kecokelatan), terbentuknya endapan, munculnya bau baru, atau perubahan suhu yang cukup signifikan (misalnya kayu bakar yang menghasilkan panas saat terbakar). Memahami perbedaan kedua jenis perubahan ini penting sebagai dasar untuk mempelajari konsep reaksi kimia yang lebih lanjut.",
+    "tags": ["perubahan-fisika", "perubahan-kimia", "reversibel", "ireversibel", "reaksi-kimia"],
+    "sumber": [],
+    "tingkat_pembaca": "anak",
+    "terakhir_diupdate": "2026-08-15"
+  }
+]
