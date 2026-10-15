@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sains.biologi.sel-unit-kehidupan",
+    "judul": "Sel sebagai Unit Dasar Kehidupan",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Sel adalah unit terkecil kehidupan yang bisa berdiri sendiri, menjalankan semua fungsi dasar hidup seperti tumbuh, bernapas, dan bereproduksi; semua makhluk hidup, dari bakteri sampai manusia, tersusun dari satu sel atau lebih.",
+    "konten": "Semua makhluk hidup di bumi, sekecil apa pun atau sebesar apa pun, pada dasarnya tersusun dari unit-unit kecil yang disebut sel. Ada makhluk hidup yang cuma punya satu sel saja, seperti bakteri dan sebagian jenis ganggang, disebut organisme uniseluler. Ada juga yang tersusun dari triliunan sel yang bekerja sama, seperti tubuh manusia, disebut organisme multiseluler. Meski ukurannya mikroskopis, satu sel saja sudah cukup menjalankan semua ciri kehidupan — ia bisa mengambil energi dari makanan, membuang zat sisa, merespons lingkungan, tumbuh, dan membelah diri untuk berkembang biak.\n\nSecara garis besar, sel dibedakan jadi dua tipe besar: sel prokariotik dan sel eukariotik. Sel prokariotik, yang dimiliki bakteri, strukturnya lebih sederhana — materi genetiknya (DNA) mengambang bebas di dalam sel karena tidak punya inti sel yang terbungkus membran. Sel eukariotik, yang dimiliki tumbuhan, hewan, jamur, dan manusia, jauh lebih kompleks — DNA-nya tersimpan rapi di dalam inti sel (nukleus) yang dibungkus membran tersendiri, dan sel ini juga punya berbagai struktur kecil di dalamnya yang masing-masing punya tugas khusus, mirip organ-organ mini.\n\nPenemuan sel sendiri baru terjadi setelah mikroskop ditemukan. Robert Hooke pada 1665 adalah orang pertama yang mengamati struktur mirip kotak-kotak kecil pada sayatan gabus lewat mikroskop sederhana, dan ia menyebutnya 'cell' (sel) karena bentuknya mengingatkan pada bilik-bilik kecil di biara. Butuh ratusan tahun lagi sampai ilmuwan benar-benar memahami bahwa sel bukan cuma struktur kosong, melainkan unit kehidupan yang aktif dan menjadi dasar dari seluruh teori sel modern: semua makhluk hidup tersusun dari sel, sel adalah unit dasar struktur dan fungsi kehidupan, dan sel baru hanya muncul dari pembelahan sel yang sudah ada sebelumnya.",
+    "tags": ["sel", "prokariotik", "eukariotik", "robert-hooke", "teori-sel", "uniseluler", "multiseluler"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-14"
+  },
+  {
+    "id": "sains.biologi.organel-sel",
+    "judul": "Organel Sel dan Fungsinya",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Organel adalah struktur-struktur kecil di dalam sel eukariotik yang masing-masing punya tugas spesifik, seperti nukleus yang menyimpan DNA, mitokondria yang menghasilkan energi, dan kloroplas yang melakukan fotosintesis pada sel tumbuhan.",
+    "konten": "Kalau sel diibaratkan sebuah pabrik kecil, organel adalah mesin-mesin dan bagian-bagian di dalamnya yang masing-masing punya tugas tersendiri, bekerja sama supaya pabrik itu bisa terus berjalan. Organel paling menonjol adalah nukleus atau inti sel, yang berfungsi sebagai pusat kendali karena menyimpan DNA — materi genetik yang berisi instruksi lengkap untuk membangun dan menjalankan seluruh sel. Nukleus mengatur kapan dan bagaimana sel memproduksi protein, tumbuh, dan membelah diri.\n\nMitokondria sering disebut sebagai 'pembangkit listrik' sel, karena tugasnya mengubah zat makanan menjadi energi yang bisa langsung dipakai sel lewat proses yang disebut respirasi seluler. Sel-sel yang butuh banyak energi, seperti sel otot, biasanya punya mitokondria dalam jumlah sangat banyak. Selain itu ada retikulum endoplasma dan badan Golgi, dua organel yang bekerja seperti jalur produksi dan pengemasan — retikulum endoplasma membantu membuat protein dan lemak, sementara badan Golgi mengemas dan mengirimkannya ke bagian sel yang membutuhkan atau ke luar sel.\n\nSel tumbuhan punya organel tambahan yang tidak dimiliki sel hewan, yaitu kloroplas dan dinding sel. Kloroplas adalah tempat berlangsungnya fotosintesis, proses mengubah cahaya matahari jadi energi kimia, dan inilah yang membuat daun tumbuhan berwarna hijau karena kandungan klorofil di dalamnya. Dinding sel, yang terletak di luar membran sel, memberi bentuk tetap dan perlindungan tambahan pada sel tumbuhan, berbeda dari sel hewan yang hanya dibungkus membran sel yang lentur. Vakuola, kantung besar berisi cairan, juga jauh lebih besar pada sel tumbuhan, berfungsi menyimpan air dan zat lain sekaligus menjaga sel tetap kaku dan segar.",
+    "tags": ["organel", "nukleus", "mitokondria", "kloroplas", "dinding-sel", "sel-tumbuhan", "sel-hewan"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-14"
+  },
+  {
+    "id": "sains.biologi.jaringan-organ-sistem-organ",
+    "judul": "Jaringan, Organ, dan Sistem Organ",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Pada organisme multiseluler, sel-sel sejenis berkumpul membentuk jaringan, beberapa jaringan bekerja sama membentuk organ, dan beberapa organ yang saling terhubung membentuk sistem organ yang menjalankan fungsi besar tertentu dalam tubuh.",
+    "konten": "Pada makhluk hidup yang tersusun dari banyak sel, sel-sel tersebut tidak bekerja sendiri-sendiri secara acak, melainkan terorganisir dalam tingkatan yang semakin kompleks. Tingkatan paling dasar setelah sel adalah jaringan, yaitu kumpulan sel-sel sejenis yang punya bentuk dan fungsi sama, bekerja bersama untuk tugas tertentu. Pada manusia dan hewan, ada empat jenis jaringan utama: jaringan epitel yang melapisi permukaan tubuh dan organ (seperti kulit), jaringan ikat yang menyokong dan menghubungkan bagian tubuh (seperti tulang dan darah), jaringan otot yang memungkinkan gerakan, dan jaringan saraf yang menghantarkan sinyal listrik untuk komunikasi antar bagian tubuh.\n\nBeberapa jaringan yang berbeda jenis, kalau bekerja sama untuk menjalankan fungsi tertentu, akan membentuk organ. Jantung misalnya, tersusun dari jaringan otot untuk memompa, jaringan ikat untuk struktur, jaringan saraf untuk mengatur ritme detak jantung, dan jaringan epitel yang melapisi bagian dalamnya. Setiap organ punya tugas spesifik yang tidak bisa dijalankan sendirian oleh satu jenis jaringan saja — perlu kombinasi yang tepat dari berbagai jaringan untuk membuat organ itu berfungsi dengan baik.\n\nTingkatan paling atas dari organisasi tubuh adalah sistem organ, yaitu kumpulan beberapa organ yang saling terhubung dan bekerja sama menjalankan fungsi besar tertentu. Jantung, pembuluh darah, dan darah misalnya, bersama-sama membentuk sistem peredaran darah yang tugasnya mengedarkan oksigen dan nutrisi ke seluruh tubuh. Contoh lain, paru-paru, hidung, dan tenggorokan membentuk sistem pernapasan, sementara lambung, usus, dan hati membentuk sistem pencernaan. Pada akhirnya, seluruh sistem organ ini saling terhubung dan bergantung satu sama lain, membentuk satu kesatuan utuh yang disebut organisme — sehingga gangguan pada satu sistem bisa berdampak ke sistem lainnya.",
+    "tags": ["jaringan", "organ", "sistem-organ", "jaringan-epitel", "jaringan-otot", "jaringan-saraf", "organisme"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-14"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sains.biologi.sistem-pernapasan-manusia",
+    "judul": "Sistem Pernapasan Manusia",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Sistem pernapasan bertugas mengambil oksigen dari udara dan mengeluarkan karbon dioksida dari tubuh, melibatkan hidung, tenggorokan, dan paru-paru, dengan pertukaran gas sesungguhnya terjadi di kantung-kantung udara mikroskopis bernama alveolus.",
+    "konten": "Sistem pernapasan bertugas mengambil oksigen dari udara yang kita hirup dan mengeluarkan karbon dioksida, zat sisa dari proses metabolisme sel, lewat embusan napas. Udara yang dihirup pertama kali masuk lewat hidung, di mana bulu-bulu halus dan lapisan lendir menyaring debu dan kotoran sekaligus menghangatkan serta melembapkan udara sebelum masuk lebih dalam ke tubuh. Udara kemudian mengalir lewat tenggorokan (trakea), saluran berbentuk pipa yang dindingnya diperkuat cincin tulang rawan supaya tidak mudah pipih atau tersumbat, lalu bercabang jadi dua saluran yang disebut bronkus, masing-masing menuju paru-paru kiri dan kanan.\n\nDi dalam paru-paru, bronkus terus bercabang jadi saluran-saluran yang semakin kecil, mirip struktur cabang pohon terbalik, hingga akhirnya berakhir di kantung-kantung udara mikroskopis bernama alveolus. Di sinilah pertukaran gas sesungguhnya terjadi — dinding alveolus sangat tipis dan dikelilingi jaringan pembuluh darah kapiler yang juga sangat tipis, memungkinkan oksigen berpindah dari udara di dalam alveolus masuk ke darah, sementara karbon dioksida berpindah sebaliknya dari darah ke dalam alveolus untuk kemudian dikeluarkan lewat embusan napas. Satu paru-paru manusia diperkirakan punya ratusan juta alveolus, dan kalau seluruh permukaannya dibentangkan, luasnya bisa mencapai puluhan meter persegi, jauh lebih luas dari permukaan kulit tubuh manusia itu sendiri.\n\nProses menghirup dan mengembuskan napas sebenarnya digerakkan oleh otot diafragma, lembaran otot besar di bawah paru-paru yang memisahkan rongga dada dari rongga perut. Ketika diafragma berkontraksi dan bergerak turun, rongga dada membesar dan tekanan udara di dalam paru-paru jadi lebih rendah dibanding udara luar, sehingga udara mengalir masuk (menghirup). Sebaliknya, ketika diafragma berelaksasi dan kembali naik, rongga dada mengecil dan udara terdorong keluar (mengembuskan napas). Proses ini berlangsung otomatis tanpa perlu dipikirkan secara sadar, diatur oleh bagian otak yang memantau kadar karbon dioksida dalam darah dan menyesuaikan kecepatan serta kedalaman napas sesuai kebutuhan tubuh, misalnya bernapas lebih cepat dan dalam saat tubuh sedang beraktivitas berat.",
+    "tags": ["sistem-pernapasan", "paru-paru", "alveolus", "diafragma", "pertukaran-gas"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-14"
+  },
+  {
+    "id": "sains.biologi.sistem-saraf-manusia",
+    "judul": "Sistem Saraf Manusia",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Sistem saraf bertugas mengirim dan memproses sinyal untuk mengatur hampir semua fungsi tubuh, terdiri dari sistem saraf pusat (otak dan sumsum tulang belakang) serta sistem saraf tepi yang menjangkau seluruh bagian tubuh lewat sel-sel khusus bernama neuron.",
+    "konten": "Sistem saraf adalah jaringan komunikasi tubuh yang bertugas mengirim, menerima, dan memproses sinyal untuk mengatur hampir semua fungsi, mulai dari gerakan sadar seperti berjalan, fungsi otomatis seperti detak jantung, sampai proses berpikir dan mengingat. Sistem saraf terbagi jadi dua bagian besar: sistem saraf pusat, yang terdiri dari otak dan sumsum tulang belakang, bertindak sebagai pusat kendali dan pengolahan informasi; dan sistem saraf tepi, yaitu jaringan saraf yang menyebar ke seluruh bagian tubuh, menghubungkan sistem saraf pusat dengan otot, kulit, dan organ-organ lain.\n\nUnit dasar penyusun sistem saraf adalah sel saraf atau neuron, sel khusus yang berbentuk unik dengan serabut-serabut panjang yang menjulur keluar dari badan selnya, berfungsi mengirim sinyal listrik dengan sangat cepat. Satu neuron bisa terhubung dengan ribuan neuron lain lewat titik pertemuan yang disebut sinapsis, membentuk jaringan komunikasi yang sangat rumit dan padat — otak manusia diperkirakan punya sekitar 86 miliar neuron, dengan jumlah koneksi antar neuron yang bahkan lebih banyak lagi, menjadikannya salah satu struktur paling kompleks yang diketahui manusia. Sinyal antar neuron dikirim dalam bentuk impuls listrik di sepanjang serabut saraf, lalu di titik sinapsis, sinyal ini diubah sementara jadi sinyal kimia untuk menyeberang ke neuron berikutnya, sebelum kembali jadi sinyal listrik di neuron penerima.\n\nOtak sendiri terbagi jadi beberapa bagian dengan fungsi masing-masing — misalnya bagian otak besar yang bertanggung jawab atas berpikir, mengingat, dan gerakan sadar, otak kecil yang mengatur keseimbangan dan koordinasi gerakan, serta batang otak yang mengendalikan fungsi dasar otomatis seperti detak jantung dan pernapasan. Sumsum tulang belakang, yang memanjang dari otak ke bawah di sepanjang tulang punggung, bertugas meneruskan sinyal antara otak dan seluruh tubuh, sekaligus mampu mengatur beberapa refleks cepat secara mandiri tanpa harus menunggu perintah dari otak terlebih dahulu — inilah sebabnya tangan secara otomatis langsung tertarik menjauh begitu menyentuh benda yang sangat panas, bahkan sebelum rasa sakitnya benar-benar disadari di otak.",
+    "tags": ["sistem-saraf", "neuron", "otak", "sumsum-tulang-belakang", "sinapsis", "refleks"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-14"
+  }
+]

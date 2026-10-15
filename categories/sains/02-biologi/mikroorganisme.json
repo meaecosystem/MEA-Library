@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sains.biologi.bakteri",
+    "judul": "Bakteri",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Bakteri adalah mikroorganisme bersel satu tanpa inti sel terbungkus membran, hidup hampir di semua tempat di bumi, dan meski sebagian bisa menyebabkan penyakit, sebagian besar justru bermanfaat atau bahkan penting bagi kehidupan.",
+    "konten": "Bakteri adalah mikroorganisme bersel satu yang tergolong prokariotik, artinya materi genetiknya tidak tersimpan dalam inti sel yang terbungkus membran seperti pada sel eukariotik. Ukurannya sangat kecil, hanya bisa dilihat dengan mikroskop, namun jumlahnya di bumi sangat besar — diperkirakan ada lebih banyak sel bakteri di bumi dibanding jumlah bintang di alam semesta yang bisa diamati. Bakteri ditemukan hampir di mana saja: di tanah, air, udara, di permukaan dan di dalam tubuh makhluk hidup lain, bahkan di lingkungan ekstrem seperti sumber air panas, dasar laut dalam, atau lapisan es di kutub.\n\nMeski bakteri sering diasosiasikan dengan penyakit, sebenarnya hanya sebagian kecil jenis bakteri yang bersifat patogen atau bisa menyebabkan penyakit pada manusia, hewan, atau tumbuhan. Sebagian besar bakteri lain justru bermanfaat, bahkan penting bagi kehidupan. Di dalam usus manusia misalnya, hidup triliunan bakteri baik yang membantu proses pencernaan makanan, memproduksi beberapa jenis vitamin, dan menjaga sistem imun tubuh tetap sehat. Di alam, bakteri juga berperan penting sebagai pengurai, memecah bahan organik dari makhluk hidup yang mati menjadi zat-zat sederhana yang bisa dipakai kembali oleh tumbuhan, menjaga siklus nutrisi di ekosistem tetap berjalan.\n\nManusia juga sudah lama memanfaatkan bakteri untuk berbagai keperluan praktis, bahkan sebelum memahami keberadaannya secara ilmiah. Pembuatan yoghurt dan keju misalnya, memanfaatkan bakteri tertentu untuk memfermentasi susu, sementara pembuatan tempe dan kecap di Indonesia juga melibatkan proses fermentasi oleh mikroorganisme termasuk bakteri. Di bidang kedokteran modern, bakteri juga dimanfaatkan dalam produksi antibiotik dan berbagai obat, sementara di bidang bioteknologi, bakteri yang dimodifikasi secara genetik dipakai untuk memproduksi insulin bagi penderita diabetes dan berbagai produk farmasi penting lainnya.",
+    "tags": ["bakteri", "mikroorganisme", "prokariotik", "fermentasi", "bakteri-baik", "pengurai"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-14"
+  },
+  {
+    "id": "sains.biologi.virus",
+    "judul": "Virus",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Virus adalah partikel sangat kecil yang menempati posisi ambigu antara benda hidup dan tak hidup, karena hanya bisa bereproduksi dengan menginfeksi sel makhluk hidup lain dan mengambil alih mesin selnya untuk menggandakan diri.",
+    "konten": "Virus adalah partikel berukuran sangat kecil, bahkan jauh lebih kecil dari bakteri, sehingga hanya bisa diamati dengan mikroskop elektron yang jauh lebih canggih dari mikroskop biasa. Struktur virus sangat sederhana, umumnya hanya terdiri dari materi genetik (bisa berupa DNA atau RNA) yang dibungkus lapisan pelindung protein. Berbeda dari bakteri yang merupakan sel utuh dan bisa dianggap sebagai makhluk hidup, virus menempati posisi yang ambigu dalam definisi kehidupan — virus tidak punya struktur sel, tidak bisa melakukan metabolisme sendiri, dan yang paling penting, tidak bisa bereproduksi sendiri tanpa menumpang pada sel makhluk hidup lain.\n\nCara virus 'berkembang biak' sangat berbeda dari makhluk hidup pada umumnya. Virus harus menginfeksi sel inang terlebih dahulu, menyuntikkan materi genetiknya ke dalam sel tersebut, lalu pada dasarnya 'membajak' mesin dan sumber daya sel inang untuk memproduksi salinan-salinan virus baru, sampai akhirnya sel inang itu pecah dan melepaskan ribuan virus baru yang siap menginfeksi sel-sel lain. Proses inilah yang membuat virus bisa sangat merusak dan menyebabkan berbagai penyakit, karena sel-sel tubuh yang terinfeksi pada akhirnya rusak atau hancur dalam prosesnya.\n\nKarena virus hanya bisa bereproduksi di dalam sel inang hidup, inilah sebabnya antibiotik, yang dirancang untuk membunuh bakteri lewat mekanisme yang menargetkan struktur sel bakteri, tidak efektif melawan infeksi virus — virus tidak punya struktur sel yang bisa diserang dengan cara yang sama. Untuk melawan virus, tubuh manusia mengandalkan sistem kekebalan tubuh (imun), dan ilmuwan mengembangkan vaksin yang bekerja dengan 'melatih' sistem imun mengenali virus tertentu sebelum infeksi sesungguhnya terjadi, sehingga tubuh bisa merespons jauh lebih cepat dan efektif kalau suatu saat benar-benar terpapar virus tersebut.",
+    "tags": ["virus", "infeksi", "dna", "rna", "vaksin", "sistem-imun"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-14"
+  },
+  {
+    "id": "sains.biologi.jamur-mikroskopis-makroskopis",
+    "judul": "Jamur: dari Mikroskopis sampai Makroskopis",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Jamur adalah kelompok organisme tersendiri yang terpisah dari tumbuhan maupun hewan, mencakup bentuk mikroskopis seperti ragi dan kapang sampai bentuk makroskopis seperti jamur payung, dan berperan penting sebagai pengurai di alam.",
+    "konten": "Jamur sering disangka tumbuhan karena sama-sama tidak bergerak aktif dan sebagian tumbuh di tanah, tapi sebenarnya jamur dikelompokkan dalam kingdom tersendiri yang terpisah, baik dari tumbuhan maupun hewan. Perbedaan paling mendasar adalah cara memperoleh makanan: tumbuhan membuat makanannya sendiri lewat fotosintesis, sementara jamur tidak bisa melakukan itu — jamur memperoleh nutrisi dengan menyerap zat organik dari lingkungan sekitarnya, baik dari sisa makhluk hidup yang membusuk, dari makhluk hidup lain yang ditumpangi, maupun dari bahan organik lain di sekitarnya.\n\nJamur punya rentang ukuran dan bentuk yang sangat beragam. Pada skala mikroskopis, ada ragi (yeast), organisme bersel satu yang penting dalam proses fermentasi, dipakai misalnya untuk membuat roti mengembang dan mengubah gula jadi alkohol dalam pembuatan minuman fermentasi. Ada juga kapang (mold), jamur yang tumbuh dalam bentuk benang-benang halus dan sering muncul sebagai lapisan berbulu pada makanan yang sudah basi atau membusuk. Pada skala makroskopis atau yang bisa dilihat jelas dengan mata telanjang, ada jamur payung yang biasa kita lihat tumbuh di tanah lembap atau batang kayu lapuk — bagian yang terlihat ini sebenarnya hanya 'buah' dari jamur, sementara bagian utama tubuh jamur berupa jaringan benang-benang halus yang disebut miselium, biasanya tersembunyi di dalam tanah atau media tempatnya tumbuh.\n\nDi alam, jamur berperan sangat penting sebagai pengurai, bersama bakteri, memecah bahan organik dari tumbuhan dan hewan yang mati menjadi zat-zat sederhana yang bisa diserap kembali oleh tumbuhan, menjaga siklus nutrisi ekosistem tetap berjalan. Tanpa jamur dan pengurai lainnya, sisa-sisa makhluk hidup yang mati akan menumpuk tanpa terurai dan nutrisi di dalamnya tidak akan pernah kembali ke dalam siklus kehidupan. Selain perannya di alam, manusia juga memanfaatkan jamur untuk berbagai keperluan, mulai dari bahan makanan (jamur tiram, jamur kancing), fermentasi makanan dan minuman, sampai produksi obat-obatan penting seperti penisilin, antibiotik pertama yang ditemukan dari jamur Penicillium.",
+    "tags": ["jamur", "fungi", "ragi", "kapang", "miselium", "pengurai", "penisilin"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-14"
+  }
+]

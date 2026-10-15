@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sains.biologi.sistem-pencernaan-manusia",
+    "judul": "Sistem Pencernaan Manusia",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Sistem pencernaan adalah rangkaian organ yang bertugas memecah makanan menjadi zat-zat yang bisa diserap tubuh, dimulai dari mulut, berlanjut ke lambung dan usus, lalu zat sisa yang tidak terpakai dikeluarkan lewat proses pembuangan.",
+    "konten": "Sistem pencernaan bertugas mengubah makanan yang kita makan menjadi zat-zat gizi berukuran kecil yang bisa diserap tubuh dan dipakai sebagai sumber energi atau bahan pembangun sel. Proses ini dimulai sejak makanan masuk ke mulut, di mana gigi mengunyah makanan jadi potongan lebih kecil sementara air liur mulai mencerna sebagian karbohidrat dan membuat makanan lebih mudah ditelan. Makanan yang sudah dikunyah kemudian meluncur lewat kerongkongan menuju lambung lewat gerakan otomatis otot yang disebut peristaltik, gerakan meremas bergelombang yang mendorong makanan maju meski tubuh dalam posisi berdiri atau bahkan terbalik.\n\nDi dalam lambung, makanan dicampur dengan asam lambung dan enzim pencernaan yang mulai memecah protein, mengubah makanan padat jadi bubur kental yang disebut kim. Setelah beberapa jam di lambung, kim ini bergerak masuk ke usus halus, bagian paling panjang dari sistem pencernaan, di mana sebagian besar proses pencernaan dan penyerapan nutrisi sesungguhnya terjadi. Dinding usus halus dilapisi tonjolan-tonjolan kecil seperti rambut yang disebut vili, yang memperluas permukaan penyerapan sehingga nutrisi bisa diserap masuk ke pembuluh darah secara maksimal. Hati dan pankreas, meski bukan bagian langsung dari saluran pencernaan, ikut berperan penting di tahap ini — hati memproduksi empedu untuk membantu mencerna lemak, sementara pankreas memproduksi berbagai enzim pencernaan penting.\n\nSisa makanan yang tidak terserap, terutama serat yang tidak bisa dicerna tubuh, bergerak lanjut ke usus besar. Di sini, air dan beberapa mineral diserap kembali ke tubuh, sementara sisa makanan yang sudah padat kemudian disimpan sementara sebelum akhirnya dikeluarkan dari tubuh lewat proses pembuangan. Usus besar juga menjadi rumah bagi triliunan bakteri baik yang membantu mencerna sebagian serat yang tidak bisa dicerna tubuh sendiri, sekaligus memproduksi beberapa jenis vitamin penting yang kemudian ikut diserap tubuh.",
+    "tags": ["sistem-pencernaan", "lambung", "usus-halus", "usus-besar", "peristaltik", "enzim-pencernaan"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-14"
+  },
+  {
+    "id": "sains.biologi.sistem-peredaran-darah",
+    "judul": "Sistem Peredaran Darah",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Sistem peredaran darah terdiri dari jantung sebagai pompa, pembuluh darah sebagai jalur, dan darah sebagai pengangkut, bertugas mengedarkan oksigen, nutrisi, dan zat penting lain ke seluruh tubuh sekaligus mengangkut zat sisa untuk dibuang.",
+    "konten": "Sistem peredaran darah bertugas mengedarkan berbagai zat penting ke seluruh bagian tubuh, terutama oksigen dan nutrisi yang dibutuhkan sel untuk menjalankan fungsinya, sekaligus mengangkut zat sisa metabolisme seperti karbon dioksida untuk dibuang keluar tubuh. Sistem ini tersusun dari tiga komponen utama: jantung yang bertindak sebagai pompa, pembuluh darah yang menjadi jalur aliran, dan darah itu sendiri sebagai medium pengangkut. Jantung manusia berukuran kira-kira sebesar kepalan tangan pemiliknya, terletak di rongga dada, dan tersusun dari otot khusus yang bisa berkontraksi secara ritmis dan otomatis sepanjang hidup, berdetak sekitar 60 sampai 100 kali per menit pada orang dewasa dalam keadaan istirahat.\n\nJantung manusia terbagi menjadi empat ruang: dua serambi (atrium) di bagian atas dan dua bilik (ventrikel) di bagian bawah, masing-masing terbagi lagi jadi sisi kiri dan kanan yang bekerja untuk dua jalur peredaran berbeda. Sisi kanan jantung memompa darah yang kekurangan oksigen menuju paru-paru untuk mengambil oksigen segar dan melepaskan karbon dioksida, jalur ini disebut peredaran darah kecil atau pulmonal. Sisi kiri jantung kemudian memompa darah yang sudah kaya oksigen dari paru-paru ke seluruh tubuh, jalur ini disebut peredaran darah besar atau sistemik. Kedua jalur ini bekerja bersamaan dan terus-menerus, menjadikan darah seperti kurir yang tak pernah berhenti mengantar pasokan oksigen ke seluruh penjuru tubuh.\n\nPembuluh darah sendiri terbagi jadi tiga jenis utama: arteri yang membawa darah menjauhi jantung (umumnya kaya oksigen, kecuali arteri pulmonal), vena yang membawa darah kembali ke jantung (umumnya kekurangan oksigen, kecuali vena pulmonal), dan kapiler, pembuluh darah paling kecil dan tipis yang menjadi tempat sesungguhnya pertukaran oksigen, nutrisi, dan zat sisa antara darah dengan sel-sel tubuh. Darah sendiri terdiri dari plasma (cairan) dan berbagai jenis sel darah, termasuk sel darah merah yang mengangkut oksigen, sel darah putih yang berperan dalam sistem kekebalan tubuh melawan infeksi, dan keping darah yang berperan penting dalam proses pembekuan darah saat terjadi luka.",
+    "tags": ["sistem-peredaran-darah", "jantung", "pembuluh-darah", "sel-darah-merah", "sel-darah-putih", "peredaran-darah-besar"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-14"
+  }
+]

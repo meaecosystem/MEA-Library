@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sains.biologi.dna-gen-kromosom",
+    "judul": "DNA, Gen, dan Kromosom",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "DNA adalah molekul pembawa informasi genetik berbentuk heliks ganda, gen adalah potongan DNA yang membawa instruksi untuk satu sifat tertentu, dan kromosom adalah bentuk DNA yang dipadatkan dan terorganisir rapi di dalam inti sel.",
+    "konten": "DNA (deoxyribonucleic acid atau asam deoksiribonukleat) adalah molekul yang menyimpan seluruh instruksi untuk membangun dan menjalankan tubuh suatu makhluk hidup, mulai dari warna mata sampai cara sel bekerja. Secara struktur, DNA berbentuk seperti tangga spiral yang disebut heliks ganda — dua untai panjang yang saling melilit, dihubungkan oleh pasangan-pasangan basa nitrogen yang berperan seperti anak tangga. Ada empat jenis basa nitrogen: adenin (A), timin (T), guanin (G), dan sitosin (C), yang selalu berpasangan dengan pola tetap — A dengan T, G dengan C. Urutan panjang dari keempat basa inilah yang sebenarnya menyimpan seluruh 'kode' kehidupan, mirip seperti urutan huruf yang membentuk kata dan kalimat.\n\nGen adalah segmen atau potongan tertentu dari untaian DNA yang membawa instruksi untuk satu sifat atau fungsi spesifik, misalnya gen yang menentukan warna mata, gen yang menentukan golongan darah, atau gen yang mengatur produksi suatu enzim. Manusia diperkirakan punya sekitar 20.000-25.000 gen yang tersebar di seluruh DNA-nya. Tidak semua bagian DNA adalah gen yang aktif memberi instruksi — ada juga bagian-bagian yang fungsinya belum sepenuhnya dipahami, dulu sering disebut 'DNA sampah' meski penelitian belakangan menunjukkan sebagian dari bagian ini ternyata punya peran pengaturan tertentu.\n\nKromosom adalah bentuk DNA yang digulung dan dipadatkan sangat rapat sehingga bisa muat di dalam inti sel yang sangat kecil — kalau DNA dalam satu sel manusia direntangkan lurus, panjangnya bisa mencapai sekitar dua meter, padahal harus muat dalam inti sel yang ukurannya hanya beberapa mikrometer. Manusia punya 46 kromosom yang tersusun dalam 23 pasang, separuh diwariskan dari ibu dan separuh dari ayah. Satu pasang di antaranya adalah kromosom kelamin yang menentukan jenis kelamin — kombinasi XX untuk perempuan dan XY untuk laki-laki.",
+    "tags": ["dna", "gen", "kromosom", "heliks-ganda", "basa-nitrogen", "genetika"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-14"
+  },
+  {
+    "id": "sains.biologi.hukum-mendel-pewarisan-sifat",
+    "judul": "Hukum Mendel dan Pewarisan Sifat",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Penelitian dilakukan sekitar 1856-1863, dipublikasikan 1866"
+    },
+    "ringkasan": "Gregor Mendel, lewat eksperimen menyilangkan tanaman kacang ercis, menemukan pola dasar bagaimana sifat diwariskan dari induk ke keturunan lewat unit-unit (kini disebut gen) yang diturunkan secara terpisah dan bisa bersifat dominan atau resesif.",
+    "konten": "Gregor Mendel adalah seorang biarawan sekaligus ilmuwan asal Austria yang pada pertengahan abad ke-19 melakukan eksperimen bertahun-tahun dengan menyilangkan tanaman kacang ercis di kebun biara tempat ia tinggal. Ia memilih kacang ercis karena punya sifat-sifat yang jelas dan mudah diamati, seperti warna bunga (ungu atau putih), bentuk biji (bulat atau keriput), dan tinggi tanaman (tinggi atau pendek), serta bisa diserbuki secara terkontrol. Lewat ribuan percobaan penyilangan yang dicatat dengan sangat teliti, Mendel menemukan pola-pola pewarisan sifat yang kemudian dikenal sebagai Hukum Mendel, meski hasil kerjanya baru benar-benar dihargai dunia ilmiah puluhan tahun setelah ia meninggal.\n\nTemuan penting pertama Mendel adalah bahwa setiap sifat diwariskan lewat sepasang 'faktor' (yang sekarang kita sebut gen) — satu dari induk jantan, satu dari induk betina. Ketika dua faktor yang berbeda bertemu, salah satunya bisa bersifat dominan, yaitu sifat yang akan tampak atau terekspresikan, sementara yang satunya resesif, yaitu sifat yang tertutupi dan tidak tampak kecuali kedua faktor yang diwariskan sama-sama resesif. Inilah sebabnya dua orang tua yang sama-sama bermata cokelat (sifat dominan) tetap bisa punya anak bermata biru (sifat resesif), kalau keduanya sama-sama membawa faktor resesif tersembunyi di balik sifat dominan yang tampak.\n\nMendel juga menemukan bahwa pasangan faktor untuk sifat yang berbeda (misalnya warna bunga dan bentuk biji) diwariskan secara independen satu sama lain, tidak saling memengaruhi — dikenal sebagai Hukum Pemilahan Bebas. Meski aturan ini berlaku rapi untuk sifat-sifat sederhana seperti pada kacang ercis, penelitian genetika modern menunjukkan banyak sifat pada makhluk hidup, termasuk manusia, sebenarnya dipengaruhi oleh kombinasi banyak gen sekaligus dan juga faktor lingkungan, sehingga polanya jauh lebih rumit dari sekadar dominan-resesif. Meski begitu, prinsip dasar yang ditemukan Mendel tetap jadi fondasi penting ilmu genetika modern hingga sekarang.",
+    "tags": ["gregor-mendel", "hukum-mendel", "pewarisan-sifat", "dominan", "resesif", "kacang-ercis"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-14"
+  },
+  {
+    "id": "sains.biologi.mutasi-genetik",
+    "judul": "Mutasi Genetik",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Mutasi adalah perubahan pada urutan DNA yang bisa terjadi secara alami atau dipicu faktor luar, bisa bersifat netral, merugikan, atau menguntungkan, dan menjadi salah satu sumber utama keragaman genetik yang mendorong evolusi.",
+    "konten": "Mutasi adalah perubahan yang terjadi pada urutan DNA suatu makhluk hidup, bisa berupa perubahan satu huruf kode genetik saja, atau perubahan yang lebih besar seperti hilangnya, bertambahnya, atau tertukarnya potongan DNA. Mutasi bisa terjadi secara alami, misalnya akibat kesalahan kecil saat sel menyalin DNA-nya sendiri sebelum membelah diri — proses ini memang sudah dilengkapi mekanisme 'koreksi' bawaan, tapi tidak selalu sempurna. Mutasi juga bisa dipicu faktor dari luar yang disebut mutagen, seperti radiasi ultraviolet dari matahari, radiasi nuklir, atau paparan zat kimia tertentu yang bisa merusak struktur DNA.\n\nTidak semua mutasi berdampak buruk. Sebagian besar mutasi sebenarnya bersifat netral, artinya tidak memberi pengaruh yang berarti pada makhluk hidup tersebut, misalnya karena terjadi di bagian DNA yang tidak aktif memberi instruksi, atau karena perubahannya tidak mengubah fungsi protein yang dihasilkan. Sebagian mutasi lain bisa bersifat merugikan, misalnya memicu penyakit genetik tertentu atau mengganggu fungsi tubuh normal — banyak jenis kanker misalnya, bermula dari mutasi yang membuat sel kehilangan kendali atas pembelahan dirinya sendiri.\n\nNamun ada juga mutasi yang justru menguntungkan, memberi sifat baru yang membantu makhluk hidup bertahan atau berkembang lebih baik di lingkungannya. Mutasi jenis inilah yang jadi salah satu bahan baku utama proses evolusi — tanpa variasi genetik baru yang muncul dari mutasi, seleksi alam tidak akan punya 'bahan' untuk memilih sifat mana yang lebih unggul untuk diwariskan ke generasi berikutnya. Contoh nyata di dunia nyata adalah bakteri yang bermutasi sehingga jadi kebal terhadap antibiotik tertentu, yang kemudian bisa bertahan hidup dan berkembang biak lebih banyak dibanding bakteri yang tidak bermutasi, menjelaskan mengapa resistensi antibiotik jadi masalah kesehatan yang terus berkembang.",
+    "tags": ["mutasi", "mutagen", "dna", "resistensi-antibiotik", "variasi-genetik", "evolusi"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-14"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sains.biologi.fotosintesis",
+    "judul": "Fotosintesis pada Tumbuhan",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Fotosintesis adalah proses yang dilakukan tumbuhan untuk mengubah cahaya matahari, air, dan karbon dioksida menjadi makanan (glukosa) dan oksigen, berlangsung di dalam kloroplas dengan bantuan zat hijau daun bernama klorofil.",
+    "konten": "Fotosintesis adalah proses yang memungkinkan tumbuhan membuat makanannya sendiri menggunakan energi dari cahaya matahari, dan merupakan salah satu proses paling penting di bumi karena menjadi sumber energi utama bagi hampir semua kehidupan, baik secara langsung (bagi tumbuhan dan hewan pemakan tumbuhan) maupun tidak langsung (bagi hewan karnivora yang memakan hewan herbivora). Secara sederhana, fotosintesis mengubah dua bahan baku, yaitu air yang diserap akar dari tanah dan karbon dioksida yang diserap daun dari udara, menjadi glukosa (gula sederhana sebagai sumber energi) dan oksigen sebagai hasil sampingan yang dilepaskan ke udara.\n\nProses ini berlangsung di dalam organel khusus bernama kloroplas, yang banyak ditemukan pada sel-sel daun. Di dalam kloroplas terdapat zat hijau bernama klorofil, yang bertugas menangkap energi cahaya matahari — inilah sebabnya daun pada umumnya berwarna hijau, dan tumbuhan cenderung tumbuh mengarah ke sumber cahaya untuk memaksimalkan penangkapan energi matahari ini. Fotosintesis sendiri sebenarnya terdiri dari dua tahap utama: tahap reaksi terang, yang berlangsung ketika ada cahaya dan menghasilkan energi kimia sementara serta oksigen, dan tahap reaksi gelap (disebut juga siklus Calvin), yang menggunakan energi dari tahap sebelumnya untuk mengubah karbon dioksida jadi glukosa, dan sebenarnya bisa berlangsung baik ada cahaya maupun tidak, asalkan energi dari tahap reaksi terang masih tersedia.\n\nOksigen yang dihasilkan sebagai produk sampingan fotosintesis inilah yang menjaga kadar oksigen di atmosfer bumi tetap cukup untuk bernapas bagi sebagian besar makhluk hidup, termasuk manusia. Glukosa yang dihasilkan juga tidak hanya dipakai tumbuhan untuk kebutuhan energinya sendiri, tapi sebagian disimpan dalam bentuk pati di berbagai bagian tumbuhan seperti umbi, buah, dan biji — inilah sebabnya banyak bagian tumbuhan seperti nasi (dari padi), kentang, dan buah-buahan jadi sumber karbohidrat penting bagi manusia dan hewan lain yang memakannya.",
+    "tags": ["fotosintesis", "klorofil", "kloroplas", "glukosa", "oksigen", "siklus-calvin"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-14"
+  },
+  {
+    "id": "sains.biologi.respirasi-seluler",
+    "judul": "Respirasi Seluler",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Respirasi seluler adalah proses yang dilakukan hampir semua makhluk hidup untuk mengubah glukosa dan oksigen menjadi energi yang bisa langsung dipakai sel, berlangsung di dalam mitokondria dan menghasilkan karbon dioksida serta air sebagai produk sampingan.",
+    "konten": "Berbeda dari fotosintesis yang hanya dilakukan tumbuhan dan sebagian mikroorganisme, respirasi seluler adalah proses yang dilakukan hampir semua makhluk hidup, termasuk tumbuhan itu sendiri, untuk mengubah energi kimia yang tersimpan dalam makanan (glukosa) menjadi bentuk energi yang bisa langsung dipakai sel untuk menjalankan berbagai aktivitasnya, mulai dari bergerak, tumbuh, sampai memperbaiki sel yang rusak. Proses ini pada dasarnya adalah kebalikan dari fotosintesis — kalau fotosintesis menggunakan karbon dioksida dan air untuk menghasilkan glukosa dan oksigen, respirasi seluler menggunakan glukosa dan oksigen untuk menghasilkan energi, karbon dioksida, dan air.\n\nRespirasi seluler berlangsung di dalam organel bernama mitokondria, yang karena fungsinya ini sering dijuluki 'pembangkit listrik' sel. Prosesnya terjadi lewat beberapa tahap yang berurutan — dimulai dari pemecahan awal molekul glukosa di luar mitokondria, berlanjut ke serangkaian reaksi di dalam mitokondria yang menghasilkan energi dalam jumlah lebih besar. Energi yang dihasilkan disimpan dalam bentuk molekul bernama ATP (adenosin trifosfat), yang berfungsi seperti 'baterai' kecil yang bisa dibawa dan dipakai sel kapan pun dibutuhkan untuk menjalankan berbagai proses kehidupan.\n\nOksigen yang kita hirup lewat bernapas sebenarnya dibutuhkan tubuh justru untuk menjalankan respirasi seluler ini di tingkat sel — inilah kenapa istilah 'bernapas' pada tingkat seluruh tubuh (menghirup oksigen, mengembuskan karbon dioksida) dan 'respirasi seluler' pada tingkat sel, meski berbeda skala, sebenarnya saling berkaitan erat. Karbon dioksida yang dihasilkan sebagai produk sampingan respirasi seluler di dalam sel-sel tubuh inilah yang kemudian dibawa darah ke paru-paru untuk dikeluarkan lewat embusan napas. Siklus ini saling melengkapi dengan fotosintesis tumbuhan — oksigen yang dihasilkan tumbuhan lewat fotosintesis dipakai hewan dan manusia untuk respirasi, sementara karbon dioksida yang dihasilkan dari respirasi dipakai kembali tumbuhan untuk fotosintesis, menjaga keseimbangan gas di atmosfer bumi.",
+    "tags": ["respirasi-seluler", "mitokondria", "atp", "karbon-dioksida", "fotosintesis"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-14"
+  }
+]

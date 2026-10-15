@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sains.biologi.sistem-klasifikasi-taksonomi",
+    "judul": "Sistem Klasifikasi dan Taksonomi",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Sistem tata nama binomial diperkenalkan Carl Linnaeus pada abad ke-18, terus dikembangkan hingga kini"
+    },
+    "ringkasan": "Taksonomi adalah ilmu pengelompokan makhluk hidup berdasarkan kemiripan ciri, disusun dalam tingkatan berjenjang dari yang paling luas sampai paling spesifik, dan setiap spesies diberi nama ilmiah dua kata menurut sistem binomial yang diperkenalkan Carl Linnaeus.",
+    "konten": "Dengan jutaan spesies makhluk hidup yang pernah ditemukan di bumi, ilmuwan butuh cara sistematis untuk mengelompokkan dan menamainya supaya mudah dipelajari dan dikomunikasikan. Ilmu yang mempelajari pengelompokan ini disebut taksonomi, dan dasarnya adalah mengelompokkan makhluk hidup berdasarkan kemiripan ciri-ciri fisik, cara hidup, dan belakangan juga kemiripan genetik. Tingkatan klasifikasi disusun berjenjang dari yang paling luas sampai paling sempit: kingdom (kerajaan), filum, kelas, ordo, famili, genus, dan spesies. Semakin ke bawah tingkatannya, semakin spesifik dan semakin mirip pula anggota di dalamnya.\n\nSistem penamaan ilmiah modern diperkenalkan oleh Carl Linnaeus, ilmuwan asal Swedia, pada abad ke-18. Ia mengusulkan sistem tata nama binomial, yaitu setiap spesies diberi nama ilmiah yang terdiri dari dua kata dalam bahasa Latin — kata pertama menunjukkan genus (huruf besar di awal), kata kedua menunjukkan spesies spesifiknya (huruf kecil semua), dan biasanya ditulis miring. Manusia misalnya, punya nama ilmiah Homo sapiens, dengan Homo sebagai genus dan sapiens sebagai penanda spesies. Sistem ini sangat berguna karena nama ilmiah berlaku sama di seluruh dunia, tidak peduli perbedaan bahasa lokal yang bisa membuat satu makhluk hidup punya banyak nama berbeda di tempat berbeda.\n\nSeiring perkembangan ilmu genetika, cara mengelompokkan makhluk hidup juga terus berkembang. Dulu klasifikasi hanya mengandalkan kemiripan ciri fisik yang tampak, tapi sekarang ilmuwan bisa membandingkan langsung urutan DNA berbagai spesies untuk menentukan seberapa dekat kekerabatan mereka sebenarnya, yang kadang menghasilkan pengelompokan berbeda dari yang disangka sebelumnya hanya berdasarkan penampilan luar. Misalnya, berdasarkan DNA, ditemukan bahwa paus lebih dekat kekerabatannya dengan hewan berkuku genap seperti sapi dan rusa dibanding dengan ikan, meski secara penampilan paus sangat mirip ikan karena hidup di air.",
+    "tags": ["taksonomi", "carl-linnaeus", "tata-nama-binomial", "klasifikasi", "spesies", "kingdom"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-14"
+  },
+  {
+    "id": "sains.biologi.lima-kingdom-makhluk-hidup",
+    "judul": "Lima Kingdom Makhluk Hidup",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Makhluk hidup secara umum dikelompokkan ke dalam lima kingdom besar: monera (bakteri), protista, fungi (jamur), plantae (tumbuhan), dan animalia (hewan), masing-masing dengan ciri struktur sel dan cara memperoleh makanan yang berbeda.",
+    "konten": "Salah satu cara pengelompokan makhluk hidup yang paling umum diajarkan adalah sistem lima kingdom. Kingdom pertama adalah monera, mencakup semua organisme bersel satu yang selnya tidak punya inti sel terbungkus membran (prokariotik), seperti bakteri. Monera adalah bentuk kehidupan paling sederhana sekaligus paling beragam, ditemukan hampir di semua tempat di bumi, dari tanah, air, udara, sampai di dalam tubuh makhluk hidup lain, dan beberapa di antaranya bisa hidup di lingkungan ekstrem seperti sumber air panas atau dasar laut yang sangat dalam.\n\nKingdom protista mencakup organisme bersel satu atau sederhana yang selnya sudah punya inti sel terbungkus membran (eukariotik), tapi tidak cukup mirip tumbuhan, hewan, atau jamur untuk dikelompokkan ke tiga kingdom lainnya — bisa dibilang kingdom ini jadi 'tempat penampungan' bagi organisme yang tidak cocok dikategorikan di tempat lain. Contohnya termasuk amoeba, paramecium, dan berbagai jenis ganggang. Kingdom fungi mencakup jamur, yang meski kadang disangka tumbuhan karena tidak bergerak, sebenarnya cara hidupnya berbeda jauh — jamur tidak melakukan fotosintesis seperti tumbuhan, melainkan menyerap nutrisi dari bahan organik di sekitarnya, baik dari sisa makhluk hidup yang membusuk maupun dengan menumpang pada makhluk hidup lain.\n\nKingdom plantae mencakup semua tumbuhan, dari lumut kecil sampai pohon raksasa, dengan ciri khas bisa melakukan fotosintesis untuk membuat makanannya sendiri menggunakan cahaya matahari. Kingdom animalia mencakup semua hewan, dari yang paling sederhana seperti ubur-ubur sampai yang paling kompleks seperti manusia, dengan ciri khas tidak bisa membuat makanan sendiri (harus memakan makhluk hidup lain) dan umumnya bisa bergerak aktif. Perlu dicatat, sistem lima kingdom ini mulai dianggap kurang mencerminkan kekerabatan sebenarnya setelah penelitian genetika berkembang pesat, sehingga sebagian ilmuwan modern sekarang lebih sering memakai sistem tiga domain yang membagi kehidupan jadi Bacteria, Archaea, dan Eukarya berdasarkan perbedaan mendasar pada struktur sel dan materi genetiknya.",
+    "tags": ["lima-kingdom", "monera", "protista", "fungi", "plantae", "animalia", "tiga-domain"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-14"
+  }
+]

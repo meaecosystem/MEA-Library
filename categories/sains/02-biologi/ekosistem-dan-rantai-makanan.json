@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sains.biologi.ekosistem-komponen",
+    "judul": "Ekosistem dan Komponennya",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Ekosistem adalah hubungan timbal balik antara makhluk hidup (komponen biotik) dengan lingkungan tak hidup di sekitarnya (komponen abiotik), yang saling memengaruhi dan membentuk satu kesatuan yang seimbang.",
+    "konten": "Ekosistem adalah suatu wilayah di mana makhluk hidup dan lingkungan tak hidup di sekitarnya saling berinteraksi dan saling memengaruhi membentuk satu kesatuan yang seimbang. Ekosistem bisa berskala sangat kecil, seperti ekosistem di dalam satu kolam air atau bahkan di bawah satu batu, sampai berskala sangat besar seperti ekosistem hutan hujan tropis atau terumbu karang yang membentang ratusan kilometer. Setiap ekosistem tersusun dari dua kelompok komponen utama: komponen biotik dan komponen abiotik.\n\nKomponen biotik adalah semua makhluk hidup yang ada dalam ekosistem itu, mulai dari tumbuhan, hewan, jamur, sampai mikroorganisme seperti bakteri. Komponen abiotik adalah segala sesuatu yang tak hidup namun memengaruhi kehidupan di ekosistem tersebut, seperti air, udara, cahaya matahari, suhu, tanah, dan kandungan mineral. Kedua komponen ini saling terkait erat — komponen abiotik menentukan jenis makhluk hidup apa yang bisa bertahan di suatu ekosistem (misalnya tumbuhan kaktus cocok di gurun yang kering, bukan di hutan hujan yang lembap), sementara makhluk hidup juga bisa memengaruhi balik komponen abiotiknya, misalnya akar pohon yang membantu menahan tanah dari erosi, atau aktivitas fotosintesis tumbuhan yang memengaruhi kadar oksigen di udara.\n\nKeseimbangan ekosistem terjaga lewat berbagai hubungan saling ketergantungan antar makhluk hidup di dalamnya, baik hubungan makan-dimakan, persaingan memperebutkan sumber daya yang sama, maupun hubungan saling menguntungkan antar spesies berbeda. Gangguan pada satu bagian ekosistem, seperti hilangnya satu spesies tertentu akibat perburuan berlebihan atau rusaknya habitat, bisa menimbulkan efek berantai yang memengaruhi banyak makhluk hidup lain dalam ekosistem itu, bahkan kadang sampai mengubah keseluruhan karakter ekosistem tersebut dalam jangka panjang.",
+    "tags": ["ekosistem", "komponen-biotik", "komponen-abiotik", "keseimbangan-ekosistem"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-14"
+  },
+  {
+    "id": "sains.biologi.rantai-makanan-jaring-jaring",
+    "judul": "Rantai Makanan dan Jaring-Jaring Makanan",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Rantai makanan menggambarkan aliran energi dari satu makhluk hidup ke makhluk hidup lain lewat hubungan makan-dimakan, dimulai dari produsen (tumbuhan), berlanjut ke konsumen, dan berakhir di pengurai, dan di alam nyata rantai-rantai ini saling terhubung membentuk jaring-jaring makanan yang kompleks.",
+    "konten": "Rantai makanan adalah gambaran sederhana tentang bagaimana energi mengalir dari satu makhluk hidup ke makhluk hidup lain lewat hubungan makan dan dimakan. Rantai ini selalu dimulai dari produsen, yaitu organisme yang bisa membuat makanannya sendiri lewat fotosintesis, umumnya tumbuhan hijau dan sebagian jenis bakteri atau ganggang. Produsen inilah yang menangkap energi matahari dan mengubahnya jadi energi kimia dalam bentuk makanan, menjadi titik awal masuknya energi ke dalam seluruh rantai makanan.\n\nSetelah produsen, energi mengalir ke konsumen, yaitu makhluk hidup yang memperoleh makanan dengan memakan makhluk hidup lain. Konsumen tingkat pertama adalah hewan pemakan tumbuhan (herbivora), seperti kelinci yang memakan rumput. Konsumen tingkat kedua adalah hewan yang memakan herbivora, biasanya karnivora kecil seperti ular yang memakan kelinci. Konsumen tingkat selanjutnya bisa berlanjut ke karnivora yang lebih besar, seperti elang yang memakan ular, membentuk rantai yang makin tinggi tingkatannya. Di setiap perpindahan dari satu tingkat ke tingkat berikutnya, sebagian besar energi hilang dalam bentuk panas akibat aktivitas metabolisme, sehingga hanya sekitar sepuluh persen energi saja yang benar-benar berpindah ke tingkat berikutnya — inilah sebabnya rantai makanan jarang punya lebih dari empat atau lima tingkat, karena energi yang tersisa di tingkat atas sudah terlalu sedikit untuk menopang populasi besar.\n\nDi alam nyata, satu makhluk hidup jarang hanya bergantung pada satu jenis makanan atau hanya dimakan oleh satu jenis predator saja. Seekor kelinci misalnya, bisa dimakan rubah, elang, atau ular sekaligus, dan rubah sendiri juga bisa memakan hewan lain selain kelinci. Karena hubungan makan-dimakan yang saling tumpang tindih inilah, gambaran yang lebih akurat tentang aliran energi di suatu ekosistem bukan rantai makanan tunggal, melainkan jaring-jaring makanan — kumpulan banyak rantai makanan yang saling terhubung dan membentuk jaringan yang jauh lebih kompleks dan lebih realistis menggambarkan keadaan sesungguhnya di alam.",
+    "tags": ["rantai-makanan", "jaring-jaring-makanan", "produsen", "konsumen", "aliran-energi", "herbivora", "karnivora"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-14"
+  },
+  {
+    "id": "sains.biologi.simbiosis-interaksi-antarspesies",
+    "judul": "Simbiosis dan Interaksi Antarspesies",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Simbiosis adalah hubungan erat jangka panjang antara dua spesies berbeda yang hidup berdampingan, dibedakan menjadi mutualisme (saling untung), komensalisme (satu untung, satu tidak terpengaruh), dan parasitisme (satu untung, satu dirugikan).",
+    "konten": "Simbiosis adalah istilah yang menggambarkan hubungan erat dan jangka panjang antara dua spesies berbeda yang hidup berdampingan dalam ekosistem yang sama. Jenis simbiosis yang paling menguntungkan bagi kedua pihak disebut mutualisme, di mana kedua spesies yang terlibat sama-sama mendapat manfaat dari hubungan tersebut. Contoh klasik mutualisme adalah hubungan antara lebah dan bunga — lebah mendapat nektar sebagai makanan, sementara bunga terbantu proses penyerbukannya karena serbuk sari menempel dan terbawa lebah ke bunga lain. Contoh lain adalah burung jalak yang hinggap di punggung kerbau, memakan kutu dan parasit yang menempel di kulit kerbau — burung mendapat makanan, kerbau terbebas dari gangguan parasit.\n\nJenis simbiosis kedua adalah komensalisme, di mana satu spesies mendapat manfaat sementara spesies lainnya tidak dirugikan maupun diuntungkan, pada dasarnya tidak terpengaruh sama sekali. Contohnya adalah ikan remora yang menempel di tubuh hiu, ikut berpindah tempat dan kadang memakan sisa makanan hiu, sementara keberadaan remora pada umumnya tidak memengaruhi hiu secara berarti. Contoh lain adalah tumbuhan anggrek yang tumbuh menempel di batang pohon besar, memanfaatkan posisi tinggi untuk mendapat lebih banyak cahaya matahari tanpa mengambil nutrisi dari pohon yang ditumpanginya.\n\nJenis simbiosis ketiga adalah parasitisme, di mana satu spesies (parasit) mendapat manfaat dengan merugikan spesies lainnya (inang). Contohnya cacing pita yang hidup di usus manusia atau hewan, mengambil nutrisi dari makanan yang dicerna inangnya sehingga inang bisa kekurangan gizi, atau kutu yang menghisap darah hewan inangnya. Parasit umumnya tidak langsung membunuh inangnya, karena kelangsungan hidup parasit sendiri bergantung pada inang yang tetap hidup cukup lama untuk terus memberi makan dan tempat tinggal bagi si parasit — meski begitu, infeksi parasit yang parah atau berkepanjangan tetap bisa melemahkan dan membahayakan inangnya secara serius.",
+    "tags": ["simbiosis", "mutualisme", "komensalisme", "parasitisme", "interaksi-antarspesies"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-14"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "id": "sains.biologi.teori-evolusi-darwin",
+    "judul": "Teori Evolusi Charles Darwin",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "mulai": "1859",
+      "label": "Dipublikasikan 1859 lewat buku On the Origin of Species"
+    },
+    "ringkasan": "Charles Darwin mengemukakan bahwa spesies makhluk hidup berubah secara bertahap sepanjang waktu lewat proses seleksi alam, di mana individu dengan sifat yang lebih cocok dengan lingkungannya cenderung bertahan hidup dan menurunkan sifat itu ke generasi berikutnya.",
+    "konten": "Charles Darwin adalah naturalis asal Inggris yang pada 1831 ikut dalam pelayaran panjang kapal HMS Beagle mengelilingi dunia selama hampir lima tahun, mengumpulkan dan mengamati berbagai spesies tumbuhan dan hewan di banyak tempat, termasuk yang paling terkenal adalah Kepulauan Galapagos. Di sana ia memperhatikan bahwa burung finch di pulau-pulau berbeda punya bentuk paruh yang berbeda-beda, tampaknya menyesuaikan dengan jenis makanan yang tersedia di masing-masing pulau. Pengamatan semacam ini, ditambah bertahun-tahun analisis dan perbandingan sesudahnya, akhirnya membawa Darwin pada kesimpulan besar: spesies tidak tetap selamanya, melainkan berubah secara bertahap dari waktu ke waktu.\n\nDarwin mempublikasikan gagasannya pada 1859 lewat buku 'On the Origin of Species', yang menjelaskan mekanisme di balik perubahan ini, yaitu seleksi alam. Intinya sederhana: dalam satu populasi makhluk hidup, selalu ada variasi sifat antar individu (sebagian besar lebih cepat, sebagian lebih kuat, sebagian punya warna tersamar lebih baik, dan seterusnya). Karena sumber daya seperti makanan dan tempat tinggal terbatas, individu dengan sifat yang lebih cocok dengan kondisi lingkungannya punya peluang lebih besar untuk bertahan hidup dan bereproduksi, sehingga sifat menguntungkan itu lebih sering diwariskan ke generasi berikutnya dibanding sifat yang kurang menguntungkan. Proses ini, kalau berlangsung terus-menerus selama ribuan bahkan jutaan tahun, bisa membuat suatu populasi berubah sangat jauh dari bentuk asalnya, bahkan bisa memunculkan spesies baru sama sekali.\n\nGagasan Darwin sempat menuai kontroversi besar pada zamannya, terutama karena bersinggungan dengan pandangan keagamaan dan filosofis tentang asal-usul manusia dan makhluk hidup lain yang berkembang saat itu. Namun seiring waktu, bukti-bukti dari berbagai bidang ilmu, mulai dari fosil, anatomi perbandingan, sampai genetika modern yang baru berkembang jauh setelah Darwin meninggal, terus memperkuat dan melengkapi teorinya. Saat ini, teori evolusi lewat seleksi alam menjadi salah satu kerangka berpikir paling mendasar dalam ilmu biologi modern, menjelaskan keragaman kehidupan di bumi dan bagaimana semua makhluk hidup, termasuk manusia, berbagi nenek moyang yang sama jauh di masa lampau.",
+    "tags": ["charles-darwin", "evolusi", "seleksi-alam", "hms-beagle", "galapagos", "origin-of-species"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-14"
+  },
+  {
+    "id": "sains.biologi.bukti-evolusi",
+    "judul": "Bukti-Bukti Evolusi",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Evolusi didukung oleh berbagai jenis bukti ilmiah yang saling melengkapi, mulai dari catatan fosil, kemiripan struktur tubuh antar spesies, perkembangan embrio, hingga kesamaan kode genetik DNA pada semua makhluk hidup.",
+    "konten": "Salah satu bukti paling langsung dari evolusi datang dari catatan fosil — sisa-sisa makhluk hidup purba yang membatu dan terawetkan selama jutaan tahun di lapisan batuan bumi. Dengan mempelajari fosil dari lapisan batuan yang berbeda usia, ilmuwan bisa melihat bagaimana bentuk suatu kelompok makhluk hidup berubah secara bertahap dari waktu ke waktu, misalnya rangkaian fosil yang menunjukkan evolusi kuda dari leluhurnya yang berukuran sekecil anjing dengan beberapa jari kaki, menjadi kuda modern yang besar dengan satu kuku utuh. Fosil transisi, yaitu fosil yang menunjukkan ciri gabungan antara dua kelompok makhluk hidup, seperti Archaeopteryx yang punya ciri dinosaurus sekaligus burung, juga jadi bukti kuat tentang bagaimana satu kelompok makhluk hidup bisa berkembang dari kelompok lainnya.\n\nBukti lain datang dari perbandingan struktur tubuh (anatomi) antar spesies yang tampak sangat berbeda di permukaan, tapi punya kerangka dasar yang mirip. Tangan manusia, sayap kelelawar, sirip paus, dan kaki depan kuda misalnya, kalau dilihat struktur tulangnya, punya susunan dasar yang sama meski fungsinya sudah berkembang sangat berbeda — ini disebut struktur homolog dan jadi petunjuk kuat bahwa semuanya berasal dari nenek moyang yang sama, yang kemudian berkembang berbeda-beda sesuai kebutuhan masing-masing spesies. Perkembangan embrio juga memberi petunjuk serupa — embrio berbagai spesies vertebrata, termasuk manusia, menunjukkan kemiripan struktur yang mencolok pada tahap awal perkembangannya sebelum akhirnya berkembang jadi bentuk dewasa yang berbeda-beda.\n\nBukti paling modern dan mungkin paling meyakinkan datang dari genetika. Setelah teknologi pengurutan DNA berkembang, ilmuwan bisa membandingkan langsung kode genetik berbagai spesies, dan menemukan bahwa semakin dekat kekerabatan dua spesies, semakin mirip pula susunan DNA-nya — misalnya DNA manusia dan simpanse punya kemiripan sekitar 98-99 persen. Semua makhluk hidup di bumi, dari bakteri sampai manusia, bahkan berbagi kode genetik dasar yang sama (kombinasi basa A, T, G, C yang sama untuk menyusun protein), sebuah petunjuk kuat bahwa seluruh kehidupan di bumi punya asal-usul yang sama jauh di masa lampau.",
+    "tags": ["bukti-evolusi", "fosil", "struktur-homolog", "fosil-transisi", "dna", "anatomi-perbandingan"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-14"
+  },
+  {
+    "id": "sains.biologi.adaptasi-spesiasi",
+    "judul": "Adaptasi dan Spesiasi",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Adaptasi adalah sifat yang membantu makhluk hidup bertahan di lingkungannya, sementara spesiasi adalah proses terbentuknya spesies baru, biasanya terjadi ketika satu populasi terpisah dalam waktu lama dan masing-masing berkembang sendiri-sendiri.",
+    "konten": "Adaptasi adalah sifat atau ciri khusus yang membantu suatu makhluk hidup bertahan dan berkembang biak dengan baik di lingkungan tempat tinggalnya, hasil dari proses seleksi alam yang berlangsung selama banyak generasi. Adaptasi bisa berupa bentuk fisik, seperti bulu tebal beruang kutub untuk bertahan di suhu sangat dingin, atau leher jerapah yang panjang untuk menjangkau daun di pohon tinggi. Bisa juga berupa perilaku, seperti burung yang bermigrasi jauh mengikuti musim untuk mencari makanan dan cuaca yang lebih bersahabat, atau cara fisiologis tubuh bekerja, seperti unta yang bisa menyimpan cadangan air dan lemak di punuknya untuk bertahan lama tanpa minum di gurun yang kering.\n\nSpesiasi adalah proses terbentuknya spesies baru dari satu spesies yang sudah ada sebelumnya. Cara paling umum spesiasi terjadi adalah lewat pemisahan geografis — ketika satu populasi makhluk hidup terpecah jadi dua kelompok yang terpisah oleh suatu penghalang alami, seperti pegunungan, sungai besar, atau lautan, dan tidak lagi bisa saling kawin dalam waktu sangat lama. Karena masing-masing kelompok hidup di lingkungan yang mungkin sedikit berbeda, seleksi alam akan bekerja secara terpisah pada tiap kelompok, mendorong mereka mengembangkan sifat-sifat yang berbeda sedikit demi sedikit. Setelah waktu yang cukup lama, kedua kelompok ini bisa berubah sedemikian jauh sehingga tidak lagi bisa menghasilkan keturunan subur kalau dipertemukan kembali — pada titik inilah mereka dianggap sebagai dua spesies yang berbeda.\n\nContoh klasik spesiasi adalah burung finch di Kepulauan Galapagos yang diamati Darwin, di mana satu spesies nenek moyang yang sama berkembang jadi lebih dari selusin spesies berbeda setelah menyebar ke pulau-pulau yang berlainan, masing-masing beradaptasi dengan sumber makanan khasnya sendiri, tercermin dari bentuk paruh yang berbeda-beda. Proses spesiasi semacam ini umumnya berlangsung sangat lambat, bisa memakan ribuan hingga jutaan tahun, meski pada beberapa kasus khusus, terutama pada tumbuhan atau organisme dengan masa hidup pendek, spesiasi bisa terjadi dalam waktu yang jauh lebih singkat.",
+    "tags": ["adaptasi", "spesiasi", "pemisahan-geografis", "burung-finch", "evolusi", "seleksi-alam"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-14"
+  }
+]
