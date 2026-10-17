@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sains.biologi.sistem-endokrin-hormon",
+    "judul": "Sistem Endokrin dan Hormon",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Sistem endokrin mengatur tubuh lewat hormon, zat kimia yang dilepaskan kelenjar langsung ke aliran darah dan bekerja lebih lambat tapi bertahan lebih lama dibanding sinyal saraf, mengatur hal seperti pertumbuhan, metabolisme, dan suasana hati.",
+    "konten": "Kalau sistem saraf mengirim sinyal lewat impuls listrik yang sangat cepat untuk respons seketika, sistem endokrin bekerja dengan cara berbeda: melepaskan zat kimia bernama hormon langsung ke aliran darah, yang kemudian mengalir ke seluruh tubuh dan hanya memengaruhi sel-sel tertentu yang punya 'penerima' khusus (reseptor) untuk hormon itu. Cara kerja ini membuat sistem endokrin umumnya bereaksi lebih lambat dibanding sistem saraf, tapi efeknya cenderung lebih bertahan lama dan cocok untuk mengatur proses tubuh yang berlangsung dalam hitungan jam, hari, bahkan tahun, seperti pertumbuhan tubuh, metabolisme, dan siklus reproduksi.\n\nHormon diproduksi oleh kelenjar-kelenjar khusus yang tersebar di berbagai bagian tubuh. Kelenjar pituitari, yang terletak di dasar otak dan berukuran hanya sebesar kacang polong, sering dijuluki 'kelenjar induk' karena memproduksi hormon yang mengatur kerja banyak kelenjar lain di tubuh, termasuk hormon pertumbuhan yang menentukan tinggi badan seseorang. Kelenjar tiroid di leher memproduksi hormon yang mengatur kecepatan metabolisme tubuh — kalau kelenjar ini terlalu aktif atau kurang aktif, bisa memengaruhi berat badan, tingkat energi, bahkan suasana hati seseorang. Kelenjar adrenal di atas ginjal memproduksi hormon adrenalin, yang bertanggung jawab atas respons 'lawan atau lari' saat tubuh menghadapi situasi berbahaya atau menegangkan, membuat jantung berdebar lebih cepat dan tubuh lebih waspada.\n\nPankreas, selain berperan dalam pencernaan, juga punya fungsi endokrin penting lewat produksi hormon insulin dan glukagon yang mengatur kadar gula darah. Insulin membantu sel-sel tubuh menyerap glukosa dari darah untuk dipakai sebagai energi atau disimpan, sementara glukagon bekerja sebaliknya, melepaskan cadangan gula ke darah saat kadarnya terlalu rendah. Gangguan pada produksi atau kerja insulin inilah yang menyebabkan diabetes, kondisi di mana kadar gula darah menjadi tidak terkendali. Kelenjar reproduksi, yaitu ovarium pada perempuan dan testis pada laki-laki, juga memproduksi hormon seks yang mengatur perkembangan ciri kelamin sekunder serta siklus reproduksi, menunjukkan betapa luasnya cakupan sistem endokrin dalam mengatur hampir seluruh aspek fungsi tubuh.",
+    "tags": ["sistem-endokrin", "hormon", "kelenjar-pituitari", "tiroid", "insulin", "adrenalin"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-15"
+  },
+  {
+    "id": "sains.biologi.homeostasis",
+    "judul": "Homeostasis: Menjaga Keseimbangan Tubuh",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Homeostasis adalah kemampuan tubuh menjaga kondisi internalnya tetap stabil meski lingkungan luar berubah-ubah, dijalankan lewat mekanisme umpan balik yang melibatkan kerja sama sistem saraf dan endokrin.",
+    "konten": "Homeostasis adalah kemampuan tubuh makhluk hidup untuk menjaga kondisi di dalamnya tetap stabil dan seimbang, meski kondisi di luar tubuh terus berubah-ubah. Contoh paling mudah dipahami adalah suhu tubuh manusia yang relatif selalu berada di sekitar 37 derajat Celsius, baik saat cuaca sangat panas maupun sangat dingin — tubuh punya mekanisme untuk mempertahankan suhu idealnya ini. Hal serupa berlaku untuk banyak kondisi internal lain, seperti kadar gula darah, kadar air dalam tubuh, tingkat keasaman darah, dan konsentrasi berbagai zat penting lainnya, yang semuanya dijaga tetap berada dalam rentang tertentu yang optimal untuk fungsi tubuh.\n\nMekanisme utama di balik homeostasis disebut umpan balik negatif, cara kerja yang mirip termostat pada pendingin ruangan. Ketika suatu kondisi menyimpang dari nilai idealnya, tubuh mendeteksi perubahan itu lewat sensor khusus, lalu mengirim sinyal untuk memicu respons yang mengembalikan kondisi tersebut ke nilai normal. Saat suhu tubuh naik terlalu tinggi misalnya, tubuh merespons dengan berkeringat untuk mendinginkan diri lewat penguapan, dan pembuluh darah di kulit melebar supaya panas lebih mudah terbuang ke udara. Sebaliknya saat suhu tubuh turun terlalu rendah, tubuh merespons dengan menggigil, yaitu kontraksi otot cepat yang menghasilkan panas, dan pembuluh darah di kulit menyempit untuk mengurangi kehilangan panas.\n\nMenjaga homeostasis membutuhkan kerja sama erat antara sistem saraf dan sistem endokrin. Sistem saraf berperan mendeteksi perubahan dengan cepat dan memicu respons seketika, sementara sistem endokrin lewat hormon membantu mengatur respons yang lebih berkelanjutan dalam jangka waktu lebih panjang. Kegagalan menjaga homeostasis bisa berakibat serius bagi kesehatan — misalnya ketika tubuh gagal mengatur kadar gula darah dengan baik, seperti pada penderita diabetes, atau ketika suhu tubuh naik terlalu tinggi dalam kondisi demam ekstrem yang bisa merusak sel dan jaringan tubuh kalau tidak segera ditangani. Homeostasis pada dasarnya adalah fondasi yang memungkinkan sel-sel tubuh bekerja optimal, karena sebagian besar proses biokimia dalam sel hanya bisa berjalan baik dalam kondisi lingkungan internal yang stabil dan terkendali.",
+    "tags": ["homeostasis", "umpan-balik-negatif", "suhu-tubuh", "keseimbangan-tubuh"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-15"
+  }
+]

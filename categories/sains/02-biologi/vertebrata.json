@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sains.biologi.vertebrata-pengantar",
+    "judul": "Vertebrata: Hewan Bertulang Belakang",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Vertebrata adalah kelompok hewan yang memiliki tulang belakang sebagai penopang utama tubuhnya, mencakup lima kelompok besar yaitu ikan, amfibi, reptil, burung, dan mamalia, meski jumlah spesiesnya jauh lebih sedikit dibanding invertebrata.",
+    "konten": "Vertebrata adalah kelompok hewan yang punya tulang belakang, yaitu rangkaian tulang kecil tersusun berurutan yang membungkus dan melindungi sumsum tulang belakang, bagian penting dari sistem saraf pusat. Tulang belakang ini juga menjadi penopang utama tubuh vertebrata, memungkinkan mereka berkembang jadi hewan dengan ukuran tubuh yang jauh lebih besar dan struktur tubuh yang lebih kompleks dibanding kebanyakan invertebrata, meski secara jumlah spesies, vertebrata jauh kalah banyak dibanding invertebrata yang mencakup lebih dari 95 persen seluruh spesies hewan di bumi.\n\nVertebrata secara umum dikelompokkan jadi lima kelas besar. Ikan adalah kelompok vertebrata paling awal muncul dalam sejarah evolusi, hidup sepenuhnya di air dan bernapas menggunakan insang untuk menyerap oksigen langsung dari air. Amfibi, seperti katak dan salamander, umumnya memulai hidupnya di air sebagai larva yang bernapas dengan insang, lalu bermetamorfosis menjadi bentuk dewasa yang bisa hidup di darat dan bernapas dengan paru-paru, meski tetap membutuhkan lingkungan lembap karena kulitnya yang tipis mudah kehilangan air.\n\nReptil, seperti ular, kadal, dan buaya, umumnya hidup sepenuhnya di darat, dengan kulit bersisik tebal yang membantu mencegah kehilangan air, dan bertelur dengan cangkang yang melindungi embrio dari kekeringan, sebuah keunggulan evolusioner penting dibanding amfibi yang telurnya harus tetap berada di air atau tempat lembap. Burung, yang sebenarnya merupakan keturunan langsung dari sekelompok dinosaurus, punya ciri khas bulu yang membantu terbang sekaligus menjaga suhu tubuh, serta tulang-tulang yang berongga untuk mengurangi berat badan. Mamalia, kelompok yang juga mencakup manusia, dicirikan oleh kemampuan menyusui anaknya lewat kelenjar susu, umumnya punya rambut atau bulu di tubuhnya, dan sebagian besar melahirkan anak dalam bentuk hidup, bukan bertelur seperti kebanyakan kelompok vertebrata lainnya.",
+    "tags": ["vertebrata", "tulang-belakang", "ikan", "amfibi", "reptil", "burung", "mamalia"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-16"
+  },
+  {
+    "id": "sains.biologi.hewan-berdarah-panas-dingin",
+    "judul": "Hewan Berdarah Panas dan Berdarah Dingin",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Hewan dibedakan berdasarkan cara mengatur suhu tubuhnya: hewan berdarah dingin (ektoterm) bergantung pada suhu lingkungan luar, sementara hewan berdarah panas (endoterm) menghasilkan panas tubuhnya sendiri lewat metabolisme internal.",
+    "konten": "Salah satu perbedaan fisiologis penting antar kelompok vertebrata adalah cara mereka mengatur suhu tubuhnya. Ikan, amfibi, dan reptil tergolong hewan ektoterm, lebih dikenal awam sebagai hewan berdarah dingin, meski istilah ini sebenarnya agak menyesatkan karena darah mereka tidak selalu dingin — suhu tubuh hewan ektoterm sebenarnya sangat bergantung dan mengikuti suhu lingkungan di sekitarnya. Hewan ektoterm tidak menghasilkan panas tubuhnya sendiri lewat proses metabolisme internal dalam jumlah besar, sehingga aktivitas dan tingkat energi mereka sangat dipengaruhi suhu lingkungan — inilah sebabnya reptil seperti kadal sering terlihat berjemur di bawah sinar matahari pada pagi hari, memanfaatkan panas eksternal untuk menghangatkan tubuhnya sebelum bisa bergerak aktif mencari makan.\n\nBurung dan mamalia tergolong hewan endoterm, lebih dikenal sebagai hewan berdarah panas, mampu menghasilkan dan mempertahankan suhu tubuhnya sendiri pada tingkat yang relatif konstan, tidak peduli seberapa panas atau dingin suhu lingkungan di sekitarnya. Kemampuan ini dicapai lewat laju metabolisme yang jauh lebih tinggi dibanding hewan ektoterm, membakar energi dari makanan secara terus-menerus untuk menghasilkan panas tubuh. Keuntungan besar dari sifat endoterm ini adalah hewan berdarah panas bisa tetap aktif dan berfungsi optimal meski suhu lingkungan berubah-ubah drastis, memungkinkan mereka menghuni hampir semua jenis habitat di bumi, dari gurun yang sangat panas sampai kutub yang sangat dingin.\n\nNamun kemampuan menjaga suhu tubuh konstan ini punya harga yang harus dibayar: hewan endoterm membutuhkan jauh lebih banyak makanan dibanding hewan ektoterm berukuran serupa, karena sebagian besar energi dari makanan dipakai hanya untuk menghasilkan dan mempertahankan panas tubuh, bukan untuk pertumbuhan atau aktivitas lain. Inilah sebabnya ular, sebagai contoh hewan ektoterm, bisa bertahan berminggu-minggu bahkan berbulan-bulan tanpa makan setelah sekali makan dalam jumlah besar, sementara mamalia berukuran serupa perlu makan jauh lebih sering untuk menjaga pasokan energi yang dibutuhkan mempertahankan suhu tubuhnya yang konstan. Kedua strategi ini, ektoterm dan endoterm, sama-sama terbukti berhasil secara evolusioner, masing-masing dengan kelebihan dan kekurangannya sendiri tergantung kondisi lingkungan dan gaya hidup hewan tersebut.",
+    "tags": ["ektoterm", "endoterm", "berdarah-dingin", "berdarah-panas", "termoregulasi", "metabolisme"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-16"
+  }
+]

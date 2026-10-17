@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sains.biologi.genetika-populasi",
+    "judul": "Genetika Populasi",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Genetika populasi mempelajari bagaimana frekuensi gen tersebar dan berubah dalam suatu populasi dari waktu ke waktu, dipengaruhi faktor seperti mutasi, migrasi, perkawinan acak, dan ukuran populasi, menjadi dasar untuk memahami evolusi pada tingkat populasi.",
+    "konten": "Kalau genetika pada umumnya mempelajari pewarisan sifat pada tingkat individu, genetika populasi mengambil sudut pandang yang lebih luas, mempelajari bagaimana variasi genetik tersebar dan berubah dalam suatu populasi, yaitu sekumpulan individu dari spesies yang sama yang hidup di area tertentu dan bisa saling kawin. Konsep kunci dalam genetika populasi adalah frekuensi alel, yaitu seberapa sering suatu versi gen tertentu (disebut alel) muncul dibanding versi alel lainnya dalam keseluruhan populasi. Misalnya, kalau dalam suatu populasi kupu-kupu, alel untuk warna sayap cokelat muncul pada 70 persen populasi sementara alel warna sayap putih pada 30 persen sisanya, angka-angka ini menggambarkan frekuensi alel dalam populasi tersebut.\n\nFrekuensi alel dalam suatu populasi tidak selalu tetap, melainkan bisa berubah dari generasi ke generasi, dan perubahan inilah yang sebenarnya menjadi inti dari proses evolusi pada tingkat populasi. Ada beberapa faktor utama yang bisa mengubah frekuensi alel. Mutasi memperkenalkan variasi genetik baru ke dalam populasi, meski biasanya terjadi dengan laju yang relatif lambat. Migrasi, yaitu individu yang masuk atau keluar dari suatu populasi, bisa membawa serta atau menghilangkan alel tertentu dari populasi tersebut. Seleksi alam, seperti yang dijelaskan dalam teori evolusi Darwin, juga mengubah frekuensi alel dengan cara menguntungkan individu yang punya sifat lebih cocok dengan lingkungannya, sehingga alel yang mendasari sifat tersebut jadi lebih sering muncul pada generasi berikutnya.\n\nFaktor lain yang penting namun kadang kurang disadari adalah hanyutan genetik (genetic drift), yaitu perubahan frekuensi alel yang terjadi murni karena faktor kebetulan, bukan karena seleksi alam. Hanyutan genetik ini punya pengaruh lebih besar pada populasi berukuran kecil, di mana peristiwa kebetulan, seperti sebagian individu pembawa alel tertentu kebetulan tidak sempat bereproduksi sebelum mati karena sebab acak, bisa mengubah frekuensi alel secara signifikan hanya dalam beberapa generasi. Pada populasi besar, pengaruh faktor acak semacam ini cenderung saling meniadakan dan kurang terlihat dampaknya, mirip seperti melempar koin banyak kali akan menghasilkan hasil yang lebih mendekati 50-50 dibanding hanya melempar beberapa kali saja.",
+    "tags": ["genetika-populasi", "frekuensi-alel", "hanyutan-genetik", "migrasi", "evolusi"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-15"
+  },
+  {
+    "id": "sains.biologi.hukum-hardy-weinberg",
+    "judul": "Hukum Hardy-Weinberg",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Dirumuskan secara independen oleh Godfrey Hardy dan Wilhelm Weinberg pada 1908"
+    },
+    "ringkasan": "Hukum Hardy-Weinberg menyatakan bahwa frekuensi alel dalam suatu populasi akan tetap stabil dari generasi ke generasi kalau tidak ada faktor pengganggu seperti mutasi atau seleksi alam, dan prinsip ini dipakai sebagai titik acuan untuk mendeteksi apakah evolusi sedang terjadi pada suatu populasi.",
+    "konten": "Hukum Hardy-Weinberg, dirumuskan secara terpisah oleh matematikawan Inggris Godfrey Hardy dan dokter Jerman Wilhelm Weinberg pada 1908, adalah salah satu prinsip paling fundamental dalam genetika populasi. Intinya, hukum ini menyatakan bahwa dalam kondisi ideal tertentu, frekuensi alel dan genotipe dalam suatu populasi akan tetap stabil dan tidak berubah dari generasi ke generasi, sebuah kondisi yang disebut kesetimbangan Hardy-Weinberg. Kondisi ideal yang dimaksud mencakup beberapa syarat ketat: tidak ada mutasi baru yang muncul, tidak ada migrasi individu masuk atau keluar populasi, populasi berukuran sangat besar (sehingga hanyutan genetik praktis tidak berpengaruh), perkawinan terjadi secara acak tanpa preferensi tertentu, dan tidak ada seleksi alam yang menguntungkan sifat tertentu dibanding sifat lainnya.\n\nMenariknya, dalam kehidupan nyata, hampir tidak pernah ada populasi yang benar-benar memenuhi seluruh syarat ideal ini secara sempurna — selalu ada mutasi yang terjadi, migrasi yang berlangsung, atau seleksi alam yang bekerja pada tingkat tertentu. Justru di sinilah letak kegunaan sesungguhnya dari Hukum Hardy-Weinberg: bukan untuk menggambarkan kondisi nyata, melainkan untuk menjadi titik acuan atau pembanding. Dengan menghitung bagaimana frekuensi alel seharusnya terlihat kalau suatu populasi benar-benar dalam kesetimbangan Hardy-Weinberg, ilmuwan bisa membandingkannya dengan frekuensi alel yang sesungguhnya diamati di lapangan. Kalau ada perbedaan yang signifikan antara prediksi dan kenyataan, ini jadi petunjuk kuat bahwa salah satu faktor pengganggu, seperti seleksi alam, sedang aktif bekerja memengaruhi populasi tersebut.\n\nHukum Hardy-Weinberg juga sering dipakai dalam bidang kesehatan masyarakat dan genetika medis, misalnya untuk memperkirakan seberapa banyak orang dalam suatu populasi yang membawa alel resesif tertentu yang berkaitan dengan penyakit genetik, bahkan tanpa perlu menguji genetik seluruh populasi tersebut, cukup dengan mengetahui seberapa sering penyakit itu muncul secara nyata di populasi. Meski rumus matematis yang mendasarinya cukup sederhana, Hukum Hardy-Weinberg memberi fondasi penting yang memungkinkan ilmuwan mendeteksi dan mengukur kapan serta seberapa kuat evolusi sedang berlangsung pada suatu populasi, menjadikannya alat analisis yang sangat berguna meski kondisi idealnya jarang benar-benar terpenuhi di alam nyata.",
+    "tags": ["hardy-weinberg", "kesetimbangan-genetik", "genetika-populasi", "seleksi-alam", "frekuensi-alel"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-15"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sains.biologi.hormon-pertumbuhan-tumbuhan",
+    "judul": "Hormon Pertumbuhan pada Tumbuhan",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Tumbuhan, meski tidak punya sistem saraf seperti hewan, tetap memproduksi hormon yang mengatur berbagai aspek pertumbuhan dan perkembangannya, termasuk auksin yang mengatur arah pertumbuhan dan giberelin yang memengaruhi pemanjangan batang.",
+    "konten": "Meski tumbuhan tidak punya otak atau sistem saraf seperti hewan, tumbuhan tetap memproduksi zat kimia pengatur yang disebut hormon, bekerja mengoordinasikan berbagai aspek pertumbuhan dan responsnya terhadap lingkungan, meski cara kerjanya cukup berbeda dari hormon pada hewan. Salah satu hormon tumbuhan paling penting adalah auksin, yang berperan besar mengatur arah pertumbuhan tumbuhan. Auksin diproduksi terutama di ujung pucuk tumbuhan dan bergerak ke bagian bawah, memengaruhi pemanjangan sel di sepanjang batang. Konsentrasi auksin yang tidak merata, misalnya karena cahaya matahari yang datang dari satu arah, bisa membuat sel di sisi yang lebih gelap memanjang lebih cepat dibanding sisi yang terkena cahaya langsung, menyebabkan batang membengkok mengarah ke sumber cahaya — fenomena ini disebut fototropisme, dan menjelaskan mengapa tanaman di dalam ruangan cenderung tumbuh miring mengarah ke jendela.\n\nHormon penting lainnya adalah giberelin, yang berperan besar dalam pemanjangan batang dan perkecambahan biji. Giberelin merangsang sel-sel batang untuk memanjang lebih cepat, dan pada beberapa tumbuhan, tingkat giberelin yang tinggi bisa menyebabkan pertumbuhan batang yang jauh lebih tinggi dari biasanya. Dalam konteks perkecambahan, giberelin membantu memberi 'sinyal' pada biji yang sedang dorman (tidak aktif tumbuh) untuk mulai berkecambah ketika kondisi lingkungan sudah mendukung, seperti ketersediaan air dan suhu yang sesuai, memicu produksi enzim yang memecah cadangan makanan dalam biji untuk dipakai sebagai energi awal pertumbuhan.\n\nSitokinin adalah hormon tumbuhan lain yang punya peran berlawanan dengan auksin dalam beberapa hal, terutama dalam merangsang pembelahan sel dan pertumbuhan tunas samping. Sementara auksin cenderung menekan pertumbuhan tunas samping untuk memprioritaskan pertumbuhan ke atas (disebut dominansi apikal), sitokinin justru mendorong pertumbuhan tunas samping tersebut. Keseimbangan antara auksin dan sitokinin inilah yang menentukan bentuk keseluruhan tumbuhan — rasio auksin tinggi dibanding sitokinin cenderung menghasilkan tumbuhan yang tumbuh tinggi dengan sedikit cabang, sementara rasio sebaliknya cenderung menghasilkan tumbuhan yang lebih rimbun dengan banyak cabang, prinsip yang bahkan dimanfaatkan petani dan tukang kebun dalam teknik pemangkasan untuk membentuk tanaman sesuai keinginan.",
+    "tags": ["hormon-tumbuhan", "auksin", "giberelin", "sitokinin", "fototropisme", "dominansi-apikal"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-16"
+  },
+  {
+    "id": "sains.biologi.tropisme-respons-tumbuhan",
+    "judul": "Tropisme: Respons Tumbuhan terhadap Rangsangan",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Tropisme adalah respons pertumbuhan tumbuhan terhadap rangsangan tertentu dari lingkungan, seperti cahaya (fototropisme), gravitasi (gravitropisme), dan sentuhan (tigmotropisme), semuanya dikendalikan oleh kerja hormon tumbuhan.",
+    "konten": "Meski tumbuhan tidak bisa bergerak berpindah tempat seperti hewan, tumbuhan tetap bisa merespons berbagai rangsangan dari lingkungan lewat perubahan arah pertumbuhannya, fenomena yang secara umum disebut tropisme. Fototropisme, respons pertumbuhan terhadap arah datangnya cahaya, adalah salah satu bentuk tropisme paling mudah diamati — batang tumbuhan cenderung tumbuh mengarah ke sumber cahaya (disebut fototropisme positif), sementara akar justru cenderung tumbuh menjauhi cahaya (fototropisme negatif), masing-masing masuk akal mengingat batang butuh cahaya untuk fotosintesis sementara akar lebih baik tumbuh ke dalam tanah yang gelap untuk mencari air dan nutrisi.\n\nGravitropisme adalah respons pertumbuhan terhadap gaya gravitasi, dan seperti fototropisme, arahnya juga berlawanan antara batang dan akar. Akar menunjukkan gravitropisme positif, tumbuh searah dengan tarikan gravitasi (ke bawah), sementara batang menunjukkan gravitropisme negatif, tumbuh berlawanan arah gravitasi (ke atas). Fenomena ini bisa diamati jelas kalau sebuah pot tanaman diletakkan miring atau bahkan terbalik — meski posisi awal tanaman berubah, akar akan tetap berusaha tumbuh ke bawah dan batang akan tetap berusaha tumbuh ke atas, menyesuaikan arah pertumbuhannya mengikuti gravitasi, bukan mengikuti posisi awal tanaman tersebut ditanam.\n\nTigmotropisme adalah respons pertumbuhan terhadap sentuhan atau kontak fisik, paling jelas terlihat pada tumbuhan merambat seperti kacang panjang atau anggur, yang batangnya (disebut sulur) akan melilit erat ke benda apa pun yang disentuhnya, seperti pagar, tongkat penyangga, atau batang tumbuhan lain, membantu tumbuhan tersebut memanjat dan mendapat akses lebih baik ke cahaya matahari tanpa perlu membangun batang yang kuat dan tebal sendiri. Semua jenis tropisme ini pada dasarnya dikendalikan oleh distribusi hormon tumbuhan yang tidak merata, terutama auksin, yang bergerak dan terkumpul lebih banyak di salah satu sisi tumbuhan sebagai respons terhadap rangsangan tertentu, menyebabkan sel-sel di sisi tersebut tumbuh dengan kecepatan berbeda dibanding sisi lainnya, sehingga tumbuhan secara keseluruhan membengkok atau mengarah sesuai rangsangan yang diterimanya.",
+    "tags": ["tropisme", "fototropisme", "gravitropisme", "tigmotropisme", "auksin"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-16"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sains.biologi.siklus-sel-mitosis",
+    "judul": "Siklus Sel dan Mitosis",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Siklus sel adalah rangkaian tahap yang dilalui sel dari terbentuk sampai membelah diri, dengan mitosis sebagai tahap pembelahan yang menghasilkan dua sel anak dengan materi genetik identik, digunakan tubuh untuk tumbuh dan memperbaiki jaringan.",
+    "konten": "Siklus sel adalah rangkaian tahap yang dilalui sebuah sel sepanjang hidupnya, dari saat terbentuk sampai akhirnya membelah diri menjadi dua sel baru. Sebagian besar waktu dalam siklus sel dihabiskan pada tahap yang disebut interfase, periode di mana sel tumbuh, menjalankan fungsi normalnya, dan yang terpenting, menyalin seluruh DNA-nya sebagai persiapan sebelum membelah diri. Proses penyalinan DNA ini harus berlangsung sangat akurat, karena kesalahan dalam menyalin bisa menyebabkan mutasi yang berpotensi membahayakan sel dan bahkan seluruh tubuh kalau berlangsung tidak terkendali.\n\nSetelah interfase selesai, sel memasuki tahap pembelahan yang disebut mitosis, proses di mana materi genetik yang sudah disalin dipisahkan secara merata ke dua sel anak yang baru terbentuk. Mitosis sendiri terbagi jadi beberapa fase berurutan. Pada fase awal, materi genetik yang biasanya tersebar longgar di dalam inti sel mulai memadat jadi struktur yang disebut kromosom, cukup rapat untuk bisa dipindahkan tanpa kusut atau rusak. Kromosom yang sudah disalin ini kemudian berbaris di bagian tengah sel, lalu ditarik dan dipisahkan ke dua kutub berlawanan oleh struktur khusus bernama benang spindel, memastikan setiap sel anak mendapat salinan materi genetik yang lengkap dan identik. Tahap terakhir adalah sitokinesis, pembelahan fisik sel menjadi dua sel anak yang terpisah sepenuhnya, masing-masing dengan materi genetik yang sama persis dengan sel induknya.\n\nMitosis adalah proses yang sangat penting bagi tubuh makhluk hidup multiseluler, karena inilah cara tubuh tumbuh dari satu sel awal (zigot) menjadi organisme dengan triliunan sel, sekaligus cara tubuh memperbaiki dan mengganti sel-sel yang rusak atau mati sepanjang hidup. Sel-sel kulit misalnya, terus-menerus membelah diri lewat mitosis untuk mengganti sel-sel permukaan yang terkelupas, sementara sel-sel di sumsum tulang membelah diri secara aktif untuk terus memproduksi sel darah baru menggantikan yang sudah tua. Namun tidak semua sel membelah diri dengan kecepatan sama — sel saraf dewasa misalnya, hampir tidak pernah membelah diri lagi setelah mencapai kematangan, sementara sel-sel di lapisan usus bisa membelah diri dan digantikan hanya dalam hitungan hari.",
+    "tags": ["siklus-sel", "mitosis", "interfase", "kromosom", "sitokinesis", "pembelahan-sel"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-15"
+  },
+  {
+    "id": "sains.biologi.meiosis-sel-kelamin",
+    "judul": "Meiosis dan Pembentukan Sel Kelamin",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Meiosis adalah jenis pembelahan sel khusus untuk membentuk sel kelamin (sperma dan sel telur), menghasilkan empat sel anak dengan separuh jumlah kromosom sel induknya, sekaligus menciptakan variasi genetik lewat proses pertukaran materi genetik.",
+    "konten": "Berbeda dari mitosis yang menghasilkan sel anak dengan jumlah kromosom sama persis dengan sel induknya, meiosis adalah jenis pembelahan sel khusus yang hanya terjadi pada organ reproduksi, bertujuan menghasilkan sel kelamin (sel sperma pada pria, sel telur pada wanita) dengan jumlah kromosom separuh dari sel tubuh biasa. Hal ini penting karena saat pembuahan, sel sperma dan sel telur akan bergabung — kalau masing-masing sel kelamin tetap membawa jumlah kromosom lengkap seperti sel tubuh biasa, maka hasil pembuahannya akan punya kromosom dua kali lipat dari yang seharusnya, yang jelas tidak normal. Dengan meiosis membagi jumlah kromosom jadi separuh di setiap sel kelamin, gabungan keduanya saat pembuahan akan kembali menghasilkan jumlah kromosom normal dan lengkap.\n\nMeiosis melibatkan dua tahap pembelahan berurutan, bukan hanya satu seperti pada mitosis. Pada pembelahan pertama, kromosom yang berpasangan (satu dari ibu, satu dari ayah untuk setiap jenis kromosom) saling bertukar sebagian materi genetiknya lewat proses yang disebut pindah silang (crossing over), sebelum akhirnya dipisahkan ke dua sel yang berbeda. Proses pindah silang inilah yang jadi salah satu sumber utama variasi genetik, karena menciptakan kombinasi gen baru yang berbeda dari kedua orang tua, membuat setiap sel kelamin yang dihasilkan punya kombinasi genetik yang unik, bahkan antara saudara kandung sekalipun. Setelah pembelahan pertama menghasilkan dua sel, masing-masing sel ini membelah lagi pada pembelahan kedua, mirip mekanisme mitosis, sehingga total dihasilkan empat sel anak dari satu sel awal, masing-masing membawa separuh jumlah kromosom normal dan kombinasi genetik yang berbeda-beda.\n\nVariasi genetik yang dihasilkan meiosis punya peran penting dalam evolusi dan kelangsungan hidup suatu spesies, karena keragaman genetik membuat suatu populasi lebih punya peluang bertahan menghadapi perubahan lingkungan atau ancaman penyakit, dibanding kalau semua individu punya susunan genetik yang identik. Inilah salah satu alasan mengapa reproduksi seksual, yang melibatkan penggabungan materi genetik dari dua individu berbeda lewat meiosis dan pembuahan, jadi strategi reproduksi yang sangat umum di dunia makhluk hidup, meski secara energi dan waktu sebenarnya lebih 'mahal' dibanding reproduksi aseksual yang hanya melibatkan satu induk.",
+    "tags": ["meiosis", "sel-kelamin", "pindah-silang", "variasi-genetik", "reproduksi-seksual", "kromosom"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-15"
+  }
+]

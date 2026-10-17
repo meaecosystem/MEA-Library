@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sains.biologi.jaringan-meristem-tumbuhan",
+    "judul": "Jaringan Meristem pada Tumbuhan",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Jaringan meristem adalah jaringan khusus pada tumbuhan yang sel-selnya terus-menerus membelah diri, menjadi sumber pertumbuhan tumbuhan baik memanjang ke atas dan bawah maupun melebar, berbeda dari sebagian besar hewan yang pertumbuhannya terbatas pada masa tertentu.",
+    "konten": "Salah satu perbedaan mendasar antara tumbuhan dan hewan adalah cara mereka tumbuh. Kebanyakan hewan tumbuh sampai mencapai ukuran dewasa tertentu lalu berhenti, sementara banyak tumbuhan terus tumbuh sepanjang hidupnya, kadang mencapai ukuran sangat besar seperti pohon yang bisa hidup ratusan bahkan ribuan tahun. Kemampuan tumbuh terus-menerus ini berasal dari jaringan khusus bernama meristem, yaitu jaringan yang tersusun dari sel-sel yang terus-menerus aktif membelah diri lewat mitosis, menghasilkan sel-sel baru yang kemudian berkembang jadi berbagai jenis jaringan dewasa sesuai kebutuhan tumbuhan.\n\nAda dua jenis meristem utama berdasarkan lokasi dan arah pertumbuhan yang dihasilkannya. Meristem apikal terletak di ujung batang dan ujung akar, bertanggung jawab atas pertumbuhan memanjang tumbuhan — meristem apikal di ujung batang membuat tumbuhan tumbuh makin tinggi ke atas, sementara meristem apikal di ujung akar membuat akar terus memanjang menembus tanah mencari air dan nutrisi. Meristem apikal di ujung batang juga yang nantinya bisa berkembang membentuk daun baru, cabang baru, atau bahkan bunga, tergantung sinyal hormon dan kondisi lingkungan yang diterimanya.\n\nJenis meristem kedua disebut meristem lateral, yang bertanggung jawab atas pertumbuhan melebar atau membesarnya diameter batang dan akar, terutama pada tumbuhan berkayu seperti pohon. Meristem lateral ini terletak memanjang di sepanjang batang dan akar, dan aktivitasnya yang terus-menerus dari tahun ke tahun inilah yang menghasilkan lingkaran-lingkaran pertumbuhan tahunan yang bisa dilihat pada batang pohon yang dipotong melintang, sering dipakai untuk memperkirakan usia pohon tersebut. Berkat kombinasi kedua jenis meristem ini, tumbuhan punya kemampuan pertumbuhan yang sangat fleksibel, bisa terus memanjang mencari cahaya matahari sekaligus memperkuat strukturnya dengan menambah diameter batang seiring bertambahnya usia dan ukuran tumbuhan tersebut.",
+    "tags": ["jaringan-meristem", "meristem-apikal", "meristem-lateral", "pertumbuhan-tumbuhan"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-16"
+  },
+  {
+    "id": "sains.biologi.transportasi-air-nutrisi-tumbuhan",
+    "judul": "Transportasi Air dan Nutrisi pada Tumbuhan",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Tumbuhan mengangkut air dan nutrisi lewat dua jaringan pembuluh khusus, xilem yang membawa air dan mineral dari akar ke seluruh bagian tumbuhan, dan floem yang membawa hasil fotosintesis dari daun ke bagian tumbuhan lain yang membutuhkannya.",
+    "konten": "Tumbuhan, terutama yang berukuran besar seperti pohon, menghadapi tantangan mengangkut air dan nutrisi dari akar yang berada di dalam tanah sampai ke daun-daun yang mungkin berada puluhan meter di atasnya, sekaligus mengangkut hasil fotosintesis dari daun ke bagian tumbuhan lain yang membutuhkan energi untuk tumbuh. Tugas ini dijalankan oleh dua jenis jaringan pembuluh khusus: xilem dan floem, yang bersama-sama membentuk sistem transportasi tumbuhan, sedikit mirip fungsi pembuluh darah pada hewan meski cara kerjanya sangat berbeda.\n\nXilem adalah jaringan yang bertugas mengangkut air beserta mineral terlarut di dalamnya dari akar menuju ke seluruh bagian tumbuhan, termasuk daun, bunga, dan buah. Yang menarik, xilem mengangkut air tanpa membutuhkan 'pompa' aktif seperti jantung pada hewan — pergerakan air di dalam xilem terutama didorong oleh proses transpirasi, yaitu penguapan air dari permukaan daun lewat pori-pori kecil bernama stomata. Ketika air menguap dari daun, ini menciptakan semacam 'tarikan' yang menarik air dari xilem di bawahnya untuk naik menggantikan air yang hilang, dan tarikan ini berlanjut sampai ke akar, menarik air baru dari dalam tanah. Proses ini dimungkinkan berkat sifat kohesi air, yaitu kecenderungan molekul air saling menempel satu sama lain, membentuk kolom air yang menyambung dan bisa 'ditarik' naik tanpa terputus, bahkan pada pohon yang sangat tinggi.\n\nFloem bekerja dengan prinsip berbeda, bertugas mengangkut hasil fotosintesis, terutama gula, dari daun (tempat fotosintesis berlangsung) menuju bagian tumbuhan lain yang membutuhkan energi, seperti akar, bunga, buah yang sedang berkembang, atau bagian tumbuhan yang sedang tumbuh aktif. Berbeda dari xilem yang arah alirannya cenderung satu arah dari bawah ke atas, floem bisa mengalirkan zat ke berbagai arah tergantung di mana gula dibutuhkan paling banyak saat itu. Pergerakan zat dalam floem melibatkan tekanan yang dihasilkan lewat perbedaan konsentrasi gula antara sumber (biasanya daun yang sedang aktif berfotosintesis) dan tujuan (bagian tumbuhan yang membutuhkan energi), mendorong cairan kaya gula ini mengalir dari area konsentrasi tinggi menuju area yang membutuhkannya.",
+    "tags": ["xilem", "floem", "transpirasi", "transportasi-tumbuhan", "stomata"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-16"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sains.biologi.siklus-karbon",
+    "judul": "Siklus Karbon",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Siklus karbon menggambarkan bagaimana atom karbon bergerak terus-menerus antara atmosfer, makhluk hidup, lautan, dan tanah lewat proses seperti fotosintesis dan respirasi, menjadi fondasi penting bagi kehidupan sekaligus terkait erat dengan isu perubahan iklim.",
+    "konten": "Karbon adalah unsur dasar yang menyusun hampir semua molekul penting dalam kehidupan, mulai dari karbohidrat, protein, sampai DNA, menjadikannya salah satu unsur paling fundamental bagi kehidupan di bumi. Siklus karbon menggambarkan bagaimana atom-atom karbon ini terus bergerak dan berpindah antara berbagai 'wadah' penyimpanan di bumi, termasuk atmosfer (dalam bentuk gas karbon dioksida), makhluk hidup, lautan, dan tanah, membentuk siklus berkelanjutan yang tidak pernah benar-benar berhenti.\n\nFotosintesis menjadi titik masuk utama karbon dari atmosfer ke dalam makhluk hidup — tumbuhan dan organisme fotosintesis lain menyerap karbon dioksida dari udara dan mengubahnya jadi molekul organik seperti glukosa, menyimpan karbon tersebut dalam jaringan tubuhnya. Karbon ini kemudian berpindah sepanjang rantai makanan ketika hewan memakan tumbuhan, dan hewan lain memakan hewan tersebut, sehingga karbon terus berpindah dari satu makhluk hidup ke makhluk hidup lainnya. Respirasi seluler, baik pada tumbuhan, hewan, maupun mikroorganisme, mengembalikan sebagian karbon ini kembali ke atmosfer dalam bentuk karbon dioksida, melengkapi siklus dasar antara atmosfer dan makhluk hidup.\n\nLautan memainkan peran sangat besar dalam siklus karbon, menyerap dan menyimpan karbon dioksida dalam jumlah sangat besar, baik lewat proses fisika sederhana (karbon dioksida larut dalam air laut) maupun lewat organisme laut seperti fitoplankton yang melakukan fotosintesis di permukaan laut. Sebagian karbon juga tersimpan dalam jangka waktu sangat panjang di dalam tanah dan batuan, termasuk dalam bentuk bahan bakar fosil seperti batu bara dan minyak bumi, yang sebenarnya adalah sisa-sisa makhluk hidup purba yang terkubur dan mengalami proses geologis selama jutaan tahun. Aktivitas manusia, terutama pembakaran bahan bakar fosil dalam skala besar sejak revolusi industri, telah melepaskan karbon yang sebelumnya tersimpan aman di bawah tanah selama jutaan tahun kembali ke atmosfer dalam waktu yang jauh lebih singkat, mengganggu keseimbangan alami siklus karbon dan menjadi penyebab utama meningkatnya konsentrasi karbon dioksida di atmosfer, yang terkait erat dengan fenomena pemanasan global dan perubahan iklim yang sedang dihadapi dunia saat ini.",
+    "tags": ["siklus-karbon", "fotosintesis", "respirasi", "bahan-bakar-fosil", "perubahan-iklim", "biogeokimia"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-17"
+  },
+  {
+    "id": "sains.biologi.siklus-nitrogen",
+    "judul": "Siklus Nitrogen",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Siklus nitrogen menggambarkan bagaimana nitrogen, unsur penting penyusun protein dan DNA, bergerak antara atmosfer dan makhluk hidup lewat bantuan bakteri khusus, karena sebagian besar makhluk hidup tidak bisa langsung memanfaatkan nitrogen bebas di udara.",
+    "konten": "Nitrogen adalah unsur penting lain bagi kehidupan, menjadi komponen utama penyusun protein dan asam nukleat seperti DNA dan RNA. Menariknya, meski nitrogen sebenarnya merupakan gas paling melimpah di atmosfer bumi, mencakup sekitar 78 persen dari seluruh udara yang kita hirup, sebagian besar makhluk hidup, termasuk tumbuhan dan hewan, tidak bisa langsung memanfaatkan nitrogen dalam bentuk gas bebas ini karena ikatan antar atom nitrogennya sangat kuat dan stabil, sulit dipecah oleh kebanyakan organisme. Inilah yang membuat siklus nitrogen menjadi proses yang sangat bergantung pada bantuan mikroorganisme tertentu untuk 'membuka' nitrogen dari bentuk gas menjadi bentuk yang bisa dimanfaatkan makhluk hidup lain.\n\nProses mengubah nitrogen gas menjadi bentuk yang bisa dipakai tumbuhan disebut fiksasi nitrogen, dijalankan terutama oleh bakteri khusus yang hidup bebas di tanah atau yang hidup bersimbiosis di dalam akar beberapa jenis tumbuhan, terutama dari keluarga kacang-kacangan. Bakteri-bakteri ini mampu mengubah nitrogen gas menjadi senyawa amonium yang bisa diserap dan dimanfaatkan tumbuhan untuk membangun protein dan molekul penting lainnya. Hubungan simbiosis antara tumbuhan kacang-kacangan dan bakteri pengikat nitrogen ini saling menguntungkan — tumbuhan mendapat pasokan nitrogen yang dibutuhkannya, sementara bakteri mendapat tempat tinggal dan nutrisi dari tumbuhan inangnya, inilah sebabnya petani sering menanam tanaman kacang-kacangan secara bergiliran dengan tanaman lain untuk membantu menyuburkan tanah secara alami.\n\nSetelah nitrogen diserap tumbuhan dan berpindah lewat rantai makanan ke hewan yang memakannya, nitrogen pada akhirnya akan kembali ke lingkungan lewat berbagai jalur, termasuk pembusukan makhluk hidup yang mati dan pembuangan sisa metabolisme. Bakteri pengurai memecah senyawa nitrogen organik ini kembali menjadi bentuk sederhana, dan sebagian nitrogen ini bisa dikembalikan lagi ke atmosfer dalam bentuk gas lewat proses yang disebut denitrifikasi, dijalankan oleh kelompok bakteri lain, melengkapi siklus penuh perjalanan nitrogen dari atmosfer, melewati makhluk hidup, dan akhirnya kembali lagi ke atmosfer. Aktivitas manusia, terutama penggunaan pupuk kimia sintetis dalam skala besar untuk pertanian, juga telah mengubah secara signifikan jumlah nitrogen yang beredar dalam siklus ini, kadang menyebabkan masalah lingkungan seperti pencemaran air akibat kelebihan nitrogen yang terbawa limpasan air hujan ke sungai dan danau.",
+    "tags": ["siklus-nitrogen", "fiksasi-nitrogen", "bakteri-pengikat-nitrogen", "denitrifikasi", "biogeokimia"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-17"
+  }
+]

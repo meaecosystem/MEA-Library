@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sains.biologi.transkripsi-dna-ke-rna",
+    "judul": "Transkripsi: Dari DNA ke RNA",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Transkripsi adalah tahap pertama sintesis protein, di mana informasi genetik pada satu bagian DNA disalin menjadi molekul RNA, yang kemudian bisa keluar dari inti sel membawa 'cetak biru' untuk pembuatan protein.",
+    "konten": "DNA menyimpan seluruh instruksi genetik suatu makhluk hidup, tapi DNA sendiri tidak pernah keluar dari inti sel dan tidak langsung terlibat dalam pembuatan protein. Sebagai gantinya, informasi dari DNA perlu disalin dulu ke molekul perantara bernama RNA (ribonucleic acid atau asam ribonukleat), lewat proses yang disebut transkripsi. RNA punya struktur yang mirip DNA tapi dengan beberapa perbedaan penting: RNA hanya berbentuk untai tunggal (bukan heliks ganda seperti DNA), dan salah satu basa nitrogennya berbeda — RNA memakai urasil (U) menggantikan timin (T) yang ada pada DNA.\n\nProses transkripsi dimulai ketika enzim khusus bernama RNA polimerase menempel pada bagian awal gen yang akan disalin, lalu membuka sementara untaian heliks ganda DNA di area tersebut. Enzim ini kemudian bergerak di sepanjang salah satu untai DNA, membaca urutan basa nitrogennya satu per satu, dan menyusun untai RNA baru yang urutannya menjadi komplementer (pasangan) dari untai DNA yang dibacanya. Hasilnya adalah molekul RNA yang membawa salinan informasi genetik dari gen tersebut, meski dalam bentuk berbeda dari DNA aslinya. Hanya bagian DNA yang relevan (gen tertentu yang sedang dibutuhkan sel) yang ditranskripsi pada satu waktu, bukan keseluruhan DNA sekaligus, memungkinkan sel mengatur protein mana yang diproduksi sesuai kebutuhannya saat itu.\n\nSetelah proses transkripsi selesai, RNA yang dihasilkan, disebut RNA messenger atau mRNA, mengalami beberapa tahap pemrosesan tambahan sebelum siap dipakai, termasuk pemotongan bagian-bagian tertentu yang tidak dibutuhkan. Setelah matang, mRNA ini kemudian bergerak keluar dari inti sel menuju sitoplasma, membawa 'pesan' atau cetak biru genetik yang akan dipakai untuk tahap selanjutnya, yaitu membangun protein yang sesungguhnya. Transkripsi inilah yang memungkinkan sel memanfaatkan informasi yang tersimpan aman di dalam DNA tanpa harus mengeluarkan DNA itu sendiri dari inti sel yang berisiko merusaknya.",
+    "tags": ["transkripsi", "dna", "rna", "mrna", "rna-polimerase", "sintesis-protein"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-15"
+  },
+  {
+    "id": "sains.biologi.translasi-rna-ke-protein",
+    "judul": "Translasi: Dari RNA ke Protein",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Translasi adalah tahap kedua sintesis protein, di mana urutan kode pada mRNA diterjemahkan menjadi rangkaian asam amino yang membentuk protein, berlangsung di ribosom dengan bantuan molekul RNA transfer.",
+    "konten": "Setelah mRNA selesai dibentuk lewat transkripsi dan keluar dari inti sel, tahap selanjutnya adalah translasi, proses menerjemahkan urutan kode genetik pada mRNA menjadi rangkaian asam amino yang akhirnya membentuk protein. Proses ini berlangsung di ribosom, struktur sel yang bertindak seperti 'pabrik' perakit protein. Kode genetik pada mRNA dibaca dalam kelompok tiga basa nitrogen berurutan yang disebut kodon, dan setiap kodon punya arti spesifik, menandakan jenis asam amino tertentu yang harus ditambahkan ke rantai protein yang sedang dibangun — ada 64 kemungkinan kombinasi kodon yang mewakili 20 jenis asam amino berbeda, ditambah kodon khusus yang menandai awal dan akhir proses pembacaan.\n\nUntuk menerjemahkan kodon jadi asam amino yang sesuai, sel memakai molekul perantara lain bernama RNA transfer (tRNA), yang masing-masing membawa satu jenis asam amino spesifik di salah satu ujungnya, dan punya bagian lain yang bisa mengenali dan menempel pada kodon tertentu di mRNA. Ribosom bergerak di sepanjang untaian mRNA, membaca kodon demi kodon, dan setiap kali satu kodon dibaca, tRNA yang sesuai akan datang membawa asam amino yang tepat, yang kemudian disambungkan ke rantai asam amino yang sedang terbentuk. Proses ini berlangsung terus-menerus sampai ribosom mencapai kodon khusus yang menandakan akhir pembacaan, menandakan rantai asam amino sudah lengkap.\n\nRangkaian asam amino yang terbentuk ini kemudian melipat diri jadi bentuk tiga dimensi tertentu, menjadi protein yang fungsional dan siap bekerja sesuai perannya masing-masing di dalam sel atau tubuh. Protein punya fungsi yang sangat beragam, mulai dari enzim yang mempercepat reaksi kimia, protein struktural yang membentuk jaringan tubuh seperti kolagen di kulit, hormon seperti insulin, sampai antibodi yang melawan infeksi. Keseluruhan proses dari transkripsi sampai translasi inilah yang dikenal sebagai 'dogma sentral' biologi molekuler — alur informasi genetik dari DNA ke RNA lalu ke protein, menjelaskan bagaimana instruksi yang tersimpan dalam DNA akhirnya diterjemahkan jadi sifat dan fungsi nyata pada tingkat sel dan tubuh.",
+    "tags": ["translasi", "ribosom", "kodon", "trna", "asam-amino", "protein", "dogma-sentral"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-15"
+  }
+]

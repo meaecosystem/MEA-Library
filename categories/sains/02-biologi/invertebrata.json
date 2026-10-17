@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sains.biologi.invertebrata-pengantar",
+    "judul": "Invertebrata: Hewan Tanpa Tulang Belakang",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Invertebrata adalah kelompok hewan yang tidak memiliki tulang belakang, mencakup lebih dari 95 persen seluruh spesies hewan di bumi, dengan keragaman bentuk tubuh yang sangat luas mulai dari spons sederhana sampai serangga dan gurita yang kompleks.",
+    "konten": "Invertebrata adalah istilah umum untuk seluruh kelompok hewan yang tidak memiliki tulang belakang atau struktur rangka dalam yang keras, berbeda dari vertebrata seperti ikan, burung, dan mamalia. Meski sering dianggap 'lebih sederhana' dibanding vertebrata, kenyataannya invertebrata adalah kelompok hewan paling beragam dan paling banyak jumlahnya di bumi, diperkirakan mencakup lebih dari 95 persen seluruh spesies hewan yang sudah diketahui, mulai dari organisme sangat sederhana sampai yang punya perilaku dan kemampuan sensorik cukup kompleks.\n\nSalah satu kelompok invertebrata paling sederhana adalah spons (filum Porifera), hewan yang hidup menempel di satu tempat sepanjang hidupnya dan menyaring makanan dari air yang mengalir melewati tubuhnya yang penuh pori-pori kecil. Sedikit lebih kompleks adalah kelompok cnidaria, mencakup ubur-ubur, anemon laut, dan karang, yang punya tubuh simetris radial dan sel penyengat khusus untuk menangkap mangsa atau melindungi diri. Cacing pipih dan cacing gelang mewakili kelompok invertebrata dengan tubuh memanjang dan sistem organ yang mulai lebih terorganisir, meski masih tergolong sederhana dibanding kelompok invertebrata lain yang lebih maju.\n\nKelompok invertebrata paling beragam dan paling banyak jumlah spesiesnya adalah artropoda, mencakup serangga, laba-laba, kepiting, dan udang, semuanya punya ciri khas kerangka luar (eksoskeleton) yang keras dan kaki beruas-ruas. Serangga saja diperkirakan mencakup lebih dari satu juta spesies yang sudah teridentifikasi, menjadikannya kelompok hewan dengan jumlah spesies terbanyak di bumi. Moluska, kelompok invertebrata lain yang juga sangat beragam, mencakup hewan-hewan seperti siput, kerang, dan cumi-cumi atau gurita, yang meski terlihat sangat berbeda satu sama lain, semuanya punya struktur tubuh dasar yang serupa. Gurita khususnya menarik perhatian ilmuwan karena menunjukkan kemampuan kognitif yang mengejutkan untuk ukuran invertebrata, termasuk kemampuan memecahkan masalah dan belajar dari pengalaman, meski sistem sarafnya tersusun sangat berbeda dari vertebrata.",
+    "tags": ["invertebrata", "artropoda", "moluska", "cnidaria", "keanekaragaman-hayati"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-16"
+  },
+  {
+    "id": "sains.biologi.eksoskeleton-metamorfosis-serangga",
+    "judul": "Eksoskeleton dan Metamorfosis pada Serangga",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Serangga dan artropoda lain punya kerangka luar keras bernama eksoskeleton yang harus diganti secara berkala lewat proses pergantian kulit, dan banyak serangga mengalami metamorfosis, perubahan bentuk tubuh drastis selama siklus hidupnya.",
+    "konten": "Salah satu ciri khas paling mencolok dari artropoda, termasuk serangga, adalah kepemilikan eksoskeleton, yaitu kerangka luar yang keras membungkus seluruh tubuh, berbeda dari vertebrata yang punya kerangka dalam (endoskeleton) berupa tulang. Eksoskeleton ini tersusun terutama dari zat bernama kitin, memberikan perlindungan fisik bagi organ-organ di dalamnya sekaligus menjadi tempat menempelnya otot-otot untuk pergerakan. Namun eksoskeleton punya satu keterbatasan besar: karena sifatnya yang keras dan kaku, ia tidak bisa membesar seiring pertumbuhan tubuh hewan di dalamnya. Untuk mengatasi ini, serangga dan artropoda lain harus melalui proses yang disebut pergantian kulit atau ekdisis, di mana eksoskeleton lama dilepaskan dan digantikan eksoskeleton baru yang lebih besar, yang awalnya masih lunak sebelum mengeras sempurna dalam beberapa waktu.\n\nBanyak jenis serangga juga mengalami metamorfosis, perubahan bentuk tubuh yang drastis selama siklus hidupnya, sangat berbeda dari kebanyakan vertebrata yang umumnya hanya tumbuh membesar tanpa perubahan bentuk fundamental. Metamorfosis sempurna, dialami misalnya oleh kupu-kupu dan kumbang, melibatkan empat tahap berbeda: telur, larva (seperti ulat pada kupu-kupu), pupa (tahap diam di mana tubuh mengalami perombakan besar-besaran di dalam kepompong atau kulit keras), dan akhirnya dewasa, dengan bentuk tubuh yang sama sekali berbeda antara tahap larva dan dewasa. Perbedaan bentuk yang ekstrem ini sebenarnya menguntungkan secara ekologis, karena tahap larva dan dewasa sering memakan jenis makanan berbeda dan menghuni lingkungan berbeda pula, sehingga mengurangi persaingan sumber daya antar tahap kehidupan yang sama.\n\nMetamorfosis tidak sempurna, dialami misalnya oleh belalang dan kecoa, melibatkan tahap yang lebih sederhana: telur, nimfa (bentuk muda yang sudah menyerupai bentuk dewasa meski lebih kecil dan belum punya sayap fungsional), dan dewasa, tanpa melalui tahap pupa yang diam. Nimfa akan mengalami beberapa kali pergantian kulit seiring pertumbuhannya, semakin menyerupai bentuk dewasa setiap kali berganti kulit, sampai akhirnya mencapai bentuk dewasa penuh dengan sayap fungsional dan organ reproduksi yang matang. Kedua jenis metamorfosis ini menunjukkan strategi berbeda yang dikembangkan berbagai kelompok serangga untuk beradaptasi dan bertahan hidup di lingkungannya masing-masing.",
+    "tags": ["eksoskeleton", "metamorfosis", "ekdisis", "serangga", "kitin", "larva-pupa"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-16"
+  }
+]

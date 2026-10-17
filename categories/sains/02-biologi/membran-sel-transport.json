@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sains.biologi.struktur-membran-sel",
+    "judul": "Struktur Membran Sel",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Membran sel adalah lapisan tipis yang membungkus setiap sel, tersusun dari dua lapis molekul lemak dengan berbagai protein tertanam di dalamnya, bersifat selektif permeabel sehingga bisa mengatur zat apa saja yang boleh masuk dan keluar sel.",
+    "konten": "Setiap sel, baik sel bakteri sederhana maupun sel manusia yang kompleks, dibungkus oleh lapisan tipis bernama membran sel yang memisahkan bagian dalam sel dari lingkungan luarnya. Membran ini tersusun utama dari molekul lemak khusus bernama fosfolipid, yang punya sifat unik: satu bagian molekulnya menyukai air (disebut hidrofilik), sementara bagian lainnya justru menolak air (disebut hidrofobik). Karena sifat ganda ini, ketika banyak molekul fosfolipid berkumpul dalam lingkungan berair seperti di dalam dan luar sel, mereka secara otomatis tersusun jadi dua lapisan, dengan bagian yang menyukai air menghadap keluar (ke arah lingkungan berair) dan bagian yang menolak air saling berhadapan di tengah, membentuk struktur yang disebut lapisan ganda fosfolipid (phospholipid bilayer).\n\nTertanam di dalam lapisan ganda fosfolipid ini ada berbagai jenis protein yang menjalankan fungsi penting. Sebagian protein berfungsi sebagai saluran atau pembawa yang membantu zat-zat tertentu melewati membran, karena lapisan lemak pada dasarnya menghalangi sebagian besar molekul untuk lewat secara bebas. Protein lain berfungsi sebagai reseptor, menerima dan merespons sinyal kimia dari luar sel, seperti hormon yang menempel pada reseptor tertentu untuk memicu respons di dalam sel. Ada juga protein yang berfungsi sebagai penanda identitas sel, membantu sistem imun membedakan sel tubuh sendiri dari sel asing atau kuman yang menyerang.\n\nSifat paling penting dari membran sel adalah selektif permeabel, artinya membran ini tidak membiarkan semua zat lewat begitu saja, tapi secara selektif mengatur zat apa yang boleh masuk dan keluar sel, kapan, dan dalam jumlah berapa. Sifat ini sangat krusial bagi kelangsungan hidup sel, karena memungkinkan sel menjaga kondisi internalnya tetap stabil dan berbeda dari lingkungan luar, sekaligus tetap bisa mengambil zat yang dibutuhkan (seperti nutrisi dan oksigen) dan membuang zat sisa yang tidak diperlukan. Tanpa membran sel yang berfungsi baik, sel tidak akan bisa mempertahankan keseimbangan internalnya dan pada akhirnya tidak bisa bertahan hidup.",
+    "tags": ["membran-sel", "fosfolipid", "selektif-permeabel", "protein-membran", "reseptor"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-15"
+  },
+  {
+    "id": "sains.biologi.transport-pasif-difusi-osmosis",
+    "judul": "Transport Pasif: Difusi dan Osmosis",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Transport pasif adalah pergerakan zat melewati membran sel tanpa membutuhkan energi tambahan, mencakup difusi (pergerakan zat dari konsentrasi tinggi ke rendah) dan osmosis (pergerakan air khusus melewati membran selektif permeabel).",
+    "konten": "Transport pasif adalah cara zat berpindah melewati membran sel tanpa membutuhkan energi tambahan dari sel, karena pergerakannya mengikuti kecenderungan alami zat tersebut, mirip seperti air yang mengalir menuruni bukit tanpa perlu didorong. Bentuk transport pasif paling sederhana disebut difusi, yaitu pergerakan molekul dari area dengan konsentrasi tinggi menuju area dengan konsentrasi lebih rendah, sampai akhirnya konsentrasi di kedua sisi menjadi merata atau seimbang. Contoh sederhana difusi adalah oksigen yang bergerak dari udara di dalam paru-paru (konsentrasi tinggi) masuk ke dalam darah (konsentrasi lebih rendah) lewat dinding tipis alveolus, mengikuti arah pergerakan alami ini tanpa perlu energi tambahan dari sel.\n\nOsmosis adalah bentuk khusus dari difusi yang secara spesifik membahas pergerakan air melewati membran selektif permeabel, bergerak dari area dengan konsentrasi air tinggi (larutan encer) menuju area dengan konsentrasi air lebih rendah (larutan lebih pekat). Osmosis punya peran sangat penting dalam menjaga keseimbangan cairan sel. Kalau sel diletakkan dalam larutan yang jauh lebih pekat dibanding cairan di dalam selnya, air akan bergerak keluar lewat osmosis, membuat sel menyusut atau bahkan rusak karena kehilangan terlalu banyak air. Sebaliknya, kalau sel diletakkan dalam larutan yang jauh lebih encer, air akan bergerak masuk ke dalam sel, bisa membuat sel membengkak dan pada kasus ekstrem bahkan pecah.\n\nInilah alasan mengapa tubuh manusia dan makhluk hidup lain punya mekanisme ketat untuk menjaga keseimbangan konsentrasi cairan di dalam dan luar sel tetap seimbang atau isotonik, karena perubahan konsentrasi yang terlalu drastis bisa sangat berbahaya bagi kesehatan sel. Prinsip osmosis ini juga dimanfaatkan dalam berbagai cara praktis, misalnya pengawetan makanan dengan garam atau gula pekat, yang bekerja dengan menarik keluar air dari sel-sel mikroorganisme lewat osmosis, membuat lingkungan jadi terlalu kering untuk mikroorganisme itu berkembang biak dan merusak makanan.",
+    "tags": ["transport-pasif", "difusi", "osmosis", "konsentrasi", "isotonik", "membran-selektif-permeabel"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-15"
+  },
+  {
+    "id": "sains.biologi.transport-aktif-endositosis-eksositosis",
+    "judul": "Transport Aktif, Endositosis, dan Eksositosis",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Transport aktif adalah pergerakan zat melewati membran sel yang membutuhkan energi karena melawan arah alami konsentrasi, sementara endositosis dan eksositosis adalah cara sel memasukkan atau mengeluarkan partikel besar lewat perubahan bentuk membran.",
+    "konten": "Berbeda dari transport pasif yang mengikuti arah alami pergerakan zat, transport aktif adalah proses memindahkan zat melewati membran sel dengan arah berlawanan dari kecenderungan alaminya, misalnya memindahkan zat dari konsentrasi rendah ke konsentrasi lebih tinggi. Karena melawan arah alami, proses ini membutuhkan energi tambahan, biasanya dalam bentuk ATP yang dihasilkan dari respirasi seluler. Transport aktif dijalankan oleh protein khusus di membran sel yang bertindak seperti 'pompa', mengikat zat tertentu di satu sisi membran, lalu menggunakan energi untuk mengubah bentuknya dan melepaskan zat tersebut di sisi lain membran. Contoh penting transport aktif adalah pompa natrium-kalium yang ditemukan di hampir semua sel hewan, bekerja terus-menerus memompa ion natrium keluar sel dan ion kalium masuk ke dalam sel, menjaga perbedaan konsentrasi ion yang sangat penting bagi kerja sel saraf dan otot.\n\nUntuk partikel yang terlalu besar untuk lewat lewat saluran protein biasa, sel punya mekanisme khusus bernama endositosis dan eksositosis, keduanya juga membutuhkan energi. Endositosis adalah proses sel 'menelan' materi dari luar dengan cara melipat sebagian membrannya ke dalam, membungkus partikel yang ingin dimasukkan, lalu melepaskan bungkusan membran berisi partikel tersebut ke dalam sitoplasma sel sebagai kantung tersendiri yang disebut vesikel. Proses ini dipakai misalnya oleh sel darah putih untuk menelan dan menghancurkan bakteri yang menyerang tubuh, atau oleh sel-sel tertentu untuk mengambil nutrisi berukuran besar dari lingkungan sekitarnya.\n\nEksositosis bekerja dengan prinsip sebaliknya, yaitu proses sel mengeluarkan materi dari dalam ke luar sel. Materi yang akan dikeluarkan dibungkus dalam vesikel di dalam sel, yang kemudian bergerak menuju membran sel dan menyatu dengannya, melepaskan isinya ke luar sel. Eksositosis dipakai misalnya oleh sel-sel kelenjar untuk mengeluarkan hormon ke dalam darah, atau oleh sel saraf untuk melepaskan zat kimia neurotransmitter yang dipakai untuk mengirim sinyal ke sel saraf lain di titik sinapsis. Bersama-sama, transport aktif, endositosis, dan eksositosis memungkinkan sel menjalankan berbagai fungsi penting yang tidak mungkin dilakukan hanya lewat transport pasif saja, meski semuanya membutuhkan 'biaya' energi yang harus terus dipasok sel lewat respirasi seluler.",
+    "tags": ["transport-aktif", "pompa-natrium-kalium", "endositosis", "eksositosis", "atp", "vesikel"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-15"
+  }
+]

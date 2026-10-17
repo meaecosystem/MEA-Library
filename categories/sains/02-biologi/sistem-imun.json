@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sains.biologi.sistem-imun-bawaan",
+    "judul": "Sistem Imun Bawaan: Garis Pertahanan Pertama",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Sistem imun bawaan adalah garis pertahanan pertama tubuh melawan infeksi, bekerja cepat dan sama terhadap semua jenis penyerbu, mencakup penghalang fisik seperti kulit, sel-sel yang menelan kuman, serta respons peradangan.",
+    "konten": "Sistem imun bawaan adalah bagian dari sistem kekebalan tubuh yang sudah siap bekerja sejak lahir, tanpa perlu belajar mengenali penyerbu tertentu terlebih dahulu, dan bereaksi dengan cara yang sama terhadap hampir semua jenis kuman yang masuk. Lapisan pertahanan paling luar adalah penghalang fisik dan kimia, seperti kulit yang menjadi tembok pelindung terhadap sebagian besar kuman, lendir di saluran pernapasan yang menjebak partikel asing, serta asam lambung yang bisa membunuh banyak jenis bakteri yang tertelan bersama makanan. Penghalang-penghalang ini bekerja secara pasif, mencegah kuman masuk ke dalam tubuh sejak awal.\n\nKalau kuman berhasil menembus penghalang pertama ini, sistem imun bawaan punya lapisan pertahanan kedua berupa sel-sel khusus yang berpatroli di dalam tubuh. Sel darah putih jenis fagosit, misalnya, bertugas menelan dan menghancurkan kuman serta sel-sel tubuh yang rusak, bekerja seperti 'pembersih' yang langsung menyerang apa pun yang dikenali sebagai benda asing. Sel natural killer adalah jenis sel darah putih lain yang khusus berpatroli mencari dan menghancurkan sel tubuh yang terinfeksi virus atau sel yang berubah jadi sel kanker, sebelum masalah itu sempat menyebar lebih luas.\n\nKetika terjadi infeksi atau cedera, tubuh juga merespons dengan peradangan, yang meski sering dianggap tidak nyaman, sebenarnya merupakan mekanisme pertahanan penting. Area yang terluka atau terinfeksi menjadi merah, bengkak, dan terasa hangat karena pembuluh darah di sekitarnya melebar, mengalirkan lebih banyak sel imun dan zat kimia pertahanan ke lokasi masalah. Demam, yang sering menyertai infeksi, juga merupakan respons pertahanan tubuh yang disengaja — suhu tubuh yang lebih tinggi membuat lingkungan tubuh kurang nyaman bagi banyak jenis kuman untuk berkembang biak, sekaligus mempercepat kerja beberapa sel imun. Sistem imun bawaan ini bekerja sangat cepat, biasanya dalam hitungan menit hingga jam setelah infeksi terjadi, menjadikannya respons pertama yang krusial sebelum sistem imun adaptif yang lebih canggih sempat ikut bekerja.",
+    "tags": ["sistem-imun", "imun-bawaan", "fagosit", "sel-natural-killer", "peradangan", "demam"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-15"
+  },
+  {
+    "id": "sains.biologi.sistem-imun-adaptif-antibodi",
+    "judul": "Sistem Imun Adaptif dan Antibodi",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Sistem imun adaptif adalah pertahanan tubuh yang lebih canggih, mampu mengenali penyerbu secara spesifik dan 'mengingat' infeksi sebelumnya lewat sel memori, sehingga respons terhadap infeksi berulang jadi jauh lebih cepat.",
+    "konten": "Berbeda dari sistem imun bawaan yang bereaksi sama terhadap semua penyerbu, sistem imun adaptif adalah pertahanan yang jauh lebih canggih karena mampu mengenali jenis kuman tertentu secara spesifik dan menyesuaikan responsnya. Sistem ini melibatkan dua jenis sel darah putih utama yang disebut limfosit: sel B dan sel T. Sel B bertugas memproduksi antibodi, protein khusus berbentuk seperti huruf Y yang dirancang untuk mengenali dan menempel pada bagian spesifik dari kuman tertentu (disebut antigen), menandainya untuk dihancurkan oleh sel imun lain atau langsung menetralkan kemampuan kuman itu untuk menginfeksi sel tubuh.\n\nSel T punya beberapa jenis dengan tugas berbeda. Sel T sitotoksik bertugas langsung menghancurkan sel tubuh yang sudah terinfeksi virus, sebelum virus di dalamnya sempat menggandakan diri lebih banyak dan menyebar. Sel T helper berperan sebagai 'koordinator', membantu mengarahkan dan mengaktifkan sel imun lain, termasuk membantu sel B memproduksi antibodi lebih efektif. Yang membuat sistem imun adaptif begitu istimewa adalah kemampuannya membentuk 'ingatan' — setelah tubuh berhasil melawan suatu infeksi, sebagian sel B dan sel T yang terlibat berubah jadi sel memori yang bisa bertahan hidup bertahun-tahun, bahkan seumur hidup, siap mengenali dan merespons jauh lebih cepat kalau tubuh terpapar kuman yang sama di kemudian hari.\n\nPrinsip sel memori inilah yang menjadi dasar kerja vaksin. Vaksin memasukkan bentuk kuman yang sudah dilemahkan, dimatikan, atau hanya bagian kecil darinya ke dalam tubuh, cukup untuk memicu sistem imun adaptif membentuk sel memori, tanpa benar-benar menyebabkan penyakit yang sesungguhnya. Dengan begitu, kalau suatu saat tubuh benar-benar terpapar kuman asli, sistem imun sudah 'mengenal' dan bisa merespons jauh lebih cepat dan kuat, sering kali mencegah orang itu sakit sama sekali atau membuat gejalanya jauh lebih ringan. Inilah sebabnya seseorang yang pernah terkena cacar air umumnya kebal seumur hidup terhadap penyakit yang sama, dan mengapa vaksinasi menjadi salah satu alat paling efektif dalam mencegah penyebaran berbagai penyakit menular.",
+    "tags": ["sistem-imun-adaptif", "antibodi", "sel-b", "sel-t", "sel-memori", "vaksin"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-15"
+  }
+]

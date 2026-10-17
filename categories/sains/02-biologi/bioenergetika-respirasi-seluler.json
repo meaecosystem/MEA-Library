@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sains.biologi.glikolisis",
+    "judul": "Glikolisis: Tahap Awal Pemecahan Glukosa",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Glikolisis adalah tahap pertama respirasi seluler, berlangsung di sitoplasma sel tanpa membutuhkan oksigen, memecah satu molekul glukosa menjadi dua molekul lebih kecil sambil menghasilkan sedikit energi dan menjadi gerbang menuju tahap respirasi berikutnya.",
+    "konten": "Glikolisis adalah tahap paling awal dari proses respirasi seluler, yaitu rangkaian reaksi yang mengubah energi kimia dalam glukosa menjadi bentuk energi yang bisa langsung dipakai sel. Berbeda dari tahap-tahap respirasi seluler lainnya yang berlangsung di dalam mitokondria, glikolisis terjadi di sitoplasma, cairan yang mengisi ruang di dalam sel di luar organel-organel utama. Keistimewaan lain glikolisis adalah ia tidak membutuhkan oksigen untuk berlangsung, menjadikannya tahap yang bisa tetap berjalan bahkan dalam kondisi tubuh kekurangan oksigen, seperti saat berolahraga sangat intensif.\n\nSecara garis besar, glikolisis memecah satu molekul glukosa, gula sederhana beratom karbon enam, menjadi dua molekul lebih kecil bernama piruvat yang masing-masing beratom karbon tiga. Proses pemecahan ini melibatkan serangkaian reaksi kimia yang dibantu berbagai enzim, dan meski terdengar sederhana, sebenarnya melibatkan banyak tahap perantara. Selama proses ini, sel menginvestasikan sedikit energi di awal untuk 'mengaktifkan' molekul glukosa, tapi pada akhirnya menghasilkan energi bersih dalam jumlah kecil berupa dua molekul ATP serta sejumlah molekul pembawa elektron bernama NADH, yang nantinya akan dipakai pada tahap respirasi seluler berikutnya untuk menghasilkan energi jauh lebih banyak.\n\nMeski energi yang dihasilkan langsung dari glikolisis sendiri relatif sedikit dibanding tahap-tahap berikutnya, glikolisis tetap jadi tahap yang sangat penting karena menjadi gerbang masuk bagi hampir semua jalur respirasi seluler. Molekul piruvat yang dihasilkan glikolisis akan menentukan jalur selanjutnya yang ditempuh sel: kalau oksigen tersedia cukup, piruvat akan masuk ke mitokondria untuk diproses lebih lanjut lewat siklus Krebs dan rantai transpor elektron, menghasilkan energi dalam jumlah jauh lebih besar. Namun kalau oksigen tidak tersedia cukup, sel akan mengandalkan jalur alternatif yang disebut fermentasi, yang meski menghasilkan energi jauh lebih sedikit, tetap memungkinkan sel bertahan sementara dalam kondisi kekurangan oksigen, seperti yang terjadi pada sel otot saat olahraga sangat berat yang menghasilkan penumpukan asam laktat.",
+    "tags": ["glikolisis", "glukosa", "piruvat", "atp", "respirasi-seluler", "sitoplasma"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-15"
+  },
+  {
+    "id": "sains.biologi.siklus-krebs",
+    "judul": "Siklus Krebs",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Ditemukan oleh Hans Krebs pada 1937"
+    },
+    "ringkasan": "Siklus Krebs adalah tahap kedua respirasi seluler yang berlangsung di dalam mitokondria, memecah lebih lanjut hasil dari glikolisis sambil menghasilkan sejumlah besar molekul pembawa elektron yang akan dipakai untuk memproduksi energi di tahap berikutnya.",
+    "konten": "Siklus Krebs, dinamai sesuai nama Hans Krebs, ilmuwan yang menemukan rangkaian reaksi ini pada 1937, adalah tahap kedua dari respirasi seluler, berlangsung di dalam ruang bagian dalam mitokondria. Sebelum memasuki siklus Krebs, molekul piruvat yang dihasilkan glikolisis terlebih dahulu diubah menjadi bentuk molekul lain yang disebut asetil koenzim A (atau sering disingkat asetil-KoA), proses yang juga menghasilkan sedikit energi tambahan dan melepaskan karbon dioksida sebagai produk sampingan pertama dari serangkaian pelepasan karbon dioksida yang terjadi selama respirasi seluler.\n\nAsetil-KoA yang terbentuk kemudian memasuki siklus Krebs, dinamakan 'siklus' karena rangkaian reaksinya memang berbentuk melingkar — molekul awal yang memulai siklus akan terbentuk kembali di akhir siklus, siap untuk menerima asetil-KoA baru dan memulai putaran berikutnya. Sepanjang siklus ini, molekul terus dipecah secara bertahap, melepaskan karbon dalam bentuk karbon dioksida (yang akhirnya dibuang tubuh lewat napas), sambil pada saat bersamaan menangkap elektron berenergi tinggi dan menyimpannya dalam molekul pembawa elektron, terutama NADH dan sejumlah kecil molekul serupa bernama FADH2. Siklus Krebs sendiri hanya menghasilkan sedikit energi langsung dalam bentuk ATP, tapi menghasilkan banyak sekali molekul pembawa elektron NADH dan FADH2 yang jadi 'bahan baku' sangat penting untuk tahap respirasi seluler berikutnya.\n\nSiklus Krebs berputar dua kali untuk setiap satu molekul glukosa yang awalnya diproses, karena satu molekul glukosa menghasilkan dua molekul asetil-KoA lewat tahap sebelumnya. Molekul-molekul NADH dan FADH2 yang dihasilkan sepanjang siklus ini bisa dibayangkan seperti 'baterai' yang sudah terisi energi, siap dibawa menuju tahap terakhir respirasi seluler, yaitu rantai transpor elektron, tempat energi yang tersimpan dalam molekul-molekul pembawa elektron ini akhirnya dikonversi jadi sebagian besar ATP yang dibutuhkan sel untuk menjalankan berbagai fungsinya.",
+    "tags": ["siklus-krebs", "hans-krebs", "mitokondria", "asetil-koa", "nadh", "respirasi-seluler"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-15"
+  },
+  {
+    "id": "sains.biologi.rantai-transpor-elektron",
+    "judul": "Rantai Transpor Elektron",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Rantai transpor elektron adalah tahap terakhir dan paling produktif dari respirasi seluler, menggunakan elektron dari molekul pembawa yang dihasilkan tahap sebelumnya dan oksigen untuk menghasilkan sebagian besar ATP yang dibutuhkan sel.",
+    "konten": "Rantai transpor elektron adalah tahap terakhir dan paling produktif dari keseluruhan proses respirasi seluler, berlangsung di membran bagian dalam mitokondria yang berlipat-lipat, memperluas permukaan tempat berlangsungnya proses ini. Pada tahap ini, molekul pembawa elektron NADH dan FADH2 yang dihasilkan dari glikolisis dan siklus Krebs akhirnya 'menyetor' elektron berenergi tinggi yang mereka bawa ke serangkaian protein khusus yang tersusun berurutan di membran mitokondria, membentuk semacam rantai perpindahan elektron dari satu protein ke protein berikutnya.\n\nSetiap kali elektron berpindah dari satu protein ke protein berikutnya dalam rantai ini, sedikit energi dilepaskan, dan energi ini dimanfaatkan untuk memompa partikel bermuatan (ion hidrogen) melintasi membran mitokondria, menciptakan perbedaan konsentrasi yang besar antara satu sisi membran dengan sisi lainnya, mirip seperti air yang ditumpuk tinggi di belakang bendungan. Perbedaan konsentrasi inilah yang kemudian dimanfaatkan oleh protein khusus bernama ATP sintase, yang bekerja seperti kincir air — ion hidrogen yang 'mengalir' deras kembali melintasi membran lewat ATP sintase memutar bagian dari protein ini, dan gerakan putaran ini dipakai untuk menggabungkan molekul ADP dengan fosfat, menghasilkan ATP dalam jumlah sangat besar, jauh lebih banyak dibanding yang dihasilkan glikolisis dan siklus Krebs secara langsung.\n\nDi ujung akhir rantai transpor elektron, elektron yang sudah kehilangan sebagian besar energinya akhirnya diterima oleh oksigen, yang kemudian bergabung dengan ion hidrogen membentuk air sebagai produk sampingan. Inilah sebabnya oksigen begitu krusial dalam respirasi seluler — tanpa oksigen sebagai 'penerima akhir' elektron ini, seluruh rantai transpor elektron akan macet dan terhenti, karena protein-protein dalam rantai tidak bisa lagi melepaskan elektronnya untuk menerima elektron baru dari molekul berikutnya. Secara keseluruhan, dari satu molekul glukosa yang diproses lewat seluruh tahap respirasi seluler (glikolisis, siklus Krebs, dan rantai transpor elektron), sel bisa menghasilkan sekitar tiga puluh hingga tiga puluh dua molekul ATP, jauh lebih efisien dibanding kalau glukosa hanya diproses lewat glikolisis saja tanpa oksigen, yang hanya menghasilkan dua ATP per molekul glukosa.",
+    "tags": ["rantai-transpor-elektron", "mitokondria", "atp-sintase", "oksigen", "respirasi-seluler", "nadh"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-15"
+  }
+]

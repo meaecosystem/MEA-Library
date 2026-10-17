@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sains.biologi.jam-molekuler",
+    "judul": "Jam Molekuler: Menghitung Waktu Evolusi Lewat DNA",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dikembangkan sejak 1960-an, terus disempurnakan hingga kini"
+    },
+    "ringkasan": "Jam molekuler adalah teknik memperkirakan kapan dua spesies berpisah dari nenek moyang bersama, dengan menghitung jumlah perbedaan DNA antar spesies dan membandingkannya dengan laju mutasi yang relatif konsisten dari waktu ke waktu.",
+    "konten": "Jam molekuler adalah teknik yang dikembangkan ilmuwan untuk memperkirakan kapan dua spesies yang berkerabat berpisah dari nenek moyang bersama mereka, memanfaatkan fakta bahwa mutasi pada DNA cenderung terjadi dengan laju yang relatif konsisten dan bisa diprediksi dari waktu ke waktu pada bagian-bagian tertentu genom. Konsep dasarnya cukup sederhana: semakin lama waktu berlalu sejak dua spesies berpisah dari nenek moyang bersama, semakin banyak pula perbedaan mutasi yang terakumulasi secara independen pada DNA masing-masing spesies tersebut, karena masing-masing garis keturunan terus mengalami mutasi baru secara terpisah setelah perpisahan tersebut terjadi.\n\nUntuk memakai jam molekuler, ilmuwan pertama-tama perlu mengetahui atau memperkirakan laju mutasi rata-rata pada bagian DNA tertentu yang mereka teliti, biasanya dikalibrasi menggunakan bukti fosil yang usianya sudah diketahui lewat metode penanggalan lain seperti penanggalan radiometrik. Setelah laju mutasi ini diketahui, ilmuwan bisa membandingkan jumlah perbedaan DNA antara dua spesies yang ingin diteliti hubungan kekerabatannya, lalu menghitung mundur kira-kira berapa lama waktu yang dibutuhkan untuk menghasilkan jumlah perbedaan tersebut berdasarkan laju mutasi yang sudah diketahui, memberikan perkiraan kapan kedua spesies tersebut terakhir kali berbagi nenek moyang bersama.\n\nMeski sangat berguna, jam molekuler bukan alat yang sempurna dan punya beberapa keterbatasan penting. Laju mutasi tidak selalu benar-benar konstan pada semua bagian DNA atau pada semua kelompok makhluk hidup — beberapa bagian genom bermutasi lebih cepat dibanding bagian lain, dan laju mutasi juga bisa sedikit berbeda antar spesies tergantung berbagai faktor seperti lama waktu generasi atau tingkat metabolisme. Karena itu, ilmuwan biasanya menggunakan beberapa metode dan sumber bukti berbeda secara bersamaan, termasuk kombinasi data fosil, perbandingan anatomi, dan beberapa jenis jam molekuler dari bagian genom berbeda, untuk saling memverifikasi dan menghasilkan perkiraan yang lebih akurat dan bisa dipercaya tentang kapan peristiwa evolusi penting terjadi di masa lampau, termasuk memperkirakan kapan garis keturunan manusia berpisah dari nenek moyang bersama dengan simpanse, diperkirakan sekitar enam hingga tujuh juta tahun lalu berdasarkan berbagai bukti molekuler dan fosil yang sudah dikumpulkan.",
+    "tags": ["jam-molekuler", "mutasi-dna", "evolusi", "penanggalan-fosil", "kekerabatan-evolusioner"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-17"
+  },
+  {
+    "id": "sains.biologi.evolusi-manusia-garis-keturunan",
+    "judul": "Garis Keturunan Evolusi Manusia",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Mencakup rentang waktu sekitar 6-7 juta tahun lalu hingga sekarang"
+    },
+    "ringkasan": "Manusia modern berevolusi lewat garis keturunan panjang yang melibatkan beberapa spesies hominin berbeda, bermula dari nenek moyang bersama dengan simpanse jutaan tahun lalu, hingga akhirnya Homo sapiens menjadi satu-satunya spesies hominin yang bertahan sampai sekarang.",
+    "konten": "Manusia modern, secara ilmiah dikenal sebagai Homo sapiens, adalah hasil dari proses evolusi panjang yang melibatkan banyak spesies hominin (kelompok primata yang berjalan tegak dengan dua kaki) berbeda sepanjang jutaan tahun, bukan proses linear sederhana dari satu spesies ke spesies lain. Berdasarkan bukti fosil dan molekuler, garis keturunan manusia dan simpanse diperkirakan berpisah dari nenek moyang bersama sekitar enam hingga tujuh juta tahun lalu. Sejak perpisahan ini, muncul berbagai spesies hominin purba, beberapa di antaranya hidup pada periode waktu yang sama dan bahkan di wilayah geografis yang tumpang tindih, menunjukkan bahwa evolusi manusia lebih menyerupai pohon bercabang-cabang dengan banyak ranting, bukan garis lurus tunggal menuju manusia modern.\n\nSalah satu spesies hominin awal yang terkenal adalah Australopithecus, yang hidup sekitar empat juta tahun lalu, sudah menunjukkan kemampuan berjalan tegak dengan dua kaki meski otaknya masih relatif kecil, mendekati ukuran otak simpanse modern. Fosil terkenal bernama 'Lucy', ditemukan di Ethiopia, adalah salah satu contoh fosil Australopithecus yang cukup lengkap dan memberi banyak informasi penting tentang tahap awal evolusi manusia. Genus Homo, yang mencakup manusia modern, muncul belakangan, sekitar dua hingga tiga juta tahun lalu, dengan spesies-spesies seperti Homo habilis yang mulai menunjukkan penggunaan alat sederhana, dan Homo erectus yang punya otak lebih besar dan merupakan hominin pertama yang diperkirakan menyebar keluar dari Afrika ke berbagai wilayah di Asia dan Eropa.\n\nHomo sapiens, spesies manusia modern, diperkirakan muncul di Afrika sekitar 300 ribu tahun lalu, dan kemudian menyebar ke berbagai belahan dunia dalam beberapa gelombang migrasi besar, menggantikan atau bercampur dengan spesies hominin lain yang sudah lebih dulu ada di wilayah tersebut, seperti Homo neanderthalensis (Neanderthal) di Eropa dan Asia Barat, yang punah sekitar 40 ribu tahun lalu. Penelitian DNA modern bahkan menemukan bahwa manusia modern non-Afrika membawa sejumlah kecil materi genetik dari Neanderthal, menunjukkan bahwa kedua spesies ini sempat berinteraksi dan bahkan bercampur secara genetik sebelum Neanderthal akhirnya punah. Saat ini, Homo sapiens menjadi satu-satunya spesies hominin yang masih bertahan hidup dari seluruh garis keturunan hominin yang pernah ada, sebuah fakta yang kadang membuat orang lupa bahwa sepanjang sebagian besar sejarah evolusi hominin, justru lebih dari satu spesies hominin biasanya hidup berdampingan pada waktu yang sama.",
+    "tags": ["evolusi-manusia", "hominin", "homo-sapiens", "australopithecus", "neanderthal", "homo-erectus"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-17"
+  }
+]

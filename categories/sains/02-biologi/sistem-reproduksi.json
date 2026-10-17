@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sains.biologi.sistem-reproduksi-pria",
+    "judul": "Sistem Reproduksi Pria",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Sistem reproduksi pria bertugas memproduksi sel sperma dan hormon testosteron, melibatkan testis sebagai organ utama produksi, serta saluran dan kelenjar pendukung yang menyalurkan sperma saat reproduksi.",
+    "konten": "Sistem reproduksi pria berpusat pada sepasang organ bernama testis, yang terletak di dalam kantung skrotum di luar rongga tubuh utama. Posisi di luar tubuh ini penting karena produksi sperma yang sehat membutuhkan suhu sedikit lebih rendah dibanding suhu inti tubuh, dan skrotum membantu menjaga suhu testis tetap optimal, bahkan bisa menyesuaikan posisinya (mendekat atau menjauh dari tubuh) tergantung suhu lingkungan. Testis punya dua fungsi utama: memproduksi sel sperma lewat proses yang disebut spermatogenesis, dan memproduksi hormon testosteron, hormon utama yang bertanggung jawab atas perkembangan ciri kelamin sekunder pria seperti pertumbuhan rambut wajah, perubahan suara, dan pertumbuhan massa otot, terutama selama masa pubertas.\n\nSel sperma yang diproduksi di testis kemudian disimpan dan matang di saluran berliku bernama epididimis, yang kalau direntangkan panjangnya bisa mencapai beberapa meter meski tergulung sangat rapat di ruang kecil. Dari epididimis, sperma akan bergerak lewat saluran bernama vas deferens menuju uretra, saluran yang juga dipakai untuk mengeluarkan urine dari kandung kemih, namun kedua fungsi ini tidak terjadi bersamaan. Sepanjang perjalanannya, sperma bercampur dengan cairan yang diproduksi beberapa kelenjar tambahan, termasuk vesikula seminalis dan kelenjar prostat, yang menghasilkan cairan kaya nutrisi dan zat lain yang membantu sperma bertahan hidup dan bergerak lebih efektif, campuran inilah yang membentuk air mani.\n\nPenis adalah organ yang berfungsi menyalurkan sperma ke dalam tubuh pasangan saat terjadi hubungan seksual, sekaligus menjadi saluran keluarnya urine dari kandung kemih saat buang air kecil. Struktur penis mengandung jaringan khusus yang bisa terisi darah dalam jumlah lebih banyak saat terjadi rangsangan, menyebabkan ereksi yang membuat penis mengeras dan membesar, kondisi yang diperlukan untuk proses reproduksi. Satu kali ejakulasi bisa melepaskan puluhan hingga ratusan juta sel sperma sekaligus, meski pada akhirnya hanya satu sel sperma saja yang akan berhasil membuahi sel telur kalau proses pembuahan terjadi.",
+    "tags": ["sistem-reproduksi-pria", "testis", "sperma", "testosteron", "spermatogenesis"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-15"
+  },
+  {
+    "id": "sains.biologi.sistem-reproduksi-wanita",
+    "judul": "Sistem Reproduksi Wanita",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Sistem reproduksi wanita bertugas memproduksi sel telur dan hormon reproduksi, melibatkan ovarium sebagai organ penghasil sel telur, serta rahim yang menjadi tempat berkembangnya janin kalau terjadi pembuahan dan kehamilan.",
+    "konten": "Sistem reproduksi wanita berpusat pada sepasang organ bernama ovarium, yang terletak di dalam rongga panggul. Ovarium punya dua fungsi utama: memproduksi sel telur (ovum) lewat proses yang disebut oogenesis, dan memproduksi hormon reproduksi utama yaitu estrogen dan progesteron, yang mengatur siklus reproduksi serta perkembangan ciri kelamin sekunder wanita seperti pertumbuhan payudara dan perubahan bentuk tubuh selama masa pubertas. Berbeda dari pria yang terus memproduksi sperma baru sepanjang hidupnya, wanita lahir dengan jumlah sel telur yang sudah ditentukan sejak awal, dan jumlah ini terus berkurang seiring waktu hingga akhirnya berhenti berfungsi secara reproduktif saat memasuki masa menopause.\n\nSetiap bulan, biasanya satu sel telur matang dilepaskan dari salah satu ovarium dalam proses yang disebut ovulasi, lalu bergerak masuk ke saluran bernama tuba falopi. Di sinilah pembuahan oleh sel sperma biasanya terjadi kalau ada hubungan seksual pada waktu yang tepat. Sel telur yang sudah dibuahi, atau yang tidak dibuahi sekalipun, akan terus bergerak menuju rahim (uterus), organ berongga berotot yang jadi tempat berkembangnya janin kalau terjadi kehamilan. Dinding bagian dalam rahim, yang disebut endometrium, menebal setiap bulan untuk bersiap menerima sel telur yang sudah dibuahi — kalau pembuahan tidak terjadi, lapisan penebalan ini luruh dan keluar dari tubuh dalam bentuk menstruasi, menandai dimulainya siklus baru.\n\nSiklus menstruasi pada umumnya berlangsung sekitar 28 hari, meski variasinya cukup lebar antar individu, diatur oleh kombinasi hormon dari otak dan ovarium yang bekerja dalam pola naik-turun yang terkoordinasi. Vagina adalah saluran yang menghubungkan rahim dengan bagian luar tubuh, berfungsi sebagai jalur masuknya sperma saat hubungan seksual, sekaligus jalan lahir bayi saat persalinan. Kalau pembuahan terjadi dan sel telur yang sudah dibuahi berhasil menempel di dinding rahim, proses kehamilan dimulai, dan rahim akan terus berkembang selama sekitar sembilan bulan untuk menampung dan melindungi janin yang tumbuh, hingga akhirnya siap dilahirkan.",
+    "tags": ["sistem-reproduksi-wanita", "ovarium", "sel-telur", "rahim", "ovulasi", "menstruasi"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-15"
+  },
+  {
+    "id": "sains.biologi.pembuahan-kehamilan",
+    "judul": "Pembuahan dan Perkembangan Kehamilan",
+    "kategori": "sains",
+    "subkategori": "biologi",
+    "periode": {
+      "label": "Konsep dasar ilmu biologi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Pembuahan terjadi ketika sel sperma berhasil membuahi sel telur membentuk zigot, yang kemudian berkembang jadi embrio dan janin selama masa kehamilan sekitar sembilan bulan di dalam rahim sebelum proses persalinan.",
+    "konten": "Pembuahan adalah proses bertemunya sel sperma dan sel telur, biasanya terjadi di tuba falopi tak lama setelah ovulasi. Dari jutaan sel sperma yang dilepaskan, hanya satu yang pada akhirnya berhasil menembus lapisan pelindung sel telur dan menyatukan materi genetiknya, membentuk sel tunggal baru bernama zigot yang kini membawa gabungan materi genetik lengkap dari kedua orang tua — setengah kromosom dari ibu, setengah dari ayah, kembali menjadi jumlah kromosom lengkap. Begitu pembuahan terjadi, lapisan pelindung di sekitar sel telur langsung berubah untuk mencegah sel sperma lain ikut masuk, memastikan hanya satu sel sperma yang berhasil membuahi.\n\nZigot kemudian mulai membelah diri berkali-kali sambil bergerak menuruni tuba falopi menuju rahim, proses yang memakan waktu sekitar satu minggu. Sesampainya di rahim, kumpulan sel yang terus bertambah banyak ini, kini disebut blastosis, menempel pada dinding rahim yang sudah menebal, proses yang disebut implantasi — inilah titik awal resmi dimulainya kehamilan. Dalam beberapa minggu berikutnya, sel-sel ini terus berkembang dan mulai membentuk struktur-struktur dasar tubuh, disebut sebagai embrio pada masa ini, dengan organ-organ vital seperti jantung, otak, dan sistem saraf mulai terbentuk meski masih sangat sederhana.\n\nSetelah sekitar delapan minggu, embrio ini mulai disebut janin, dan terus berkembang selama sisa masa kehamilan yang pada umumnya berlangsung sekitar sembilan bulan atau sekitar 40 minggu, terbagi dalam tiga periode utama yang disebut trimester. Selama masa ini, janin terhubung dengan ibunya lewat plasenta, organ sementara yang terbentuk khusus selama kehamilan, berfungsi menyalurkan oksigen dan nutrisi dari darah ibu ke janin lewat tali pusar, sekaligus membuang zat sisa metabolisme janin. Menjelang akhir kehamilan, janin sudah berkembang cukup matang untuk bertahan hidup di luar rahim, dan proses persalinan dimulai, di mana otot rahim berkontraksi secara ritmis untuk mendorong bayi keluar lewat jalan lahir, menandai dimulainya kehidupan bayi tersebut sebagai individu yang terpisah dari tubuh ibunya.",
+    "tags": ["pembuahan", "zigot", "kehamilan", "embrio", "janin", "plasenta", "persalinan"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-15"
+  }
+]
