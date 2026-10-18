@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sains.matematika.sejarah-angka-nol",
+    "judul": "Sejarah Angka Nol",
+    "kategori": "sains",
+    "subkategori": "matematika",
+    "periode": {
+      "label": "Konsep nol sebagai angka berkembang di India sekitar abad ke-5 hingga ke-7 Masehi"
+    },
+    "ringkasan": "Angka nol, meski terlihat sederhana, butuh waktu ribuan tahun bagi peradaban manusia untuk benar-benar memahaminya sebagai angka utuh, dengan matematikawan India jadi pihak yang pertama kali mengembangkan konsep nol secara matang sebagai bilangan yang bisa dioperasikan.",
+    "konten": "Meski sekarang terasa sangat mendasar dan sederhana, konsep nol sebagai sebuah angka sebenarnya butuh waktu sangat lama untuk benar-benar dipahami dan diterima dalam sejarah matematika manusia. Peradaban kuno seperti Babilonia memang sudah memakai simbol tertentu sebagai penanda 'tempat kosong' dalam sistem penulisan angka mereka, sekadar membantu membedakan misalnya angka 206 dari 26, tapi simbol ini belum benar-benar dianggap sebagai angka tersendiri yang bisa dioperasikan dalam perhitungan matematika, lebih berfungsi sebagai tanda baca dalam notasi angka saja.\n\nPerkembangan penting datang dari matematikawan di India sekitar abad ke-5 hingga ke-7 Masehi, yang mulai memperlakukan nol bukan hanya sebagai penanda tempat kosong, tapi sebagai bilangan utuh yang bisa dioperasikan sama seperti bilangan lainnya, termasuk dikembangkan aturan-aturan khusus seperti berapa pun bilangan ditambah nol akan tetap sama, dan bilangan dikali nol akan menghasilkan nol. Matematikawan India bernama Brahmagupta, hidup pada abad ke-7 Masehi, dikenal sebagai salah satu tokoh penting yang menuliskan secara sistematis aturan-aturan operasi matematika yang melibatkan nol, termasuk mencoba (meski belum sepenuhnya berhasil memecahkan) masalah pembagian dengan nol, yang sampai sekarang tetap menjadi operasi yang tidak terdefinisikan dalam matematika standar.\n\nKonsep nol dari India ini kemudian menyebar ke dunia Arab lewat jalur perdagangan dan pertukaran ilmu pengetahuan, di mana matematikawan Arab semakin mengembangkan dan menyempurnakan sistem bilangan yang memasukkan nol ini. Sistem angka yang kita pakai sehari-hari sekarang, termasuk simbol 0 sampai 9 beserta konsep nilai tempat (di mana posisi angka menentukan nilainya, seperti angka 1 dalam 10, 100, atau 1000 punya nilai berbeda tergantung posisinya), akhirnya dikenal di dunia Barat sebagai sistem angka Hindu-Arab, mengakui jejak sejarahnya yang bermula dari India dan disempurnakan serta disebarluaskan lewat dunia Arab. Sistem ini jauh lebih efisien untuk melakukan perhitungan matematika dibanding sistem angka sebelumnya yang dipakai di Eropa, seperti angka Romawi yang tidak mengenal konsep nol dan nilai tempat, sehingga perhitungan aritmetika sederhana sekalipun jadi jauh lebih rumit dilakukan dengan sistem angka Romawi dibanding sistem Hindu-Arab yang kita pakai sekarang.",
+    "tags": ["angka-nol", "brahmagupta", "sistem-hindu-arab", "sejarah-matematika", "nilai-tempat"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-17"
+  },
+  {
+    "id": "sains.matematika.sistem-bilangan-basis",
+    "judul": "Sistem Bilangan Berbasis Lain: Biner, Oktal, dan Heksadesimal",
+    "kategori": "sains",
+    "subkategori": "matematika",
+    "periode": {
+      "label": "Konsep dasar ilmu matematika, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Sistem bilangan yang biasa dipakai manusia sehari-hari berbasis sepuluh (desimal), tapi ada sistem bilangan lain berbasis angka berbeda, seperti sistem biner berbasis dua yang menjadi dasar cara kerja komputer modern.",
+    "konten": "Sistem bilangan yang dipakai manusia sehari-hari disebut sistem desimal atau berbasis sepuluh, memakai sepuluh simbol angka berbeda (0 sampai 9) dan konsep nilai tempat, di mana setiap posisi digit mewakili kelipatan sepuluh pangkat tertentu. Misalnya angka present day, digit paling kanan mewakili satuan (10 pangkat 0), digit berikutnya ke kiri mewakili puluhan (10 pangkat 1), lalu ratusan (10 pangkat 2), dan seterusnya. Sistem berbasis sepuluh ini dipilih kemungkinan besar karena manusia punya sepuluh jari tangan, yang secara alami dipakai sebagai alat hitung paling awal dalam sejarah peradaban manusia.\n\nNamun basis sepuluh bukan satu-satunya sistem bilangan yang mungkin — sebenarnya bisa dibuat sistem bilangan dengan basis apa pun. Sistem biner, atau berbasis dua, hanya memakai dua simbol angka, yaitu 0 dan 1, dengan setiap posisi digit mewakili kelipatan dua pangkat tertentu alih-alih sepuluh. Sistem biner inilah yang menjadi dasar cara kerja seluruh komputer dan perangkat elektronik digital modern, karena komponen elektronik di dalamnya paling mudah dirancang untuk mengenali dua kondisi berbeda saja, biasanya direpresentasikan sebagai 'ada aliran listrik' (bernilai 1) atau 'tidak ada aliran listrik' (bernilai 0). Semua data, teks, gambar, suara, dan program yang diproses komputer pada akhirnya diterjemahkan dan disimpan dalam bentuk deretan panjang angka 0 dan 1 ini.\n\nSelain biner, ada juga sistem oktal (berbasis delapan, memakai digit 0 sampai 7) dan sistem heksadesimal (berbasis enam belas, memakai digit 0 sampai 9 ditambah huruf A sampai F untuk mewakili nilai 10 sampai 15), keduanya sering dipakai dalam dunia komputer dan pemrograman sebagai cara lebih ringkas untuk menuliskan dan membaca bilangan biner yang panjang, karena setiap digit heksadesimal setara dengan tepat empat digit biner, membuat kode program atau alamat memori komputer jadi lebih mudah dibaca manusia dibanding kalau harus menuliskan deretan panjang angka 0 dan 1 secara langsung. Meski sistem basis yang berbeda ini terlihat sangat berbeda secara penulisan, semuanya tetap mewakili nilai bilangan yang sama persis, hanya caranya menuliskan dan mengelompokkan nilai tersebut yang berbeda tergantung basis yang dipakai.",
+    "tags": ["sistem-biner", "sistem-desimal", "heksadesimal", "oktal", "basis-bilangan", "komputer"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-17"
+  }
+]

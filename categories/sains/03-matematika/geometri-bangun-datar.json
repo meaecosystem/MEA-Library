@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sains.matematika.bangun-datar-dasar",
+    "judul": "Bangun Datar Dasar dan Sifatnya",
+    "kategori": "sains",
+    "subkategori": "matematika",
+    "periode": {
+      "label": "Konsep dasar ilmu matematika, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Bangun datar adalah bentuk geometri dua dimensi yang hanya punya panjang dan lebar tanpa ketebalan, mencakup segitiga, segi empat, dan lingkaran, masing-masing dengan sifat dan rumus perhitungan luas serta kelilingnya sendiri.",
+    "konten": "Bangun datar adalah bentuk geometri yang sepenuhnya berada pada satu bidang datar, hanya memiliki dua dimensi yaitu panjang dan lebar, tanpa ketebalan atau kedalaman. Segitiga adalah bangun datar paling sederhana yang tersusun dari tiga sisi lurus, dan menariknya, segitiga menjadi bentuk dasar yang sangat penting dalam geometri karena setiap bangun datar bersisi lurus lainnya, betapapun kompleks bentuknya, sebenarnya bisa diuraikan menjadi kumpulan segitiga-segitiga yang lebih sederhana. Segitiga sendiri dikelompokkan berdasarkan panjang sisinya (segitiga sama sisi dengan ketiga sisi sama panjang, segitiga sama kaki dengan dua sisi sama panjang, dan segitiga sembarang dengan ketiga sisi berbeda panjang) atau berdasarkan besar sudutnya (segitiga siku-siku dengan satu sudut tepat 90 derajat, segitiga lancip dengan semua sudut kurang dari 90 derajat, dan segitiga tumpul dengan satu sudut lebih dari 90 derajat).\n\nSegi empat mencakup berbagai bentuk dengan empat sisi, masing-masing punya sifat khas tersendiri. Persegi punya keempat sisi sama panjang dan keempat sudutnya tepat 90 derajat. Persegi panjang punya sisi berhadapan yang sama panjang dan juga keempat sudutnya 90 derajat, tapi tidak mengharuskan keempat sisinya sama panjang seperti persegi. Jajar genjang punya sisi berhadapan yang sama panjang dan sejajar, tapi sudutnya tidak harus 90 derajat. Trapesium punya hanya sepasang sisi yang sejajar, sementara belah ketupat punya keempat sisi sama panjang namun sudutnya tidak harus 90 derajat seperti persegi. Setiap bentuk segi empat ini punya rumus perhitungan luas yang berbeda, disesuaikan dengan sifat geometrisnya masing-masing.\n\nLingkaran adalah bangun datar yang berbeda dari segitiga dan segi empat karena tidak punya sisi lurus sama sekali, melainkan tersusun dari satu garis lengkung tertutup di mana setiap titik pada garis tersebut berjarak sama dari satu titik pusat. Jarak dari titik pusat ke garis lengkung ini disebut jari-jari, sementara jarak melintasi lingkaran lewat titik pusatnya disebut diameter, yang nilainya selalu dua kali jari-jari. Keliling lingkaran, yaitu panjang garis lengkung yang membentuknya, berhubungan dengan diameter lewat bilangan pi, sebuah konstanta matematika yang nilainya kira-kira 3,14159, sehingga keliling lingkaran bisa dihitung dengan mengalikan diameter dengan nilai pi tersebut.",
+    "tags": ["bangun-datar", "segitiga", "segi-empat", "lingkaran", "geometri"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-18"
+  },
+  {
+    "id": "sains.matematika.teorema-pythagoras",
+    "judul": "Teorema Pythagoras",
+    "kategori": "sains",
+    "subkategori": "matematika",
+    "periode": {
+      "label": "Dikaitkan dengan Pythagoras pada sekitar abad ke-6 SM, meski buktinya sudah dikenal peradaban lain lebih awal"
+    },
+    "ringkasan": "Teorema Pythagoras menyatakan hubungan khusus antara panjang sisi-sisi segitiga siku-siku, di mana kuadrat sisi miring sama dengan jumlah kuadrat kedua sisi lainnya, menjadi salah satu teorema matematika paling terkenal dan paling banyak diterapkan dalam berbagai bidang.",
+    "konten": "Teorema Pythagoras adalah salah satu teorema paling terkenal dalam sejarah matematika, menyatakan hubungan khusus antara panjang ketiga sisi pada segitiga siku-siku, yaitu segitiga yang salah satu sudutnya tepat 90 derajat. Teorema ini menyatakan bahwa kuadrat panjang sisi miring (sisi terpanjang yang berhadapan dengan sudut siku-siku, disebut hipotenusa) sama dengan jumlah kuadrat dari kedua sisi lainnya. Kalau dituliskan dalam notasi matematika dengan c sebagai sisi miring dan a, b sebagai kedua sisi lainnya, hubungan ini dituliskan sebagai a² + b² = c². Misalnya, pada segitiga siku-siku dengan sisi 3 dan 4, sisi miringnya bisa dihitung lewat 3² + 4² = 9 + 16 = 25, dan karena 25 adalah kuadrat dari 5, maka panjang sisi miringnya adalah 5 — kombinasi angka 3, 4, 5 ini begitu terkenal sehingga sering disebut 'tripel Pythagoras' paling sederhana.\n\nTeorema ini dinamai sesuai nama Pythagoras, filsuf dan matematikawan Yunani kuno yang hidup sekitar abad ke-6 sebelum Masehi, dan sekolah pemikiran yang didirikannya dikenal luas mempopulerkan dan membuktikan teorema ini secara formal. Namun menariknya, hubungan matematis ini sebenarnya sudah dikenal dan dipakai secara praktis oleh beberapa peradaban kuno lain jauh sebelum masa Pythagoras, termasuk peradaban Babilonia dan Mesir kuno, yang memakainya untuk keperluan praktis seperti pengukuran tanah atau konstruksi bangunan, meski belum tentu mereka membuktikannya secara matematis formal seperti yang dilakukan kemudian oleh tradisi matematika Yunani.\n\nTeorema Pythagoras punya penerapan sangat luas dalam kehidupan nyata, jauh melampaui sekadar soal matematika di ruang kelas. Dalam bidang konstruksi dan arsitektur, teorema ini dipakai memastikan sudut suatu bangunan benar-benar siku-siku dengan tepat, misalnya lewat teknik sederhana mengukur sisi dengan perbandingan 3-4-5 untuk memverifikasi sudut siku-siku pada fondasi bangunan. Dalam navigasi, teorema Pythagoras membantu menghitung jarak terpendek antara dua titik yang posisinya diketahui dalam koordinat horizontal dan vertikal. Bahkan dalam teknologi modern seperti sistem GPS dan grafis komputer, prinsip dasar teorema Pythagoras tetap dipakai secara luas untuk menghitung jarak antar titik dalam ruang dua atau tiga dimensi, menunjukkan betapa fundamentalnya teorema sederhana ini bagi berbagai bidang ilmu dan teknologi hingga saat ini.",
+    "tags": ["teorema-pythagoras", "segitiga-siku-siku", "hipotenusa", "sejarah-matematika"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-18"
+  }
+]

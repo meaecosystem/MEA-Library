@@ -1,0 +1,34 @@
+[
+  {
+    "id": "sains.matematika.teorema-terakhir-fermat",
+    "judul": "Teorema Terakhir Fermat",
+    "kategori": "sains",
+    "subkategori": "matematika",
+    "periode": {
+      "mulai": "1637",
+      "selesai": "1994",
+      "label": "Dinyatakan Pierre de Fermat pada 1637, baru berhasil dibuktikan Andrew Wiles pada 1994"
+    },
+    "ringkasan": "Teorema Terakhir Fermat adalah pernyataan matematika sederhana tentang persamaan pangkat yang dituliskan matematikawan Pierre de Fermat pada abad ke-17, namun baru berhasil dibuktikan secara meyakinkan lebih dari 350 tahun kemudian, menjadikannya salah satu misteri matematika paling terkenal dalam sejarah.",
+    "konten": "Teorema Terakhir Fermat adalah salah satu kisah paling menarik dalam sejarah matematika, bermula dari catatan singkat yang dituliskan matematikawan Prancis bernama Pierre de Fermat pada 1637 di pinggir halaman sebuah buku. Fermat menyatakan bahwa tidak ada tiga bilangan bulat positif a, b, dan c yang bisa memenuhi persamaan a^n + b^n = c^n untuk nilai n lebih besar dari 2 — pernyataan ini mirip dengan Teorema Pythagoras (yang berlaku untuk n = 2, menghasilkan banyak solusi seperti 3² + 4² = 5²), tapi Fermat mengklaim begitu pangkatnya dinaikkan lebih dari 2, tidak ada lagi solusi bilangan bulat yang bisa memenuhi persamaan tersebut. Yang membuat catatan ini begitu terkenal dan membingungkan generasi matematikawan selanjutnya adalah Fermat menuliskan bahwa ia punya bukti yang 'sangat elegan' untuk pernyataan ini, tapi sayangnya ruang di pinggir halaman buku tersebut terlalu sempit untuk menuliskan bukti lengkapnya — dan Fermat sendiri tidak pernah mempublikasikan bukti tersebut di tempat lain sepanjang hidupnya.\n\nSelama lebih dari tiga abad setelahnya, pernyataan sederhana ini menjadi salah satu misteri matematika paling terkenal dan paling sulit dipecahkan, menarik perhatian banyak matematikawan brilian dari generasi ke generasi, yang semuanya berusaha menemukan kembali bukti yang diklaim Fermat, namun tidak ada satu pun yang berhasil, meski berbagai kasus khusus untuk nilai n tertentu berhasil dibuktikan secara terpisah sepanjang masa tersebut. Kegagalan berulang kali membuktikan teorema ini secara umum membuat banyak matematikawan mulai berspekulasi bahwa Fermat mungkin sebenarnya keliru, atau bukti yang ia maksud ternyata punya celah kesalahan yang tidak disadarinya sendiri.\n\nAkhirnya, pada 1994, setelah bertahun-tahun bekerja secara diam-diam dan tekun, matematikawan Inggris bernama Andrew Wiles berhasil mempublikasikan bukti lengkap dan valid untuk Teorema Terakhir Fermat, memakai berbagai teknik matematika canggih yang bahkan belum ditemukan pada masa hidup Fermat sendiri, menunjukkan bahwa klaim bukti sederhana dan elegan yang disebut Fermat kemungkinan besar memang tidak pernah benar-benar valid, atau setidaknya sangat berbeda dari pendekatan yang akhirnya berhasil ditemukan Wiles berabad-abad kemudian. Pencapaian Wiles ini dianggap sebagai salah satu momen paling bersejarah dalam dunia matematika modern, menyelesaikan misteri yang sudah menggantung dan menantang generasi demi generasi matematikawan selama lebih dari 350 tahun lamanya.",
+    "tags": ["teorema-terakhir-fermat", "pierre-de-fermat", "andrew-wiles", "sejarah-matematika", "pembuktian-matematika"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-18"
+  },
+  {
+    "id": "sains.matematika.hipotesis-riemann-masalah-milenium",
+    "judul": "Hipotesis Riemann dan Masalah Milenium",
+    "kategori": "sains",
+    "subkategori": "matematika",
+    "periode": {
+      "label": "Dinyatakan Bernhard Riemann pada 1859, masih belum terpecahkan hingga sekarang"
+    },
+    "ringkasan": "Hipotesis Riemann adalah salah satu masalah matematika paling terkenal yang belum terpecahkan, berkaitan dengan pola penyebaran bilangan prima, dan menjadi satu dari tujuh 'Masalah Milenium' yang masing-masing menawarkan hadiah satu juta dolar bagi siapa pun yang berhasil memecahkannya.",
+    "konten": "Hipotesis Riemann, dinyatakan matematikawan Jerman bernama Bernhard Riemann pada 1859, adalah salah satu pertanyaan matematika yang belum terpecahkan paling terkenal dan paling dicari jawabannya hingga hari ini. Hipotesis ini berkaitan erat dengan pola penyebaran bilangan prima di antara bilangan-bilangan asli lainnya — meski bilangan prima tampak tersebar secara acak dan tidak teratur ketika dilihat sekilas, Riemann mengajukan hipotesis yang kalau terbukti benar, akan mengungkap pola matematis yang jauh lebih dalam dan tersembunyi di balik penyebaran bilangan prima tersebut, lewat suatu fungsi matematika kompleks yang dikenal sebagai fungsi zeta Riemann.\n\nSecara teknis, hipotesis ini menyatakan sesuatu tentang di mana letak titik-titik tertentu (disebut titik nol nontrivial) dari fungsi zeta Riemann berada ketika digambarkan dalam bidang bilangan kompleks. Meski penjelasan teknis lengkapnya cukup rumit dan membutuhkan pemahaman matematika tingkat lanjut, dampak dari hipotesis ini, kalau berhasil dibuktikan benar, akan sangat besar bagi pemahaman kita tentang bilangan prima dan berbagai cabang matematika lain yang berkaitan dengannya, termasuk memiliki implikasi penting bagi bidang kriptografi modern, yang sebagian besar sistem keamanannya bergantung pada sifat-sifat bilangan prima yang sulit diprediksi.\n\nPada 2000, Clay Mathematics Institute, sebuah lembaga nirlaba yang didirikan untuk mendorong penelitian matematika, mengumumkan tujuh masalah matematika yang dianggap sangat penting dan sangat sulit, disebut 'Masalah Milenium', menawarkan hadiah sebesar satu juta dolar Amerika untuk setiap masalah yang berhasil dipecahkan dengan bukti yang valid dan diterima komunitas matematika. Hipotesis Riemann adalah salah satu dari ketujuh masalah tersebut, dan hingga saat ini masih belum ada yang berhasil memecahkannya meski sudah dicoba oleh banyak matematikawan terkemuka di seluruh dunia selama lebih dari 160 tahun sejak pertama kali dinyatakan. Baru satu dari ketujuh Masalah Milenium ini yang sudah berhasil dipecahkan sejauh ini, yaitu Dugaan Poincaré, yang dibuktikan matematikawan Rusia bernama Grigori Perelman pada awal tahun 2000-an — menariknya, Perelman menolak hadiah uang satu juta dolar yang ditawarkan untuk pencapaiannya tersebut, menunjukkan bahwa bagi sebagian matematikawan, kepuasan memecahkan masalah yang sudah lama menantang dunia matematika jauh lebih berarti dibanding penghargaan materi yang menyertainya.",
+    "tags": ["hipotesis-riemann", "bilangan-prima", "masalah-milenium", "bernhard-riemann", "grigori-perelman"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-18"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sains.matematika.variabel-dan-aljabar",
+    "judul": "Variabel dan Pengantar Aljabar",
+    "kategori": "sains",
+    "subkategori": "matematika",
+    "periode": {
+      "label": "Aljabar berkembang pesat lewat karya al-Khawarizmi pada abad ke-9 Masehi"
+    },
+    "ringkasan": "Aljabar adalah cabang matematika yang memakai simbol atau huruf (disebut variabel) untuk mewakili nilai yang belum diketahui atau bisa berubah-ubah, memungkinkan penyelesaian masalah secara umum tanpa perlu angka pasti sejak awal.",
+    "konten": "Aljabar adalah cabang matematika yang memperkenalkan penggunaan simbol, biasanya huruf seperti x, y, atau n, untuk mewakili suatu nilai yang belum diketahui atau yang bisa berubah-ubah, simbol semacam ini disebut variabel. Berbeda dari aritmetika dasar yang hanya bekerja dengan angka-angka pasti yang sudah diketahui, aljabar memungkinkan kita menuliskan dan menyelesaikan masalah secara lebih umum, bahkan ketika nilai pastinya belum diketahui di awal. Misalnya, kalau ingin mencari suatu bilangan yang kalau ditambah 5 hasilnya adalah 12, dalam aljabar ini bisa dituliskan sebagai persamaan x + 5 = 12, dengan x mewakili bilangan yang dicari tersebut.\n\nKata 'aljabar' sendiri berasal dari bahasa Arab 'al-jabr', yang secara harfiah berarti 'penyatuan kembali bagian yang patah', istilah ini dipakai pertama kali oleh matematikawan Persia bernama Muhammad ibn Musa al-Khawarizmi dalam karyanya pada abad ke-9 Masehi, yang membahas metode sistematis untuk menyelesaikan berbagai jenis persamaan. Karya al-Khawarizmi ini sangat berpengaruh dan menjadi fondasi penting bagi perkembangan aljabar modern, bahkan nama 'algoritma', istilah penting dalam matematika dan ilmu komputer modern, sebenarnya berasal dari nama al-Khawarizmi sendiri yang dilatinkan.\n\nKeistimewaan utama aljabar adalah kemampuannya menggeneralisasi pola dan hubungan matematis, memungkinkan satu persamaan atau rumus bisa dipakai untuk menyelesaikan banyak kasus serupa, bukan hanya satu kasus spesifik saja. Misalnya, rumus untuk menghitung luas persegi panjang, yaitu panjang dikali lebar, bisa dituliskan secara umum sebagai L = p × l, dan rumus ini berlaku untuk persegi panjang dengan ukuran berapa pun, cukup dengan memasukkan nilai panjang dan lebar yang sesuai ke dalam variabel p dan l. Kemampuan menggeneralisasi inilah yang membuat aljabar jadi alat sangat kuat dalam matematika dan ilmu pengetahuan secara luas, memungkinkan penemuan pola dan hubungan umum yang berlaku luas, bukan hanya terbatas pada satu contoh angka tertentu saja.",
+    "tags": ["aljabar", "variabel", "al-khawarizmi", "persamaan", "sejarah-matematika"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-17"
+  },
+  {
+    "id": "sains.matematika.menyelesaikan-persamaan-linear",
+    "judul": "Konsep Menyelesaikan Persamaan Linear",
+    "kategori": "sains",
+    "subkategori": "matematika",
+    "periode": {
+      "label": "Konsep dasar ilmu matematika, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Persamaan linear adalah persamaan yang variabelnya berpangkat satu, diselesaikan dengan prinsip menjaga kedua sisi persamaan tetap seimbang, mirip seperti timbangan yang harus tetap setara meski ditambah atau dikurangi beban di kedua sisinya.",
+    "konten": "Persamaan linear adalah jenis persamaan matematika di mana variabel yang terlibat hanya berpangkat satu, tidak ada variabel yang dikuadratkan atau dipangkatkan lebih tinggi, sehingga kalau digambarkan dalam grafik akan menghasilkan garis lurus, dari situlah nama 'linear' berasal. Contoh persamaan linear sederhana adalah 2x + 3 = 11, di mana tujuannya adalah mencari nilai x yang membuat persamaan ini benar. Prinsip dasar menyelesaikan persamaan semacam ini sering digambarkan dengan analogi timbangan: kedua sisi tanda sama dengan (=) dianggap seperti dua piringan timbangan yang harus tetap seimbang satu sama lain, dan kita boleh melakukan operasi apa pun pada persamaan, asalkan operasi yang sama juga dilakukan pada kedua sisi sekaligus, menjaga keseimbangan tersebut tetap terjaga.\n\nUntuk menyelesaikan 2x + 3 = 11, langkah pertama biasanya adalah mengisolasi suku yang mengandung variabel, dengan mengurangi kedua sisi persamaan dengan angka 3, menghasilkan 2x = 8, karena operasi pengurangan yang sama diterapkan pada kedua sisi sehingga keseimbangan persamaan tetap terjaga. Langkah berikutnya adalah membagi kedua sisi dengan angka 2 (koefisien yang mengalikan variabel x), menghasilkan x = 4, yang merupakan jawaban akhir dari persamaan tersebut. Proses ini pada dasarnya adalah upaya bertahap mengisolasi variabel yang dicari di salah satu sisi persamaan, sambil terus menjaga keseimbangan kedua sisi lewat operasi matematika yang konsisten diterapkan pada keduanya.\n\nSetelah mendapat jawaban, langkah penting yang sering terlewat adalah memverifikasi hasil tersebut dengan memasukkannya kembali ke persamaan awal — kalau x = 4 dimasukkan kembali ke persamaan 2x + 3 = 11, kita mendapat 2(4) + 3 = 8 + 3 = 11, yang memang sesuai dengan sisi kanan persamaan awal, mengonfirmasi bahwa jawaban tersebut benar. Konsep dasar menjaga keseimbangan kedua sisi persamaan ini menjadi fondasi yang dipakai untuk menyelesaikan persamaan-persamaan yang jauh lebih kompleks dalam matematika tingkat lanjut, termasuk persamaan dengan banyak variabel sekaligus atau persamaan yang melibatkan pangkat lebih tinggi, meski prinsip dasarnya tetap sama: menjaga keseimbangan di kedua sisi tanda sama dengan sepanjang proses penyelesaian.",
+    "tags": ["persamaan-linear", "variabel", "menyelesaikan-persamaan", "aljabar"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-17"
+  }
+]

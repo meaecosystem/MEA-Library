@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sains.matematika.konsep-dasar-peluang",
+    "judul": "Konsep Dasar Peluang",
+    "kategori": "sains",
+    "subkategori": "matematika",
+    "periode": {
+      "label": "Berkembang sebagai cabang matematika formal sejak abad ke-17"
+    },
+    "ringkasan": "Peluang adalah ukuran seberapa besar kemungkinan suatu kejadian akan terjadi, dinyatakan dalam angka antara 0 (pasti tidak terjadi) sampai 1 (pasti terjadi), dihitung dengan membandingkan jumlah hasil yang diinginkan dengan jumlah seluruh kemungkinan hasil yang bisa terjadi.",
+    "konten": "Peluang, atau sering juga disebut probabilitas, adalah cabang matematika yang mempelajari seberapa besar kemungkinan suatu kejadian akan terjadi. Nilai peluang selalu dinyatakan dalam rentang angka antara 0 dan 1, di mana peluang bernilai 0 berarti kejadian tersebut pasti tidak akan pernah terjadi, sementara peluang bernilai 1 berarti kejadian tersebut pasti akan terjadi. Kejadian dengan peluang 0,5 berarti kemungkinan terjadi dan tidak terjadinya sama besar, seperti peluang mendapat sisi gambar saat melempar sekeping koin yang seimbang. Cara paling dasar menghitung peluang suatu kejadian adalah membandingkan jumlah hasil yang kita inginkan dengan jumlah total seluruh kemungkinan hasil yang bisa terjadi, dengan syarat setiap hasil punya kemungkinan yang sama besar untuk muncul.\n\nContoh sederhana menghitung peluang adalah melempar sebuah dadu bersisi enam. Karena dadu punya enam sisi dengan angka berbeda (1 sampai 6), dan masing-masing sisi punya kemungkinan sama besar untuk muncul di bagian atas, peluang mendapat angka tertentu, misalnya angka 4, adalah 1 berbanding 6, karena hanya ada satu hasil yang diinginkan (muncul angka 4) dari total enam kemungkinan hasil yang setara. Kalau pertanyaannya diubah menjadi peluang mendapat angka genap (2, 4, atau 6), maka peluangnya menjadi 3 berbanding 6, atau setara dengan 1/2, karena ada tiga hasil yang memenuhi syarat (genap) dari total enam kemungkinan.\n\nPenting dipahami bahwa peluang hanya memberi gambaran tentang kecenderungan dalam jangka panjang, bukan memastikan hasil pasti dalam setiap percobaan tunggal. Melempar koin seimbang punya peluang 0,5 untuk mendapat sisi gambar, tapi ini tidak berarti dalam sepuluh kali lemparan pasti akan muncul tepat lima kali sisi gambar — bisa saja muncul tujuh kali, atau bahkan sepuluh kali berturut-turut, murni karena faktor kebetulan dalam percobaan jumlah kecil. Namun kalau koin tersebut dilempar berkali-kali dalam jumlah sangat banyak, misalnya seribu kali atau lebih, proporsi munculnya sisi gambar akan cenderung semakin mendekati 0,5, sesuai nilai peluang yang dihitung secara teoretis — fenomena ini dikenal sebagai hukum bilangan besar, salah satu prinsip penting dalam memahami bagaimana peluang bekerja dalam dunia nyata, di mana hasil acak dalam jumlah sedikit bisa sangat bervariasi, tapi pola yang konsisten mulai terlihat jelas ketika jumlah percobaan diperbanyak secara signifikan.",
+    "tags": ["peluang", "probabilitas", "hukum-bilangan-besar", "dadu", "statistika"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-18"
+  },
+  {
+    "id": "sains.matematika.peluang-gabungan-bersyarat",
+    "judul": "Peluang Gabungan dan Peluang Bersyarat",
+    "kategori": "sains",
+    "subkategori": "matematika",
+    "periode": {
+      "label": "Konsep dasar ilmu matematika, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Peluang gabungan menghitung kemungkinan dua atau lebih kejadian terjadi bersamaan, sementara peluang bersyarat menghitung kemungkinan suatu kejadian terjadi dengan mempertimbangkan informasi bahwa kejadian lain yang berkaitan sudah terjadi lebih dulu.",
+    "konten": "Ketika mempertimbangkan dua kejadian atau lebih sekaligus, matematika peluang menyediakan cara untuk menghitung kemungkinan gabungan dari kejadian-kejadian tersebut. Untuk dua kejadian yang bersifat independen, artinya hasil dari satu kejadian sama sekali tidak memengaruhi hasil kejadian lainnya, peluang keduanya terjadi bersamaan dihitung dengan mengalikan peluang masing-masing kejadian tersebut. Misalnya, peluang mendapat sisi gambar saat melempar koin (1/2) dan peluang mendapat angka 6 saat melempar dadu (1/6) adalah dua kejadian independen, karena hasil lemparan koin tidak memengaruhi hasil lemparan dadu sama sekali, sehingga peluang keduanya terjadi bersamaan adalah 1/2 dikali 1/6, menghasilkan 1/12.\n\nNamun tidak semua kejadian bersifat independen — banyak situasi di mana terjadinya satu kejadian justru memengaruhi peluang kejadian lainnya, dan inilah yang dipelajari sebagai peluang bersyarat. Peluang bersyarat menghitung kemungkinan suatu kejadian terjadi, dengan mempertimbangkan informasi tambahan bahwa kejadian lain yang berkaitan sudah diketahui terjadi lebih dulu. Contoh klasik adalah mengambil kartu dari setumpuk kartu remi tanpa mengembalikannya — peluang mengambil kartu As pada pengambilan pertama adalah 4 berbanding 52 (karena ada empat kartu As dari total 52 kartu). Namun kalau kartu As sudah terambil pada pengambilan pertama dan tidak dikembalikan, peluang mengambil kartu As lagi pada pengambilan kedua berubah menjadi 3 berbanding 51, karena sekarang hanya tersisa tiga kartu As dari total 51 kartu yang tersisa — inilah contoh bagaimana informasi tentang kejadian sebelumnya mengubah peluang kejadian berikutnya.\n\nPemahaman tentang peluang bersyarat sangat penting dalam banyak bidang kehidupan nyata, termasuk dalam dunia kedokteran untuk menginterpretasikan hasil tes diagnostik dengan tepat. Misalnya, peluang seseorang benar-benar mengidap suatu penyakit setelah mendapat hasil tes positif tidak selalu sama dengan tingkat akurasi tes itu sendiri, karena perlu juga mempertimbangkan seberapa umum penyakit tersebut terjadi di populasi secara keseluruhan — sebuah tes dengan akurasi tinggi sekalipun bisa menghasilkan banyak hasil positif palsu kalau penyakit yang dideteksi sebenarnya sangat jarang terjadi di populasi tersebut, sebuah kesalahpahaman statistik yang cukup umum terjadi kalau tidak memahami prinsip peluang bersyarat ini dengan tepat dan hati-hati.",
+    "tags": ["peluang-gabungan", "peluang-bersyarat", "kejadian-independen", "statistika", "probabilitas"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-18"
+  }
+]

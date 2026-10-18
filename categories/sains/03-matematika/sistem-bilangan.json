@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sains.matematika.jenis-jenis-bilangan",
+    "judul": "Jenis-Jenis Bilangan",
+    "kategori": "sains",
+    "subkategori": "matematika",
+    "periode": {
+      "label": "Konsep dasar ilmu matematika, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Bilangan dikelompokkan menjadi beberapa jenis berdasarkan sifatnya, mulai dari bilangan asli yang dipakai menghitung, bilangan bulat yang mencakup angka negatif, bilangan pecahan dan desimal, sampai bilangan irasional yang tidak bisa dinyatakan sebagai pecahan sederhana.",
+    "konten": "Bilangan asli adalah jenis bilangan paling mendasar yang kita pelajari sejak kecil, yaitu angka 1, 2, 3, dan seterusnya, dipakai untuk menghitung jumlah benda yang bisa dihitung satu per satu. Beberapa definisi juga memasukkan angka 0 sebagai bagian dari bilangan asli, meski ada pula yang memisahkannya sebagai kategori tersendiri. Ketika angka negatif ditambahkan ke dalam kumpulan bilangan asli dan nol, terbentuklah bilangan bulat, mencakup deretan tak terbatas dari negatif tak hingga sampai positif tak hingga: ...,-3, -2, -1, 0, 1, 2, 3,.... Bilangan bulat sangat berguna untuk menggambarkan situasi yang melibatkan arah berlawanan, seperti suhu di bawah titik beku (dinyatakan dengan angka negatif) atau ketinggian di bawah permukaan laut.\n\nBilangan pecahan muncul ketika kita perlu menyatakan bagian dari suatu keseluruhan, misalnya 3/4 yang berarti tiga bagian dari total empat bagian yang sama besar, atau 1/2 yang berarti setengah dari keseluruhan. Pecahan tersusun dari pembilang (angka di atas, menunjukkan berapa bagian yang dimaksud) dan penyebut (angka di bawah, menunjukkan total bagian yang ada). Bilangan desimal adalah cara lain menyatakan pecahan, memakai titik atau koma desimal untuk memisahkan bagian bulat dari bagian pecahannya, seperti 0,75 yang sebenarnya setara dengan pecahan 3/4. Gabungan bilangan bulat dan bilangan pecahan (termasuk desimal yang berhenti atau berulang) membentuk kelompok yang disebut bilangan rasional, yaitu semua bilangan yang bisa dinyatakan sebagai perbandingan dua bilangan bulat.\n\nTidak semua bilangan bisa dinyatakan dengan rapi sebagai pecahan sederhana. Bilangan irasional adalah bilangan yang desimalnya tidak pernah berhenti dan tidak membentuk pola berulang, sehingga tidak bisa ditulis sebagai pecahan tepat dari dua bilangan bulat. Contoh paling terkenal adalah pi (dilambangkan π), nilai perbandingan antara keliling lingkaran dengan diameternya, yang nilai desimalnya terus berlanjut tanpa pola berulang meski sudah dihitung sampai triliunan digit. Contoh lain adalah akar kuadrat dari bilangan yang bukan kuadrat sempurna, seperti akar dua, yang juga menghasilkan deretan desimal tak berujung tanpa pola. Gabungan bilangan rasional dan irasional membentuk kumpulan bilangan yang disebut bilangan real, mencakup hampir semua jenis bilangan yang biasa dipakai dalam kehidupan sehari-hari dan ilmu pengetahuan.",
+    "tags": ["bilangan-asli", "bilangan-bulat", "pecahan", "desimal", "bilangan-rasional", "bilangan-irasional", "bilangan-real"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-17"
+  },
+  {
+    "id": "sains.matematika.bilangan-prima",
+    "judul": "Bilangan Prima",
+    "kategori": "sains",
+    "subkategori": "matematika",
+    "periode": {
+      "label": "Konsep dasar ilmu matematika, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Bilangan prima adalah bilangan asli lebih besar dari 1 yang hanya bisa dibagi habis oleh 1 dan dirinya sendiri, menjadi 'blok pembangun' dasar dari semua bilangan asli lain lewat perkalian, dan sampai sekarang masih menyimpan banyak misteri yang belum terpecahkan.",
+    "konten": "Bilangan prima adalah bilangan asli yang lebih besar dari 1 dan hanya punya tepat dua faktor pembagi, yaitu angka 1 dan bilangan itu sendiri — tidak ada bilangan lain yang bisa membaginya habis tanpa sisa. Contoh bilangan prima yang paling kecil adalah 2, 3, 5, 7, 11, dan seterusnya. Angka 2 adalah satu-satunya bilangan prima genap, karena semua bilangan genap lain selain 2 pasti bisa dibagi 2, sehingga punya lebih dari dua faktor pembagi dan tidak lagi memenuhi syarat sebagai bilangan prima. Bilangan yang bukan prima (kecuali angka 1, yang punya aturan khusus tersendiri dan tidak dianggap prima maupun komposit) disebut bilangan komposit, yaitu bilangan yang bisa dibagi habis oleh bilangan lain selain 1 dan dirinya sendiri, seperti 4 (bisa dibagi 2), 6 (bisa dibagi 2 dan 3), atau 9 (bisa dibagi 3).\n\nBilangan prima punya peran sangat mendasar dalam matematika karena berfungsi sebagai semacam 'blok pembangun' dari semua bilangan asli lainnya. Teorema fundamental aritmetika menyatakan bahwa setiap bilangan asli lebih besar dari 1 bisa diuraikan secara unik menjadi perkalian bilangan-bilangan prima, disebut faktorisasi prima. Misalnya, angka 12 bisa diuraikan menjadi 2 × 2 × 3, dan tidak ada cara lain menguraikan 12 menjadi perkalian bilangan prima selain kombinasi ini (terlepas dari urutan penulisannya). Sifat unik inilah yang membuat bilangan prima begitu fundamental, mirip seperti unsur kimia yang menjadi penyusun dasar semua senyawa kimia yang lebih kompleks.\n\nSalah satu cara klasik untuk menemukan bilangan prima adalah metode yang disebut Saringan Eratosthenes, dinamai sesuai nama matematikawan Yunani kuno yang mengembangkannya. Caranya cukup sederhana: tuliskan deretan bilangan dari 2 sampai batas tertentu, lalu mulai dari 2, coret semua kelipatannya (4, 6, 8, dan seterusnya) karena pasti bukan bilangan prima. Lanjutkan ke bilangan berikutnya yang belum dicoret (yaitu 3), coret semua kelipatannya, dan ulangi proses ini sampai semua bilangan komposit tercoret, menyisakan hanya bilangan-bilangan prima murni. Meski konsepnya sudah dikenal sejak ribuan tahun lalu, bilangan prima masih menyimpan banyak misteri yang belum sepenuhnya terpecahkan sampai sekarang, termasuk pertanyaan apakah ada pola pasti dalam penyebaran bilangan prima di deretan bilangan yang sangat besar, sebuah pertanyaan yang terus menarik perhatian matematikawan di seluruh dunia hingga hari ini.",
+    "tags": ["bilangan-prima", "bilangan-komposit", "faktorisasi-prima", "saringan-eratosthenes", "teorema-fundamental-aritmetika"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-17"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sains.matematika.pengantar-fungsi",
+    "judul": "Pengantar Fungsi dalam Matematika",
+    "kategori": "sains",
+    "subkategori": "matematika",
+    "periode": {
+      "label": "Konsep dasar ilmu matematika, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Fungsi adalah aturan matematis yang menghubungkan setiap nilai masukan dengan tepat satu nilai keluaran, bisa dibayangkan seperti mesin yang memproses input tertentu dan selalu menghasilkan output yang konsisten dan bisa diprediksi.",
+    "konten": "Fungsi adalah salah satu konsep paling fundamental dalam matematika, menggambarkan suatu aturan atau hubungan yang menghubungkan setiap nilai masukan (disebut input) dengan tepat satu nilai keluaran (disebut output). Cara paling mudah membayangkan fungsi adalah seperti sebuah mesin: kita memasukkan sesuatu ke dalamnya, mesin memprosesnya mengikuti aturan tertentu yang konsisten, dan selalu menghasilkan keluaran yang bisa diprediksi untuk input yang sama. Misalnya, fungsi yang dituliskan sebagai f(x) = 2x berarti aturan 'kalikan input dengan dua' — kalau kita memasukkan angka 3 ke dalam fungsi ini, hasilnya pasti 6, dan setiap kali kita memasukkan angka 3 lagi, hasilnya akan selalu 6 juga, tidak pernah berubah-ubah untuk input yang persis sama.\n\nSyarat penting suatu hubungan matematis bisa disebut fungsi adalah setiap input hanya boleh menghasilkan tepat satu output, tidak boleh lebih. Kalau ada satu input yang bisa menghasilkan lebih dari satu output berbeda, hubungan tersebut tidak memenuhi syarat sebagai fungsi. Namun sebaliknya, beberapa input yang berbeda boleh saja menghasilkan output yang sama — misalnya fungsi f(x) = x², baik input 3 maupun -3 sama-sama menghasilkan output 9, dan ini tetap sah disebut fungsi karena syarat yang dilanggar hanyalah kalau satu input menghasilkan banyak output berbeda, bukan sebaliknya.\n\nFungsi dalam matematika bisa digambarkan dalam berbagai bentuk representasi yang saling melengkapi. Bentuk pertama adalah notasi aljabar seperti f(x) = 2x + 1, menuliskan secara eksplisit aturan perhitungan yang harus dilakukan terhadap input untuk mendapat output. Bentuk kedua adalah tabel, menampilkan daftar pasangan nilai input dan output yang berhubungan, cocok dipakai ketika ingin menunjukkan beberapa contoh konkret tanpa perlu menjelaskan rumus umumnya secara eksplisit. Bentuk ketiga, yang sering paling membantu memahami perilaku suatu fungsi secara visual, adalah grafik, menggambarkan hubungan input dan output sebagai titik-titik pada bidang koordinat, dengan sumbu horizontal biasanya mewakili nilai input dan sumbu vertikal mewakili nilai output yang dihasilkan, memungkinkan kita melihat pola dan tren perubahan fungsi tersebut secara sekilas hanya dengan melihat bentuk grafiknya.",
+    "tags": ["fungsi", "input-output", "notasi-fungsi", "grafik-fungsi"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-17"
+  },
+  {
+    "id": "sains.matematika.jenis-jenis-fungsi",
+    "judul": "Jenis-Jenis Fungsi yang Umum Dipelajari",
+    "kategori": "sains",
+    "subkategori": "matematika",
+    "periode": {
+      "label": "Konsep dasar ilmu matematika, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Ada beberapa jenis fungsi dasar yang sering dipelajari dalam matematika, masing-masing dengan bentuk grafik dan karakteristik khas, mencakup fungsi linear yang menghasilkan garis lurus, fungsi kuadrat yang menghasilkan kurva parabola, dan fungsi eksponensial yang berkaitan dengan pertumbuhan atau peluruhan cepat.",
+    "konten": "Fungsi linear adalah jenis fungsi paling sederhana, dituliskan dalam bentuk umum f(x) = mx + b, di mana m menunjukkan kemiringan garis (seberapa curam naik atau turunnya grafik fungsi tersebut) dan b menunjukkan titik di mana garis memotong sumbu vertikal ketika x bernilai nol. Kalau digambarkan dalam grafik, fungsi linear selalu menghasilkan garis lurus, sesuai namanya. Fungsi linear banyak dipakai menggambarkan hubungan yang berubah secara konstan dan merata, misalnya biaya total perjalanan taksi yang bertambah secara tetap untuk setiap kilometer tambahan yang ditempuh, atau jarak tempuh suatu kendaraan yang bergerak dengan kecepatan konstan seiring bertambahnya waktu.\n\nFungsi kuadrat punya bentuk umum f(x) = ax² + bx + c, dicirikan oleh keberadaan variabel yang dipangkatkan dua. Berbeda dari fungsi linear yang menghasilkan garis lurus, fungsi kuadrat menghasilkan kurva melengkung berbentuk seperti huruf U atau huruf U terbalik, disebut parabola. Fungsi kuadrat sering muncul dalam berbagai fenomena alam, misalnya menggambarkan lintasan benda yang dilempar ke udara dan jatuh kembali karena pengaruh gravitasi, yang membentuk kurva parabola khas, naik dulu sampai titik tertinggi lalu turun kembali mengikuti pola yang bisa diprediksi dengan fungsi kuadrat.\n\nFungsi eksponensial punya bentuk umum f(x) = a^x, di mana variabel x berada di posisi pangkat, bukan sebagai basis seperti pada fungsi kuadrat. Fungsi jenis ini menghasilkan pola pertumbuhan atau penurunan yang sangat cepat, semakin lama semakin curam, berbeda dari fungsi linear yang perubahannya selalu konstan dan merata. Fungsi eksponensial sangat relevan menggambarkan berbagai fenomena di dunia nyata, seperti pertumbuhan populasi bakteri yang terus berlipat ganda dalam kondisi sumber daya melimpah, penyebaran informasi atau penyakit menular pada tahap awal sebelum dibatasi faktor lain, atau sebaliknya, peluruhan radioaktif yang menurun secara eksponensial seiring waktu, di mana jumlah zat radioaktif berkurang dengan laju yang sebanding dengan jumlah zat yang masih tersisa saat itu, bukan berkurang dengan jumlah tetap setiap satuan waktunya seperti pada pola linear.",
+    "tags": ["fungsi-linear", "fungsi-kuadrat", "fungsi-eksponensial", "parabola", "grafik-fungsi"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-17"
+  }
+]

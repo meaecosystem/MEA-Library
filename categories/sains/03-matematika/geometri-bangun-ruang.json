@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sains.matematika.bangun-ruang-dasar",
+    "judul": "Bangun Ruang Dasar dan Sifatnya",
+    "kategori": "sains",
+    "subkategori": "matematika",
+    "periode": {
+      "label": "Konsep dasar ilmu matematika, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Bangun ruang adalah bentuk geometri tiga dimensi yang memiliki panjang, lebar, dan tinggi sekaligus, mencakup bentuk seperti kubus, balok, bola, tabung, dan kerucut, masing-masing dengan karakteristik volume dan luas permukaan tersendiri.",
+    "konten": "Berbeda dari bangun datar yang hanya punya dua dimensi, bangun ruang adalah bentuk geometri yang memiliki tiga dimensi sekaligus, yaitu panjang, lebar, dan tinggi, sehingga punya volume atau ruang di dalamnya, sesuai dengan bentuk benda-benda yang kita temui dalam kehidupan nyata sehari-hari. Kubus adalah salah satu bangun ruang paling sederhana, tersusun dari enam sisi berbentuk persegi yang semuanya identik, dengan semua rusuknya sama panjang. Balok mirip dengan kubus tapi sisi-sisinya berbentuk persegi panjang, tidak mengharuskan semua rusuk sama panjang seperti kubus, mencakup bentuk-bentuk umum seperti kotak sepatu atau buku yang kita jumpai sehari-hari.\n\nBola adalah bangun ruang yang seluruh permukaannya berjarak sama dari satu titik pusat, mirip prinsip lingkaran tapi dalam tiga dimensi, menghasilkan bentuk yang bulat sempurna tanpa sudut atau tepi sama sekali. Tabung adalah bangun ruang yang terbentuk dari dua lingkaran identik sebagai alas dan tutup, dihubungkan oleh sisi melengkung berbentuk silinder, bentuk yang umum ditemukan pada benda seperti kaleng minuman atau pipa air. Kerucut terbentuk dari satu lingkaran sebagai alas yang menyempit secara bertahap menuju satu titik puncak di bagian atas, bentuk yang bisa dilihat pada benda seperti topi ulang tahun atau es krim cone.\n\nSetiap bangun ruang punya dua ukuran penting yang sering dihitung: volume, yaitu seberapa banyak ruang yang bisa ditampung di dalam bangun ruang tersebut (biasanya diukur dalam satuan kubik seperti sentimeter kubik atau meter kubik), dan luas permukaan, yaitu total luas seluruh sisi atau permukaan luar bangun ruang tersebut kalau dibentangkan menjadi bidang datar (diukur dalam satuan persegi). Memahami volume dan luas permukaan punya banyak aplikasi praktis, misalnya menghitung berapa banyak air yang bisa ditampung suatu wadah berbentuk tabung (berkaitan dengan volume), atau berapa banyak cat yang dibutuhkan untuk mengecat seluruh permukaan suatu ruangan berbentuk balok (berkaitan dengan luas permukaan), menunjukkan bahwa konsep geometri tiga dimensi ini sangat relevan dengan berbagai kebutuhan praktis dalam kehidupan sehari-hari.",
+    "tags": ["bangun-ruang", "kubus", "balok", "bola", "tabung", "kerucut", "volume"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-18"
+  },
+  {
+    "id": "sains.matematika.geometri-non-euclidean",
+    "judul": "Geometri Non-Euclidean: Ketika Garis Sejajar Bisa Bertemu",
+    "kategori": "sains",
+    "subkategori": "matematika",
+    "periode": {
+      "label": "Dikembangkan secara formal oleh beberapa matematikawan secara independen pada awal abad ke-19"
+    },
+    "ringkasan": "Geometri non-Euclidean adalah sistem geometri alternatif yang menolak salah satu aksioma dasar geometri Euclid tentang garis sejajar, menghasilkan geometri di mana garis-garis yang tampak sejajar sebenarnya bisa bertemu atau justru terus menjauh, dan sangat relevan dalam memahami bentuk alam semesta.",
+    "konten": "Geometri yang biasa dipelajari di sekolah, mencakup konsep bangun datar dan bangun ruang yang sudah dibahas sebelumnya, pada dasarnya mengikuti sistem geometri yang dikembangkan matematikawan Yunani kuno bernama Euclid sekitar tiga ratus tahun sebelum Masehi, dikenal sebagai geometri Euclidean. Sistem ini dibangun berdasarkan beberapa aksioma dasar yang dianggap benar tanpa perlu dibuktikan, salah satunya adalah bahwa melalui satu titik di luar suatu garis, hanya ada tepat satu garis lain yang sejajar dengan garis tersebut dan tidak akan pernah bertemu, tidak peduli seberapa jauh kedua garis itu diperpanjang. Aksioma inilah yang mendasari banyak pemahaman kita tentang geometri bidang datar sehari-hari.\n\nNamun selama berabad-abad, matematikawan penasaran apakah aksioma garis sejajar ini benar-benar diperlukan atau bisa diturunkan dari aksioma-aksioma lain yang lebih mendasar. Pada awal abad ke-19, beberapa matematikawan secara independen, termasuk Nikolai Lobachevsky dan János Bolyai, mulai mengeksplorasi apa yang terjadi kalau aksioma garis sejajar ini diganti dengan asumsi berbeda, dan menemukan bahwa sistem geometri yang konsisten secara logis tetap bisa dibangun, meski hasilnya sangat berbeda dari geometri Euclidean yang sudah dikenal, inilah yang kemudian dikenal sebagai geometri non-Euclidean.\n\nAda dua jenis utama geometri non-Euclidean. Geometri hiperbolik mengasumsikan bahwa melalui satu titik di luar suatu garis, ada lebih dari satu garis yang bisa sejajar dengan garis tersebut, menghasilkan geometri pada permukaan yang melengkung ke dalam seperti bentuk pelana kuda, di mana garis-garis yang tampak sejajar pada awalnya justru makin menjauh satu sama lain seiring diperpanjang. Geometri eliptik atau geometri bola, sebaliknya, mengasumsikan tidak ada garis yang benar-benar sejajar sama sekali, karena semua garis pada akhirnya akan bertemu — ini bisa dibayangkan pada permukaan bola, di mana garis bujur yang tampak sejajar di sekitar ekuator sebenarnya akan bertemu di kutub. Geometri non-Euclidean bukan sekadar permainan matematika abstrak tanpa guna praktis — teori relativitas umum Albert Einstein, yang menjelaskan gravitasi sebagai akibat dari lengkungan ruang-waktu, sebenarnya memakai geometri non-Euclidean sebagai fondasi matematisnya, menunjukkan bahwa alam semesta kita yang sesungguhnya, pada skala sangat besar, mungkin tidak sepenuhnya mengikuti aturan geometri Euclidean sederhana yang biasa kita pelajari dan alami dalam kehidupan sehari-hari berskala kecil.",
+    "tags": ["geometri-non-euclidean", "geometri-hiperbolik", "geometri-eliptik", "euclid", "relativitas-umum"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-18"
+  }
+]

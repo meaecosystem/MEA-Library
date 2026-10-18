@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sains.matematika.ukuran-pemusatan-data",
+    "judul": "Ukuran Pemusatan Data: Rata-Rata, Median, dan Modus",
+    "kategori": "sains",
+    "subkategori": "matematika",
+    "periode": {
+      "label": "Konsep dasar ilmu matematika, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Ukuran pemusatan data membantu meringkas sekumpulan data menjadi satu angka representatif, mencakup rata-rata (mean), median (nilai tengah), dan modus (nilai yang paling sering muncul), masing-masing cocok dipakai pada situasi berbeda.",
+    "konten": "Ketika berhadapan dengan sekumpulan data, seperti nilai ujian satu kelas siswa atau pendapatan sekelompok orang, seringkali kita ingin meringkas keseluruhan data tersebut menjadi satu angka representatif yang bisa menggambarkan 'pusat' atau kecenderungan umum dari data itu, dan inilah yang dipelajari sebagai ukuran pemusatan data dalam statistika. Rata-rata, atau dalam istilah statistika sering disebut mean, adalah ukuran pemusatan paling umum dipakai, dihitung dengan menjumlahkan seluruh nilai data lalu membaginya dengan jumlah total data tersebut. Misalnya, kalau nilai ujian lima siswa adalah 70, 80, 75, 90, dan 85, rata-ratanya dihitung dengan menjumlahkan kelima nilai tersebut (400) lalu membaginya dengan 5, menghasilkan rata-rata 80.\n\nMeski sangat umum dipakai, rata-rata punya kelemahan penting: sangat sensitif terhadap nilai ekstrem (disebut outlier) yang jauh berbeda dari kebanyakan data lainnya. Misalnya, kalau dalam sekelompok sepuluh orang dengan pendapatan rata-rata biasa, tiba-tiba ada satu orang dengan pendapatan sangat besar jauh melebihi yang lain, rata-rata keseluruhan kelompok itu bisa jadi sangat tinggi dan menyesatkan, tidak benar-benar mencerminkan kondisi kebanyakan orang dalam kelompok tersebut. Di sinilah median menjadi ukuran alternatif yang berguna — median adalah nilai yang berada tepat di tengah ketika seluruh data diurutkan dari terkecil sampai terbesar, dan karena cara menghitungnya ini, median jauh lebih tahan terhadap pengaruh nilai ekstrem dibanding rata-rata, memberi gambaran yang kadang lebih representatif tentang kondisi 'tipikal' dalam suatu kelompok data, terutama ketika ada nilai ekstrem yang bisa mendistorsi rata-rata.\n\nModus adalah ukuran pemusatan ketiga, menunjukkan nilai yang paling sering muncul dalam suatu kumpulan data. Berbeda dari rata-rata dan median yang selalu menghasilkan satu angka tunggal, suatu kumpulan data bisa saja punya lebih dari satu modus (kalau ada beberapa nilai yang sama-sama paling sering muncul) atau bahkan tidak punya modus sama sekali (kalau semua nilai muncul dengan frekuensi yang sama). Modus paling berguna ketika data yang dianalisis bukan berupa angka, melainkan kategori, misalnya warna favorit sekelompok orang atau jenis produk yang paling laku terjual, di mana menghitung rata-rata atau median tidak masuk akal secara konsep, tapi mengetahui kategori mana yang paling umum atau populer tetap sangat berguna untuk dipahami.",
+    "tags": ["statistika", "rata-rata", "median", "modus", "ukuran-pemusatan-data"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-18"
+  },
+  {
+    "id": "sains.matematika.sebaran-data-variasi",
+    "judul": "Sebaran Data dan Variasi",
+    "kategori": "sains",
+    "subkategori": "matematika",
+    "periode": {
+      "label": "Konsep dasar ilmu matematika, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Selain ukuran pemusatan, statistika juga mempelajari seberapa tersebar atau bervariasinya suatu kumpulan data, lewat ukuran seperti jangkauan dan simpangan baku, yang membantu memahami apakah data cenderung berdekatan di sekitar rata-rata atau justru sangat beragam.",
+    "konten": "Mengetahui ukuran pemusatan seperti rata-rata saja sering kali tidak cukup untuk memahami suatu kumpulan data secara utuh, karena dua kumpulan data yang punya rata-rata sama persis bisa punya karakteristik yang sangat berbeda. Misalnya, kelompok A dengan nilai ujian 78, 80, 82 dan kelompok B dengan nilai 50, 80, 110 sama-sama punya rata-rata 80, tapi jelas sebaran datanya sangat berbeda — kelompok A nilainya berdekatan dan konsisten, sementara kelompok B jauh lebih bervariasi dan tersebar luas. Di sinilah pentingnya ukuran sebaran data, yang melengkapi ukuran pemusatan untuk memberi gambaran lebih lengkap tentang karakteristik suatu kumpulan data.\n\nJangkauan adalah ukuran sebaran paling sederhana, dihitung dengan mengurangkan nilai terbesar dengan nilai terkecil dalam suatu kumpulan data. Meski mudah dihitung, jangkauan punya kelemahan karena hanya mempertimbangkan dua nilai ekstrem saja (terbesar dan terkecil), mengabaikan bagaimana sebaran seluruh data lainnya di antara kedua nilai ekstrem tersebut. Ukuran sebaran yang lebih canggih dan lebih sering dipakai dalam analisis statistika adalah simpangan baku (standard deviation), yang menghitung rata-rata seberapa jauh setiap nilai data menyimpang dari rata-rata keseluruhan data tersebut. Simpangan baku yang kecil menunjukkan data cenderung berkumpul rapat di sekitar nilai rata-rata, sementara simpangan baku yang besar menunjukkan data tersebar lebih luas dan bervariasi jauh dari rata-ratanya.\n\nMemahami sebaran data punya banyak kegunaan praktis dalam kehidupan nyata. Dalam bidang kesehatan misalnya, dokter tidak hanya perlu tahu rata-rata tekanan darah normal, tapi juga seberapa besar variasi yang masih dianggap wajar sebelum dianggap tidak normal. Dalam bidang kontrol kualitas produksi pabrik, mengetahui sebaran ukuran suatu produk membantu menentukan apakah proses produksi sudah cukup konsisten atau perlu diperbaiki, karena produk dengan ukuran yang sangat bervariasi (simpangan baku besar) bisa menandakan ada masalah dalam proses produksinya, meski rata-rata ukurannya masih sesuai target. Kombinasi antara ukuran pemusatan dan ukuran sebaran inilah yang memberi gambaran statistika yang jauh lebih lengkap dan akurat dibanding hanya mengandalkan satu angka rata-rata saja.",
+    "tags": ["sebaran-data", "jangkauan", "simpangan-baku", "variasi-data", "statistika"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-18"
+  }
+]

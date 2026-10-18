@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sains.matematika.pernyataan-logika-dasar",
+    "judul": "Pernyataan dan Operasi Logika Dasar",
+    "kategori": "sains",
+    "subkategori": "matematika",
+    "periode": {
+      "label": "Fondasi logika formal dikembangkan sejak Aristoteles pada abad ke-4 SM, disempurnakan dalam logika matematika modern sejak abad ke-19"
+    },
+    "ringkasan": "Logika matematika mempelajari cara menilai kebenaran suatu pernyataan secara sistematis, memakai operasi dasar seperti negasi, konjungsi, dan disjungsi untuk menggabungkan pernyataan-pernyataan sederhana menjadi pernyataan yang lebih kompleks.",
+    "konten": "Logika matematika adalah cabang matematika yang mempelajari cara menilai kebenaran suatu pernyataan secara sistematis dan ketat, menjadi fondasi penting bagi hampir seluruh cabang matematika lainnya, karena pembuktian matematis pada dasarnya adalah rangkaian penalaran logis yang harus konsisten dan valid. Dalam logika, pernyataan adalah kalimat yang bisa dinilai benar atau salah secara pasti, tidak keduanya sekaligus dan tidak ambigu. Kalimat seperti 'Jakarta adalah ibu kota Indonesia' adalah pernyataan yang bisa dinilai kebenarannya, sementara kalimat seperti 'Tutup pintu itu!' bukan pernyataan karena berupa perintah, bukan sesuatu yang bisa dinilai benar atau salah.\n\nLogika matematika menyediakan beberapa operasi dasar untuk menggabungkan pernyataan-pernyataan sederhana menjadi pernyataan yang lebih kompleks. Negasi adalah operasi paling sederhana, membalik nilai kebenaran suatu pernyataan — kalau pernyataan asli benar, negasinya salah, dan sebaliknya. Konjungsi, biasanya dilambangkan dengan kata 'dan', menggabungkan dua pernyataan menjadi satu pernyataan baru yang hanya bernilai benar kalau kedua pernyataan asli sama-sama benar — misalnya pernyataan 'hari ini hujan dan dingin' hanya benar kalau kedua kondisi tersebut (hujan dan dingin) sama-sama terpenuhi, kalau salah satu saja tidak terpenuhi, pernyataan gabungan tersebut dianggap salah.\n\nDisjungsi, biasanya dilambangkan dengan kata 'atau', menggabungkan dua pernyataan dengan aturan berbeda — pernyataan gabungan ini bernilai benar kalau setidaknya salah satu dari kedua pernyataan asli bernilai benar, dan hanya bernilai salah kalau keduanya sama-sama salah. Operasi penting lainnya adalah implikasi, biasanya dinyatakan dengan struktur 'jika... maka...', menggambarkan hubungan sebab-akibat atau syarat tertentu antara dua pernyataan, misalnya 'jika hujan turun, maka jalan menjadi basah'. Memahami cara kerja operasi-operasi logika dasar ini sangat penting, tidak hanya dalam matematika murni, tapi juga menjadi fondasi bagi bidang ilmu komputer, terutama dalam merancang program dan algoritma yang mengandalkan pernyataan kondisional dan logika Boolean untuk menentukan alur kerja suatu sistem komputer.",
+    "tags": ["logika-matematika", "negasi", "konjungsi", "disjungsi", "implikasi", "pernyataan"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-18"
+  },
+  {
+    "id": "sains.matematika.teori-himpunan-dasar",
+    "judul": "Teori Himpunan Dasar",
+    "kategori": "sains",
+    "subkategori": "matematika",
+    "periode": {
+      "label": "Dikembangkan oleh Georg Cantor pada akhir abad ke-19"
+    },
+    "ringkasan": "Teori himpunan mempelajari kumpulan objek yang disebut himpunan, menyediakan konsep dasar seperti anggota himpunan, irisan, gabungan, dan selisih himpunan, menjadi fondasi penting bagi hampir seluruh cabang matematika modern.",
+    "konten": "Teori himpunan adalah cabang matematika yang mempelajari himpunan, yaitu kumpulan objek-objek tertentu yang dianggap sebagai satu kesatuan, dengan setiap objek di dalamnya disebut anggota atau elemen himpunan tersebut. Himpunan bisa berisi apa saja, mulai dari angka, huruf, nama orang, atau bahkan himpunan lain di dalamnya. Teori himpunan modern dikembangkan oleh matematikawan Jerman bernama Georg Cantor pada akhir abad ke-19, yang karyanya menjadi fondasi sangat penting bagi hampir seluruh cabang matematika modern, karena hampir semua objek matematis, mulai dari bilangan sampai fungsi, pada dasarnya bisa didefinisikan dan dijelaskan menggunakan bahasa teori himpunan.\n\nAda beberapa operasi dasar yang bisa dilakukan antar dua himpunan atau lebih. Gabungan (union) dari dua himpunan menghasilkan himpunan baru yang berisi seluruh anggota dari kedua himpunan asli, tanpa pengulangan anggota yang sama. Irisan (intersection) menghasilkan himpunan baru yang hanya berisi anggota yang sama-sama dimiliki kedua himpunan asli tersebut, yaitu anggota yang tumpang tindih di antara keduanya. Selisih (difference) antara dua himpunan menghasilkan himpunan baru berisi anggota yang ada pada himpunan pertama tapi tidak ada pada himpunan kedua. Operasi-operasi ini sering digambarkan secara visual menggunakan diagram Venn, yaitu diagram yang menggunakan lingkaran-lingkaran yang saling tumpang tindih untuk menunjukkan hubungan antar himpunan secara intuitif dan mudah dipahami.\n\nTeori himpunan juga memperkenalkan konsep himpunan tak hingga, yang ternyata menyimpan hal-hal yang cukup mengejutkan dan berlawanan dengan intuisi biasa. Cantor menunjukkan bahwa ada 'tingkatan' berbeda dalam ketakhinggaan — misalnya, himpunan seluruh bilangan asli (1, 2, 3, dan seterusnya tanpa akhir) dan himpunan seluruh bilangan genap (2, 4, 6, dan seterusnya) sama-sama tak hingga, namun ternyata punya 'ukuran ketakhinggaan' yang sama, meski secara intuitif bilangan genap terlihat seperti hanya separuh dari bilangan asli. Namun Cantor juga membuktikan bahwa himpunan bilangan real (mencakup bilangan rasional dan irasional) punya ketakhinggaan yang lebih besar lagi dibanding himpunan bilangan asli, menunjukkan bahwa tidak semua ketakhinggaan itu 'sama besarnya', sebuah penemuan yang pada masanya cukup mengejutkan dan kontroversial, namun kini diterima sebagai bagian fundamental dari matematika modern.",
+    "tags": ["teori-himpunan", "georg-cantor", "gabungan-himpunan", "irisan-himpunan", "diagram-venn", "tak-hingga"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-18"
+  }
+]
