@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sains.astronomi.jenis-galaksi",
+    "judul": "Jenis-Jenis Galaksi",
+    "kategori": "sains",
+    "subkategori": "astronomi",
+    "periode": {
+      "label": "Konsep dasar ilmu astronomi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Galaksi adalah kumpulan sangat besar terdiri dari miliaran bintang, gas, debu, dan materi gelap yang terikat gravitasi, diklasifikasikan berdasarkan bentuknya menjadi galaksi spiral, galaksi elips, dan galaksi tidak beraturan.",
+    "konten": "Galaksi adalah kumpulan sangat besar yang terdiri dari miliaran hingga triliunan bintang, bersama gas, debu antarbintang, dan materi gelap, yang semuanya terikat bersama oleh gaya gravitasi membentuk satu kesatuan struktur raksasa di alam semesta. Galaksi diklasifikasikan menjadi beberapa jenis utama berdasarkan bentuknya. Galaksi spiral, seperti galaksi Bima Sakti tempat tata surya kita berada, punya struktur piringan datar dengan lengan-lengan spiral yang melingkar keluar dari bagian tengahnya, di mana sebagian besar bintang muda dan pembentukan bintang baru masih aktif berlangsung di sepanjang lengan-lengan spiral tersebut, sementara bagian tengah galaksi (disebut tonjolan pusat) umumnya berisi bintang-bintang yang jauh lebih tua.\n\nGalaksi elips punya bentuk yang lebih membulat atau lonjong, tanpa struktur lengan spiral yang jelas, dan umumnya berisi bintang-bintang yang jauh lebih tua dibanding galaksi spiral, dengan sangat sedikit gas dan debu tersisa untuk membentuk bintang-bintang baru. Galaksi elips bisa bervariasi ukurannya sangat luas, dari yang relatif kecil sampai galaksi elips raksasa yang menjadi beberapa galaksi terbesar yang diketahui di alam semesta, sering ditemukan di pusat gugus galaksi padat, kemungkinan terbentuk dari penggabungan beberapa galaksi lebih kecil yang bertabrakan dan bergabung sepanjang miliaran tahun.\n\nGalaksi tidak beraturan adalah kategori yang mencakup galaksi dengan bentuk tidak jelas dan tidak simetris, tidak cocok dikategorikan sebagai spiral maupun elips, sering kali terbentuk akibat gangguan gravitasi dari galaksi tetangga di dekatnya atau sebagai hasil tabrakan antar galaksi yang masih dalam proses berlangsung. Galaksi-galaksi ini umumnya berukuran lebih kecil dibanding galaksi spiral dan elips, namun tetap menjadi bagian penting dalam memahami bagaimana galaksi berinteraksi dan berevolusi dari waktu ke waktu. Secara keseluruhan, para astronom memperkirakan ada ratusan miliar galaksi yang bisa diamati di alam semesta, masing-masing berisi miliaran bintang, memberi gambaran betapa luar biasa besarnya skala alam semesta dibanding ukuran tata surya kita yang hanya menjadi bagian sangat kecil dari satu galaksi Bima Sakti saja.",
+    "tags": ["galaksi", "galaksi-spiral", "galaksi-elips", "galaksi-tidak-beraturan", "bima-sakti"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-18"
+  },
+  {
+    "id": "sains.astronomi.galaksi-bima-sakti",
+    "judul": "Bima Sakti: Galaksi Rumah Kita",
+    "kategori": "sains",
+    "subkategori": "astronomi",
+    "periode": {
+      "label": "Diperkirakan berusia sekitar 13,6 miliar tahun"
+    },
+    "ringkasan": "Bima Sakti adalah galaksi spiral tempat tata surya kita berada, berisi ratusan miliar bintang dan memiliki lubang hitam supermasif di pusatnya, dengan tata surya kita terletak di salah satu lengan spiral jauh dari pusat galaksi.",
+    "konten": "Bima Sakti adalah nama galaksi spiral tempat tata surya kita, termasuk bumi dan matahari, berada, diperkirakan berisi antara 100 hingga 400 miliar bintang yang tersebar dalam struktur piringan dengan diameter sekitar 100.000 tahun cahaya. Nama 'Bima Sakti' dalam berbagai budaya di dunia sering merujuk pada pita cahaya samar yang bisa diamati membentang di langit malam yang gelap, yang sebenarnya adalah pandangan kita dari dalam galaksi melihat ke arah piringan galaksi yang padat berisi bintang, mirip seperti melihat ke dalam cakram tipis dari posisi yang berada di dalam cakram itu sendiri.\n\nTata surya kita terletak di salah satu lengan spiral Bima Sakti, disebut Lengan Orion (kadang juga disebut Lengan Lokal), berjarak sekitar 27.000 tahun cahaya dari pusat galaksi, menempatkan kita di wilayah pinggiran yang relatif tidak terlalu padat dibanding daerah di dekat pusat galaksi. Seluruh tata surya, bersama matahari, terus bergerak mengorbit pusat galaksi Bima Sakti dengan kecepatan sekitar 220 kilometer per detik, namun karena jarak yang harus ditempuh begitu jauh, satu putaran penuh mengelilingi pusat galaksi membutuhkan waktu sekitar 225 hingga 250 juta tahun, berarti sejak tata surya kita terbentuk sekitar 4,6 miliar tahun lalu, kita baru menyelesaikan sekitar 18 hingga 20 kali putaran mengelilingi pusat galaksi.\n\nDi pusat Bima Sakti, para astronom menemukan bukti kuat keberadaan lubang hitam supermasif, dinamai Sagittarius A*, dengan massa diperkirakan sekitar empat juta kali massa matahari. Keberadaan lubang hitam supermasif semacam ini bahkan diyakini umum ditemukan di pusat hampir semua galaksi besar, termasuk galaksi-galaksi lain di alam semesta, meski perannya dalam pembentukan dan evolusi galaksi masih terus diteliti dan dipahami lebih dalam oleh para astronom. Pada 2019, ilmuwan berhasil mengambil gambar langsung pertama dari bayangan lubang hitam supermasif, meski bukan dari Sagittarius A* melainkan dari galaksi lain bernama M87, sebuah pencapaian besar yang membantu mengonfirmasi secara visual keberadaan objek eksotis yang sebelumnya hanya dipahami lewat perhitungan matematis dan pengaruh gravitasinya yang tidak langsung.",
+    "tags": ["bima-sakti", "galaksi-spiral", "sagittarius-a", "lubang-hitam-supermasif", "tata-surya"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-18"
+  }
+]

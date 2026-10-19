@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sains.astronomi.matahari",
+    "judul": "Matahari: Bintang Pusat Tata Surya",
+    "kategori": "sains",
+    "subkategori": "astronomi",
+    "periode": {
+      "label": "Terbentuk sekitar 4,6 miliar tahun lalu"
+    },
+    "ringkasan": "Matahari adalah bintang di pusat tata surya kita, bola plasma raksasa yang menghasilkan energi lewat reaksi fusi nuklir di intinya, menjadi sumber utama cahaya dan panas bagi seluruh planet yang mengelilinginya, termasuk bumi.",
+    "konten": "Matahari adalah bintang yang menjadi pusat tata surya kita, sebuah bola plasma raksasa yang tersusun hampir seluruhnya dari gas hidrogen dan helium. Matahari terbentuk sekitar 4,6 miliar tahun lalu dari awan gas dan debu raksasa yang runtuh akibat gaya gravitasinya sendiri, dan massa matahari begitu besar sehingga mencakup lebih dari 99 persen total massa seluruh tata surya, membuat gravitasinya menjadi kekuatan dominan yang mengikat planet-planet, bulan, asteroid, dan komet untuk terus mengorbit mengelilinginya.\n\nEnergi matahari yang begitu besar berasal dari proses fusi nuklir yang berlangsung terus-menerus di intinya, di mana tekanan dan suhu yang sangat ekstrem (mencapai sekitar 15 juta derajat Celsius) memaksa inti atom hidrogen bergabung membentuk helium, melepaskan energi dalam jumlah sangat besar dalam prosesnya. Energi ini kemudian merambat keluar dari inti matahari menuju permukaannya lewat proses yang memakan waktu sangat lama, bisa mencapai ratusan ribu tahun, sebelum akhirnya terpancar ke luar angkasa dalam bentuk cahaya dan panas yang kita rasakan di bumi hanya dalam waktu sekitar delapan menit setelah meninggalkan permukaan matahari.\n\nMatahari tersusun dari beberapa lapisan berbeda. Inti adalah bagian paling dalam, tempat berlangsungnya fusi nuklir. Di atasnya terdapat zona radiatif dan zona konvektif, dua lapisan yang masing-masing membawa energi dari inti menuju permukaan lewat mekanisme yang berbeda. Fotosfer adalah lapisan yang kita lihat sebagai 'permukaan' matahari, memancarkan sebagian besar cahaya yang bisa kita amati langsung. Di luar fotosfer terdapat kromosfer dan korona, dua lapisan atmosfer matahari yang jauh lebih panas namun hanya bisa diamati jelas saat terjadi gerhana matahari total, ketika cahaya fotosfer yang sangat terang tertutup oleh bulan. Matahari juga menunjukkan aktivitas yang terus berubah, seperti bintik matahari (area yang sedikit lebih dingin dan tampak gelap) dan semburan matahari, yang kadang bisa memengaruhi teknologi di bumi, termasuk komunikasi satelit dan jaringan listrik, menunjukkan betapa eratnya kehidupan di bumi terhubung dengan aktivitas bintang yang menerangi kita ini.",
+    "tags": ["matahari", "tata-surya", "fusi-nuklir", "fotosfer", "korona"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-18"
+  },
+  {
+    "id": "sains.astronomi.planet-dalam",
+    "judul": "Planet Dalam: Merkurius, Venus, Bumi, dan Mars",
+    "kategori": "sains",
+    "subkategori": "astronomi",
+    "periode": {
+      "label": "Tata surya terbentuk sekitar 4,6 miliar tahun lalu"
+    },
+    "ringkasan": "Empat planet terdekat dengan matahari, yaitu Merkurius, Venus, Bumi, dan Mars, dikelompokkan sebagai planet dalam atau planet berbatu karena permukaannya yang padat, berbeda dari planet raksasa gas yang berada lebih jauh dari matahari.",
+    "konten": "Empat planet yang posisinya paling dekat dengan matahari, yaitu Merkurius, Venus, Bumi, dan Mars, dikelompokkan sebagai planet dalam atau planet berbatu (terrestrial), karena semuanya punya permukaan padat yang bisa diinjak, berbeda dari planet-planet raksasa gas yang berada lebih jauh dari matahari. Merkurius adalah planet terdekat dengan matahari sekaligus terkecil di tata surya, dengan permukaan penuh kawah mirip bulan akibat tidak punya atmosfer yang cukup tebal untuk melindunginya dari hantaman benda luar angkasa. Suhu di Merkurius sangat ekstrem, bisa mencapai lebih dari 400 derajat Celsius pada siang hari karena kedekatannya dengan matahari, namun anjlok drastis hingga di bawah -170 derajat Celsius pada malam hari, karena tidak punya atmosfer yang bisa menahan panas.\n\nVenus, planet kedua dari matahari, sering disebut 'planet kembar' bumi karena ukuran dan massanya cukup mirip, namun kondisinya sangat berbeda jauh. Venus punya atmosfer sangat tebal yang didominasi karbon dioksida, menciptakan efek rumah kaca ekstrem yang membuat suhu permukaannya menjadi yang paling panas di antara seluruh planet tata surya, bahkan lebih panas dari Merkurius meski jaraknya dari matahari lebih jauh, mencapai sekitar 465 derajat Celsius. Tekanan atmosfer di permukaan Venus juga sangat besar, sekitar 90 kali tekanan atmosfer bumi, setara dengan tekanan yang dirasakan di kedalaman sekitar 900 meter di lautan bumi.\n\nBumi, planet ketiga dari matahari, adalah satu-satunya planet yang diketahui mendukung kehidupan, berkat kombinasi faktor yang tepat: jaraknya dari matahari berada dalam 'zona layak huni' yang memungkinkan air berada dalam bentuk cair, atmosfernya menyediakan oksigen untuk bernapas sekaligus melindungi dari radiasi berbahaya, dan medan magnetnya membantu menangkis sebagian besar partikel berbahaya dari matahari. Mars, planet keempat, sering disebut 'planet merah' karena warna kemerahan pada permukaannya akibat kandungan oksida besi (karat) yang melimpah. Mars punya atmosfer yang jauh lebih tipis dibanding bumi, menjadikan permukaannya sangat dingin dan kering, meski bukti geologis menunjukkan Mars kemungkinan pernah punya air cair mengalir di permukaannya pada masa lampau, menjadikannya target utama pencarian tanda-tanda kehidupan mikroba purba dalam berbagai misi eksplorasi antariksa modern.",
+    "tags": ["merkurius", "venus", "bumi", "mars", "planet-dalam", "planet-terrestrial"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-18"
+  },
+  {
+    "id": "sains.astronomi.planet-luar",
+    "judul": "Planet Luar: Jupiter, Saturnus, Uranus, dan Neptunus",
+    "kategori": "sains",
+    "subkategori": "astronomi",
+    "periode": {
+      "label": "Tata surya terbentuk sekitar 4,6 miliar tahun lalu"
+    },
+    "ringkasan": "Empat planet terjauh dari matahari, yaitu Jupiter, Saturnus, Uranus, dan Neptunus, dikelompokkan sebagai planet luar atau planet raksasa gas dan es, dengan ukuran jauh lebih besar dibanding planet dalam namun tidak punya permukaan padat yang bisa diinjak.",
+    "konten": "Empat planet yang posisinya paling jauh dari matahari, yaitu Jupiter, Saturnus, Uranus, dan Neptunus, dikelompokkan sebagai planet luar atau planet raksasa, dengan ukuran jauh lebih besar dibanding keempat planet dalam, namun tidak punya permukaan padat yang bisa diinjak seperti bumi atau Mars, melainkan sebagian besar tersusun dari gas dan cairan. Jupiter adalah planet terbesar di tata surya, dengan massa lebih besar dibanding gabungan seluruh planet lain digabungkan menjadi satu. Jupiter terkenal dengan corak garis-garis awan berwarna yang membentang di permukaannya serta Bintik Merah Besar, badai raksasa yang sudah berlangsung selama ratusan tahun dan ukurannya lebih besar dibanding diameter bumi. Jupiter juga punya banyak sekali bulan yang mengelilinginya, termasuk empat bulan terbesar yang ditemukan Galileo Galilei pada 1610, salah satunya bernama Europa yang diduga menyimpan lautan air cair di bawah permukaan esnya, menjadikannya salah satu target menarik dalam pencarian kehidupan di luar bumi.\n\nSaturnus, planet terbesar kedua, paling dikenal lewat sistem cincinnya yang sangat mencolok dan indah, tersusun dari miliaran partikel es dan batuan dengan ukuran bervariasi, dari sebutir debu kecil sampai bongkahan sebesar rumah, yang semuanya mengorbit planet ini dalam formasi cincin datar yang sangat tipis dibanding lebarnya. Meski Saturnus paling terkenal dengan cincinnya, sebenarnya ketiga planet raksasa gas lainnya juga punya sistem cincin, hanya saja jauh lebih tipis dan kurang mencolok sehingga tidak semudah itu diamati dari bumi.\n\nUranus dan Neptunus, dua planet terjauh, kadang dikelompokkan secara terpisah sebagai 'raksasa es' karena komposisinya sedikit berbeda dari Jupiter dan Saturnus, mengandung lebih banyak proporsi es air, amonia, dan metana, yang juga memberi warna kebiruan khas pada kedua planet ini akibat cara gas metana menyerap cahaya merah dan memantulkan cahaya biru. Uranus punya keunikan tersendiri karena porosnya miring secara ekstrem, hampir rebah menyamping dibanding planet lain yang umumnya berputar relatif tegak, membuat Uranus seolah 'bergulir' mengelilingi matahari alih-alih berputar seperti gasing tegak seperti planet lainnya, sebuah fenomena yang diduga disebabkan tabrakan besar dengan benda langit lain pada masa pembentukan awal tata surya. Neptunus, planet terjauh dari matahari, punya angin tercepat di seluruh tata surya, bisa mencapai kecepatan lebih dari 2.000 kilometer per jam, jauh melampaui kecepatan angin badai terkuat yang pernah tercatat di bumi.",
+    "tags": ["jupiter", "saturnus", "uranus", "neptunus", "planet-luar", "planet-raksasa"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-18"
+  }
+]

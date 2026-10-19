@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sains.astronomi.fase-bulan",
+    "judul": "Fase-Fase Bulan",
+    "kategori": "sains",
+    "subkategori": "astronomi",
+    "periode": {
+      "label": "Konsep dasar ilmu astronomi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Fase bulan adalah perubahan tampilan bagian bulan yang terlihat terang dari bumi, bukan karena bulan berubah bentuk, melainkan karena perubahan posisi relatif antara matahari, bumi, dan bulan yang terus berlangsung sepanjang siklus sekitar 29,5 hari.",
+    "konten": "Fase bulan adalah perubahan tampilan bagian bulan yang terlihat terang ketika diamati dari bumi, berlangsung dalam siklus berulang yang memakan waktu sekitar 29,5 hari, dikenal sebagai satu bulan sinodis. Penting dipahami bahwa fase bulan bukan terjadi karena bulan sendiri berubah bentuk, atau karena bayangan bumi menutupi bulan (ini adalah penyebab gerhana, fenomena berbeda yang terjadi jauh lebih jarang), melainkan karena perubahan posisi relatif antara matahari, bumi, dan bulan, yang menentukan seberapa besar bagian permukaan bulan yang menghadap bumi sedang disinari matahari pada waktu tertentu. Bulan sendiri sebenarnya selalu disinari matahari tepat separuh permukaannya pada saat bersamaan (sama seperti bumi selalu punya sisi siang dan sisi malam), namun seberapa besar bagian yang disinari ini bisa kita lihat dari bumi berubah-ubah tergantung posisi orbit bulan.\n\nSiklus fase bulan dimulai dari fase bulan baru, ketika bulan berada di antara bumi dan matahari, sehingga sisi bulan yang menghadap bumi adalah sisi yang gelap (tidak disinari matahari), membuat bulan praktis tidak terlihat dari bumi. Seiring bulan terus bergerak dalam orbitnya, bagian yang terlihat terang mulai bertambah secara bertahap, melewati fase bulan sabit, lalu bulan separuh (kuartal pertama), kemudian bulan cembung, hingga akhirnya mencapai fase bulan purnama, ketika bumi berada di antara matahari dan bulan, sehingga seluruh sisi bulan yang menghadap bumi disinari penuh oleh matahari, membuat bulan terlihat sebagai piringan bulat penuh dan terang di langit malam.\n\nSetelah mencapai bulan purnama, siklus berlanjut dengan arah terbalik, bagian terang mulai berkurang secara bertahap, melewati fase bulan cembung menyusut, bulan separuh (kuartal ketiga atau kuartal akhir), bulan sabit menyusut, hingga akhirnya kembali ke fase bulan baru, menandai dimulainya siklus baru. Siklus fase bulan yang teratur dan bisa diprediksi ini sudah dipakai manusia sejak ribuan tahun lalu sebagai dasar penanggalan, termasuk kalender yang masih dipakai sampai sekarang di berbagai budaya, seperti kalender Hijriah dalam Islam yang sepenuhnya didasarkan pada siklus fase bulan, menunjukkan betapa pentingnya fenomena astronomi sederhana ini bagi kehidupan dan budaya manusia sepanjang sejarah peradaban.",
+    "tags": ["fase-bulan", "bulan-purnama", "bulan-baru", "bulan-sabit", "kalender-hijriah"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-19"
+  },
+  {
+    "id": "sains.astronomi.gerhana-matahari-bulan",
+    "judul": "Gerhana Matahari dan Gerhana Bulan",
+    "kategori": "sains",
+    "subkategori": "astronomi",
+    "periode": {
+      "label": "Konsep dasar ilmu astronomi, tidak terikat periode waktu tertentu"
+    },
+    "ringkasan": "Gerhana terjadi ketika bumi, bulan, dan matahari berada dalam posisi hampir segaris sempurna, dengan gerhana matahari terjadi ketika bulan menutupi matahari dari pandangan bumi, sementara gerhana bulan terjadi ketika bumi menutupi matahari dari bulan.",
+    "konten": "Gerhana adalah fenomena astronomi yang terjadi ketika bumi, bulan, dan matahari berada dalam posisi hampir segaris sempurna, menyebabkan salah satu benda langit tersebut menghalangi cahaya menuju benda langit lainnya. Gerhana matahari terjadi ketika bulan berada tepat di antara matahari dan bumi, dengan bayangan bulan jatuh ke permukaan bumi, menghalangi sebagian atau seluruh cahaya matahari dari pandangan pengamat yang berada di wilayah yang terkena bayangan tersebut. Gerhana matahari hanya bisa terjadi pada fase bulan baru, karena hanya pada fase inilah bulan berada di posisi antara bumi dan matahari, namun gerhana tidak terjadi setiap bulan baru karena orbit bulan sedikit miring dibanding orbit bumi mengelilingi matahari, sehingga bayangan bulan biasanya meleset dan tidak jatuh tepat ke bumi kecuali pada momen-momen tertentu ketika kemiringan orbit ini sejajar dengan tepat.\n\nAda beberapa jenis gerhana matahari tergantung seberapa sempurna penutupan matahari oleh bulan. Gerhana matahari total terjadi ketika bulan menutupi seluruh piringan matahari sepenuhnya, hanya terlihat dari wilayah sempit di permukaan bumi yang dilewati bayangan inti bulan (disebut umbra), menciptakan kegelapan sementara di siang hari dan memungkinkan korona matahari, lapisan atmosfer terluar matahari, terlihat jelas untuk sementara waktu karena cahaya fotosfer yang sangat terang tertutup sepenuhnya. Gerhana matahari sebagian terjadi ketika bulan hanya menutupi sebagian piringan matahari, terlihat dari wilayah yang lebih luas di sekitar jalur gerhana total. Gerhana matahari cincin terjadi ketika bulan berada pada titik terjauh dalam orbitnya mengelilingi bumi (sehingga tampak sedikit lebih kecil dari biasanya), menyebabkan bulan tidak cukup besar untuk menutupi seluruh piringan matahari, menyisakan cincin tipis cahaya matahari yang masih terlihat mengelilingi bulan.\n\nGerhana bulan bekerja dengan prinsip sebaliknya, terjadi ketika bumi berada tepat di antara matahari dan bulan, dengan bayangan bumi jatuh menutupi bulan, hanya bisa terjadi pada fase bulan purnama. Berbeda dari gerhana matahari yang hanya bisa diamati dari wilayah sempit tertentu di bumi, gerhana bulan bisa diamati dari seluruh wilayah bumi yang pada saat itu mengalami malam hari dan bulan berada di atas cakrawala, menjadikannya fenomena yang jauh lebih sering bisa disaksikan banyak orang sekaligus dibanding gerhana matahari. Selama gerhana bulan total, bulan sering tampak berubah warna menjadi kemerahan, fenomena yang disebut 'bulan darah', disebabkan cahaya matahari yang masih bisa mencapai bulan setelah dibelokkan dan disaring oleh atmosfer bumi, yang secara alami menyaring lebih banyak cahaya biru dan meneruskan lebih banyak cahaya merah, mirip prinsip yang membuat langit senja berwarna kemerahan.",
+    "tags": ["gerhana-matahari", "gerhana-bulan", "umbra", "bulan-darah", "korona-matahari"],
+    "sumber": [],
+    "tingkat_pembaca": "umum",
+    "terakhir_diupdate": "2026-10-19"
+  }
+]
